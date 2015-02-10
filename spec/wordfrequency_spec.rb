@@ -12,8 +12,15 @@ describe 'WordFrequency' do
     expect(freq.make_array("I am a bunch of words in a really long string")).not_to include('I', 'am', 'a', 'of', 'in')
   end
 
-  it 'should contain only unique words' do
-    expect(freq.make_array("I am a bunch of words in a really really long string")).to eq(['bunch', 'words', 'really', 'long', 'string'])
+  # it 'should contain only unique words' do
+  #   expect(freq.make_array("I am a bunch of words in a really really long string")).to eq(['bunch', 'words', 'really', 'long', 'string'])
+  # end
+
+  it 'should count the frequency of words contained' do
+    expect(freq.count_freq(['bunch', 'bunch', 'words', 'bunch', 'really', 'really', 'long', 'string'])).to eq({"bunch"=> 3, "words"=> 1, "really"=> 2, "long"=> 1, "string" => 1})
   end
+
+
+
 
 end
