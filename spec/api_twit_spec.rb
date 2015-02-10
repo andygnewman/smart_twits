@@ -23,4 +23,8 @@ describe 'API' do
     expect(twitter.get_trends.location.id).to eq(44418)
   end  
 
+  it "should load trends for london" do
+    expect(twitter.getlocation).not_to eq(nil)
+  end  
+
 end

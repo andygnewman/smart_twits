@@ -36,9 +36,8 @@ class APITwitter
     @response
   end
 
-  # def getlocation
-  #    html = open('https://twitter.com/1.1/trends/place.json?id=44418').read
-  #    puts html
-  # end
+  def getlocation
+     html = open('https://twitter.com/trends?id=44418').read
+  end
   
 end
