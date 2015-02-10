@@ -12,4 +12,8 @@ describe 'WordFrequency' do
     expect(freq.make_array("I am a bunch of words in a really long string")).not_to include('I', 'am', 'a', 'of', 'in')
   end
 
+  it 'should contain only unique words' do
+    expect(freq.make_array("I am a bunch of words in a really really long string")).to eq(['bunch', 'words', 'really', 'long', 'string'])
+  end
+
 end
