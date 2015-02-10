@@ -16,6 +16,10 @@ REJECT_WORDS = ['I','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you',
     word_freq
   end
 
+  def filter_top_words(number, hash)
+    hash.sort_by {|k, v| v}.reverse[0..(number-1)]
+  end
+
 
 
 end
