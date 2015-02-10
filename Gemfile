@@ -10,4 +10,7 @@ group :development, :test do
   gem 'rspec'
   gem 'shotgun'
   gem 'byebug'
+  gem 'twitter'
+  gem 'rest-client'
+  gem 'json'
 end
