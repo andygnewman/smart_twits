@@ -2,6 +2,10 @@ class WordFrequency
 
 REJECT_WORDS = ['I','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we']
 
+  def read_file(file_path)
+    File.open(file_path, 'r'){ |f| f.read.gsub(/[^a-zA-Z0-9\s]/, "")}
+  end
+
   def make_array(text)
     text.split(" ").reject {|w| REJECT_WORDS.include?(w) }
   end
@@ -12,8 +16,6 @@ REJECT_WORDS = ['I','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you',
     word_freq
   end
 
-  def read_file(file_path)
-    text = File.open(file_path, 'r'){|f| f.readline.gsub(/[^a-z ]/i,"")}
-  end
+
 
 end

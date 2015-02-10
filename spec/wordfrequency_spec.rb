@@ -4,6 +4,10 @@ describe 'WordFrequency' do
 
   let(:freq){WordFrequency.new}
 
+  it 'should read a file and return an string' do
+    expect(freq.read_file('data.txt')).to be_an_instance_of(String)
+  end
+
   it 'can parse text and form an array of words' do
     expect(freq.make_array("I am a bunch of words in a really long string")).to be_an_instance_of(Array)
   end
@@ -16,9 +20,7 @@ describe 'WordFrequency' do
     expect(freq.count_freq(['bunch', 'bunch', 'words', 'bunch', 'really', 'really', 'long', 'string'])).to eq({"bunch"=> 3, "words"=> 1, "really"=> 2, "long"=> 1, "string" => 1})
   end
 
-  it 'should read a file and return an string' do
-    expect(freq.read_file('data.txt')).to be_an_instance_of(String)
-  end
+  it ''
 
 
 
