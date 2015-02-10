@@ -39,4 +39,8 @@ describe 'WordFrequency' do
     expect(array).not_to include('httpbitlyFLAPPYAPP')    
   end
 
+  it 'should read a file and return a specified number of top results' do
+    expect(freq.find_top_words(5, 'data.txt')).to eq([["Cameron", 10], ["business", 8], ["pay", 7], ["trade", 6], ["EU", 6]])
+  end
+
 end
