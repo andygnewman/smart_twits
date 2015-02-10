@@ -25,6 +25,15 @@ describe 'API' do
 
   it "should load trends for london" do
     expect(twitter.getlocation).not_to eq(nil)
-  end  
+  end 
+
+  it "trends should be empty by default" do
+    expect(twitter.trends).to be_empty
+  end
+
+  it "should be able to have trends" do
+    twitter.get_trends
+    expect(twitter.trends.size).to eq(10)
+  end
 
 end

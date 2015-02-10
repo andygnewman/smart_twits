@@ -9,12 +9,12 @@ PATH = './credentials.md'
 
 class APITwitter
 
-  attr_reader :client
+  attr_reader :client, :trends
 
   def initialize
     hash_with_passes = load_passes
     @client = init_twit(hash_with_passes)
-    puts @client
+    @trends = []
   end
 
   def load_passes(path = PATH)
@@ -33,6 +33,7 @@ class APITwitter
 
   def get_trends(id_g = 44418)
     @response = @client.trends(id=id_g)
+    @response.attrs[:trends].each { |el| @trends << el[:name]}
     @response
   end
 
