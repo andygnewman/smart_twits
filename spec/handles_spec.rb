@@ -17,8 +17,8 @@ describe 'Handles' do
     expect(handles.count_freq(["@emilysas", "@emilysas", "@somebodyelse"])).to eq({"@emilysas"=> 2, "@somebodyelse"=>1})
   end
 
-  xit 'can find the top n number of twitter handle frequencies' do
-
+  it 'can find the top n number of twitter handle frequencies' do
+    expect(handles.find_top_results(5, 'data.txt')).to eq([["@David_Cameron", 11], ["@britishchambers", 8], ["@edballsmp", 2], ["@coe", 2], ["@cambschamber", 2]])
   end
 
 end
