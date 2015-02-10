@@ -8,8 +8,9 @@ describe 'Handles' do
     expect(handles.read_file('data.txt')).to be_an_instance_of(Array)
   end
 
-  xit 'can create an array of twitter handles' do
-
+  it 'can create an array of twitter handles' do
+    expect(handles.read_file('data.txt')).to include('@britishchambers')
+    puts handles.read_file('data.txt')
   end
 
   xit 'can find the frequency with which the twitter handles occur' do
