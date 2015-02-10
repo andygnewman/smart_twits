@@ -1,11 +1,22 @@
 require 'api_twit'
+require 'byebug'
+
 
 describe 'API' do
 
-  let(:twitter) { Twitter.new }
+  let(:twitter) { APITwitter.new }
   
   it 'should load passwords' do
-    expect(twitter.load_passes('./credentials.md').size).to eq(4)
+    hash= twitter.load_passes('./credentials.md')
+    expect(hash.size).to eq(4)
+  end
+
+  it 'should initialize the twitter api' do 
+    expect(twitter.client.consumer_key).not_to eq(nil)
+  end
+
+  it "should be able to read a trend" do 
+    expect(twitter.get_trends).not_to eq(nil)
   end
 
 end
