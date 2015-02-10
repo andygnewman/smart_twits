@@ -13,8 +13,8 @@ describe 'Handles' do
     puts handles.read_file('data.txt')
   end
 
-  xit 'can find the frequency with which the twitter handles occur' do
-
+  it 'can find the frequency with which the twitter handles occur' do
+    expect(handles.count_freq(["@emilysas", "@emilysas", "@somebodyelse"])).to eq({"@emilysas"=> 2, "@somebodyelse"=>1})
   end
 
   xit 'can find the top n number of twitter handle frequencies' do
