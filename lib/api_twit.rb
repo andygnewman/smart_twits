@@ -3,6 +3,7 @@ require 'twitter'
 require 'byebug'
 require 'rest-client'
 require 'json'
+require 'open-uri'
 
 PATH = './credentials.md'
 
@@ -30,9 +31,14 @@ class APITwitter
     end
   end
 
-  def get_trends
-    @response = @client.trends()
+  def get_trends(id_g = 44418)
+    @response = @client.trends(id=id_g)
     @response
   end
+
+  # def getlocation
+  #    html = open('https://twitter.com/1.1/trends/place.json?id=44418').read
+  #    puts html
+  # end
   
 end
