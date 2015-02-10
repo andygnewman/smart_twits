@@ -42,7 +42,7 @@ class APITwitter
     twitts = @client.search(hash_tag=hash_tag_g)
     result=[]
     twitts.attrs[:statuses].each do |twit|
-      result << [twit[:text],twit[:retweet_count]]
+      result << [twit[:text],twit[:retweet_count],twit[:followers_count]]
     end  
     # byebug
     return result
