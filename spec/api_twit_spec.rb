@@ -36,4 +36,10 @@ describe 'API' do
     expect(twitter.trends.size).to eq(10)
   end
 
+  it 'should be able to search on hash tags' do 
+    expect(twitter.get_twits('#banana')).not_to eq(nil)   
+  end  
+
+  
+
 end

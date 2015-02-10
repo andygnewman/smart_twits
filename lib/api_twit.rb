@@ -6,6 +6,7 @@ require 'json'
 require 'open-uri'
 
 PATH = './credentials.md'
+LONDON = 44418
 
 class APITwitter
 
@@ -31,10 +32,20 @@ class APITwitter
     end
   end
 
-  def get_trends(id_g = 44418)
+  def get_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
     @response.attrs[:trends].each { |el| @trends << el[:name]}
     @response
+  end
+
+  def get_twits(hash_tag_g)
+    twitts = @client.search(hash_tag=hash_tag_g)
+    result=[]
+    twitts.attrs[:statuses].each do |twit|
+      result << [twit[:text],twit[:retweet_count]]
+    end  
+    # byebug
+    return result
   end
 
   def getlocation
