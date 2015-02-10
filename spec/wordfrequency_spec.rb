@@ -29,11 +29,14 @@ describe 'WordFrequency' do
   it 'should not return any twitter handles' do
     text = freq.read_file('data.txt')
     array = freq.make_array(text)
-    expect(array).not_to include(['DavidCameron', 11])
+    expect(array).not_to include('DavidCameron')
     puts array
   end
 
-
-
+  it 'should not return any urls starting with http' do
+    text = freq.read_file('data.txt')
+    array = freq.make_array(text)
+    expect(array).not_to include('httpbitlyFLAPPYAPP')    
+  end
 
 end
