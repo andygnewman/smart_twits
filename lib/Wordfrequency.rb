@@ -12,5 +12,8 @@ REJECT_WORDS = ['I','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you',
     word_freq
   end
 
+  def read_file(file_path)
+    text = File.open(file_path, 'r'){|f| f.readline.gsub(/[^a-z ]/i,"")}
+  end
 
 end
