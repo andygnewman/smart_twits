@@ -7,6 +7,8 @@ require 'open-uri'
 
 PATH = './credentials.md'
 LONDON = 44418
+PATH_TRENDS = './data/trends/'
+PATH_TWEETS = './data/tweets/'
 
 class APITwitter
 
@@ -32,27 +34,34 @@ class APITwitter
     end
   end
 
+  def save_data(filename,item)
+    file = File.open(filename, 'w')
+    file.puts item
+    file.close()  
+  end
+
   def get_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
     @response.attrs[:trends].each { |el| @trends << {:name => el[:name],:query => el[:query]}}
-    @response
-    filename = 'toptrends.txt'
-    file = File.open(filename, 'w')
-    file.puts @trends
-    file.close()
+    save_data(PATH_TRENDS+'toptrends.txt',@trends) #maybe @trends does not need to be
+    @response                          #instance ver. 
   end
 
-  def get_twits(hash_tag_g,query_number = 100)
-    twitts = @client.search(hash_tag_g).take(query_number)
+  def save_tweets_per_trend(query_number = 100,trends = @trends)
+    trends.each do |trend| 
+      tweets = get_tweets(trend[:query],query_number)
+      save_data(PATH_TWEETS+trend[:name]+'_tweets.txt',tweets)
+    end
+  end
+
+  def get_tweets(hash_tag_g,query_number = 10)
+    tweets = @client.search(hash_tag_g).take(query_number)
     result=[]
-    twitts.each do |el|
+    tweets.each do |el|
       result << {:text => el.text, :followers => el.user.followers_count,
                  :user_id => el.user.id, :retweet => el.retweet_count}
     end
-    filename = hash_tag_g+'_tweets.dat'
-    file = File.open(filename, 'w')
-    file.puts result
-    file.close()
+    # save_data(hash_tag_g+'_tweets.dat',result)
     return result
   end
 
@@ -60,7 +69,7 @@ class APITwitter
      html = open('https://twitter.com/trends?id=44418').read
   end
 
-  def merge_twitt(array_of_hash)
+  def merge_tweets(array_of_hash)
     array_of_hash.reduce('') {|sum, el| sum += el[:text]}
   end
 

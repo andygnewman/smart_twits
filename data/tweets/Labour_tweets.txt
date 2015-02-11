@@ -1,0 +1,100 @@
+{:text=>"RT @karren_brady: How could Labour think this was a good idea?? couldn't be more patronising. http://t.co/FRlkdnfywp", :followers=>2252, :user_id=>116864791, :retweet=>124}
+{:text=>"RT @HelenYates52: In the thick of it: Labour politicians mocked for Fife health centre blunder http://t.co/nOBHnKag07", :followers=>1241, :user_id=>2301517777, :retweet=>2}
+{:text=>"RT @AllisonFerns1: On air @BBCSussex @BBCSurrey Best text from Mike. If #Labour want to attract the female vote they should paint that bus …", :followers=>222, :user_id=>122673475, :retweet=>1}
+{:text=>"RT @State_Control: Labour. Out of touch and out of heir minds. #pinkbus http://t.co/c7fY2eXsSu", :followers=>371, :user_id=>2354890752, :retweet=>1}
+{:text=>"RT @karren_brady: How could Labour think this was a good idea?? couldn't be more patronising. http://t.co/FRlkdnfywp", :followers=>34, :user_id=>2955478223, :retweet=>124}
+{:text=>"Scottish Labour MP: SNP has failed to use tools available at Westminster to deliver more devolution for ... - http://t.co/r9eaQe2EQy", :followers=>760, :user_id=>198586019, :retweet=>0}
+{:text=>"RT @LabourEoin: Wow! Guy who attacked Ed Miliband as \"Anti-Business\" is same Dude featured in the Panorama Tax Dodging show just now http:/…", :followers=>1232, :user_id=>391510019, :retweet=>261}
+{:text=>"RT @UKLabour: Swiss bank accounts, tax avoidance &amp; Tory donors. What we know so far → http://t.co/v2OiBXn3ld", :followers=>99, :user_id=>2704774585, :retweet=>16}
+{:text=>"RT @LabourEoin: In 2 hours, Labour MPs will force Parliament to vote on new anti-Tax Dodging Powers. Any Tory MP who votes against will be …", :followers=>1339, :user_id=>42910254, :retweet=>50}
+{:text=>"BNP are to the left of labour. tbh that doesn't surprise me. BNP do pursue a (twisted) socialist agenda. whereas labour are Murdoch puppets.", :followers=>405, :user_id=>78339732, :retweet=>0}
+{:text=>"RT @BBCPolitics: Video: Harriet Harman arrives in Stevenage in Labour's [now famous] pink campaign bus\nhttps://t.co/rjroKr5IUU", :followers=>2184, :user_id=>489374719, :retweet=>4}
+{:text=>"SNP Attack Austerity. So Labour Attacks The SNP. http://t.co/6nFowxUYAy via @HuffPostUKPol", :followers=>896, :user_id=>852919230, :retweet=>0}
+{:text=>"RT @racheljoyce: And this one #Labour #PinkVan #sexism #politicsofdivision http://t.co/CyMCv4gukX", :followers=>64, :user_id=>256304196, :retweet=>1}
+{:text=>"RT @BobMcBoint: Women have been hit hardest by austerity, but it's the Greens talking about it, not Labour #pinkbus  https://t.co/3CvTakLvi8", :followers=>214, :user_id=>743672940, :retweet=>1}
+{:text=>"Scottish Labour abandoned social democracy to the #SNP – and now it's paying the price", :followers=>750, :user_id=>2318119938, :retweet=>0}
+{:text=>"@rachelreevesmp you should be ashamed to call yourself a Labour politician...http://t.co/dLnOp3qmv1 #waronthepoor #stopbenefitsanctions", :followers=>174, :user_id=>66115516, :retweet=>0}
+{:text=>"RT @NewsnetScotland: The NHS or the BBC Scotland newsroom: who is ACTUALLY in crisis? Gulping down the Labour kool-aid: http://t.co/pmR72JX…", :followers=>23, :user_id=>2957122655, :retweet=>26}
+{:text=>"Michel 569/72 MNH / Neuf / Postfrisch Guyana  - Famous People  - Labour Organisa http://t.co/iDeaagGmAT http://t.co/Dy0Et1gxyl", :followers=>28, :user_id=>2957356055, :retweet=>0}
+{:text=>"@BBCDouglasF @BBCScotlandNews @NicolaSturgeon wot about last 2 parliaments?  They've been in power for 8yrs,  cant blame Labour for ever.", :followers=>166, :user_id=>170706401, :retweet=>0}
+{:text=>"The fucking delusion of Labour is beyond belief...just invent their own facts now...great start to their campaign...lies...", :followers=>1466, :user_id=>18686068, :retweet=>0}
+{:text=>"RT @GuidoFawkes: The Labour #PinkBus at Asda in Stevenage, parked on zebra crossing https://t.co/RHMhI0dadl", :followers=>1699, :user_id=>2292748574, :retweet=>67}
+{:text=>"@Vaughan_Wms @Ant1988 @Plaid_Cymru And Labour are meant to be 'left wing'! In 2020, they'll be more right wing than the Tories! #RedTories", :followers=>131, :user_id=>2218334325, :retweet=>0}
+{:text=>"RT @karren_brady: How could Labour think this was a good idea?? couldn't be more patronising. http://t.co/FRlkdnfywp", :followers=>521, :user_id=>1237034773, :retweet=>124}
+{:text=>"RT @MikeAR_: Never mind the #Labour #PinkBus! In #UKIP we like them topless: http://t.co/kVTKSNe5e2", :followers=>376, :user_id=>1854836239, :retweet=>10}
+{:text=>"VIDEO: Harman defends Labour pink bus tour: Labour's Harriet Harman kicks off a Labour campaign to attra... http://t.co/szJQnz5cYj #News", :followers=>765, :user_id=>140076315, :retweet=>0}
+{:text=>"RT @AngrySalmond: Labour's 2015 general election campaign strategy. http://t.co/ElRX0i57m8", :followers=>1341, :user_id=>2752442177, :retweet=>35}
+{:text=>"SMP &amp; Labour in an alliance to form a govt after next election ? We'd be better off with the  chuckle brothers in alliance with ken Dodd.", :followers=>280, :user_id=>238721781, :retweet=>0}
+{:text=>"RT @Fight4UK: Is the #LABOUR #pinkbus really supposed to appeal to women or does it have another purpose?  🙈 \n\n#UKIP \n#GE2015 http://t.co/i…", :followers=>1234, :user_id=>2325720099, :retweet=>5}
+{:text=>"How do you intend to vote in May's general election? I voted Labour in the @DailyMirror poll! Have your say: http://t.co/aWBiZYUZRZ", :followers=>3389, :user_id=>578429126, :retweet=>0}
+{:text=>"RT @HelenYates52: In the thick of it: Labour politicians mocked for Fife health centre blunder http://t.co/nOBHnKag07", :followers=>2426, :user_id=>411047090, :retweet=>2}
+{:text=>"RT @Independent: 'Are you thinking of getting a blue van?' Angry man heckles Harriet Harman over #pinkbus http://t.co/ZNddEzkiEx http://t.c…", :followers=>2466, :user_id=>150997637, :retweet=>22}
+{:text=>"RT @VoteLabour2: #Labour's #pinkbus will get many more women joining Labour party. http://t.co/keniZNSJlv", :followers=>271, :user_id=>251709902, :retweet=>1}
+{:text=>"Christina Scharff Kings College presenting her research on precarious labour of female classical musicians @bcmcr_bcu http://t.co/gvlTZk5DXU", :followers=>1773, :user_id=>14412627, :retweet=>0}
+{:text=>"That's some fine doublethink those Labour folks got going on.", :followers=>778, :user_id=>69365812, :retweet=>0}
+{:text=>"RT @karren_brady: How could Labour think this was a good idea?? couldn't be more patronising. http://t.co/FRlkdnfywp", :followers=>30085, :user_id=>56679400, :retweet=>124}
+{:text=>"RT @60Sparkle: We should stop the dole after two years, says Labour's Rachel Reeves http://t.co/nBeSTcJiuK via @MailOnline Labour want to l…", :followers=>2729, :user_id=>1657643868, :retweet=>2}
+{:text=>"RT @Independent: 'Are you thinking of getting a blue van?' Angry man heckles Harriet Harman over #pinkbus http://t.co/ZNddEzkiEx http://t.c…", :followers=>1916, :user_id=>27660643, :retweet=>22}
+{:text=>"@GioSpinella @CamdenTories so I am right? Labour council stands up for your residents, Tory government over turns their decision yeah?", :followers=>677, :user_id=>19451656, :retweet=>0}
+{:text=>"RT @UKIPDB: Labour left a deficit of £156 billion, a PFI liability of £301 billion, EU Rebate loss £9.3 billion, Sold The Gold http://t.co/…", :followers=>127, :user_id=>2956299279, :retweet=>91}
+{:text=>"@AodhBC @alankellylabour Labour never like the truth.But going way too far bitching about a great man who stands by his principles", :followers=>1945, :user_id=>626682905, :retweet=>0}
+{:text=>"RT @YsabelleStewart: Just a reminder of that 2015 GE Political Compass Map. Labour folk take note, your party is right wing: http://t.co/At…", :followers=>1837, :user_id=>2579166008, :retweet=>9}
+{:text=>"No More Austerity, SNP leader Nicola Sturgeon names her price for putting Labour in power http://t.co/JGW7CViGjL", :followers=>3389, :user_id=>578429126, :retweet=>0}
+{:text=>"RT @edballsmp: Labour’s first Finance Bill will tackle tax avoidance where this government has failed - me &amp; @ShabanaMahmood http://t.co/VN…", :followers=>251, :user_id=>96747227, :retweet=>76}
+{:text=>"RT @Khyberman: Dear Ms Harman and @labour, THIS is how a real woman does it... notice, not a trace of pink. Or yellow. http://t.co/VWLcb9IV…", :followers=>1779, :user_id=>174202438, :retweet=>11}
+{:text=>"Ed Miliband's battle bus in Labour Pink. http://t.co/WDZvVaGPGb", :followers=>1038, :user_id=>314026875, :retweet=>0}
+{:text=>"@LFBFireFairy @UKLabour @LBC I suppose we don't count for the North London, rich Labour elite?", :followers=>1467, :user_id=>185602445, :retweet=>0}
+{:text=>"Locum doctor: why shouldn’t I sell my labour to the highest bidder? http://t.co/buadYP0dtk &gt;maybe because we paid to train you?", :followers=>130, :user_id=>114002594, :retweet=>0}
+{:text=>"I had given up on Labour, but  now they're hawking a #pinkbus round shopping centres I am back in the fold.", :followers=>354, :user_id=>122387983, :retweet=>0}
+{:text=>"RT @labourpress: Labour's @ChrisLeslieMP asked in 2012 what Lord Green knew about allegations of HSBC tax avoidance: http://t.co/MzXTeP254h", :followers=>1141, :user_id=>14748801, :retweet=>36}
+{:text=>"RT @jennycolgan: Could someone at least tell me that Labour's frawful pink bus is DRIVEN by a woman?", :followers=>126, :user_id=>136708868, :retweet=>5}
+{:text=>"RT @margielondon: Harriet Harman just retweeted @TheConWom -  'Labour despise the married family and married men, as I have explained befor…", :followers=>511, :user_id=>1084264573, :retweet=>7}
+{:text=>"RT @guardian: Labour keeps up pressure over lack of HSBC prosecutions http://t.co/V4VHjlGNQh", :followers=>11, :user_id=>2969570217, :retweet=>30}
+{:text=>"Nicola Sturgeon is absolutely right about Labour, which must break 'cosy consensus' on austerity to win over #SNP", :followers=>750, :user_id=>2318119938, :retweet=>0}
+{:text=>"RT @mjc1883: @TonyJohnson36 @DavidJo52951945 @AllianceGB Labour are finished its if they get together with all these small party's  Then it…", :followers=>4119, :user_id=>379732614, :retweet=>1}
+{:text=>"@ScottishPleb @theSNP hospitals, schools, infrastructure... Terrible labour. #SNPout", :followers=>162, :user_id=>2971387929, :retweet=>0}
+{:text=>"RT @AndiR1976: In my quiet moments I like to imagine what Malcolm Tucker would make of Labour campaign tactics #pinkbus #omnishambles", :followers=>2765, :user_id=>17270575, :retweet=>1}
+{:text=>"@DaveWard59 you'll struggle to convince members in Scotland to vote Labour, a shambles of a party #redTories", :followers=>146, :user_id=>48454161, :retweet=>0}
+{:text=>"RT @Independent: 'Are you thinking of getting a blue van?' Angry man heckles Harriet Harman over #pinkbus http://t.co/ZNddEzkiEx http://t.c…", :followers=>336, :user_id=>2283705297, :retweet=>22}
+{:text=>"@nnightgroupie @afneil his only answer on tax avoidance is labour are just as bad! No wonder voting nos are so low-2 sides of the same coin", :followers=>2, :user_id=>3012344621, :retweet=>0}
+{:text=>"RT @Independent: 'Are you thinking of getting a blue van?' Angry man heckles Harriet Harman over #pinkbus http://t.co/ZNddEzkiEx http://t.c…", :followers=>3841, :user_id=>20850095, :retweet=>22}
+{:text=>"RT @exlabourite: @UKLabour - #Labour Party - for the hard working class blokes of the UK.. ? Where's the blue van Harriet - LOL 😂 http://t.…", :followers=>396, :user_id=>17836555, :retweet=>1}
+{:text=>"Can someone explain why #Labours #PinkBus is patronising? I'm no fan of Labour but I don't get it? Why is the colour so important?", :followers=>282, :user_id=>85541957, :retweet=>0}
+{:text=>"OMG! Labour just took embarrassing to a whole new level! #pinkbus", :followers=>259, :user_id=>333587425, :retweet=>0}
+{:text=>"RT @liarpoliticians: Labour's pink bus launched today parked ontop of a pedestrian crossing. http://t.co/fzt0aNuTb4", :followers=>1133, :user_id=>471279412, :retweet=>2}
+{:text=>"RT @richardhowitt: Labour's @Cllr_M_Jeffery slams #Newmarket patient told to go 70 miles by taxi to #Clacton for out of hours NHS doctor ht…", :followers=>163, :user_id=>2816638404, :retweet=>1}
+{:text=>"RT :  Banky W, Lynxxx &amp; A Woman In Labour | Eye-Candy\nPhotos From Banky W’s “Unborn Baby” Video Shoot In New Y  http://t.co/9wDonpbFL7", :followers=>9272, :user_id=>2431353473, :retweet=>0}
+{:text=>"RT @DerbyshireUKIP: Rev &amp; Customs had info on HSBC in 2008.  Brown &amp; Darling @UKLabour did nothing. You cant trust tories &amp; labour", :followers=>1244, :user_id=>2838333676, :retweet=>2}
+{:text=>"RT @AKMacG: @xlittlefragglex @prcfry: Labour government made it legal for water companies to turn off people's water.Thanks! @scottishlabou…", :followers=>848, :user_id=>21992920, :retweet=>4}
+{:text=>"Ipswich Tory MPs remained silent on closure of Children's Centres (or denied they were closing) it was Labour who campaigned  to save them", :followers=>1926, :user_id=>20781568, :retweet=>0}
+{:text=>"RT @UKLabour: The HSBC tax avoidance scandal: as evidence of wrongdoing piled up, David Cameron turned a blind eye → http://t.co/v2OiBXn3ld", :followers=>6, :user_id=>41320795, :retweet=>33}
+{:text=>"RT @edballsmp: Labour’s first Finance Bill will tackle tax avoidance where this government has failed - me &amp; @ShabanaMahmood http://t.co/VN…", :followers=>6847, :user_id=>48987668, :retweet=>76}
+{:text=>"A man so passionate about the Morley and Outwood area, that he left his hometown Nottingham to sit on such a marginal Labour seat.", :followers=>82, :user_id=>2275096473, :retweet=>0}
+{:text=>"U wonder at the caliber of Spad in @UKLabour . Their media profile a bloody van crash. A gaggle of spoddy 20nothings educated under Labour?", :followers=>288, :user_id=>3014179773, :retweet=>0}
+{:text=>"BREAKING NEWS: Labour will be giving out Harriet Harman lipgloss &amp; Tessa Jowell friendship bracelets on the #pinkbus #onwednesdayswewearpink", :followers=>1863, :user_id=>145977537, :retweet=>0}
+{:text=>"Labour's pink bus launched today parked ontop of a pedestrian crossing. http://t.co/fzt0aNuTb4", :followers=>10433, :user_id=>270416438, :retweet=>2}
+{:text=>"RT @MsJackMonroe: I'd rather see the Labour pink van than the Tories 'Go Home' one... or did they think we'd forgotten this?: http://t.co/6…", :followers=>1097, :user_id=>100789269, :retweet=>194}
+{:text=>"On what planet have Labour ever held the area covered by North Perthshire?? When I was a member keeping deposit was the main goal...", :followers=>1466, :user_id=>18686068, :retweet=>0}
+{:text=>"SNP push pro-indy Plaid Cymru and Greens with a longterm plan to force desperate London Labour MP's to jump to them in four years time?", :followers=>870, :user_id=>2879520461, :retweet=>0}
+{:text=>"RT @JRA_Mills: Labour encroaching on Rizzo's territory....\n\n#ThinkPink #PatronisingPinkBus #RedToriesOut #GE2015 http://t.co/msgcetl0BJ", :followers=>530, :user_id=>905654154, :retweet=>11}
+{:text=>"RT @ErnNutt: @glenpk2 The bus as got what it set out to do MEDIA coverage ppl wiil notice it well done  labour", :followers=>1104, :user_id=>1729674996, :retweet=>1}
+{:text=>"@CarolineFlintMP @HarrietHarman  Caroline! We need more moderate voices on the Labour front bench. Come one! And I say that as a Tory.", :followers=>46, :user_id=>332286841, :retweet=>0}
+{:text=>"RT @cmackinlay: #Labour led administration on #TDC claim financial caution @SaveManston   reality is anti-airport stance &amp; preference for...", :followers=>63, :user_id=>2842995521, :retweet=>7}
+{:text=>"RT @SEWalesJCP: Work Coach - Must have local labour market knowledge #Cardiff £18,000 year, permanent position, details: http://t.co/HOgtix…", :followers=>1293, :user_id=>1277461556, :retweet=>1}
+{:text=>"RT @RebeccaMaule: I'm so glad labour has a #pinkbus because, you know, I don't understand politics when it's not gender coded.", :followers=>188, :user_id=>124473615, :retweet=>5}
+{:text=>"RT @missmelissa93: I don't care about the colour, I find it more patronising that Labour feel the need to 'encourage' women in particular t…", :followers=>377, :user_id=>552005849, :retweet=>1}
+{:text=>"@Antondwl @IOL looking for scab labour?\nGood luck Diqbal!", :followers=>163, :user_id=>24674181, :retweet=>0}
+{:text=>"RT @DaveWard59: BLIND LOYALTY TO LABOUR IS NOT A SUSTAINABLE POLITICAL STRATEGY #Dave4GS #ImBackingDave #CWU http://t.co/Ayjyv7RmIL", :followers=>260, :user_id=>2917931789, :retweet=>1}
+{:text=>"P http://t.co/TmeHzS0f03", :followers=>129, :user_id=>1479883196, :retweet=>0}
+{:text=>"LabourList - Anti-business? The reality is that, locally, Labour councils are making business work http://t.co/CnZzIXxfJ9", :followers=>2212, :user_id=>229137133, :retweet=>0}
+{:text=>"RT @Petegansbuehler: @ChriswMP @HouseofTwits labour avoids tax left, right and centre! On property deals and takes cash for honours, you ha…", :followers=>1122, :user_id=>131257940, :retweet=>1}
+{:text=>"Miliband was 'personally horrid to me', Cameron complains http://t.co/pSF1yK3bHw via @MailOnline well that's labour for you.", :followers=>2518, :user_id=>1080207836, :retweet=>0}
+{:text=>"RT @gemini2359: #pmqs Hmm.... Labour pink van or the Tories 'Go Home' one.  http://t.co/LlpS8ukx8l", :followers=>2777, :user_id=>18863186, :retweet=>20}
+{:text=>"RT @GuidoFawkes: In 2010 Labour received over £10 million from untaxed non-doms, an average of over £16,403 per constituency #PMQs. http://…", :followers=>828, :user_id=>906933410, :retweet=>60}
+{:text=>"Labour are yet again doing a fine job of messing up their own campaign #pinkbus", :followers=>90, :user_id=>890860290, :retweet=>0}
+{:text=>"RT @BBCPolitics: Video: Harriet Harman arrives in Stevenage in Labour's [now famous] pink campaign bus\nhttps://t.co/rjroKr5IUU", :followers=>1552, :user_id=>2227077475, :retweet=>4}
+{:text=>"RT @BBCPolitics: Video: Harriet Harman arrives in Stevenage in Labour's [now famous] pink campaign bus\nhttps://t.co/rjroKr5IUU", :followers=>496, :user_id=>243116979, :retweet=>4}
+{:text=>"@ScoBigVoice @theSNP didn't blame Labour spending for recession, it was what they spent it on", :followers=>4204, :user_id=>1228300466, :retweet=>0}
+{:text=>"At #ILO, this year, #Burundi govt to provide a copy of the text issued under Labour Code on modalities to exercise right to strike", :followers=>51420, :user_id=>611532667, :retweet=>0}
+{:text=>"Women have been hit hardest by austerity, but it's the Greens talking about it, not Labour #pinkbus  https://t.co/3CvTakLvi8", :followers=>350, :user_id=>2426765503, :retweet=>1}
+{:text=>"Cameron on Defensive Over HSBC as Labour Digs In on Tax - Bloomberg http://t.co/pPr0UGflRU #world", :followers=>2349, :user_id=>272467910, :retweet=>0}
