@@ -1,0 +1,5 @@
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>371389, :user_id=>1581160345, :retweet=>8}
+{:text=>"SO HOPING YOU COME NEAR ME #HoleInMyHeartTour @LukeFriendMusic", :followers=>36162, :user_id=>782834724, :retweet=>0}
+{:text=>"CAN'T WAIT TO SEE YOU #HoleInMyHeartTour @LukeFriendMusic", :followers=>36162, :user_id=>782834724, :retweet=>0}
+{:text=>"@LukeFriendMusic me cause I don't see dublin .... #HoleInMyHeartTour http://t.co/nZRfvYspAJ", :followers=>26571, :user_id=>366664087, :retweet=>0}
+{:text=>"@LukeFriendMusic quit ignoring me pal, bet ur buzzing to see me back in glasgow?! #HoleInMyHearttour", :followers=>13301, :user_id=>810983784, :retweet=>0}

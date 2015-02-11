@@ -1,0 +1,5 @@
+{:text=>"RT @Marvel: Sony Pictures Entertainment Brings Marvel Studios Into The Amazing World Of Spider-Man http://t.co/8ni1EUEYv4 http://t.co/gpWDn…", :followers=>72, :user_id=>137484723, :retweet=>19766}
+{:text=>"RT @Marvel: Sony Pictures Entertainment Brings Marvel Studios Into The Amazing World Of Spider-Man http://t.co/8ni1EUEYv4 http://t.co/gpWDn…", :followers=>1736, :user_id=>418802444, :retweet=>19766}
+{:text=>"RT @GossipGun: สรุป - หลังจากนี้เราจะได้เห็น Spider-Man แจมกับทีม Avengers คนอื่นๆแล้ว หลัง Sony และ Marvel เจรจากันสำเร็จ ❤️ http://t.co/Q…", :followers=>179, :user_id=>388345215, :retweet=>2503}
+{:text=>"RT @ComplexPop: Now's the PERFECT time for @Marvel to bring in @donaldglover as Spider-Man. http://t.co/IugpGyDpUp", :followers=>510, :user_id=>816409789, :retweet=>1387}
+{:text=>"RT @SuperheroFeed: \"If I have to sit through Spider-Man’s origin story one more time I’m shooting Uncle Ben myself.\"\n\nI AM SO DONE.", :followers=>1029, :user_id=>244627794, :retweet=>953}

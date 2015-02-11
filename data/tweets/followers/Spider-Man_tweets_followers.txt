@@ -1,0 +1,5 @@
+{:text=>"Marvel’s Spider-Man Wants One Of These Two Young Actors To Play The Web Slinger http://t.co/L15jH33RPp", :followers=>12454, :user_id=>20761432, :retweet=>0}
+{:text=>"RT @SuperheroFeed: \"If I have to sit through Spider-Man’s origin story one more time I’m shooting Uncle Ben myself.\"\n\nI AM SO DONE.", :followers=>11157, :user_id=>41873998, :retweet=>953}
+{:text=>"Logan Lerman and Dylan O'Brien Among Names Rumored for New Spider-Man http://t.co/3WCrDhkdWw", :followers=>7916, :user_id=>15071625, :retweet=>1}
+{:text=>"Ver que hay gente que quiere a Ansel Elgort como Spider-Man me hace querer matarme.", :followers=>7421, :user_id=>55021340, :retweet=>0}
+{:text=>"what she says: i'm okay\nwhat she means: andrew isn't spider-man anymore so no i'm actually not okay", :followers=>5654, :user_id=>225442295, :retweet=>0}

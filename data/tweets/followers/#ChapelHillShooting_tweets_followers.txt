@@ -1,0 +1,5 @@
+{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :followers=>19112, :user_id=>99575484, :retweet=>12403}
+{:text=>"RT @boldandworthy: If it weren't for Twitter, I wouldn't have known about the #ChapelHillShooting", :followers=>8579, :user_id=>312248392, :retweet=>103}
+{:text=>"RT @Sam_U_IL: (White) America will never be about equality #ChapelHillShooting", :followers=>6225, :user_id=>915137490, :retweet=>1}
+{:text=>"RT @Lina_Serene: Yusor Abu-Salha providing aid to Syrian refugees in Turkey. A beautiful, caring newlywed couple. #ChapelHillShooting. http…", :followers=>4305, :user_id=>238237577, :retweet=>1106}
+{:text=>"RT @jncatron: #ChapelHillShooting and western media bigotry http://t.co/d8zKlcATY6 via @AJEnglish http://t.co/cUcWtYQH2J", :followers=>3446, :user_id=>2191984092, :retweet=>246}

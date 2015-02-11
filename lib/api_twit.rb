@@ -10,6 +10,8 @@ LONDON = 44418
 PATH_TRENDS = './data/trends/'
 PATH_TWEETS = './data/tweets/'
 PATH_TWEETS_TEXT = './data/tweets/text/'
+PATH_TWEETS_FOLLOWERS = './data/tweets/followers/'
+PATH_TWEETS_RETWEETED = './data/tweets/retweeted/'
 
 class APITwitter
 
@@ -81,12 +83,12 @@ class APITwitter
     file.close()
   end
 
-  def top_followers_tweets(array_of_hashes, number)
-    array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..4]
+  def top_followers_tweets(array_of_hashes, number = 5)
+    array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..(number-1)]
   end
 
-  def top_retweeted_tweets(array_of_hashes, number)
-    array_of_hashes.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..4]
+  def top_retweeted_tweets(array_of_hashes, number = 5)
+    array_of_hashes.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
   end
 
   def get_tweet_from_file (filename)
@@ -107,6 +109,22 @@ class APITwitter
       save_data(PATH_TWEETS_TEXT+trend[:name]+'_tweets_text.txt', tweet_text)
     end
   end
+
+  def save_tweets_most_followers_per_trend(trends = @trends)
+    trends.each do |trend| 
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweets_most_followers = top_followers_tweets(tweets)
+      save_data(PATH_TWEETS_FOLLOWERS+trend[:name]+'_tweets_followers.txt', tweets_most_followers)
+    end
+  end  
+
+  def save_tweets_most_retweeted_per_trend(trends = @trends)
+    trends.each do |trend| 
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweets_most_retweeted = top_retweeted_tweets(tweets)
+      save_data(PATH_TWEETS_RETWEETED+trend[:name]+'_tweets_retweeted.txt', tweets_most_retweeted)
+    end
+  end  
   
 end
 

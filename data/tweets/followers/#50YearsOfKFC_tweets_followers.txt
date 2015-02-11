@@ -1,0 +1,5 @@
+{:text=>"RT @SamTompkinsUK: “@KFC_UKI: @SamTompkinsUK Thanks for celebrating with us Sam! #50YearsofKFC” love you KFC ❤️", :followers=>2770, :user_id=>894105390, :retweet=>2}
+{:text=>"#50YearsOfKFC For 50 years of chicken I'll skydive in my boxers @KFC_UKI", :followers=>832, :user_id=>891741512, :retweet=>0}
+{:text=>"@KFC_UKI  #50YearsOfKFC in Kfc Ordering chocolate brownie cream ball new ice cream 🍨🍧🍦 #YummyInMyTummy http://t.co/aXAxuzsNsh", :followers=>717, :user_id=>173934835, :retweet=>0}
+{:text=>"RT @steghepburn: Dear @KFC_UKI ma pal @DaleMcsherry is willing to let me shit on his face for that mad #50YearsOfKFC n a hink that's worthy…", :followers=>511, :user_id=>210902374, :retweet=>2}
+{:text=>"@KFC_UKI I would go bald for 6 months for #50YearsOfKFC", :followers=>444, :user_id=>2282229995, :retweet=>0}

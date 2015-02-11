@@ -1,0 +1,5 @@
+{:text=>"RT @itsWillyFerrell: #ReplaceAMovieTitleWithGoat: Goats Of The Galaxy. http://t.co/1b3HGkQhRb", :followers=>281, :user_id=>386655037, :retweet=>703}
+{:text=>"RT @EverythingGoats: The Goatbook #ReplaceAMovieTitleWithGoat http://t.co/ug4P7xSiLI", :followers=>576, :user_id=>2422886065, :retweet=>573}
+{:text=>"RT @OMGStarterPack: The \"#ReplaceAMovieTitleWithGoat\" starter pack: http://t.co/1RJLa31L7g", :followers=>687, :user_id=>1107340016, :retweet=>444}
+{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>3560, :user_id=>1204706040, :retweet=>205}
+{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>247, :user_id=>2911479135, :retweet=>205}

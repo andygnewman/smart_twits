@@ -1,0 +1,5 @@
+{:text=>"RT @LukeFriendMusic: Get the next date by RT'ing the poster or tweeting me where you think it will be! #HoleInMyHeartTour http://t.co/alT5g…", :followers=>7926, :user_id=>2263697736, :retweet=>379}
+{:text=>"RT @LukeFriendMusic: I am going to be going on a six date tour!! Find out where from 4pm! #HoleInMyHeartTour http://t.co/A48Xx9kPpi", :followers=>1161, :user_id=>2438188586, :retweet=>272}
+{:text=>"RT @LukeFriendMusic: So this tours gonna be very up close and personal!! So we can all hangout!! #HoleInMyHearttour http://t.co/YLJ0lVHGzy", :followers=>818, :user_id=>410983674, :retweet=>162}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>285, :user_id=>2826637796, :retweet=>152}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>818, :user_id=>410983674, :retweet=>152}

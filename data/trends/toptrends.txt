@@ -1,10 +1,10 @@
 {:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting"}
 {:name=>"#ReplaceAMovieTitleWithGoat", :query=>"%23ReplaceAMovieTitleWithGoat"}
+{:name=>"#HoleInMyHeartTour", :query=>"%23HoleInMyHeartTour"}
 {:name=>"#HSBC", :query=>"%23HSBC"}
 {:name=>"#50YearsOfKFC", :query=>"%2350YearsOfKFC"}
-{:name=>"#HoleInMyHeartTour", :query=>"%23HoleInMyHeartTour"}
 {:name=>"Jon Stewart", :query=>"%22Jon+Stewart%22"}
 {:name=>"Eurovision", :query=>"Eurovision"}
 {:name=>"London", :query=>"London"}
 {:name=>"Muslims", :query=>"Muslims"}
-{:name=>"Labour", :query=>"Labour"}
+{:name=>"Spider-Man", :query=>"Spider-Man"}

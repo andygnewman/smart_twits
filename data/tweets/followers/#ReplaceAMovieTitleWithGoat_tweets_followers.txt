@@ -1,0 +1,5 @@
+{:text=>"#ReplaceAMovieTitleWithGoat Failure to Goat 🐑", :followers=>12227, :user_id=>474221855, :retweet=>0}
+{:text=>"RT @AlexReidPerc: Silence of the goats #ReplaceAMovieTitleWithGoat", :followers=>6380, :user_id=>83477443, :retweet=>1}
+{:text=>"RT @BowTieCinemas: #ReplaceAMovieTitleWithGoat Fifty Shades of Goat #FiftyShadesofGrey @FiftyShades http://t.co/pwSpI35248", :followers=>5183, :user_id=>64997961, :retweet=>2}
+{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>3560, :user_id=>1204706040, :retweet=>205}
+{:text=>"http://t.co/np7viYQfln  #ChapelHillShooting #ReplaceAMovieTitleWithGoat", :followers=>2735, :user_id=>3000496763, :retweet=>0}

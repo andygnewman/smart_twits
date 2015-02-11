@@ -1,0 +1,5 @@
+{:text=>"RT @CameronMcNeish: This is the cancer that is destroying our society. The rich dodge tax with impunity while the poor are hounded for ever…", :followers=>195, :user_id=>307785259, :retweet=>596}
+{:text=>"RT @Ian_Fraser: Shameful. #HSBC now faces criminal investigations in the US, France, Belgium and Argentina. But not in the country where it…", :followers=>159, :user_id=>21015547, :retweet=>307}
+{:text=>"RT @BBCNewsGraphics: Britain's biggest bank #HSBC is accused of helping clients in many countries to evade tax http://t.co/07Rh4mUxU2 http:…", :followers=>345, :user_id=>84942660, :retweet=>138}
+{:text=>"RT @Harryslaststand: The next time the media put a banker on tv to tell us how the economy should  be run remember #HSBC's #taxavoidance ad…", :followers=>112, :user_id=>31079404, :retweet=>134}
+{:text=>"RT @Harryslaststand: The next time the media put a banker on tv to tell us how the economy should  be run remember #HSBC's #taxavoidance ad…", :followers=>843, :user_id=>1683481705, :retweet=>134}

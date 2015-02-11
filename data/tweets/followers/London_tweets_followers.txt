@@ -1,0 +1,5 @@
+{:text=>"This map shows the places most at risk of flooding in London http://t.co/1hTbbpZuKH http://t.co/0yaPobb5II", :followers=>1037050, :user_id=>16973333, :retweet=>2}
+{:text=>"RT @ariannahuff: Excited to join @mayoroflondon &amp; @joannashields at #techusuk to celebrate the connection btwn the NYC &amp; London tech indust…", :followers=>85229, :user_id=>1623145514, :retweet=>29}
+{:text=>"@Ramona_Colvin Ohhh, London is ready for some cuddles! Thanks for sharing. #SomeBunnyLovesYou", :followers=>54835, :user_id=>29511514, :retweet=>0}
+{:text=>"RT @jackgilinsky: I'm so excited for the London show", :followers=>40321, :user_id=>1068688850, :retweet=>4935}
+{:text=>"RT @ChemmySki: Urgently needed a qualified surveyor to help us sign off our Guinness world Record challenge THIS Friday at 1pm in london...…", :followers=>19154, :user_id=>21996688, :retweet=>1}

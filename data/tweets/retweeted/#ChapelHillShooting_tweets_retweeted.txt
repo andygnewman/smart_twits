@@ -1,0 +1,5 @@
+{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :followers=>19112, :user_id=>99575484, :retweet=>12403}
+{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :followers=>821, :user_id=>333563730, :retweet=>12403}
+{:text=>"RT @Furqan_Naeem: This couldn't be more true... #ChapelHillShooting http://t.co/JqPAXFmDbS", :followers=>367, :user_id=>186061814, :retweet=>7634}
+{:text=>"RT @BenjaminNorton: If you are Muslim &amp; are murdered in a terrorist attack, this is all the media gives you: 7 lines.\n#ChapelHillShooting h…", :followers=>100, :user_id=>961589833, :retweet=>7520}
+{:text=>"RT @Independent: Three young Muslims shot dead, Twitter asks 'where are the protests?' #ChapelHillShooting http://t.co/ue46iUMdvC http://t.…", :followers=>2, :user_id=>2322519743, :retweet=>5713}

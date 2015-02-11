@@ -34,6 +34,7 @@ describe 'API' do
   xit "should be able to have trends" do
     twitter.get_trends
     expect(twitter.trends.size).to eq(10)
+    expect(Dir.glob("./data/trends/**/*").count).to eq(1)
   end
 
   xit 'should be able to search on hash tags' do 
@@ -77,8 +78,8 @@ describe 'API' do
 
   xit 'should create 10 files' do 
     twitter.get_trends
-    # expect(twitter).to receive(:save_data).exactly(10).times
     twitter.save_tweets_per_trend()
+    expect(Dir.glob("./data/tweets/**/*").count).to eq(10)
   end
 
   xit 'should read tweet from file' do
@@ -88,7 +89,19 @@ describe 'API' do
   it 'should save 10 files of tweet text' do
     twitter.get_trends
     twitter.save_tweet_text_per_trend
-  end 
+    expect(Dir.glob("./data/tweets/text/**/*").count).to eq(10)
+  end
 
+  xit 'should save 10 files of tweets from users with most followers' do
+    twitter.get_trends
+    twitter.save_tweets_most_followers_per_trend
+    expect(Dir.glob("./data/tweets/followers/**/*").count).to eq(10)
+  end
+
+  xit 'should save 10 files of tweets that were most retweeted' do
+    twitter.get_trends
+    twitter.save_tweets_most_retweeted_per_trend
+    expect(Dir.glob("./data/tweets/retweeted/**/*").count).to eq(10)
+  end
 
 end
