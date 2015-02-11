@@ -6,9 +6,14 @@
   <body>
     <ul>
       <% @trends_list.each do |trend| %>
-        <li><%= trend %></li>
+        <li><a href="/<%= trend %>"><%= trend %></a></li>
       <% end %>
     </ul>
+    <section id="words">
+      <%= @words %>
+    </section>
+
+
 
   </body>
 
