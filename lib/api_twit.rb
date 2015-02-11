@@ -38,7 +38,6 @@ class APITwitter
   end
 
   def save_data(filename,item)
-    byebug
     file = File.open(filename, 'w')
     file.puts item.to_json
     file.close()  
@@ -47,7 +46,8 @@ class APITwitter
   def get_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
     @response.attrs[:trends].each { |el| @trends << {:name => el[:name],:query => el[:query]}}
-    save_data(PATH_TRENDS+'toptrends.json',@trends) #maybe @trends does not need to be
+    json_trends = {toptrends: @trends}
+    save_data(PATH_TRENDS+'toptrends.json', json_trends) #maybe @trends does not need to be
     @response                          #instance ver. 
   end
 
@@ -65,7 +65,6 @@ class APITwitter
       result << {:text => el.text, :followers => el.user.followers_count,
                  :user_id => el.user.id, :retweet => el.retweet_count}
     end
-    # save_data(hash_tag_g+'_tweets.dat',result)
     return result
   end
 
@@ -93,7 +92,6 @@ class APITwitter
   end
 
   def get_tweet_from_file (filename)
-
     array_of_hashes = []
     file = File.open(filename, 'r')
     file.readlines.each do |el| 

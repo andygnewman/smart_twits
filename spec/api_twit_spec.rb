@@ -104,7 +104,7 @@ describe 'API' do
     expect(Dir.glob("./data/tweets/retweeted/**/*").count).to eq(10)
   end
 
-  it 'should be able to delete all existing files in a directory' do
+  xit 'should be able to delete all existing files in a directory' do
     twitter.get_trends
     expect(Dir.glob("./data/trends/**/*").count).to eq(1)
     twitter.delete_files_from_directory('./data/trends/')
