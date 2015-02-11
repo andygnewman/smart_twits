@@ -1,0 +1,100 @@
+{:text=>"ABC US -  Jon Stewart Says He's Stepping Down From 'The Daily Show' http://t.co/ZMSTeBd52o", :followers=>86, :user_id=>1432822452, :retweet=>0}
+{:text=>"Today's (notso) Funnies: \nI laughed till I cried! http://t.co/qGbHfEkCEf", :followers=>30, :user_id=>593401594, :retweet=>0}
+{:text=>"RT @brianstelter: Jon Stewart has been, among many other things, one of the finest media critics of this era.", :followers=>15, :user_id=>2424593167, :retweet=>342}
+{:text=>"Jon Stewart Is Leaving The Daily Show! | In Case You Didn't Know http://t.co/ULpj2VUt1B", :followers=>4026, :user_id=>18621897, :retweet=>0}
+{:text=>"Jon Stewart: Court jester with a knife http://t.co/kJCMGXMLbA Adalberto Vázquez Gómez", :followers=>186, :user_id=>1114969352, :retweet=>0}
+{:text=>"My mom thinks Jon Stewart is leaving The Daily Show because, and I quote, \"he misses his friends.\" [Colbert &amp; Wilmore]", :followers=>589, :user_id=>19024813, :retweet=>0}
+{:text=>"RT @mehdirhasan: Absolutely gutted that one of my idols, Jon Stewart, is quitting the @TheDailyShow. During the Bush era, he helped keep me…", :followers=>215, :user_id=>256607711, :retweet=>32}
+{:text=>"RT @iowahawkblog: Perp in the Chapel Hill shooting was a FB fan of Rachel Maddow, Neil Tyson, &amp; Bill Nye. Maybe he was upset about Jon Stew…", :followers=>611, :user_id=>289569283, :retweet=>136}
+{:text=>"Jon Stewart Says He's Stepping Down From 'The Daily Show' http://t.co/lvLCxLZJGz", :followers=>2698, :user_id=>1391049878, :retweet=>0}
+{:text=>"Jon Stewart Says He's Stepping Down From 'The Daily Show' http://t.co/AzSEj3iE5m", :followers=>1008, :user_id=>1169031146, :retweet=>0}
+{:text=>"John Stewart quitte @TheDailyShow... Noooooooon !!!! http://t.co/n8KmVXPOuU", :followers=>295, :user_id=>1241473158, :retweet=>0}
+{:text=>"RT @dailydot: Jon Stewart gets a little teary-eyed during his big 'Daily Show' announcement: http://t.co/KPftlH6fpp", :followers=>277, :user_id=>106915542, :retweet=>1}
+{:text=>"Jon Stewart Says He's Stepping Down From 'The Daily Show' http://t.co/j71F7t5dfL", :followers=>397, :user_id=>554983967, :retweet=>0}
+{:text=>"RT @Yay_Its_Sara: Without Jon Stewart, how will I be kept abreast on current events? - My Entire Generation", :followers=>95, :user_id=>300090637, :retweet=>1}
+{:text=>"VIDEO: Here is Jon Stewart's Announcement on The Daily Show. Get Ready to Cry. - http://t.co/wJt7Y9clt8 via @BlueNationRev", :followers=>387, :user_id=>16799404, :retweet=>0}
+{:text=>"http://t.co/k61XaNidu3 Why Jon Stewart Leaving the Daily Show is Good News.", :followers=>442, :user_id=>34346401, :retweet=>0}
+{:text=>"Is Jon Stewart announcement and Brian Williams' suspension more than a coincidence?: http://t.co/gwfSyfzuD6 via @AOL", :followers=>70, :user_id=>2688502513, :retweet=>0}
+{:text=>"The US is one step closer to war in Middle East and the media only talks about Brian Williams &amp; Jon Stewart. What did we do to deserve this?", :followers=>19, :user_id=>317444514, :retweet=>0}
+{:text=>"Yes, Jon Stewart will leave @TheDailyShow on a high note. I'll miss the sharp-edged commentary http://t.co/oGog1E7vVH http://t.co/6LqLPDOGx1", :followers=>10108, :user_id=>607946179, :retweet=>0}
+{:text=>"Jon Stewart on Williams: 'Bri... why?' http://t.co/tfE4QgQjDh", :followers=>53432, :user_id=>1077872654, :retweet=>0}
+{:text=>"RT @AndrewStilesUSA: The media covers Jon Stewart’s retirement announcement. https://t.co/MmqQZji50q", :followers=>7900, :user_id=>11783502, :retweet=>1}
+{:text=>"A Timeline Of Jon Stewart’s ‘Daily Show’ Years, From Nearly Quitting Until Announcing His Retirement http://t.co/geE1xj8YtH #UTPA #6thFan", :followers=>42, :user_id=>2366224226, :retweet=>0}
+{:text=>"RT @RadioTimes: The brilliance of #JonStewart was in making politics both interesting + funny on #TheDailyShow\nhttp://t.co/8xINXIlVL8 http:…", :followers=>184, :user_id=>1022564893, :retweet=>3}
+{:text=>"RT @mehdirhasan: Absolutely gutted that one of my idols, Jon Stewart, is quitting the @TheDailyShow. During the Bush era, he helped keep me…", :followers=>94, :user_id=>15964531, :retweet=>32}
+{:text=>"Just heard a Fox news reporter call Jon Stewart a \"fake reporter\" bitch please more people trust him than you, ya ass hat", :followers=>196, :user_id=>473574061, :retweet=>0}
+{:text=>"“@HuffPostPol: See Jon Stewart way back in his first episode of \"The Daily Show\" http://t.co/cwzaMYOD3u” @bobhume back when JS wS awesome", :followers=>117, :user_id=>333680644, :retweet=>0}
+{:text=>"RT @Rythmjet: When Jon Stewart leaves, maybe they'll get Craig Kilborn to host the Daily Show again?! ;) #JonStewart", :followers=>5, :user_id=>2932861303, :retweet=>1}
+{:text=>"Jon Stewart to leave The Daily Show http://t.co/KmahHDzwjc", :followers=>0, :user_id=>583982677, :retweet=>0}
+{:text=>"RT @Missinfo: Watch Jon Stewart's Farewell Speech On 'The Daily Show' Last Night http://t.co/1bTUu36WoR http://t.co/Di8ozeClPm", :followers=>1931, :user_id=>246359388, :retweet=>9}
+{:text=>"RT @JeffMacke: Apple, Brian Williams and Jon Stewart: America's faux love of truth http://t.co/mR50R7r9GB @YahooFinance $AAPL http://t.co/Z…", :followers=>636, :user_id=>105899128, :retweet=>18}
+{:text=>"I don't care what anyone says. What Jon Stewart does @TheDailyShow is journalism.", :followers=>266, :user_id=>471584455, :retweet=>0}
+{:text=>"RT @bhaviklathia: RT if you think Jessica Williams should be given Jon Stewart's job after he leaves! #TheDailyShowWithJessicaWilliams http…", :followers=>51, :user_id=>29443660, :retweet=>1057}
+{:text=>"RT @TheDeansreport: My favorite article I ever wrote about Jon Stewart: How Jon Stewart Made It Okay to Care About Palestinian Suffering ht…", :followers=>113, :user_id=>2440041715, :retweet=>80}
+{:text=>"RT @Klow7: Real talk. Man, sometimes u just need it w/o the big spin. Enjoy the weeknight dinners w the fam Jon Stewart. @TheDailyShow #lau…", :followers=>62, :user_id=>281184560, :retweet=>40}
+{:text=>"RT @Dchinni: For what it's worth. The impact of Jon Stewart and Stephen Colbert back in 2012. Both guys will be gone in 2016. http://t.co/4…", :followers=>172, :user_id=>240403394, :retweet=>28}
+{:text=>"RT @livefrome: It's official: Jon Stewart is retiring from The Daily Show. Are you sad to see him go? Tell us what you think... #LiveFromE", :followers=>451, :user_id=>101064739, :retweet=>14}
+{:text=>"RT @rulajebreal: “The only reason you mock something is when it doesn’t live up to the ideal ” Brilliant Jon Stewart leaving.....http://t.c…", :followers=>1695, :user_id=>81714813, :retweet=>19}
+{:text=>"I think @nbc should still hire Jon Stewart to do Meet the Press. His talent would blow away the competition! #JonStewart", :followers=>2199, :user_id=>287922171, :retweet=>0}
+{:text=>"RT @JeffMacke: Apple, Brian Williams and Jon Stewart: America's faux love of truth http://t.co/mR50R7r9GB @YahooFinance $AAPL http://t.co/Z…", :followers=>433, :user_id=>316515570, :retweet=>18}
+{:text=>"Jon Stewart ❤ #followme Losing the Internet You Grew Up With - The Atlantic  http://t.co/vED9N83oXR", :followers=>373, :user_id=>35206366, :retweet=>0}
+{:text=>"RT @TIME: Opinion: Jon Stewart's replacement on @TheDailyShow should be a woman http://t.co/iDBNgzOdD3", :followers=>22, :user_id=>2264087363, :retweet=>107}
+{:text=>"RT @someecards: Goodbye Jon Stewart. (via @SamPasternack) - http://t.co/sWcH1Rc7OI http://t.co/2vDBGY9oli", :followers=>171, :user_id=>49524531, :retweet=>45}
+{:text=>"Breaking: Jon Stewart to anchor NBC News. Brian Williams to take over The Daily Show. #NBC #BrianWilliams", :followers=>435, :user_id=>16280124, :retweet=>0}
+{:text=>". @TuckerCarlson 's bow tie is spinning RT @globeandmail: Jon Stewart to leave Comedy Central’s The Daily Show http://t.co/1k3ubjCAJt", :followers=>1026, :user_id=>76997530, :retweet=>0}
+{:text=>"New Video: Jon Stewart on quitting: 'It is time for someone else' http://t.co/4w8O785YaA", :followers=>406, :user_id=>591173858, :retweet=>0}
+{:text=>"Would you vote for Jon Stewart for President? | http://t.co/YZkiKeKpNr", :followers=>65, :user_id=>2985614399, :retweet=>0}
+{:text=>"RT @someecards: Goodbye Jon Stewart. (via @SamPasternack) - http://t.co/sWcH1Rc7OI http://t.co/2vDBGY9oli", :followers=>213, :user_id=>103504158, :retweet=>45}
+{:text=>"Everyone is lamenting Jon Stewart's exit. I get that, but I have to admire someone who quits while on top of their game. Wise man.", :followers=>1429, :user_id=>15138251, :retweet=>0}
+{:text=>"RT @HuffingtonPost: See Jon Stewart in his first episode of \"The Daily Show\" http://t.co/IzEEVdogZ4", :followers=>95, :user_id=>2493072878, :retweet=>50}
+{:text=>"Podiam substituir o Jon Stewart por alguém que já esteja no Daily Show\nO Asiif Mandvi ou Jonh Oliver eram as melhores escolhas...", :followers=>59, :user_id=>315702600, :retweet=>0}
+{:text=>"This would ruin him and his legacy. RT @Deadspin: Jon Stewart should run for office http://t.co/jxdcBDZaEI", :followers=>1967, :user_id=>98978931, :retweet=>1}
+{:text=>"RT @livefrome: It's official: Jon Stewart is retiring from The Daily Show. Are you sad to see him go? Tell us what you think... #LiveFromE", :followers=>9586, :user_id=>579962917, :retweet=>14}
+{:text=>"See Jon Stewart In His First Episode Of 'The Daily Show' http://t.co/5BsFkUeWfQ via @HuffPostPol", :followers=>64, :user_id=>533679962, :retweet=>0}
+{:text=>"RT @bzygo: Why Jon Stewart and Brian Williams should just switch jobs http://t.co/3Oug15hhPi", :followers=>1427, :user_id=>92603118, :retweet=>1}
+{:text=>"RT @iankatz1000: \"I’m going to have dinner on a school night with my family, who I have heard are lovely people\" Jon Stewart signs off http…", :followers=>215, :user_id=>256607711, :retweet=>53}
+{:text=>"RT @pattonoswalt: Wait, the only people who can possibly replace Jon Stewart are Hal Jordan or Guy Gardener SORRY NERD JOKE IT WAS FUCKING …", :followers=>45, :user_id=>2349473336, :retweet=>1337}
+{:text=>"Jon Stewart is funny, but he's also got a heart. his September 2001 back-to-air speech moves, every time: https://t.co/90uqdcXwuT", :followers=>223, :user_id=>248402933, :retweet=>0}
+{:text=>"Jon Stewart Is Stepping Down from The Daily Show; Watch His 2008 Interview on Democracy Now! http://t.co/V4d21QYmul via @democracynow", :followers=>248, :user_id=>79498539, :retweet=>0}
+{:text=>":( Jon Stewart Is Leaving 'The Daily Show' http://t.co/fOZI4jBmKt via @TIMECulture", :followers=>223, :user_id=>331119139, :retweet=>0}
+{:text=>"RT @mehdirhasan: Videos of some of Jon Stewart's finest moments on @TheDailyShow. To say he will be missed is an understatement...\nhttp://t…", :followers=>18, :user_id=>2385711482, :retweet=>41}
+{:text=>"The media covers Jon Stewart’s retirement announcement. https://t.co/MmqQZji50q", :followers=>9111, :user_id=>138977055, :retweet=>1}
+{:text=>"Jon Stewart's Story: How the Fake Newsman Won Over America /Why #JonStewart is irreplaceable.  http://t.co/jScCWJTMg6", :followers=>545, :user_id=>142131730, :retweet=>0}
+{:text=>"RT @Deadspin: Jon Stewart should run for office http://t.co/sVjg2MjuOM", :followers=>89, :user_id=>378249416, :retweet=>92}
+{:text=>"RT @pattonoswalt: Wait, the only people who can possibly replace Jon Stewart are Hal Jordan or Guy Gardener SORRY NERD JOKE IT WAS FUCKING …", :followers=>156, :user_id=>1325648448, :retweet=>1337}
+{:text=>"RT @alexwagner: Wonder what Jon Stewart will make of the lack of public debate over a war powers resolution and an obsessive focus instead …", :followers=>637, :user_id=>100005598, :retweet=>9}
+{:text=>"RT @mashable: What stage of Jon Stewart grief are you in? http://t.co/hErcUKIHr7 http://t.co/N1a0GaaUJi", :followers=>237, :user_id=>133400025, :retweet=>88}
+{:text=>"Jon Stewart announces departure from #TheDailyShow. Brian Williams sues for lost press coverage. Details at 11.", :followers=>5875, :user_id=>71317044, :retweet=>0}
+{:text=>"RT @andrewsharp: Agree with all this, but I'll still miss Jon Stewart. He pulled it off better than a generation that imitated him https://…", :followers=>692, :user_id=>18002039, :retweet=>5}
+{:text=>"RT @WesMalik: congratulations to Jon Stewart! http://t.co/xt4SISVVFd", :followers=>2470, :user_id=>145109186, :retweet=>13}
+{:text=>"RT @notoriousBAIG: \"You're tired of hearing about racism? Imagine how fucking exhausting it is living it.\" - Jon Stewart", :followers=>676, :user_id=>14765581, :retweet=>1}
+{:text=>"Already sick of \"Who will replace Jon Stewart\" articles. I look forward to reliving the Letterman white guy vs. everyone else fight.", :followers=>1726, :user_id=>278335159, :retweet=>0}
+{:text=>"'The Daily Show': Who Will Take Over for Jon Stewart? - Variety http://t.co/6cOdXsP1Ex", :followers=>759, :user_id=>2279148223, :retweet=>0}
+{:text=>"RT @sbellelauren: i am afraid for a jon stewart-less country", :followers=>3126, :user_id=>2591699511, :retweet=>139}
+{:text=>"RT @JohnLegere: I hope Jon Stewart changes his mind. I don’t want to know a place where he’s not the host of  The Daily Show!", :followers=>303, :user_id=>80746014, :retweet=>18}
+{:text=>"RT @JamiaStarheart: RT @Forbes: The Daily Show is trusted by more Americans than Bloomberg or The Economist: http://t.co/yr028QCxkD http://…", :followers=>578, :user_id=>36326139, :retweet=>9}
+{:text=>"RT @mehdirhasan: Videos of some of Jon Stewart's finest moments on @TheDailyShow. To say he will be missed is an understatement...\nhttp://t…", :followers=>234, :user_id=>181851534, :retweet=>41}
+{:text=>"RT @HoodieAllen: Jon Stewart For President", :followers=>185, :user_id=>471575938, :retweet=>571}
+{:text=>"Jon Stewart Emotionally Announces He’s Leaving ‘The Daily Show’ (Video) http://t.co/1WN2ywtFDL http://t.co/CpDPXGTCB0", :followers=>111, :user_id=>2821960825, :retweet=>0}
+{:text=>"@lizzwinstead Jon Stewart stepping down to run for Gov of KS.  Brian Williams to be his press sec.", :followers=>130, :user_id=>169589613, :retweet=>0}
+{:text=>"Brian Williams vs. Jon Stewart: Who’s really the bigger loss to news? http://t.co/97QARxBoS2", :followers=>18378, :user_id=>16128601, :retweet=>0}
+{:text=>"Brian Williams vs. Jon Stewart: Who’s really the bigger loss to news? http://t.co/kAIXkslSt4", :followers=>1609, :user_id=>300745263, :retweet=>0}
+{:text=>"RT @RaymondWPS: If Jon Stewart is actually replacing Brian Williams, I swear to God I give up on life...", :followers=>1464, :user_id=>91078241, :retweet=>1}
+{:text=>"CNN: Jon Stewart: Court jester with a knife http://t.co/PtCHH4Bfmc\n\nwho can we loook to now to expose Bulls**t Mountain etc?", :followers=>615, :user_id=>227465921, :retweet=>0}
+{:text=>"#news The 'Daily Show' search is on: Who's the next Jon Stewart?: LOS ANGELES (AP) — Th... http://t.co/ItxQsXCgZd http://t.co/A5jqEWypdJ", :followers=>945, :user_id=>1390693447, :retweet=>0}
+{:text=>"CNN is still covering Jon Stewart leaving and nothing about #ChapeHillShooting yet. Lmao. #priorities", :followers=>2239, :user_id=>56425783, :retweet=>0}
+{:text=>"#news Jon Stewart's exit as a phony newsman is a loss to real news: NEW YORK (AP) — Jon... http://t.co/g4GrbNWp6R http://t.co/A5jqEWypdJ", :followers=>945, :user_id=>1390693447, :retweet=>0}
+{:text=>"RT @TheGoodGodAbove: I can make Jon Stewart not retire if you all  agree to deport Kim and Kanye.\n\nDeal?", :followers=>4, :user_id=>2996622068, :retweet=>176}
+{:text=>"@alexwagner Seriously, I love Jon Stewart but is that ALL anybody can talk about? It appears we can only have 1 OUTRAGE or 1 main story/wk", :followers=>279, :user_id=>14104290, :retweet=>0}
+{:text=>"RT @Dchinni: For what it's worth. The impact of Jon Stewart and Stephen Colbert back in 2012. Both guys will be gone in 2016. http://t.co/4…", :followers=>257, :user_id=>2235030468, :retweet=>28}
+{:text=>"The 'Daily Show' search is on: Who's the next Jon Stewart?: LOS ANGELES (AP) — The question of who can replace Jon Stewart on \"The Da...", :followers=>171, :user_id=>1229366179, :retweet=>0}
+{:text=>"The 'Daily Show' search is on: Who's the next Jon Stewart?", :followers=>35, :user_id=>862551126, :retweet=>0}
+{:text=>"RT @mehdirhasan: Videos of some of Jon Stewart's finest moments on @TheDailyShow. To say he will be missed is an understatement...\nhttp://t…", :followers=>473, :user_id=>383161221, :retweet=>41}
+{:text=>"Jon Stewart on Williams: 'Bri... why?' http://t.co/sLkizeML9p", :followers=>13303, :user_id=>2830371145, :retweet=>0}
+{:text=>"RT @NateSilver538: Sorta hoping Jon Stewart is leaving to play minor league baseball and will be back in two years with Dennis Rodman in to…", :followers=>128, :user_id=>13817442, :retweet=>967}
+{:text=>"RT @AdamsFlaFan: Jon Stewart Uses Brian Williams Fiasco To Call Out Media For Accepting Bush’s Iraq War Lies - http://t.co/e26PSlFEzb", :followers=>1549, :user_id=>22819266, :retweet=>1}
+{:text=>"Jon Stewart Emotionally Announces He’s Leaving ‘The Daily Show’ (Video) http://t.co/qRmFO3vJU2 http://t.co/6GzB6CyqjB", :followers=>102, :user_id=>2821915832, :retweet=>0}
+{:text=>"Jon Stewart Emotionally Announces He’s Leaving ‘The Daily Show’ (Video) http://t.co/mJKL0CFGDP http://t.co/3mnXuHO8bK", :followers=>52, :user_id=>2821898982, :retweet=>0}
+{:text=>"Jon Stewart Emotionally Announces He’s Leaving ‘The Daily Show’ (Video) http://t.co/XyOV49OejH http://t.co/TQHeFG1uN1", :followers=>39, :user_id=>2821963868, :retweet=>0}
+{:text=>"Jon Stewart Emotionally Announces He’s Leaving ‘The Daily Show’ (Video) http://t.co/sp5kY9pr2I http://t.co/DQDwZ1JJgM", :followers=>91, :user_id=>2821926764, :retweet=>0}
+{:text=>"RT @HuffingtonPost: See Jon Stewart in his first episode of \"The Daily Show\" http://t.co/IzEEVdogZ4", :followers=>19, :user_id=>506657568, :retweet=>50}

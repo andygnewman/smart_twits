@@ -1,0 +1,100 @@
+{:text=>"RT @OrthopodReg: just woke up to #ConsentDebate. \n\nWill tomorrow be #GravityDebate or maybe #MurderDebate?\n\nHow is this a thing?Don't be a …", :followers=>546, :user_id=>199565175, :retweet=>35}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>140, :user_id=>2506461545, :retweet=>109}
+{:text=>"RT @_l4urax: Why don't we teach men not to rape instead of focusing on telling women how not to be raped #consentdebate", :followers=>81, :user_id=>904646576, :retweet=>39}
+{:text=>"RT @BBCFreeSpeech: .@gabyhinsliff argues that merely looking for consent is too low a bar. Time to aim higher with the #ConsentDebate? http…", :followers=>61, :user_id=>90916706, :retweet=>17}
+{:text=>"RT @yobinomb: #ConsentDebate 4 http://t.co/RmBcgLyt71", :followers=>1229, :user_id=>222924174, :retweet=>2}
+{:text=>"RT @SoniaPoulton: Any man who wants sex with a drunken woman has already lost the plot. #ConsentDebate there is no consent with an inebriat…", :followers=>3551, :user_id=>23854223, :retweet=>16}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>271, :user_id=>332721629, :retweet=>109}
+{:text=>"RT @yobinomb: #ConsentDebate 3 http://t.co/peFfJ8zTDU", :followers=>1229, :user_id=>222924174, :retweet=>2}
+{:text=>"RT @yobinomb: #ConsentDebate 8 http://t.co/FWYyRoC60j", :followers=>723, :user_id=>561555415, :retweet=>4}
+{:text=>"RT @yobinomb: #ConsentDebate 1 http://t.co/ihadhWktwr", :followers=>1229, :user_id=>222924174, :retweet=>2}
+{:text=>"RT @MrSamWilson: Why is #ConsentDebate a debate? Simple rule to follow: Until everyone actively says 'yes', it's a 'no'", :followers=>81, :user_id=>904646576, :retweet=>30}
+{:text=>"RT @yobinomb: #consentdebate 10 http://t.co/anba711YPt", :followers=>434, :user_id=>1345615682, :retweet=>2}
+{:text=>"RT @SoniaPoulton: Any man who wants sex with a drunken woman has already lost the plot. #ConsentDebate there is no consent with an inebriat…", :followers=>2780, :user_id=>941692219, :retweet=>16}
+{:text=>"RT @yobinomb: #ConsentDebate 9 http://t.co/4WJrkbjfIe", :followers=>434, :user_id=>1345615682, :retweet=>3}
+{:text=>"RT @jamesjammcmahon: How about instead of lecturing girls to dress conservatively, we invest in teaching boys not to rape? JUST AN IDEA #co…", :followers=>81, :user_id=>904646576, :retweet=>45}
+{:text=>"RT @yobinomb: #consentdebate 10 http://t.co/anba711YPt", :followers=>334, :user_id=>260885312, :retweet=>2}
+{:text=>"RT @BBCFreeSpeech: For anyone who's unclear about #ConsentDebate. Check out our little graphic: http://t.co/gHKYQDlkgn", :followers=>112, :user_id=>18497235, :retweet=>42}
+{:text=>"RT @yobinomb: #ConsentDebate 7 http://t.co/7TAoJAS35f", :followers=>434, :user_id=>1345615682, :retweet=>3}
+{:text=>"RT @stuffingballs: seeing #ConsentDebate trending is worrying. There is no debate, consent should always be obvious, if its not obvious its…", :followers=>112, :user_id=>18497235, :retweet=>1}
+{:text=>"RT @Hassanvand: در تجاوز، قربانی هرگز مقصر نیست - از طریق @FelicityMorse\nنوع پوشش هم دلیل بر خواست و رضایت نیست\n#ConsentDebate http://t.co/…", :followers=>857, :user_id=>18378093, :retweet=>47}
+{:text=>"RT @yobinomb: #consentdebate 6 http://t.co/gn37wqrnC9", :followers=>434, :user_id=>1345615682, :retweet=>3}
+{:text=>"RT @Hassanvand: در تجاوز، قربانی هرگز مقصر نیست - از طریق @FelicityMorse\nنوع پوشش هم دلیل بر خواست و رضایت نیست\n#ConsentDebate http://t.co/…", :followers=>861, :user_id=>832093177, :retweet=>47}
+{:text=>"RT @yobinomb: #ConsentDebate 8 http://t.co/FWYyRoC60j", :followers=>408, :user_id=>635411762, :retweet=>4}
+{:text=>"RT @SoniaPoulton: Any man who wants sex with a drunken woman has already lost the plot. #ConsentDebate there is no consent with an inebriat…", :followers=>1362, :user_id=>303155064, :retweet=>16}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>923, :user_id=>340967973, :retweet=>109}
+{:text=>"Why is this even a thing, there shouldn't be blurred lines wouldn't you want to have sex with someone who actually loves you? #ConsentDebate", :followers=>81, :user_id=>904646576, :retweet=>0}
+{:text=>"RT @yobinomb: #ConsentDebate 9 http://t.co/4WJrkbjfIe", :followers=>369, :user_id=>856872578, :retweet=>3}
+{:text=>"In my opinion, there is no debate. Rape is rape, it is what it is.... #ConsentDebate", :followers=>788, :user_id=>177662882, :retweet=>0}
+{:text=>"RT @ADHamilton91: #ConsentDebate male or female, if someone says \"stop\" or \"no\" you stop. No ifs, buts or maybes.", :followers=>161, :user_id=>75895405, :retweet=>1}
+{:text=>"RT @yobinomb: #ConsentDebate 8 http://t.co/FWYyRoC60j", :followers=>369, :user_id=>856872578, :retweet=>4}
+{:text=>"“@yobinomb: #ConsentDebate 8 http://t.co/zmbK8Dg1Bw” Loooooooooooooooool I shouldn't laugh but fam 😂", :followers=>1461, :user_id=>102887516, :retweet=>0}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>109, :user_id=>305149673, :retweet=>109}
+{:text=>"RT @yobinomb: #ConsentDebate 7 http://t.co/7TAoJAS35f", :followers=>369, :user_id=>856872578, :retweet=>3}
+{:text=>"RT @yobinomb: #ConsentDebate 2 http://t.co/bFAeasasVB", :followers=>74, :user_id=>425985064, :retweet=>2}
+{:text=>"RT @yobinomb: #consentdebate 6 http://t.co/gn37wqrnC9", :followers=>369, :user_id=>856872578, :retweet=>3}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>3207, :user_id=>375174459, :retweet=>109}
+{:text=>"RT @yobinomb: #ConsentDebate 5 http://t.co/iDRFJqr1TR", :followers=>369, :user_id=>856872578, :retweet=>1}
+{:text=>"RT @yobinomb: #ConsentDebate 4 http://t.co/RmBcgLyt71", :followers=>369, :user_id=>856872578, :retweet=>2}
+{:text=>"RT @yobinomb: #ConsentDebate 3 http://t.co/peFfJ8zTDU", :followers=>369, :user_id=>856872578, :retweet=>2}
+{:text=>"RT @yobinomb: #ConsentDebate 2 http://t.co/bFAeasasVB", :followers=>369, :user_id=>856872578, :retweet=>2}
+{:text=>"RT @yobinomb: #ConsentDebate 1 http://t.co/ihadhWktwr", :followers=>369, :user_id=>856872578, :retweet=>2}
+{:text=>"#consentdebate 10 http://t.co/anba711YPt", :followers=>2102, :user_id=>87037842, :retweet=>2}
+{:text=>"#ConsentDebate 9 http://t.co/4WJrkbjfIe", :followers=>2102, :user_id=>87037842, :retweet=>3}
+{:text=>"#ConsentDebate 8 http://t.co/FWYyRoC60j", :followers=>2102, :user_id=>87037842, :retweet=>4}
+{:text=>"#ConsentDebate 7 http://t.co/7TAoJAS35f", :followers=>2102, :user_id=>87037842, :retweet=>3}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>371, :user_id=>278548416, :retweet=>109}
+{:text=>"#consentdebate 6 http://t.co/gn37wqrnC9", :followers=>2102, :user_id=>87037842, :retweet=>3}
+{:text=>"#ConsentDebate 5 http://t.co/iDRFJqr1TR", :followers=>2102, :user_id=>87037842, :retweet=>1}
+{:text=>"RT @xoElisee: There shouldn't even be a debate. #ConsentDebate http://t.co/ZaSVAQHGZs", :followers=>124, :user_id=>197842204, :retweet=>2}
+{:text=>"#ConsentDebate 4 http://t.co/RmBcgLyt71", :followers=>2102, :user_id=>87037842, :retweet=>2}
+{:text=>"RT @SoniaPoulton: Any man who wants sex with a drunken woman has already lost the plot. #ConsentDebate there is no consent with an inebriat…", :followers=>185, :user_id=>20785944, :retweet=>16}
+{:text=>"RT @FelicityMorse: A good poster for any #ConsentDebate http://t.co/2x7t8KP647", :followers=>191, :user_id=>453373658, :retweet=>76}
+{:text=>"#ConsentDebate 3 http://t.co/peFfJ8zTDU", :followers=>2102, :user_id=>87037842, :retweet=>2}
+{:text=>"#ConsentDebate 2 http://t.co/bFAeasasVB", :followers=>2102, :user_id=>87037842, :retweet=>2}
+{:text=>"#ConsentDebate 1 http://t.co/ihadhWktwr", :followers=>2102, :user_id=>87037842, :retweet=>2}
+{:text=>"If provocative clothing is the issue, why don't most rapes occur on the beach #ConsentDebate", :followers=>657, :user_id=>297412867, :retweet=>0}
+{:text=>"Sorry but I had to make another one.\n\nThis one is serious.\n\nSorry if I lose followers.. \n\n#ConsentDebate inspired ...\n\nHere we go!", :followers=>2102, :user_id=>87037842, :retweet=>0}
+{:text=>"RT @SoniaPoulton: Any man who wants sex with a drunken woman has already lost the plot. #ConsentDebate there is no consent with an inebriat…", :followers=>6251, :user_id=>1833919200, :retweet=>16}
+{:text=>"RT @MT8_9: #ConsentDebate #QuestionsForMen \n\nIf two people are drunk, whose is responsible for their actions?\n\nHim?\nHer?\nBoth? http://t.co/…", :followers=>360, :user_id=>809918786, :retweet=>3}
+{:text=>"#ConsentDebate male or female, if someone says \"stop\" or \"no\" you stop. No ifs, buts or maybes.", :followers=>199, :user_id=>288274505, :retweet=>1}
+{:text=>"(2/2) the same thing applies to sexual assault. Drunk or not, no means no. #ConsentDebate", :followers=>154, :user_id=>374722221, :retweet=>0}
+{:text=>"David Osborne is vile. If he is drunk and I hit him, is it no longer assault because he is drunk. I think not. (1/2) #ConsentDebate", :followers=>154, :user_id=>374722221, :retweet=>0}
+{:text=>"RT @abigailclennell: So apparently it's necessary to have a debate on consent? No means no. Debate over. #ConsentDebate", :followers=>154, :user_id=>374722221, :retweet=>2}
+{:text=>"RT @Hassanvand: در تجاوز، قربانی هرگز مقصر نیست - از طریق @FelicityMorse\nنوع پوشش هم دلیل بر خواست و رضایت نیست\n#ConsentDebate http://t.co/…", :followers=>274, :user_id=>317642875, :retweet=>47}
+{:text=>"Don't miss out on customers by not having a mobile website! http://t.co/21xHBfgyAm   London #ChapelHillShooting #HSBC #AskSav #ConsentDebate", :followers=>266, :user_id=>2461837135, :retweet=>0}
+{:text=>"http://t.co/9TldB2RrR4  , London's Property Portal, Agents sign up and post your ads\n#London #estateagents #property #HSBC #ConsentDebate", :followers=>48, :user_id=>2500148948, :retweet=>0}
+{:text=>"RT @abigailclennell: So apparently it's necessary to have a debate on consent? No means no. Debate over. #ConsentDebate", :followers=>369, :user_id=>2899614101, :retweet=>2}
+{:text=>"RT @BBCFreeSpeech: For anyone who's unclear about #ConsentDebate. Check out our little graphic: http://t.co/gHKYQDlkgn", :followers=>23, :user_id=>952379929, :retweet=>42}
+{:text=>"RT @FelicityMorse: A good poster for any #ConsentDebate http://t.co/2x7t8KP647", :followers=>130, :user_id=>585580207, :retweet=>76}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>425, :user_id=>2867244095, :retweet=>109}
+{:text=>"RT @gherkinette: .@itvthismorning’s #consentdebate is appalling. There is no debate around consent and this is encouraging rape apologism", :followers=>333, :user_id=>301081925, :retweet=>21}
+{:text=>"RT @BBCFreeSpeech: For anyone who's unclear about #ConsentDebate. Check out our little graphic: http://t.co/gHKYQDlkgn", :followers=>333, :user_id=>301081925, :retweet=>42}
+{:text=>"Consent isn't actually enough, both men and women should also look for signs of pre-sex enthusiasm from their sexual partners #ConsentDebate", :followers=>24474, :user_id=>289903330, :retweet=>0}
+{:text=>"RT @MT8_9: #ConsentDebate #QuestionsForMen \n\nIf two people are drunk, whose is responsible for their actions?\n\nHim?\nHer?\nBoth? http://t.co/…", :followers=>194, :user_id=>294607310, :retweet=>3}
+{:text=>"RT @stavvers: I'm guessing a rapist, or someone who likes helping rapists out came up with the hashtag #ConsentDebate like consent's a deba…", :followers=>161, :user_id=>18414634, :retweet=>27}
+{:text=>"RT @FelicityMorse: A good poster for any #ConsentDebate http://t.co/2x7t8KP647", :followers=>29, :user_id=>32754291, :retweet=>76}
+{:text=>"So apparently it's necessary to have a debate on consent? No means no. Debate over. #ConsentDebate", :followers=>24474, :user_id=>289903330, :retweet=>2}
+{:text=>"RT @jamesjammcmahon: How about instead of lecturing girls to dress conservatively, we invest in teaching boys not to rape? JUST AN IDEA #co…", :followers=>185, :user_id=>414615734, :retweet=>45}
+{:text=>"RT @MT8_9: #ConsentDebate #QuestionsForMen \n\nIf two people are drunk, whose is responsible for their actions?\n\nHim?\nHer?\nBoth? http://t.co/…", :followers=>909, :user_id=>2721267708, :retweet=>3}
+{:text=>"#ConsentDebate #QuestionsForMen \n\nIf two people are drunk, whose is responsible for their actions?\n\nHim?\nHer?\nBoth? http://t.co/9jDq6cEtBG", :followers=>2679, :user_id=>2756873076, :retweet=>3}
+{:text=>"RT @SoniaPoulton: Any man who wants sex with a drunken woman has already lost the plot. #ConsentDebate there is no consent with an inebriat…", :followers=>1295, :user_id=>14756888, :retweet=>16}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>2766, :user_id=>76316512, :retweet=>109}
+{:text=>"RT @OrthopodReg: just woke up to #ConsentDebate. \n\nWill tomorrow be #GravityDebate or maybe #MurderDebate?\n\nHow is this a thing?Don't be a …", :followers=>626, :user_id=>453403634, :retweet=>35}
+{:text=>"RT @FelicityMorse: A good poster for any #ConsentDebate http://t.co/2x7t8KP647", :followers=>82, :user_id=>2348745436, :retweet=>76}
+{:text=>"RT @squiggaplease: how about men learning to control themselves instead of focusing on how they think women 'should or shouldn't behave' #C…", :followers=>177, :user_id=>48569056, :retweet=>18}
+{:text=>"RT @OrthopodReg: just woke up to #ConsentDebate. \n\nWill tomorrow be #GravityDebate or maybe #MurderDebate?\n\nHow is this a thing?Don't be a …", :followers=>222, :user_id=>2400510607, :retweet=>35}
+{:text=>"RT @stavvers: I'm guessing a rapist, or someone who likes helping rapists out came up with the hashtag #ConsentDebate like consent's a deba…", :followers=>97, :user_id=>427076652, :retweet=>27}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>633, :user_id=>314116947, :retweet=>109}
+{:text=>"RT @Ormakapay: Things that don't cause rape: short skirts, alcohol, low-cut tops. \n\nThings that cause rape : Rapists. \n\nIt's quite simple. …", :followers=>278, :user_id=>21205683, :retweet=>109}
+{:text=>"RT @Angelheartnight: Not only does that thinking in #ConsentDebate completely ignore LBGT issues it also perpetrates the myth that only men…", :followers=>512, :user_id=>2376881202, :retweet=>15}
+{:text=>"RT @ElizaGoroya: #ConsentDebate is no Conundrum: it is either informed, enthusiastic, affirmative consent or RAPE.", :followers=>321, :user_id=>273708941, :retweet=>2}
+{:text=>"RT @ElizaGoroya: #ConsentDebate is no Conundrum: it is either informed, enthusiastic, affirmative consent or RAPE.", :followers=>82, :user_id=>2348745436, :retweet=>2}
+{:text=>"RT @ArmingSisters: Rape is NEVER the \"victims\" fault. #ConsentDebate http://t.co/YLLDjTG43f", :followers=>1000, :user_id=>376834691, :retweet=>4}
+{:text=>"Tea ALL OVER my monitor. Spat it out in shock when I saw that 'consent' and 'debate' are still words we're using together. #ConsentDebate", :followers=>220, :user_id=>20067284, :retweet=>0}
+{:text=>"RT @standbythebody: #ConsentDebate why is there even a debate. No means no. You can revoke consent. Silence means no consent. An unpressure…", :followers=>1591, :user_id=>97252837, :retweet=>24}
+{:text=>"@DanielVetr Lastly, YOU (&amp; others) refer to clothes as \"slutty\" - that is a big part of the problem in the #ConsentDebate &amp; victim-blaming.", :followers=>246, :user_id=>126430378, :retweet=>0}
+{:text=>"RT @BBCFreeSpeech: .@gabyhinsliff argues that merely looking for consent is too low a bar. Time to aim higher with the #ConsentDebate? http…", :followers=>329, :user_id=>125483352, :retweet=>17}
+{:text=>"RT @FelicityMorse: A good poster for any #ConsentDebate http://t.co/2x7t8KP647", :followers=>321, :user_id=>2869486148, :retweet=>76}
+{:text=>"RT @Disasterp1ce: #ConsentDebate There's no such thing as \"She was asking for it!!\" http://t.co/5ClTbGIudH", :followers=>2790, :user_id=>2372089274, :retweet=>1}
+{:text=>"RT @FelicityMorse: A good poster for any #ConsentDebate http://t.co/2x7t8KP647", :followers=>75, :user_id=>2735989622, :retweet=>76}
