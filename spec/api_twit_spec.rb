@@ -65,6 +65,15 @@ describe 'API' do
     expect(twitter.top_followers_tweets(array_of_hashes, 5).count).to eq(5)
   end
 
+  it 'should return x tweets on the trend from the users with most followers' do
+    array_of_hashes = []
+    file = File.open('#banana_tweets.dat', 'r')
+    file.readlines.each do |el| 
+      array_of_hashes << eval(el.chomp)
+    end
+    file.close()
+    expect(twitter.top_retweeted_tweets(array_of_hashes, 5).count).to eq(5)
+  end
 
 
 end

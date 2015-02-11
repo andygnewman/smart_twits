@@ -35,8 +35,11 @@ class APITwitter
   def get_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
     @response.attrs[:trends].each { |el| @trends << {:name => el[:name],:query => el[:query]}}
-    byebug
     @response
+    filename = 'toptrends.txt'
+    file = File.open(filename, 'w')
+    file.puts @trends
+    file.close()
   end
 
   def get_twits(hash_tag_g,query_number = 100)
@@ -70,6 +73,10 @@ class APITwitter
 
   def top_followers_tweets(array_of_hashes, number)
     array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..4]
+  end
+
+  def top_retweeted_tweets(array_of_hashes, number)
+    array_of_hashes.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..4]
   end
   
 end
