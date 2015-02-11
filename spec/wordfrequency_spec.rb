@@ -23,7 +23,7 @@ describe 'WordFrequency' do
   end
 
   it 'should return the top n number of words' do
-    expect(freq.filter_top_words(5, test_array)).to eq([["BCCConf", 41], ["DavidCameron", 11],  ["Cameron", 10], ["business", 8], ["bccconf", 8]])
+    expect(freq.filter_top_results(5, test_array)).to eq([["BCCConf", 41], ["DavidCameron", 11],  ["Cameron", 10], ["business", 8], ["bccconf", 8]])
   end
 
   it 'should not return any twitter handles' do
@@ -39,7 +39,7 @@ describe 'WordFrequency' do
   end
 
   it 'should read a file and return a specified number of top results' do
-    expect(freq.find_top_words(5, 'data.txt')).to eq([["Cameron", 10], ["business", 8], ["pay", 7], ["trade", 6], ["EU", 6]])
+    expect(freq.find_top_results(5, 'data.txt')).to eq([["Cameron", 10], ["business", 8], ["pay", 7], ["trade", 6], ["EU", 6]])
   end
 
 end
