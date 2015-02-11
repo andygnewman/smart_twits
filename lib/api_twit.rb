@@ -52,5 +52,9 @@ class APITwitter
   def getlocation
      html = open('https://twitter.com/trends?id=44418').read
   end
+
+  def merge_twitt(array_of_hash)
+    array_of_hash.reduce('') {|sum, el| sum += el[:text]}
+  end
   
 end

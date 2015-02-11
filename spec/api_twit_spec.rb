@@ -40,8 +40,13 @@ describe 'API' do
   #   expect(twitter.get_twits('#banana')).not_to eq(nil)   
   # end  
 
-  it 'should give more than 100 twits' do 
+  xit 'should give more than 100 twits' do 
     expect(twitter.get_twits('#banana',20).count).to eq(20)
+  end
+
+  it 'should merge data to string format' do
+    hash = [{:text=>'richard'}, {:text=>'andy'}]
+    expect(twitter.merge_twitt(hash)).to be_an_instance_of (String)
   end
 
 
