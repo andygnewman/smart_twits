@@ -1,5 +1,0 @@
-{:text=>"RT @kitkatspain: Si #Edurne queda entre los 15 primeros en #Eurovisión prometemos un Kit Kat a cada uno que haga RT.", :followers=>448, :user_id=>158793265, :retweet=>82700}
-{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>56, :user_id=>383381159, :retweet=>347}
-{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>194, :user_id=>1522184622, :retweet=>347}
-{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>83, :user_id=>629403429, :retweet=>347}
-{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>105, :user_id=>2904289931, :retweet=>235}

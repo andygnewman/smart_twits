@@ -1,5 +1,0 @@
-{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>890, :user_id=>456848352, :retweet=>7806}
-{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>58, :user_id=>3005241060, :retweet=>7806}
-{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>606, :user_id=>370920304, :retweet=>7806}
-{:text=>"RT @ozchrisrock: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be nonstop. \n#ChapelHillShooting http…", :followers=>727, :user_id=>2278407222, :retweet=>6354}
-{:text=>"RT @Independent: Three young Muslims shot dead, Twitter asks 'where are the protests?' #ChapelHillShooting http://t.co/ue46iUMdvC http://t.…", :followers=>178, :user_id=>553897090, :retweet=>5713}

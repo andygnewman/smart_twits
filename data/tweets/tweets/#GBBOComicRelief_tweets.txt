@@ -1,0 +1,100 @@
+{:text=>"So pleased @BritishBakeOff is back in my life. Vodka Buttercream is going to have to be attempted this wkend @ferrifrump #GBBOComicRelief", :followers=>100, :user_id=>538478958, :retweet=>0}
+{:text=>"RT @AuntiePegg: That's a red finned shark! #GBBOComicRelief #GBBO http://t.co/2NAhjPgzP4", :followers=>288, :user_id=>107024467, :retweet=>2}
+{:text=>"RT @xThe59Sound: Please can Dame Edna be star baker? She's amazing. #GBBOComicRelief", :followers=>1239, :user_id=>93753223, :retweet=>1}
+{:text=>"Team Jen #GBBOComicRelief", :followers=>102, :user_id=>2765695522, :retweet=>0}
+{:text=>"\"layered with vodka butter cream\" HELLO YOU HAVE MY ATTENTION #GBBOComicRelief", :followers=>696, :user_id=>20181541, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>840, :user_id=>440709350, :retweet=>17}
+{:text=>"RT @BritishBakeOff: A famous iconic building... after a nuclear attack #GBBOComicRelief http://t.co/HdGgjiKhTx", :followers=>304, :user_id=>50429778, :retweet=>31}
+{:text=>"Go home Mary, you're drunk. No more vodka buttercream for you #GBBOComicRelief", :followers=>154, :user_id=>19823976, :retweet=>0}
+{:text=>"I never want #GBBOComicRelief to end. Hilarious television!!", :followers=>3886, :user_id=>15735792, :retweet=>0}
+{:text=>"Loving Joanna Lumley and @ferrifrump on #GBBOComicRelief 😂😂", :followers=>130, :user_id=>2447911497, :retweet=>0}
+{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>81, :user_id=>2849929751, :retweet=>856}
+{:text=>"RT @BBCOne: Mary Berry: \"It's not strong of chocolate\"\nTranslation: \"Where the hell is the chocolate?! Get out of the tent NOW!\"\n#GBBOComic…", :followers=>755, :user_id=>183352499, :retweet=>5}
+{:text=>"Jennifer Saunders to win! #GBBOComicRelief", :followers=>470, :user_id=>120770841, :retweet=>0}
+{:text=>"RT @BritishBakeOff: The moment you realise you've used coffee instead of chocolate... #GBBOComicRelief http://t.co/fguj0Rg3SR", :followers=>131, :user_id=>24007934, :retweet=>235}
+{:text=>"What is that? It's a pink fin shark. And this? That's a red fun shark 😂😂😂 #GBBOComicRelief #dying #sofunny", :followers=>70, :user_id=>91862705, :retweet=>0}
+{:text=>"@ZozeeBo when does your episode of #GBBOComicRelief come on?💗", :followers=>123, :user_id=>2960664159, :retweet=>0}
+{:text=>"RT @ellielovell: Crying with laughter at #GBBOComicRelief. Apart from the sad and important bit in Uganda of course :(", :followers=>167, :user_id=>99744027, :retweet=>1}
+{:text=>"My stomach muscles actually hurt from laughing!!! #GBBOComicRelief #DameEdna @ferrifrump @BritishBakeOff #VodkaButtercream", :followers=>39, :user_id=>1123057794, :retweet=>0}
+{:text=>"RT@josayhef:RT @theguyliner: Lulu – the Sam Smith of her generation. #GBBOComicRelief... \n RT@Ayangbeb:see&gt;http://t.co/Q7U7tEwCLD", :followers=>976, :user_id=>2154246032, :retweet=>0}
+{:text=>"RT @paulstuartbates: #DameEdna on #GBBOComicRelief is absolutely glorious. Resplendent. She should have her own cooking show.", :followers=>26, :user_id=>2565859372, :retweet=>4}
+{:text=>"RT @gregoryallen94: Jennifer Saunders is making vodka buttercream for her cakes...VODKA BUTTERCREAM...I love this woman 😍#GBBOComicRelief", :followers=>260, :user_id=>228827538, :retweet=>39}
+{:text=>"Jennifer Saunders to win  #GBBOComicRelief", :followers=>635, :user_id=>20612334, :retweet=>0}
+{:text=>"Hearing @PaulHollywood  saying Dame Ednas cake is dry will never leave me #BakeOffInnuendos #GBBOComicRelief", :followers=>192, :user_id=>323361581, :retweet=>0}
+{:text=>"RT @Twurchsteward: Dame Edna is just such a feat of sustained brilliance #shesalive! #GBBOComicRelief", :followers=>1906, :user_id=>104459090, :retweet=>1}
+{:text=>"RT @TheBoyWhoBakes: Poor Lulu but that was amazing! #GBBOComicRelief", :followers=>35, :user_id=>2592864561, :retweet=>6}
+{:text=>"You can tell #GBBOcomicrelief is on when there are 100 posts on your timeline in 8 minutes! #GBBOcomicrelief", :followers=>422, :user_id=>20316693, :retweet=>0}
+{:text=>"RT @BBCOne: Edible Edina Monsoon. Absolutely scrumptious from Jennifer Saunders! #GBBOComicRelief http://t.co/cfDyL8Us9H", :followers=>576, :user_id=>105619429, :retweet=>31}
+{:text=>"Haven't laughed so much in a long time!  #GBBOComicRelief", :followers=>94, :user_id=>20036661, :retweet=>0}
+{:text=>"Winter Wonderland #GBBOComicRelief http://t.co/GJG6mMUIj7", :followers=>4524, :user_id=>251525720, :retweet=>0}
+{:text=>"Didn't think it was possible to like @ferrifrump any more. I was wrong. #GBBOComicRelief", :followers=>242, :user_id=>115659561, :retweet=>0}
+{:text=>"We think everyone's cakes were fabulous - whoever wins! #GBBOComicRelief", :followers=>18229, :user_id=>91190827, :retweet=>0}
+{:text=>"That is a very rare pink fined shark #dameedna #GBBOComicRelief", :followers=>49, :user_id=>202751811, :retweet=>0}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>127, :user_id=>2759703796, :retweet=>723}
+{:text=>"Ermmmm I didn't get 'quirky'. I got a horrified glance! #GBBOComicRelief", :followers=>3659, :user_id=>2611342854, :retweet=>0}
+{:text=>"@BritishBakeOff I can't help but to feel myself cringing at some of this stuff #GBBOComicRelief #GBBO", :followers=>5, :user_id=>2986038328, :retweet=>0}
+{:text=>"Ooh, Joanna Clumsey! #GBBOComicRelief", :followers=>302, :user_id=>82886523, :retweet=>0}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>3293, :user_id=>557070704, :retweet=>723}
+{:text=>"To paraphrase Churchill, \"Never have so many made such a meal out of baking so few cakes.\" Or something. #GBBOComicRelief", :followers=>120, :user_id=>162330073, :retweet=>0}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>527, :user_id=>1915122582, :retweet=>723}
+{:text=>"RT @rednoseday: Vodka icing. \n\nThis could escalate quickly. \n\n#GBBOComicRelief http://t.co/bPvgChx6j5", :followers=>168, :user_id=>966555210, :retweet=>75}
+{:text=>"RT @emmafreud: 'these are my meringues. deliberately flat. like a duvet' DAME EDNA STOP BEING IN RETIREMENT AND COME BACK TO YOUR PEOPLE. #…", :followers=>60, :user_id=>1172772613, :retweet=>9}
+{:text=>"RT @ZozeeBo: Did you see a little snippet of me then? haha Not looking good when the starting line is “uh oh” #GBBOComicRelief", :followers=>199, :user_id=>1550841168, :retweet=>1378}
+{:text=>"RT @BecaMurphLP: I just can't put into words how much I'm enjoying (killing myself laughing at) #GBBOComicRelief!! @BritishBakeOff", :followers=>215, :user_id=>264268884, :retweet=>15}
+{:text=>"RT @livpurvis: Cry laughing watching #GBBOComicRelief", :followers=>135, :user_id=>81445974, :retweet=>7}
+{:text=>"Haven't laughed so much in ages! Thank you #GBBOComicRelief :)", :followers=>699, :user_id=>269743129, :retweet=>0}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>1495, :user_id=>948191946, :retweet=>723}
+{:text=>"\"her baking is what I would call quirky\" oh Mary we love you so #GBBOComicRelief", :followers=>520, :user_id=>22268224, :retweet=>0}
+{:text=>"RT @BritishBakeOff: It took Lulu more than two hours to extricate herself from this position #GBBOComicRelief http://t.co/PJBlSiwbWy", :followers=>155, :user_id=>2264037604, :retweet=>25}
+{:text=>"RT @TrendsLeeds: #gbbocomicrelief is now trending in #Leeds http://t.co/JgMnsEw4y1", :followers=>177, :user_id=>2969474200, :retweet=>1}
+{:text=>"Dame Edna's Sydney Opera House - monster! As for vodka buttercream. Inspired!  #GBBOComicRelief", :followers=>103, :user_id=>2540948805, :retweet=>0}
+{:text=>"RT @NiamhTheHuman: \"I think they'll be a bit hard on me because I'm so famous\" 😄 #GBBOComicRelief", :followers=>167, :user_id=>99744027, :retweet=>1}
+{:text=>"#GBBOComicRelief is absolutely hilarious. Loving it! Jennifer is surprisingly good", :followers=>17, :user_id=>2749845920, :retweet=>0}
+{:text=>"Big fan of Jennifers cake #GBBOComicRelief", :followers=>2102, :user_id=>16313712, :retweet=>0}
+{:text=>"RT @rednoseday: Vodka icing. \n\nThis could escalate quickly. \n\n#GBBOComicRelief http://t.co/bPvgChx6j5", :followers=>980, :user_id=>96221659, :retweet=>75}
+{:text=>"RT @rednoseday: Yea, walk in a winter park sounds good. #GBBOComicRelief http://t.co/o0M4zkUnLG", :followers=>473, :user_id=>889669248, :retweet=>18}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>528, :user_id=>1497746293, :retweet=>723}
+{:text=>"There's got to be countless hours of outtakes from this episode alone that @BBCOne need to air! #GBBOComicRelief", :followers=>80, :user_id=>1117671001, :retweet=>0}
+{:text=>"RT @BBCOne: Lulu would make a good Dalek. #GBBOComicRelief http://t.co/b5zt690Cs3", :followers=>591, :user_id=>20185344, :retweet=>75}
+{:text=>"RT @BBCOne: Will J-Lu and J-Sau be ab fab?\nWill Lulu make Mary and Paul shout?\nWill Dame Edna be above Everage? #GBBOComicRelief http://t.c…", :followers=>22, :user_id=>316024713, :retweet=>71}
+{:text=>"I’ve missed all of #GBBOComicRelief - tell me, who’s the Diana of the group?", :followers=>829, :user_id=>21575173, :retweet=>0}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>1180, :user_id=>770964565, :retweet=>723}
+{:text=>"Jennifer must've won then!! Cmon @ferrifrump #GBBOComicRelief", :followers=>511, :user_id=>71621434, :retweet=>0}
+{:text=>"RT @twistedloaf: You can also raise money for @comicrelief with #GBBOComicRelief pack full of my illustrations! http://t.co/MzcncZOkmT http…", :followers=>745, :user_id=>182014945, :retweet=>3}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>3273, :user_id=>1426202750, :retweet=>723}
+{:text=>"“@BritishBakeOff: A famous iconic building... after a nuclear attack #GBBOComicRelief http://t.co/QoZNpLgsur”", :followers=>1592, :user_id=>90405108, :retweet=>0}
+{:text=>"Seriously crying laughing #GBBOComicRelief", :followers=>266, :user_id=>105531466, :retweet=>0}
+{:text=>"RT @BritishBakeOff: A famous iconic building... after a nuclear attack #GBBOComicRelief http://t.co/HdGgjiKhTx", :followers=>52, :user_id=>1050295915, :retweet=>31}
+{:text=>"How everyone managed not to fall about laughing while filming #GBBOComicRelief is beyond me #hilarious", :followers=>138, :user_id=>634851436, :retweet=>0}
+{:text=>"Obviously Dame Edna is going to win! #GBBOComicRelief", :followers=>98, :user_id=>421750492, :retweet=>0}
+{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>8758, :user_id=>183241435, :retweet=>856}
+{:text=>"RT @BritishBakeOff: A famous iconic building... after a nuclear attack #GBBOComicRelief http://t.co/HdGgjiKhTx", :followers=>921, :user_id=>496150052, :retweet=>31}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>143, :user_id=>2902718794, :retweet=>723}
+{:text=>"#GBBOComicRelief So funny! The pink finned shark. Is that a euphemism?", :followers=>1414, :user_id=>380482033, :retweet=>0}
+{:text=>"RT @CreateCraftTV: #SongGate on @BritishBakeOff #GBBOComicRelief #GBBO", :followers=>253, :user_id=>78241446, :retweet=>1}
+{:text=>"Mary Berry: \"It's not strong of chocolate\"\nTranslation: \"Where the hell is the chocolate?! Get out of the tent NOW!\"\n#GBBOComicRelief", :followers=>651405, :user_id=>871686942, :retweet=>5}
+{:text=>"#GBBOComicRelief is killing me tonight. Snot and tears streaming down my face", :followers=>126, :user_id=>32946889, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>43, :user_id=>43748035, :retweet=>17}
+{:text=>"RT @BritishBakeOff: The moment you realise you've used coffee instead of chocolate... #GBBOComicRelief http://t.co/fguj0Rg3SR", :followers=>530, :user_id=>482983420, :retweet=>235}
+{:text=>"Loving the #GBBOComicRelief. If this doesn't make you want to organise a bake sale for @rednoseday I don't know what will!", :followers=>4518, :user_id=>346014393, :retweet=>0}
+{:text=>"RT @ZozeeBo: Did you see a little snippet of me then? haha Not looking good when the starting line is “uh oh” #GBBOComicRelief", :followers=>473, :user_id=>2647815449, :retweet=>1378}
+{:text=>"RT @HelpforHeroes: Great to see @PaulHollywood wearing his @HelpforHeroes wristband on #GBBOComicRelief this evening - what a star! Thanks …", :followers=>79, :user_id=>345859896, :retweet=>10}
+{:text=>"RT @BritishBakeOff: It took Lulu more than two hours to extricate herself from this position #GBBOComicRelief http://t.co/PJBlSiwbWy", :followers=>37, :user_id=>2773926802, :retweet=>25}
+{:text=>"#GBBOComicRelief is comedy gold! @ferrifrump and the other women are playing a blinder 😄", :followers=>28, :user_id=>20917952, :retweet=>0}
+{:text=>"RT @BritishBakeOff: A famous iconic building... after a nuclear attack #GBBOComicRelief http://t.co/HdGgjiKhTx", :followers=>356, :user_id=>68660088, :retweet=>31}
+{:text=>"Eddy would've put the whole bottle of vodka in that buttercream #GBBOComicRelief", :followers=>2211, :user_id=>20369748, :retweet=>0}
+{:text=>"RT @BritishBakeOff: The moment you realise you've used coffee instead of chocolate... #GBBOComicRelief http://t.co/fguj0Rg3SR", :followers=>292, :user_id=>113445099, :retweet=>235}
+{:text=>"I'd Iove to get drunk with Joanna Lumley and Mel &amp; Sue. Perhaps I should gatecrash the #GBBOComicRelief wrap party.", :followers=>408, :user_id=>50372999, :retweet=>0}
+{:text=>"RT @BritishBakeOff: A famous iconic building... after a nuclear attack #GBBOComicRelief http://t.co/HdGgjiKhTx", :followers=>223, :user_id=>250687259, :retweet=>31}
+{:text=>"If this were regular Bake Off, Paul would be screaming 'it's dry you HAG', and instead has to compliment Dame Edna. #GBBOComicRelief", :followers=>97, :user_id=>2277783914, :retweet=>0}
+{:text=>"So Jennifer Saunders just looks hungover. It is marvellous. #GBBOComicRelief", :followers=>311, :user_id=>438698321, :retweet=>0}
+{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>105, :user_id=>2233800039, :retweet=>856}
+{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>1180, :user_id=>770964565, :retweet=>856}
+{:text=>"Dame Edna is just such a feat of sustained brilliance #shesalive! #GBBOComicRelief", :followers=>729, :user_id=>146064789, :retweet=>1}
+{:text=>"Jennifer to win #GBBOComicRelief", :followers=>34, :user_id=>114794555, :retweet=>0}
+{:text=>"\"@BritishBakeOff: A famous iconic building... after a nuclear attack #GBBOComicRelief http://t.co/v7fLzkXvq7\" ICONIC", :followers=>2184, :user_id=>368821527, :retweet=>0}
+{:text=>"\"a rare pink finned shark\" XD #GBBOComicRelief #dameedna", :followers=>72, :user_id=>44685052, :retweet=>0}
+{:text=>"Tv gold! Well done #GBBOComicRelief", :followers=>154, :user_id=>18897536, :retweet=>0}
+{:text=>"RT @ZozeeBo: Watching this is bringing back so many memories. THE STRESS OF THE SHOWSTOPPER! #GBBOComicRelief", :followers=>787, :user_id=>1589228719, :retweet=>723}
+{:text=>"The judges probably will come down on me quite hard, because I'm so famous 😹 fantastic #GBBOComicRelief", :followers=>123, :user_id=>140857604, :retweet=>0}
+{:text=>"\"@JohnWhaiteBakes: Dame Edna's pastry is rather wet. Perhaps it's down to those large, manly hands? #GBBOComicRelief\"BURN! Lol", :followers=>1104, :user_id=>192944127, :retweet=>0}

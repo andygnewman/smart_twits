@@ -1,5 +1,0 @@
-{:text=>"#SocialSoundoff: Jon Stewart announced he's leaving The Daily Show -- who should replace him? Tell us why! http://t.co/cWn9GsPFxO", :followers=>152850, :user_id=>23614207, :retweet=>2}
-{:text=>"CNN Execs Report Best Sleep in Months After Jon Stewart Announces Daily Show Departure.", :followers=>12130, :user_id=>16313480, :retweet=>0}
-{:text=>"Caller Assim: \"The genius of Jon Stewart is he conducts real interviews...He doesn't submit to the canned media circuit parade.\"", :followers=>5898, :user_id=>621944705, :retweet=>0}
-{:text=>"RT @cnsnews: Jon Stewart's exit as a phony newsman is a loss to real news http://t.co/Q9vBjJrKW7", :followers=>5852, :user_id=>522757263, :retweet=>5}
-{:text=>"RT @washingtonpost: It was time for Jon Stewart to wrap up the joke anyway http://t.co/57IQavNbGE", :followers=>5559, :user_id=>549600704, :retweet=>5}

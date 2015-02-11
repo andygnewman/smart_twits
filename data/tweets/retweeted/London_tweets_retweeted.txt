@@ -1,5 +1,0 @@
-{:text=>"RT @Gurmeetramrahim: #3DaysToMSG yesterday in London , My rock kids ,God bless you all http://t.co/ZNpGG1L2zq", :followers=>72, :user_id=>552768906, :retweet=>5488}
-{:text=>"RT @jackgilinsky: I'm so excited for the London show", :followers=>40321, :user_id=>1068688850, :retweet=>4935}
-{:text=>"RT @BarsAndMelody: Make sure you come see us on the Wednesday 18th of February at Banquet Records, Kingston LONDON, gonna be signing your K…", :followers=>859, :user_id=>898311715, :retweet=>676}
-{:text=>"RT @BarsAndMelody: Also tickets left for Oxford / London / Newcastle / Manchester / Inverness / Sheffield / Bournemouth / Leicester / Ebbw …", :followers=>859, :user_id=>898311715, :retweet=>528}
-{:text=>"RT @RitaOra: @FiftyShades London premiere tomorrow! It’s a blink and you’ll miss it role,but for my first acting gig I’m so happy to be par…", :followers=>99, :user_id=>1539073748, :retweet=>107}

@@ -1,0 +1,5 @@
+{:text=>"Familias que invadieron lote en #VillaCafé denuncian presiones para desalojar el predio &gt;&gt; http://t.co/eBInx94fDP", :followers=>125930, :user_id=>201432345, :retweet=>0}
+{:text=>"1979 Firebird, Firebird promo shoot, special shoutout to Jerry Villa and his team at Showtime Audio http://t.co/qvb0lhVs6W", :followers=>33416, :user_id=>2996404674, :retweet=>0}
+{:text=>"RT @STPS_Oaxaca: 2a. Feria de Empleo, en Villa Zaachila, Oax, con la oferta de 22 empresas participantes. @INAPAM @jchongc http://t.co/FRjI…", :followers=>23736, :user_id=>89494120, :retweet=>1}
+{:text=>"#OperacaoBetaLab Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after... http://t.co/AszE8NpCKE #SDV #TIMBETA", :followers=>21038, :user_id=>1496212820, :retweet=>0}
+{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>15468, :user_id=>1687108614, :retweet=>1492}

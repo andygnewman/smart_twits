@@ -1,5 +1,5 @@
-{:text=>"#ReplaceAMovieTitleWithGoat Failure to Goat 🐑", :followers=>12227, :user_id=>474221855, :retweet=>0}
-{:text=>"RT @AlexReidPerc: Silence of the goats #ReplaceAMovieTitleWithGoat", :followers=>6380, :user_id=>83477443, :retweet=>1}
-{:text=>"RT @BowTieCinemas: #ReplaceAMovieTitleWithGoat Fifty Shades of Goat #FiftyShadesofGrey @FiftyShades http://t.co/pwSpI35248", :followers=>5183, :user_id=>64997961, :retweet=>2}
-{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>3560, :user_id=>1204706040, :retweet=>205}
-{:text=>"http://t.co/np7viYQfln  #ChapelHillShooting #ReplaceAMovieTitleWithGoat", :followers=>2735, :user_id=>3000496763, :retweet=>0}
+{:text=>"RT @OutfieldMovie: The Goatfield #ReplaceAMovieTitleWithGoat", :followers=>5628, :user_id=>260905241, :retweet=>163}
+{:text=>"RT @joselouis4077: @TheRealElvira Now this movie would be scary! #ReplaceAMovieTitleWithGoat http://t.co/cckBy1Ft1S", :followers=>2810, :user_id=>2229646347, :retweet=>1}
+{:text=>"#ReplaceAMovieTitleWithGoat\nIf you build it, he will goat. http://t.co/if58NxWvT6", :followers=>2400, :user_id=>46745322, :retweet=>0}
+{:text=>"Why? #ReplaceAMovieTitleWithGoat http://t.co/BfjrNzm6Fs", :followers=>1999, :user_id=>2775040478, :retweet=>0}
+{:text=>"RT Nora_McManus: #ReplaceAMovieTitleWithGoat: \"Looking for Mr. Goat-bar\"", :followers=>1982, :user_id=>39609036, :retweet=>0}

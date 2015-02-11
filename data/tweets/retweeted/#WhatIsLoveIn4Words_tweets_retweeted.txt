@@ -1,0 +1,5 @@
+{:text=>"RT @WWMLD: Here's my @netflix password. #WhatIsLoveIn4Words", :followers=>194, :user_id=>445015997, :retweet=>195}
+{:text=>"RT @5SOS_Daily: #WhatIsLoveIn4Words \"you won backstage passes\"", :followers=>182, :user_id=>1633814330, :retweet=>162}
+{:text=>"RT @5SOS_Daily: #WhatIsLoveIn4Words \"you won backstage passes\"", :followers=>211, :user_id=>2859712882, :retweet=>162}
+{:text=>"RT @5SOS_Daily: #WhatIsLoveIn4Words \"you won backstage passes\"", :followers=>310, :user_id=>2700623705, :retweet=>162}
+{:text=>"RT @adultswim: Baby\nDon't\nHurt\nMe\n#WhatIsLoveIn4Words?\nhttps://t.co/2F7y5HBOxQ", :followers=>33, :user_id=>2730680288, :retweet=>148}

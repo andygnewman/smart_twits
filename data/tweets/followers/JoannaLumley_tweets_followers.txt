@@ -1,0 +1,5 @@
+{:text=>"Loved Joanna Lumley on #GBBO? Then you won't want to miss her as she hosts our Midsummer Race Day at @LingfieldPark. http://t.co/KQjgdmNQ3v", :followers=>32077, :user_id=>15562419, :retweet=>0}
+{:text=>"Joanna Lumley I now want as an aunt, sister, mother etc..... I'll take her as any female in my life 😍🙌 #BakeOff", :followers=>20473, :user_id=>781228327, :retweet=>0}
+{:text=>"The Great Comic Relief Bake-Off: Jennifer Saunders &amp; Joanna Lumley feature in this charity special… http://t.co/HLM0BByDQF", :followers=>20010, :user_id=>14783335, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>8496, :user_id=>233679802, :retweet=>161}
+{:text=>"Joanna Lumley is me in female form I swear 😨", :followers=>8116, :user_id=>94849503, :retweet=>0}

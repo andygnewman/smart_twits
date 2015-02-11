@@ -1,0 +1,5 @@
+{:text=>"RT @ManUtd: 6' - Goal! Smalling scores with his first touch - unbelievable! United 1 Burnley 0. #mufclive", :followers=>3610, :user_id=>2444138080, :retweet=>2539}
+{:text=>"RT @ManUtd: 45+3' - Goal! Smalling scores again! United 2 Burnley 1. #mufclive", :followers=>26, :user_id=>2711110082, :retweet=>1976}
+{:text=>"RT @ManUtd: 45+3' - Goal! Smalling scores again! United 2 Burnley 1. #mufclive", :followers=>103, :user_id=>251282340, :retweet=>1976}
+{:text=>"RT @ManUtd: HT: United 2 Burnley 1. The Clarets have made it difficult, but the Reds lead thanks to substitute Smalling’s double. http://t.…", :followers=>177, :user_id=>459784382, :retweet=>1125}
+{:text=>"RT @ManUtd: HT: United 2 Burnley 1. The Clarets have made it difficult, but the Reds lead thanks to substitute Smalling’s double. http://t.…", :followers=>4, :user_id=>2786920757, :retweet=>1125}

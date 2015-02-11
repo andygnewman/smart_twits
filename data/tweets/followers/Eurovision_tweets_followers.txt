@@ -1,5 +1,0 @@
-{:text=>"Eurovision 2015 : l'Australie rejoint exceptionnellement le concours cette année http://t.co/NqEZiEalEQ", :followers=>91849, :user_id=>20600053, :retweet=>0}
-{:text=>"Gran sorpresa en Eurovisión: Australia participará por primera vez en el festival http://t.co/7NphLM78Xr", :followers=>55907, :user_id=>1392641706, :retweet=>3}
-{:text=>"Waltzing glittery Matilda! Australia to compete in the 2015 Eurovision Song Contest http://t.co/e1yeHwquS9 via @aussiemoose", :followers=>35165, :user_id=>988725697, :retweet=>0}
-{:text=>"RT @FR314: Australia is now part of the @Eurovision. \n\nIn other news, here’s the correct map of Europe. Looks accurate. http://t.co/RMAt9r6…", :followers=>25341, :user_id=>295268824, :retweet=>40}
-{:text=>"Australia will feature in this year’s Eurovision song contest, just because. http://t.co/Bg9ak5ugKT http://t.co/ln0wMWxtTb", :followers=>4138, :user_id=>205178645, :retweet=>0}

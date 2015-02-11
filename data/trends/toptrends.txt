@@ -1,10 +1,10 @@
-{:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting"}
-{:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words"}
-{:name=>"#ReplaceAMovieTitleWithGoat", :query=>"%23ReplaceAMovieTitleWithGoat"}
-{:name=>"#HSBC", :query=>"%23HSBC"}
-{:name=>"#HoleInMyHeartTour", :query=>"%23HoleInMyHeartTour"}
-{:name=>"Jon Stewart", :query=>"%22Jon+Stewart%22"}
-{:name=>"Costa Concordia", :query=>"%22Costa+Concordia%22"}
-{:name=>"Herrera", :query=>"Herrera"}
-{:name=>"London", :query=>"London"}
-{:name=>"Muslims", :query=>"Muslims"}
+{:name=>"#GBBOComicRelief", :query=>"%23GBBOComicRelief", :filename=>"#GBBOComicRelief"}
+{:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting", :filename=>"#ChapelHillShooting"}
+{:name=>"#ComicReliefBakeOff", :query=>"%23ComicReliefBakeOff", :filename=>"#ComicReliefBakeOff"}
+{:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words", :filename=>"#WhatIsLoveIn4Words"}
+{:name=>"Joanna Lumley", :query=>"%22Joanna+Lumley%22", :filename=>"JoannaLumley"}
+{:name=>"Chris Smalling", :query=>"%22Chris+Smalling%22", :filename=>"ChrisSmalling"}
+{:name=>"Paul Lambert", :query=>"%22Paul+Lambert%22", :filename=>"PaulLambert"}
+{:name=>"#ReplaceAMovieTitleWithGoat", :query=>"%23ReplaceAMovieTitleWithGoat", :filename=>"#ReplaceAMovieTitleWithGoat"}
+{:name=>"Burnley", :query=>"Burnley", :filename=>"Burnley"}
+{:name=>"Villa", :query=>"Villa", :filename=>"Villa"}

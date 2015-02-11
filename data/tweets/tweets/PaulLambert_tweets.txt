@@ -1,0 +1,100 @@
+{:text=>"RT @GetFootballNews: BREAKING: Paul Lambert has been sacked as Aston Villa manager. #AVFC", :followers=>185, :user_id=>1607916186, :retweet=>268}
+{:text=>"Aston Villa sack manager Paul Lambert after the club dropped into the Premier League relegation zone. http://t.co/ACGlWYP32w", :followers=>2116, :user_id=>2841099951, :retweet=>0}
+{:text=>"RT @sidneyabbot: So Paul Lambert has been sacked as Villa manager.  In other surprising news http://t.co/J2wjyT0e21", :followers=>162, :user_id=>337223460, :retweet=>27}
+{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>15468, :user_id=>1687108614, :retweet=>1492}
+{:text=>"#Wagner_Kc Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul... http://t.co/2Gk7q7wT0T", :followers=>1338, :user_id=>1011063336, :retweet=>0}
+{:text=>"How did paul lambert keep his job for that long?", :followers=>542, :user_id=>293745122, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/cA6tUkCrmF", :followers=>177, :user_id=>2262489866, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/IbLNKgvLmS", :followers=>102, :user_id=>1860425437, :retweet=>0}
+{:text=>"RT @paddypower: BREAKING: Paul Lambert drowning his sorrows by boozing, ended up in a brothel.\n\nDidn't score.", :followers=>76, :user_id=>46182434, :retweet=>881}
+{:text=>"RT @AaronSDeezy: Aston Villa fans react to the news that Paul Lambert has been sacked.\nhttps://t.co/BViXeH3V0t\" @katherinepoyner @sljvilla …", :followers=>68, :user_id=>239446903, :retweet=>1}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert", :followers=>828, :user_id=>1646906642, :retweet=>0}
+{:text=>"RT @paddypower: BREAKING: Paul Lambert drowning his sorrows by boozing, ended up in a brothel.\n\nDidn't score.", :followers=>1313, :user_id=>704126069, :retweet=>881}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/mdZewrfTk3", :followers=>282, :user_id=>2444735120, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/k2rDa88AUY", :followers=>210, :user_id=>1567650445, :retweet=>0}
+{:text=>"Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/AAgFZIGauV", :followers=>956, :user_id=>2286773341, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/5qmRw7Nkyv", :followers=>4169, :user_id=>109022466, :retweet=>0}
+{:text=>"RT @TransferSite: Aston Villa fans after hearing the news that Paul Lambert has been sacked... http://t.co/XTu22HEkWv", :followers=>172, :user_id=>20247123, :retweet=>180}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/AJmrlHbZe8", :followers=>654, :user_id=>2410423380, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/4kRA08Tlm9", :followers=>2070, :user_id=>357408757, :retweet=>0}
+{:text=>"Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/h4Xj6qWsRP #CR7 #JALEE", :followers=>998, :user_id=>2430172644, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert http://t.co/eWoXIV36Ov", :followers=>934, :user_id=>546714246, :retweet=>0}
+{:text=>"Paul Lambert sacked? BAHAHA! Bet he wishes he never left. ;) Gutted.", :followers=>1019, :user_id=>27011379, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert.", :followers=>76, :user_id=>2478099018, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert.", :followers=>1822, :user_id=>1003695488, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/tnytjseYHv", :followers=>1182, :user_id=>1546370760, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/XX35aNJXRS", :followers=>461, :user_id=>1563617131, :retweet=>0}
+{:text=>"RT @sidneyabbot: So Paul Lambert has been sacked as Villa manager.  In other surprising news http://t.co/J2wjyT0e21", :followers=>276, :user_id=>1908709502, :retweet=>27}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert http://t.co/CiyzGLozin #BolaNet", :followers=>202, :user_id=>1479888200, :retweet=>0}
+{:text=>"RT @Carra23: I don't think Paul Lambert can complain to much at Aston Villa's decision tonight. The timing is strange albeit the https://t.…", :followers=>168, :user_id=>85476706, :retweet=>24}
+{:text=>"RT @oldmansaid: Hopefully Paul Lambert will pick himself up and go again. #avfc", :followers=>34, :user_id=>292153359, :retweet=>50}
+{:text=>"RT @TransferSite: BREAKING NEWS: Aston Villa have sacked manager Paul Lambert. (Source: @AVFCOfficial) http://t.co/nLpe7EJRkv", :followers=>355, :user_id=>40266469, :retweet=>209}
+{:text=>"RT @MercadoIngles_: NOTICIA. El director tecnico del Aston Villa, Paul Lambert, ha sido despedido.", :followers=>151, :user_id=>204999797, :retweet=>12}
+{:text=>"RT @FIFAcom: Paul Lambert has departed #AVFC after the club slipped into the @premierleague relegation zone\nhttp://t.co/dcMSZqnkZW http://t…", :followers=>25, :user_id=>925128782, :retweet=>50}
+{:text=>"RT @BBCSport: Aston Villa have parted company with manager Paul Lambert. More to follow", :followers=>13, :user_id=>1044465787, :retweet=>903}
+{:text=>"RT @ABUU_BAKR: \"@SkyFootball: FULL STORY: Aston Villa have sacked Paul Lambert: http://t.co/8NuWE0T1yD http://t.co/vvQW16Ufig\" He's been aw…", :followers=>1702, :user_id=>184117280, :retweet=>1}
+{:text=>"Paul Lambert sacked by Aston Villa | via @Telegraph http://t.co/0yHnahAHkC", :followers=>29, :user_id=>2959159996, :retweet=>0}
+{:text=>"RT @sidneyabbot: So Paul Lambert has been sacked as Villa manager.  In other surprising news http://t.co/J2wjyT0e21", :followers=>18, :user_id=>810554641, :retweet=>27}
+{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>1231, :user_id=>42503480, :retweet=>1492}
+{:text=>"RT @BBCSporf: BREAKING: Aston Villa fans react to the news that Paul Lambert has been sacked.\nhttps://t.co/MkMcudB4XB", :followers=>28, :user_id=>419477116, :retweet=>428}
+{:text=>"RT @TransferSite: Aston Villa fans after hearing the news that Paul Lambert has been sacked... http://t.co/XTu22HEkWv", :followers=>17, :user_id=>82469966, :retweet=>180}
+{:text=>"Terrible news from the hawthorns RIP Paul lambert #LambertOut", :followers=>59, :user_id=>1123298370, :retweet=>0}
+{:text=>"#OperacaoBetaLab Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after... http://t.co/AszE8NpCKE #SDV #TIMBETA", :followers=>21038, :user_id=>1496212820, :retweet=>0}
+{:text=>"BolaNet Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang ma... http://t.co/mJIF1r59Lf #TeamDCostaID", :followers=>13, :user_id=>2445639019, :retweet=>0}
+{:text=>"@guysexty they must have heard Paul Lambert had been fired", :followers=>36, :user_id=>74180939, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/k0BkY2JG0M", :followers=>514, :user_id=>1152171198, :retweet=>0}
+{:text=>"RT @TransferSite: Aston Villa fans after hearing the news that Paul Lambert has been sacked... http://t.co/XTu22HEkWv", :followers=>255, :user_id=>228429081, :retweet=>180}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/E8CJFJwK3D", :followers=>267, :user_id=>2445224948, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/nYBv1BLL3p", :followers=>251, :user_id=>1203613591, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert http://t.co/cuCRuFsXUx", :followers=>47, :user_id=>2425464787, :retweet=>0}
+{:text=>"RT @paddypower: BREAKING: Paul Lambert drowning his sorrows by boozing, ended up in a brothel.\n\nDidn't score.", :followers=>142, :user_id=>283975581, :retweet=>881}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang man... http://t.co/to3VP9TjTE #football #sepakbola", :followers=>913, :user_id=>2443578422, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Pa... http://t.co/to3VP9TjTE #sepak #bola", :followers=>913, :user_id=>2443578422, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/x7in8Sv26w", :followers=>551, :user_id=>2386180555, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert http://t.co/chdOc2KIGt", :followers=>75, :user_id=>2442045512, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert http://t.co/Qua1VrGJMT", :followers=>97, :user_id=>1701652190, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/dh9kdJvTFv", :followers=>97, :user_id=>1701652190, :retweet=>0}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Prem... http://t.co/n8MfWBbeFo", :followers=>221, :user_id=>2274839983, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert http://t.co/qfeBdWSgd7 #acmilanlampung", :followers=>1378, :user_id=>1116219632, :retweet=>0}
+{:text=>"RT @astonvilla: (Sky Sports) Lambert sacked by Aston Villa http://t.co/1PyuDBaOzZ #avfc", :followers=>25, :user_id=>925128782, :retweet=>7}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/imFybTSSRK", :followers=>894, :user_id=>2441047902, :retweet=>0}
+{:text=>"Paul Lambert leaves Villa: Manager Paul Lambert has left Aston Villa after parting company with the club on Tuesday. http://t.co/rburQgAZth", :followers=>1911, :user_id=>2240810220, :retweet=>0}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped in... http://t.co/bPrCOCUdvq #NewsWorld", :followers=>2995, :user_id=>2232433148, :retweet=>0}
+{:text=>"RT @LFCZA: Evans on who was better between Brendan Rodgers, Roberto Martinez or Paul Lambert - \"If I was betting for the long term? Lambert…", :followers=>297, :user_id=>41108012, :retweet=>112}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/if4swjJ8i3", :followers=>2131, :user_id=>1078408838, :retweet=>0}
+{:text=>"RT @itvnews: Aston Villa sack manager Paul Lambert http://t.co/vwhPQlHHns http://t.co/hz2JL1gwKy", :followers=>173, :user_id=>2798685337, :retweet=>40}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/XYIRUNK8KY", :followers=>841, :user_id=>2401400930, :retweet=>0}
+{:text=>"@TheTweetOfGod thanks for firing Paul Lambert btw, my prayers were answered.", :followers=>39, :user_id=>27982240, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/olokGo7REX", :followers=>693, :user_id=>470286889, :retweet=>0}
+{:text=>"Bye bye Paul Lambert. It hasn't been fun.", :followers=>33, :user_id=>2147805686, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert http://t.co/VDr6KUF2u3", :followers=>34, :user_id=>2372081936, :retweet=>0}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Prem... http://t.co/o07W3FJgqf", :followers=>2143, :user_id=>81159423, :retweet=>0}
+{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/kFzCF5QAmj", :followers=>2553, :user_id=>2173792382, :retweet=>0}
+{:text=>"RT @AVFCOfficial: Breaking news: We can confirm that manager Paul Lambert's contract has been extended to June 2018. #AVFC http://t.co/PMJi…", :followers=>1660, :user_id=>125362385, :retweet=>1558}
+{:text=>"@KB_ONeill RT @101greatgoals: Paul Lambert. \"No doubt!\" https://t.co/NJhTVSMDVa", :followers=>251, :user_id=>21613557, :retweet=>0}
+{:text=>"RT @AVFCOfficial: CLUB STATEMENT: Paul Lambert. Full details are here: http://t.co/wHxOakzW24 #AVFC http://t.co/kxfetqcm48", :followers=>12, :user_id=>2980766628, :retweet=>2463}
+{:text=>"RT @ImDanWaite: “@Vine_Football: Aston Villa fans when they hear Paul Lambert has been sacked. http://t.co/EGYPSZCf0b” 😄😄😄😄😄", :followers=>604, :user_id=>381157289, :retweet=>2}
+{:text=>"RT @KerryOsborne6: paul lambert's done well to keep his job up until now, he should have been sacked ages ago", :followers=>1103, :user_id=>477968884, :retweet=>4}
+{:text=>"RT @sidneyabbot: So Paul Lambert has been sacked as Villa manager.  In other surprising news http://t.co/J2wjyT0e21", :followers=>974, :user_id=>1650893856, :retweet=>27}
+{:text=>"RT @BBCSport: In case you missed it earlier Aston Villa have parted company with manager Paul Lambert http://t.co/SmchsHuA8T http://t.co/Ma…", :followers=>1125, :user_id=>1460991055, :retweet=>120}
+{:text=>"RT @birchy77: “@marathonbet: Aston Villa let Paul Lambert go earlier. Here's why we'll remember him. https://t.co/Uzlju2Fe1h” #ncfc", :followers=>736, :user_id=>810537332, :retweet=>1}
+{:text=>"RT @BBCSport: In case you missed it earlier Aston Villa have parted company with manager Paul Lambert http://t.co/SmchsHuA8T http://t.co/Ma…", :followers=>39, :user_id=>3016451200, :retweet=>120}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Premier League relegation zone.", :followers=>155, :user_id=>1243818943, :retweet=>0}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Premier League relegation zone.", :followers=>164, :user_id=>1014445069, :retweet=>0}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Premier League relegation zone.", :followers=>84, :user_id=>1282876256, :retweet=>0}
+{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>328, :user_id=>429826791, :retweet=>1492}
+{:text=>"RT @TSBible: Aston Villa fans after hearing the news that Paul Lambert has been sacked... http://t.co/oQmkDyGBtT", :followers=>103, :user_id=>309881595, :retweet=>735}
+{:text=>"RT @kabarbola_dunia: #KBDnews Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/aZCarflcy1", :followers=>236, :user_id=>721846693, :retweet=>1}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Premier League relegation zone.", :followers=>111, :user_id=>860986105, :retweet=>0}
+{:text=>"RT @paddypower: BREAKING: Paul Lambert drowning his sorrows by boozing, ended up in a brothel.\n\nDidn't score.", :followers=>36, :user_id=>724405508, :retweet=>881}
+{:text=>"#Aston Villa, Paul Lambert limogé - http://t.co/S2WxNJQq9p http://t.co/EGSzNA7hHN", :followers=>249, :user_id=>2417686492, :retweet=>0}
+{:text=>"RT @iConnology: “@Georgeswfcsmith: Aston Villa fans reaction to the sacking of Paul Lambert. #AVFC http://t.co/hHvxRFHs0W”\n\nThat's Gus Poyet", :followers=>628, :user_id=>2245334901, :retweet=>3}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Prem... http://t.co/cabgogoKga", :followers=>40224, :user_id=>87728784, :retweet=>0}
+{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Premier League relegation zone.", :followers=>134, :user_id=>610315992, :retweet=>0}
+{:text=>"RT @TSBible: Aston Villa fans after hearing the news that Paul Lambert has been sacked... http://t.co/oQmkDyGBtT", :followers=>34, :user_id=>2590682679, :retweet=>735}
+{:text=>"RT @oldmansaid: Hopefully Paul Lambert will pick himself up and go again. #avfc", :followers=>148, :user_id=>42283216, :retweet=>50}
+{:text=>"@info -  Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert", :followers=>37601, :user_id=>15503908, :retweet=>0}
+{:text=>"RT @SunSportdesk: Aston Villa sack manager Paul Lambert #avfc", :followers=>589, :user_id=>237732400, :retweet=>23}
+{:text=>"#sport Lambert sacked as Aston Villa manager http://t.co/77h9LfBYaM", :followers=>658, :user_id=>505925753, :retweet=>0}
+{:text=>"RT @AVFCOfficial: CLUB STATEMENT: Paul Lambert. Full details are here: http://t.co/wHxOakzW24 #AVFC http://t.co/kxfetqcm48", :followers=>1495, :user_id=>62838514, :retweet=>2463}
+{:text=>"I liked Paul Lambert as well. he was like a supply teacher who happened to have won the European Cup (man of the match I believe)", :followers=>550, :user_id=>423741333, :retweet=>0}

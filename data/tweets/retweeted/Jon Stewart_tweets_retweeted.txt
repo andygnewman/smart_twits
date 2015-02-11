@@ -1,5 +1,0 @@
-{:text=>"RT @mindykaling: I KNEW WHEN JON STEWART LEFT TO DIRECT THAT MOVIE HE WAS GONNA TRY SOMETHING LIKE THIS", :followers=>326, :user_id=>356541662, :retweet=>1718}
-{:text=>"RT @pattonoswalt: So, we have to navigate the poop-dipped trainwreck of the 2016 election WITHOUT Jon Stewart hosting @TheDailyShow? Hmmm...", :followers=>681, :user_id=>51786528, :retweet=>1433}
-{:text=>"RT @HoodieAllen: Jon Stewart For President", :followers=>282, :user_id=>579549455, :retweet=>648}
-{:text=>"RT @nytimes: Jon Stewart will step down from \"The Daily Show\" after more than 16 years as its anchor http://t.co/H7fGQ0kVLD http://t.co/pSB…", :followers=>144, :user_id=>30619320, :retweet=>581}
-{:text=>"RT @pattonoswalt: \"You should call Jon Stewart and tell him you'd like a tryout.\" -- a lot of comedians' good-hearted grandmas, this morning", :followers=>116, :user_id=>39654748, :retweet=>391}

@@ -1,0 +1,100 @@
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/cgCzTxfubV", :followers=>185, :user_id=>1079875387, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/4NG72H0c14", :followers=>28994, :user_id=>311307959, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/8FJKRssLQa", :followers=>295, :user_id=>408437235, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/JnGUdXQShI", :followers=>277, :user_id=>2481435204, :retweet=>0}
+{:text=>"RT @bigbettingsite: Man utd v Burnley http://t.co/NNxFgB6BBc", :followers=>71, :user_id=>610717212, :retweet=>3}
+{:text=>"That defense so weak wow “@BPLZone: De Gea with a big save to deny Burnley equalizing again https://t.co/SEoDcUMhXD”", :followers=>908, :user_id=>48154884, :retweet=>0}
+{:text=>"Rojo just had a shot and narrowly missed the floodlights! Still no shot in anger on the Burnley goal.", :followers=>520, :user_id=>1218138517, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/B4NF7pS2Uq", :followers=>12043, :user_id=>1001889529, :retweet=>0}
+{:text=>"#News - Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/EwRJIQmKg6", :followers=>266, :user_id=>1670308117, :retweet=>0}
+{:text=>"Two years ago this week United were a little unlucky to only draw with Madrid in the Bernabeu. Now they're struggling against Burnley", :followers=>1709, :user_id=>21435939, :retweet=>1}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/6uphGNlF24", :followers=>33, :user_id=>1211034151, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/UR6KP2WmIH", :followers=>148, :user_id=>998709224, :retweet=>0}
+{:text=>"\"Burnley\" is now trending at rank 4 in India", :followers=>11213, :user_id=>2789640931, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/bg3wylOl95", :followers=>194, :user_id=>1482365936, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/RfVWYgQiMB", :followers=>61, :user_id=>2481735192, :retweet=>0}
+{:text=>"Blind and Phil Jones forced off in first half of Manchester United's Burnley clash http://t.co/FjPEazVhCx", :followers=>325, :user_id=>222037957, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/Bsw5TNkY3v", :followers=>5, :user_id=>2481432326, :retweet=>0}
+{:text=>"Blind and Phil Jones forced off in first half of Manchester United's Burnley clash http://t.co/mzfhohFo7J", :followers=>60, :user_id=>1305051102, :retweet=>0}
+{:text=>"50' MUN 2-1 BUR\n\nManchester United are looking Filthy at Back, They needs to be Serious. Burnley are playing Deeper!\n\n#DM", :followers=>34, :user_id=>861013177, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/cXi4IK1Pi2", :followers=>716, :user_id=>1356954241, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley: Super sub beraksi di Old Trafford. http://t.co/ravq0zwhHj", :followers=>234, :user_id=>2369487355, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/y7J4XlmBP6", :followers=>3, :user_id=>2481437821, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/tdHdG5QqdD", :followers=>30, :user_id=>138481643, :retweet=>0}
+{:text=>"@BBCRedWednesday still time for Burnley to score more love. Listen darling Manchester is &amp; will always be blue :)", :followers=>453, :user_id=>39816699, :retweet=>0}
+{:text=>"Watching United vs Burnley makes me realise that being an Arsenal fan isn't so bad after all..", :followers=>688, :user_id=>140441670, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley: Super sub beraksi di Old Trafford. http://t.co/EgLA6ncINh", :followers=>4665, :user_id=>212501725, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/3HBS2dlok9", :followers=>3, :user_id=>2481406812, :retweet=>0}
+{:text=>"RT @S0CCERberita: MU Sementara Imbang dengan Burnley 1-1 http://t.co/XN4idtcFEH #SoccerBerita", :followers=>16, :user_id=>2990167659, :retweet=>4}
+{:text=>"RT @MorenotelIi: \"@BPLZone: De Gea with a big save to deny Burnley equalizing again https://t.co/wlFSoVT2tw\"\n\nStraight at him", :followers=>1598, :user_id=>1647491318, :retweet=>2}
+{:text=>"RT @SportStreamerUK: Manchester United vs Burnley\n\n*iOS &amp; Android Compatible*\n\n(HD) http://t.co/vODagcGuoH\n(ENG) http://t.co/dpuv58ZL7x\n\nRT…", :followers=>216, :user_id=>288091144, :retweet=>164}
+{:text=>"RT @Squawka: Man United 2-1 Burnley HT:\n\nShots: 3-10\nPass accuracy: 79%-75%\nChances created: 2-8\nClearances: 26-24 http://t.co/vfY9pQZO9c", :followers=>422, :user_id=>1564014121, :retweet=>105}
+{:text=>"RT @ManUtd: 6' - Goal! Smalling scores with his first touch - unbelievable! United 1 Burnley 0. #mufclive", :followers=>3610, :user_id=>2444138080, :retweet=>2539}
+{:text=>"Chelsea 0-0 Everton\nMan U 2-1 Burnley\nSouthampton 0-0 WHU\nStoke 1-1 Man City\nC.Palace 0-1 Newcastle Utd (HT)\nWest Brom 0-0 Swansea (HT)", :followers=>260, :user_id=>960648752, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/YdSbkxuqEs", :followers=>1806, :user_id=>2464008830, :retweet=>0}
+{:text=>"RT @everything_utd: Not sure why everyone having a go at Evans. His passing tonight has been consistent. Just consistently to a Burnley pla…", :followers=>1331, :user_id=>939242070, :retweet=>14}
+{:text=>"&lt;#manutd [2] - 1 #Burnley&gt; #but de Smalling !!! 45+3' https://t.co/pcyUqoKqw8", :followers=>65, :user_id=>2909456460, :retweet=>0}
+{:text=>"RT @Squawka: No Man Utd midfielder or striker had a shot in the first half vs. Burnley - Chris Smalling (2) &amp; Paddy McNair (1). http://t.co…", :followers=>67, :user_id=>518109018, :retweet=>203}
+{:text=>"Now Watch Manchester United vs Burnley Live Online Stream TV =&gt; http://t.co/dFyHNLZHeE #ManUtd tv405 ch798", :followers=>96, :user_id=>1525275386, :retweet=>0}
+{:text=>"Herera is flourishing #FreeHerera #ManUnited vs Burnley", :followers=>59, :user_id=>2767448433, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/iUTKPQsgYG", :followers=>172, :user_id=>1636733384, :retweet=>0}
+{:text=>"RT @ManUtd: HT: United 2 Burnley 1. The Clarets have made it difficult, but the Reds lead thanks to substitute Smalling’s double. http://t.…", :followers=>154, :user_id=>596528290, :retweet=>1125}
+{:text=>"RT @ManUtd: 45+3' - Goal! Smalling scores again! United 2 Burnley 1. #mufclive", :followers=>26, :user_id=>2711110082, :retweet=>1976}
+{:text=>"That pass by Jonny Evans was unbelievable - he must be thinking its next season, when he's lining up for burnley", :followers=>142, :user_id=>219393569, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/E5Yc2nvKOb", :followers=>213, :user_id=>480127349, :retweet=>0}
+{:text=>"RT @SamEllard88: Manchester United are having to play on the counter attack at home to Burnley... Oh dear LVG.", :followers=>85, :user_id=>72536145, :retweet=>13}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/h1kDPuXumN", :followers=>93, :user_id=>2831131117, :retweet=>0}
+{:text=>"RT @ManUtd_ID: 48'- Kesalahan pemain belakang United hampir saja membuat Burnley menyamakan kedudukan. #mufcIDlive", :followers=>2946, :user_id=>2214454290, :retweet=>14}
+{:text=>"United cudem prowadzą na Old Trafford z Burnley, a tu możecie śledzić wydarzenia boiskowe. @Sofa_News http://t.co/Lsr9LlCu7V", :followers=>358, :user_id=>925653680, :retweet=>0}
+{:text=>"I didn't know Burnley was such a big team, OR sometimes your opponents make you look big #MUFC", :followers=>438, :user_id=>160899386, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/nzLHhtv8t6", :followers=>18, :user_id=>1059787309, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley: Super sub beraksi di Old Trafford. http://t.co/AUndKhpnX1", :followers=>468, :user_id=>1088674512, :retweet=>0}
+{:text=>"Super sub beraksi di Old Trafford. http://t.co/FGPtFkfBv9", :followers=>3839, :user_id=>2253076646, :retweet=>0}
+{:text=>"Watch Watch Manchester United vs Burnley Live Streaming Here =&gt; http://t.co/0G8LZNW5ph  tv555 ch517", :followers=>79, :user_id=>1525247240, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/StAcjOrjfw", :followers=>174, :user_id=>2256067125, :retweet=>0}
+{:text=>"RT @MUFC_NL: RUSTSTAND: Manchester United - Burnley 2-1. [2 x Smalling]", :followers=>118, :user_id=>386689881, :retweet=>2}
+{:text=>"RT @ManUtd: 11' - Burnley aren't about to let United dominate this game with Kightly forcing De Gea into a fine save a few moments ago. #mu…", :followers=>3610, :user_id=>2444138080, :retweet=>135}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/SkhgjqFUhX #BacotBola", :followers=>210, :user_id=>1391597258, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley: Super sub beraksi di Old Trafford. http://t.co/UPSmBoX85e", :followers=>2481, :user_id=>324798458, :retweet=>0}
+{:text=>"RT @Metro_TV: Burnley Tertinggal dari MU http://t.co/gi6F2Llali", :followers=>259, :user_id=>2382033175, :retweet=>1}
+{:text=>"Burnley je kot. Dafuq", :followers=>381, :user_id=>409969702, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/xahF6KIlhj", :followers=>10, :user_id=>2992042439, :retweet=>0}
+{:text=>"RT @ManUtd: 45+3' - Goal! Smalling scores again! United 2 Burnley 1. #mufclive", :followers=>103, :user_id=>251282340, :retweet=>1976}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/RCquBpmrp3", :followers=>58, :user_id=>628450322, :retweet=>0}
+{:text=>"Super sub beraksi di Old Trafford. http://t.co/3QcboF21SI", :followers=>2341, :user_id=>2192152490, :retweet=>0}
+{:text=>"Louis Van Gaal may need another very complicated hand-out to convince the #MUFC fans that this is a good performance... #BURNLEY", :followers=>9089, :user_id=>469301340, :retweet=>1}
+{:text=>"RT @manutd2day: GOAL!!\n\n#MUFC 2-1 #Burnley\n\nChris Smalling has netted his second of the game to fire #MUFC ahead on the brink of HT.", :followers=>26, :user_id=>2711110082, :retweet=>16}
+{:text=>"RT @Squawka: No Man Utd midfielder or striker had a shot in the first half vs. Burnley - Chris Smalling (2) &amp; Paddy McNair (1). http://t.co…", :followers=>47, :user_id=>457425701, :retweet=>203}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/FqXW6eS7IM", :followers=>21, :user_id=>2223487501, :retweet=>0}
+{:text=>"RT @ManUtd: HT: United 2 Burnley 1. The Clarets have made it difficult, but the Reds lead thanks to substitute Smalling’s double. http://t.…", :followers=>177, :user_id=>459784382, :retweet=>1125}
+{:text=>"RT @manutd_action: 45+2' GOAL! Man Utd 2-1 Burnley. It's a second United goal &amp; remarkably it's from Chris Smalling again. After a one-two …", :followers=>12, :user_id=>407089252, :retweet=>3}
+{:text=>"YOU WAIT FOR THE WHOLE FLICKING BURNLEY SIDE TO COME BACK?", :followers=>722, :user_id=>635500597, :retweet=>0}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1: Gol cepat Manchester United langsung dibalas oleh Burnley. Kedudukan s... http://t.co/fCum5KipJg", :followers=>24, :user_id=>1629979645, :retweet=>0}
+{:text=>"this is really incredible how are burnley not winning this by country mile", :followers=>378, :user_id=>279449827, :retweet=>0}
+{:text=>"Перерыв. Обсуждаем!\nStoke - MC 1-1\nChelsea - Everton 0-0\nMU - Burnley 2-1\nSoton - West Ham 0-0 http://t.co/xMilwsNj0v", :followers=>97, :user_id=>2991490935, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley: Super sub beraksi di Old Trafford. http://t.co/CyTn7aKJPX", :followers=>2013, :user_id=>279498000, :retweet=>0}
+{:text=>"RT @OnlineSkor: Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/w7jq6fbVad\n\n#ManchesterUnited #manutd #BPL #MCFC #Unite…", :followers=>1096, :user_id=>2409319662, :retweet=>56}
+{:text=>"RT @OnlineSkor: Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/w7jq6fbVad\n\n#ManchesterUnited #manutd #BPL #MCFC #Unite…", :followers=>445, :user_id=>2465975496, :retweet=>56}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/zlG3WbTtFr #bunzworld", :followers=>708, :user_id=>543168227, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley: Super sub beraksi di Old Trafford. http://t.co/bMGV415hYj", :followers=>2472, :user_id=>277506188, :retweet=>0}
+{:text=>"RT @OnlineSkor: Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/w7jq6fbVad\n\n#ManchesterUnited #manutd #BPL #MCFC #Unite…", :followers=>232, :user_id=>2529897620, :retweet=>56}
+{:text=>"48' QUÉ PARADÓN DE DE GEA!! A punto de empatar el Burnley!!\n\n#ManUtd  2-1 #Burnley #EPL", :followers=>2838, :user_id=>444608937, :retweet=>0}
+{:text=>"RT @IndyFootball: Substitute Chris Smalling scores twice against Burnley...the internet erupts http://t.co/InX0aOR9RO http://t.co/RrgNb8i4Hy", :followers=>229, :user_id=>1063942566, :retweet=>6}
+{:text=>"RT @BookieBashers_: *MASSIVE ODDS EXCLUSIVE*\n\n#MUFC To Beat #BURNLEY @ 6/1 (NORMALLY 1/4)\n\nBONUS CODE:  MUBURN\n\n&gt;&gt; http://t.co/ZlpuFju5JX h…", :followers=>22568, :user_id=>2982273674, :retweet=>7}
+{:text=>"RT @OnlineSkor: Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/w7jq6fbVad\n\n#ManchesterUnited #manutd #BPL #MCFC #Unite…", :followers=>852, :user_id=>2399384960, :retweet=>56}
+{:text=>"RT @ManUtd: HT: United 2 Burnley 1. The Clarets have made it difficult, but the Reds lead thanks to substitute Smalling’s double. http://t.…", :followers=>4, :user_id=>2786920757, :retweet=>1125}
+{:text=>"Presidential candidate @YEmmyKay: \"@dharmieking: That pass from burnley is class👌\"\n\nWho is burnley?\"", :followers=>4579, :user_id=>189233743, :retweet=>0}
+{:text=>"RT @ManUtd: 18' - After Trippier set up Ings' goal, Burnley continue to look dangerous down the right - Barnes has just gone close. #mufcli…", :followers=>3610, :user_id=>2444138080, :retweet=>132}
+{:text=>"Watch Manchester United vs Burnley Live Stream =&gt; http://t.co/D24kGDzMv6 #GGMU tv81 ch946", :followers=>163, :user_id=>1302817830, :retweet=>0}
+{:text=>"RT @OnlineSkor: Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/w7jq6fbVad\n\n#ManchesterUnited #manutd #BPL #MCFC #Unite…", :followers=>857, :user_id=>2409427321, :retweet=>56}
+{:text=>"Not sure why everyone having a go at Evans. His passing tonight has been consistent. Just consistently to a Burnley player #MUFC", :followers=>23860, :user_id=>2505732606, :retweet=>14}
+{:text=>"Lol. We gonna park the bus v Burnley and get Arsenal’d?", :followers=>191, :user_id=>183496254, :retweet=>0}
+{:text=>"RT @OnlineSkor: Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/w7jq6fbVad\n\n#ManchesterUnited #manutd #BPL #MCFC #Unite…", :followers=>88, :user_id=>2397519469, :retweet=>56}
+{:text=>"AGEN SABUNG AYAM ~ Sepasang Gol Smalling Bikin MU Ungguli Burnley di Babak Pertama http://t.co/3NhBXVTVZh", :followers=>36, :user_id=>2564413172, :retweet=>0}
+{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley: Super sub beraksi di Old Trafford. http://t.co/VIWvwY4VkJ", :followers=>323, :user_id=>2148372631, :retweet=>0}
+{:text=>"RT @OnlineSkor: Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/w7jq6fbVad\n\n#ManchesterUnited #manutd #BPL #MCFC #Unite…", :followers=>476, :user_id=>2399371430, :retweet=>56}
+{:text=>"RT @SportStreamerUK: Manchester United vs Burnley\n\n*iOS &amp; Android Compatible*\n\n(HD) http://t.co/vODagcGuoH\n(ENG) http://t.co/dpuv58ZL7x\n\nRT…", :followers=>86, :user_id=>172774404, :retweet=>164}
+{:text=>"MU Sementara Imbang dengan Burnley 1-1 http://t.co/DHRJk6yHVu", :followers=>464, :user_id=>2267238344, :retweet=>0}
+{:text=>"Burnleyのサッカー割と面白いけどなー点数取れてるのも納得だし", :followers=>75, :user_id=>342458576, :retweet=>0}
+{:text=>"Manchester United Vs Burnley Free Online\n\nLive Stream : http://t.co/hiblCEVQFd\n\n#ManchesterUnited #manutd #BPL #MCFC #UnitedDay #mufc", :followers=>637, :user_id=>2429355818, :retweet=>0}
+{:text=>"RT @ManUtd_ID: 48'- Kesalahan pemain belakang United hampir saja membuat Burnley menyamakan kedudukan. #mufcIDlive", :followers=>269, :user_id=>1017434947, :retweet=>14}

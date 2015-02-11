@@ -10,7 +10,7 @@ require './app/helpers/twitter_helpers'
 PATH = './credentials.md'
 LONDON = 44418
 PATH_TRENDS = './data/trends/'
-PATH_TWEETS = './data/tweets/'
+PATH_TWEETS = './data/tweets/tweets/'
 PATH_TWEETS_TEXT = './data/tweets/text/'
 PATH_TWEETS_FOLLOWERS = './data/tweets/followers/'
 PATH_TWEETS_RETWEETED = './data/tweets/retweeted/'
@@ -50,14 +50,18 @@ class APITwitter
 
   def save_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
-    @response.attrs[:trends].each { |el| @trends << {:name => el[:name],:query => el[:query]}}
+    @response.attrs[:trends].each do |el| 
+      @trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub(' ','')}
+    end
+    delete_files_from_directory(PATH_TRENDS)
     save_data(PATH_TRENDS+'toptrends.txt', @trends) 
   end
 
   def save_tweets_per_trend(query_number = 100,trends = @trends)
+    delete_files_from_directory(PATH_TWEETS)    
     trends.each do |trend| 
       tweets = get_tweets(trend[:query],query_number)
-      save_data(PATH_TWEETS+trend[:name]+'_tweets.txt',tweets)
+      save_data(PATH_TWEETS+trend[:filename]+'_tweets.txt',tweets)
     end
   end
 
@@ -71,25 +75,28 @@ class APITwitter
     return result
   end
 
-  def save_tweet_data_for_specific_extractions
-    save_tweet_utility(merge_tweets, PATH_TWEETS_TEXT, '_tweets_text.txt')
-    save_tweet_utility(top_followers_tweets, PATH_TWEETS_FOLLOWERS, '_tweets_followers.txt')
-    save_tweet_utility(top_retweeted_tweets, PATH_TWEETS_RETWEETED, '_tweets_retweeted.txt')
-  end
+# attempt to refactor common methods - issue with passing arguments to
+# self.send
+  # def save_tweet_data_for_specific_extractions
+  #   save_tweet_utility(merge_tweets, PATH_TWEETS_TEXT, '_tweets_text.txt')
+  #   save_tweet_utility(top_followers_tweets, PATH_TWEETS_FOLLOWERS, '_tweets_followers.txt')
+  #   save_tweet_utility(top_retweeted_tweets, PATH_TWEETS_RETWEETED, '_tweets_retweeted.txt')
+  # end
 
-  def save_tweet_utility(method, path, extension)
-    trends.each do |trend| 
-      tweets = get_tweet_from_file(PATH_TRENDS+trend[:name]+'_tweets.txt')
-      tweet_extraction = self.send(method, tweets)
-      save_data(path+trend[:name]+extension, tweet_extraction)
-    end
-  end
+  # def save_tweet_utility(method, path, extension)
+  #   trends.each do |trend| 
+  #     tweets = get_tweet_from_file(PATH_TRENDS+trend[:name]+'_tweets.txt')
+  #     tweet_extraction = self.send(method)
+  #     save_data(path+trend[:name]+extension, tweet_extraction)
+  #   end
+  # end
 
   def save_tweet_text_per_trend(trends = @trends)
+    delete_files_from_directory(PATH_TWEETS_TEXT)  
     trends.each do |trend| 
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       tweet_text = merge_tweets(tweets)
-      save_data(PATH_TWEETS_TEXT+trend[:name]+'_tweets_text.txt', tweet_text)
+      save_data(PATH_TWEETS_TEXT+trend[:filename]+'_tweets_text.txt', tweet_text)
     end
   end
 
@@ -98,10 +105,11 @@ class APITwitter
   end 
 
   def save_tweets_most_followers_per_trend(trends = @trends)
+    delete_files_from_directory(PATH_TWEETS_FOLLOWERS)
     trends.each do |trend| 
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       tweets_most_followers = top_followers_tweets(tweets)
-      save_data(PATH_TWEETS_FOLLOWERS+trend[:name]+'_tweets_followers.txt', tweets_most_followers)
+      save_data(PATH_TWEETS_FOLLOWERS+trend[:filename]+'_tweets_followers.txt', tweets_most_followers)
     end
   end  
 
@@ -110,10 +118,11 @@ class APITwitter
   end
 
   def save_tweets_most_retweeted_per_trend(trends = @trends)
+    delete_files_from_directory(PATH_TWEETS_RETWEETED)    
     trends.each do |trend| 
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       tweets_most_retweeted = top_retweeted_tweets(tweets)
-      save_data(PATH_TWEETS_RETWEETED+trend[:name]+'_tweets_retweeted.txt', tweets_most_retweeted)
+      save_data(PATH_TWEETS_RETWEETED+trend[:filename]+'_tweets_retweeted.txt', tweets_most_retweeted)
     end
   end  
 

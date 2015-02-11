@@ -1,5 +1,0 @@
-{:text=>"RT @SamTompkinsUK: “@KFC_UKI: @SamTompkinsUK Thanks for celebrating with us Sam! #50YearsofKFC” love you KFC ❤️", :followers=>2770, :user_id=>894105390, :retweet=>2}
-{:text=>"RT @steghepburn: Dear @KFC_UKI ma pal @DaleMcsherry is willing to let me shit on his face for that mad #50YearsOfKFC n a hink that's worthy…", :followers=>511, :user_id=>210902374, :retweet=>2}
-{:text=>"Le jeu what 2 fuck 2015 les gars 👌✌space Phallus jeux de bite 😳\n#50YearsOfKFC http://t.co/OZbMzUGhYY", :followers=>39, :user_id=>3010536575, :retweet=>1}
-{:text=>"@KFC_UKI #50YearsOfKFC i will buy a donut and complain that there's a hole in it.", :followers=>4, :user_id=>2946322269, :retweet=>0}
-{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI", :followers=>4, :user_id=>2203443414, :retweet=>0}

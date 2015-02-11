@@ -1,5 +1,0 @@
-{:text=>"The police the DWP the Govt didn't care that there were kids in the house they broke the law..Benefit Cheats!! #HSBC http://t.co/7KxxpdG3Fz", :followers=>40611, :user_id=>212973087, :retweet=>1}
-{:text=>"HeyHey&lt; #Chiste #Parodia #LavanderíaHSBC #HSBCLeaks #heyheymexico #Videgaray #SAT #ReformaFiscal #Followback #HSBC https://t.co/NrrJqUaGL4", :followers=>40132, :user_id=>14109858, :retweet=>0}
-{:text=>"Reconoce Horacio Cartes, presidente de Paraguay que abrió cuentas en #HSBC de Suiza http://t.co/bfNmSQfdRR #SiTeLoPerdiste", :followers=>18176, :user_id=>748110248, :retweet=>1}
-{:text=>"RT @MPACUK: City bankers give massive donations to the major political parties &amp; that's why they are above the law #hsbc : \n\nhttps://t.co/F…", :followers=>10707, :user_id=>2719642167, :retweet=>13}
-{:text=>"Filtraciones en caso #HSBC, “sólo la punta del iceberg”: Falciani http://t.co/dsnSWjckz0 #SwissLeaks", :followers=>7690, :user_id=>282717030, :retweet=>0}

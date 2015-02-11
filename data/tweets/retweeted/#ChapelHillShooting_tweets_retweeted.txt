@@ -1,5 +1,5 @@
-{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :followers=>19112, :user_id=>99575484, :retweet=>12403}
-{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :followers=>821, :user_id=>333563730, :retweet=>12403}
-{:text=>"RT @Furqan_Naeem: This couldn't be more true... #ChapelHillShooting http://t.co/JqPAXFmDbS", :followers=>367, :user_id=>186061814, :retweet=>7634}
-{:text=>"RT @BenjaminNorton: If you are Muslim &amp; are murdered in a terrorist attack, this is all the media gives you: 7 lines.\n#ChapelHillShooting h…", :followers=>100, :user_id=>961589833, :retweet=>7520}
-{:text=>"RT @Independent: Three young Muslims shot dead, Twitter asks 'where are the protests?' #ChapelHillShooting http://t.co/ue46iUMdvC http://t.…", :followers=>2, :user_id=>2322519743, :retweet=>5713}
+{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :followers=>17, :user_id=>3020175946, :retweet=>14002}
+{:text=>"RT @KeeganNYC: 87% of U.S. mass shooting are committed by caucasians 13-56. Why don't we spy on this community? #ChapelHillShooting http://…", :followers=>170, :user_id=>17955491, :retweet=>6418}
+{:text=>"RT @sallykohn: UPDATED re #ChapelHillShooting — \n\nMuslim shooter = terrorist\n\nBlack shooter = thug\n\nWhite shooter = just a tiff about a par…", :followers=>2837, :user_id=>14529776, :retweet=>5556}
+{:text=>"RT @KhaledBeydoun: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be prolific\n\n#ChapelHillShooting ht…", :followers=>374, :user_id=>326556792, :retweet=>5006}
+{:text=>"RT @KhaledBeydoun: The victims have names and faces:\n\n- Deah Barakat, \n- Yusor Abu-Salha \n- Razan Abu-Salha\n\nRIP.  #ChapelHillShooting http…", :followers=>1537, :user_id=>614608744, :retweet=>3723}

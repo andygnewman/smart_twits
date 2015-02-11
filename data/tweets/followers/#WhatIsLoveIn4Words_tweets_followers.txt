@@ -1,0 +1,5 @@
+{:text=>"Extra cheese light sauce\n #WhatIsLoveIn4Words", :followers=>40803, :user_id=>69397311, :retweet=>0}
+{:text=>"RT @BACCV: .@BiasedGirl \"I'll pick up dinner.\" #WhatIsLoveIn4Words", :followers=>17854, :user_id=>18205761, :retweet=>1}
+{:text=>"I'm a Trained Professional!\n#WhatIsLoveIn4Words http://t.co/GRSNQSSGzK", :followers=>15991, :user_id=>2326048922, :retweet=>0}
+{:text=>"RT @ChrchCurmudgeon: Bacon Double Cheese Burger\n#WhatIsLoveIn4Words", :followers=>6073, :user_id=>188552635, :retweet=>84}
+{:text=>"RT @stylesavy1: @5SOS_Daily #WhatIsLoveIn4Words \n\" I pronounce you mrs.Hemmings\". 💍\n😂", :followers=>5667, :user_id=>1945371548, :retweet=>7}

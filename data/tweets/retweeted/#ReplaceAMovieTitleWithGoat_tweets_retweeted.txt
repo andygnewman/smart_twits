@@ -1,5 +1,5 @@
-{:text=>"RT @itsWillyFerrell: #ReplaceAMovieTitleWithGoat: Goats Of The Galaxy. http://t.co/1b3HGkQhRb", :followers=>281, :user_id=>386655037, :retweet=>703}
-{:text=>"RT @EverythingGoats: The Goatbook #ReplaceAMovieTitleWithGoat http://t.co/ug4P7xSiLI", :followers=>576, :user_id=>2422886065, :retweet=>573}
-{:text=>"RT @OMGStarterPack: The \"#ReplaceAMovieTitleWithGoat\" starter pack: http://t.co/1RJLa31L7g", :followers=>687, :user_id=>1107340016, :retweet=>444}
-{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>3560, :user_id=>1204706040, :retweet=>205}
-{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>247, :user_id=>2911479135, :retweet=>205}
+{:text=>"RT @itsWillyFerrell: #ReplaceAMovieTitleWithGoat: Mean Goats http://t.co/hQSD2exAY7", :followers=>28, :user_id=>499640402, :retweet=>604}
+{:text=>"RT @OMGStarterPack: The \"#ReplaceAMovieTitleWithGoat\" starter pack: http://t.co/1RJLa31L7g", :followers=>15, :user_id=>2405721620, :retweet=>463}
+{:text=>"RT @HogwartsLogic: #ReplaceAMovieTitleWithGoat \n\nHarry Potter and the Deathly Goat", :followers=>133, :user_id=>566350983, :retweet=>351}
+{:text=>"RT @TheStartrPack: The \"#ReplaceAMovieTitleWithGoat\" starter pack http://t.co/vrkSRKsiGZ", :followers=>260, :user_id=>32426942, :retweet=>331}
+{:text=>"RT @TheStartrPack: The \"#ReplaceAMovieTitleWithGoat\" starter pack http://t.co/vrkSRKsiGZ", :followers=>310, :user_id=>389470969, :retweet=>331}

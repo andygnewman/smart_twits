@@ -1,5 +1,0 @@
-{:text=>"Condemnation of the media silence..Campaign on \"Twitter\" about the killing of three Muslims in the United States\nhttps://t.co/WzwuCyrzHy", :followers=>73502, :user_id=>1544111664, :retweet=>0}
-{:text=>"RT @inkzaps: it is extremely upsetting and disgusting how the media portrays muslims compared to other faiths #ChapelHillShooting http://t.…", :followers=>15038, :user_id=>525460444, :retweet=>3}
-{:text=>"الخدمة الأكثر مبيعاً\n\n☆\n☆\n☆\n\nإحصل الآن على متابعين تويتر\nمع إمكانية التجربة قبل الدفع\nhttp://t.co/f8OUBVkrue\n #Muslims\n614", :followers=>6425, :user_id=>144679625, :retweet=>0}
-{:text=>"RT @Independent: These are the victims of the #ChapelHillShooting... #MuslimLivesMatter http://t.co/ue46iUMdvC http://t.co/LyLN4FgwOD", :followers=>5089, :user_id=>55214803, :retweet=>2494}
-{:text=>"What's the betting that the murder of three Muslims will get substantially less media coverage than the murder of three people by a Muslim?", :followers=>4981, :user_id=>197403075, :retweet=>1}

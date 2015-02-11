@@ -1,0 +1,5 @@
+{:text=>"RT @TheTweetOfGod: It would appear that today I’m Chris Smalling. #MUFC", :followers=>53, :user_id=>260892007, :retweet=>673}
+{:text=>"RT @TheTweetOfGod: It would appear that today I’m Chris Smalling. #MUFC", :followers=>328, :user_id=>480972245, :retweet=>673}
+{:text=>"RT @TheTweetOfGod: It would appear that today I’m Chris Smalling. #MUFC", :followers=>24, :user_id=>223224989, :retweet=>673}
+{:text=>"RT @TheTweetOfGod: It would appear that today I’m Chris Smalling. #MUFC", :followers=>52, :user_id=>259827640, :retweet=>673}
+{:text=>"RT @TheTweetOfGod: It would appear that today I’m Chris Smalling. #MUFC", :followers=>74, :user_id=>2204717354, :retweet=>673}

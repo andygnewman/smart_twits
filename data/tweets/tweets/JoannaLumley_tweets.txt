@@ -1,0 +1,100 @@
+{:text=>"How is Joanna Lumley so hot at 69 yrs old? I actually love her. And her silky voice.", :followers=>144, :user_id=>406609687, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>1298, :user_id=>595568094, :retweet=>17}
+{:text=>".@ferrifrump and Joanna Lumley need to be on telly together much more often. #GBBOComicRelief has been great!", :followers=>83, :user_id=>31406942, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>840, :user_id=>440709350, :retweet=>17}
+{:text=>"Loving Joanna Lumley and @ferrifrump on #GBBOComicRelief 😂😂", :followers=>130, :user_id=>2447911497, :retweet=>0}
+{:text=>"RT @ollypenderghast: Joanna Lumley is everything I aspire to be in life and so much more", :followers=>4782, :user_id=>541918048, :retweet=>7}
+{:text=>"Crying over Jennifer Saunders and Joanna Lumley having nervous breakdowns on #ComicReliefBakeOff.", :followers=>416, :user_id=>810395, :retweet=>0}
+{:text=>"I just love Joanna Lumley", :followers=>112, :user_id=>623886576, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>43, :user_id=>43748035, :retweet=>17}
+{:text=>"I'd Iove to get drunk with Joanna Lumley and Mel &amp; Sue. Perhaps I should gatecrash the #GBBOComicRelief wrap party.", :followers=>408, :user_id=>50372999, :retweet=>0}
+{:text=>"best line up on celebrity great british bake off: jennifer saunders, joanna lumley and dame edna", :followers=>380, :user_id=>1610441047, :retweet=>0}
+{:text=>"Joanna Lumley is absolutely hilarious 😂😩 #BakeOff", :followers=>375, :user_id=>70989243, :retweet=>0}
+{:text=>"#CelebrityGBBO Not laughed so much in ages! Loved the make up mirror moment Joanna Lumley!", :followers=>187, :user_id=>143588879, :retweet=>0}
+{:text=>"RT @jennycolgan: Every time I think I can't love Joanna Lumley any more I slightly love her a bit more", :followers=>204, :user_id=>201447451, :retweet=>10}
+{:text=>"RT @xsophclarke: joanna lumley is goals", :followers=>204, :user_id=>193334876, :retweet=>1}
+{:text=>"RT @womanandhome: Joanna Lumley and Jennifer Saunders both on Great British Bake Off ready to take on the technical challenge #GBBOComicRel…", :followers=>102, :user_id=>783099498, :retweet=>3}
+{:text=>"Just love Joanna Lumley #GBBOComicRelief", :followers=>241, :user_id=>1352727108, :retweet=>0}
+{:text=>"im crying i love jennifer saunders and joanna lumley", :followers=>243, :user_id=>463839826, :retweet=>0}
+{:text=>"If I can be as fabulous as Joanna lumley at her age, my life will have been a success", :followers=>60, :user_id=>351635095, :retweet=>0}
+{:text=>"Joanna Lumley and Jennifer Saunders are hilarious on bake off #GBBOComicRelief", :followers=>27, :user_id=>1226244716, :retweet=>0}
+{:text=>"The Great Comic Relief Bake-Off: Jennifer Saunders &amp; Joanna Lumley feature in this charity special… http://t.co/HLM0BByDQF", :followers=>20010, :user_id=>14783335, :retweet=>0}
+{:text=>"@RiggsJoanne she hates lulu She hated Joanna Lumley and Jennifer Saunders. I hope to god she's not watching it. I'll not hear the end of it", :followers=>149, :user_id=>2301485844, :retweet=>0}
+{:text=>"Joanna Lumley &amp; David Mitchell, such a winning combination #GBBOComicRelief", :followers=>226, :user_id=>35334408, :retweet=>0}
+{:text=>"Loved Joanna Lumley on #GBBO? Then you won't want to miss her as she hosts our Midsummer Race Day at @LingfieldPark. http://t.co/KQjgdmNQ3v", :followers=>32077, :user_id=>15562419, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>164, :user_id=>20972504, :retweet=>161}
+{:text=>"Joanna Lumley I now want as an aunt, sister, mother etc..... I'll take her as any female in my life 😍🙌 #BakeOff", :followers=>20473, :user_id=>781228327, :retweet=>0}
+{:text=>"RT @aliceharan: Joanna lumley &amp; Jennifer saunders on bake off 🙌 #ComicRelief", :followers=>104, :user_id=>918766279, :retweet=>1}
+{:text=>"Jennifer Saunders and Joanna Lumley on GBB be still my beating heart 💕💕💕", :followers=>140, :user_id=>90364037, :retweet=>0}
+{:text=>"Impossible not to love Jennifer Saunders &amp; Joanna Lumley 😂 #GBBOComicRelief", :followers=>79, :user_id=>2354617093, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>8496, :user_id=>233679802, :retweet=>161}
+{:text=>"RT @JackDMurphy: Joanna Lumley even made the word \"grouting\" sound sexy. How is that even possible?! ❤️ #GBBOComicRelief", :followers=>2417, :user_id=>1074399571, :retweet=>7}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>6, :user_id=>2718753694, :retweet=>161}
+{:text=>"Comic relief bake off is making me so bloody happy Joanna Lumley is a queen", :followers=>181, :user_id=>130688893, :retweet=>0}
+{:text=>"Joanna Lumley is the epitome of elegance! Oh and I just want to eat cake now. #GBBOComicRelief", :followers=>165, :user_id=>1910721133, :retweet=>0}
+{:text=>"I ❤️ Joanna Lumley!!! So funny 😂 #GBBOComicRelief", :followers=>172, :user_id=>273306684, :retweet=>0}
+{:text=>"#GBBOComicRelief hilarious! Joanna lumley making coffee cake instead of chocolate. #whoops", :followers=>37, :user_id=>34891280, :retweet=>0}
+{:text=>"The Great Comic Relief Bake Off 2015 episode one – live blog: Joanna Lumley, Lulu, Jennifer Saunders and Dame ... http://t.co/RwxM6NKe11", :followers=>840, :user_id=>143035581, :retweet=>0}
+{:text=>"RT @LucieRileyxx: Joanna lumley is hilarious", :followers=>754, :user_id=>457615259, :retweet=>1}
+{:text=>"Joanna Lumley and Jennifer Saunders are killing me 😂😂😂 #GBBOComicRelief", :followers=>132, :user_id=>37427732, :retweet=>0}
+{:text=>"@DforDerivative @jcbstry @DailyKayleigh @TheBumRush Is Dane Edna a dude? Also does anyone else think Joanna Lumley is looking good?", :followers=>11, :user_id=>3001990875, :retweet=>0}
+{:text=>"I bloody love Joanna Lumley and Jennifer Saunders. I want a friendship like theirs #GBBOComicRelief #SoMuchLove", :followers=>613, :user_id=>123835453, :retweet=>0}
+{:text=>"Joanna Lumley is a Goddess. Goddess Lumley.", :followers=>479, :user_id=>26286417, :retweet=>0}
+{:text=>"RT @gaes_elskhugi: Jennifer Saunders, Joanna Lumley and Lulu all together on #GBBOComicRelief Fabulous darling. Oh, and Dame Edna... http:/…", :followers=>1221, :user_id=>19859318, :retweet=>2}
+{:text=>"@iPottsy everything freezes when the British bake off is on.. Especially when Jennifer Saunders and Joanna Lumley are on!", :followers=>860, :user_id=>198275270, :retweet=>0}
+{:text=>"I actually think I'd like nothing more than to go out on the raz with @ferrifrump and Joanna Lumley. #GBBOComicRelief", :followers=>635, :user_id=>18881781, :retweet=>0}
+{:text=>"Enjoying #ComicReliefBakeOff v.much, particularly Joanna Lumley and Jennifer Saunders.", :followers=>536, :user_id=>26220799, :retweet=>0}
+{:text=>"joanna lumley and jennifer saunders on bake off - best thing ever.", :followers=>148, :user_id=>175873879, :retweet=>0}
+{:text=>"I misheard old Paul there. When he asked Joanna Lumley if she has 'rising agent' in there, thought he said 'ricin agent' #toomuchbreakingbad", :followers=>1901, :user_id=>136643986, :retweet=>0}
+{:text=>"I'd bang Joanna Lumley with the ferocity of the Hulk stepping on a plug.", :followers=>1272, :user_id=>1410970424, :retweet=>0}
+{:text=>"I just want to be Joanna Lumley", :followers=>298, :user_id=>331759981, :retweet=>0}
+{:text=>"RT @ShellWhelan: Haha Joanna Lumley using coffee instead of chocolate! 😂 #GBBOComicRelief #GBBO", :followers=>5, :user_id=>1084406894, :retweet=>6}
+{:text=>"Joanna Lumley and Dame Edna are just soooo funny together! 😂😂😂", :followers=>419, :user_id=>411672072, :retweet=>0}
+{:text=>"So loving Joanna Lumley! #Legend #GBBOComicRelief", :followers=>382, :user_id=>108402516, :retweet=>0}
+{:text=>"Joanna Lumley on the Bake Off...truly magical #bakeoff @BBCOne", :followers=>435, :user_id=>330256920, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>803, :user_id=>123857897, :retweet=>161}
+{:text=>"@MillyAllweis You're watching Comic Relief bake Off i bet? #disastercakes haha Joanna Lumley x", :followers=>24, :user_id=>2816250708, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>1052, :user_id=>475795622, :retweet=>161}
+{:text=>"Joanna lumley's voice is so nice", :followers=>949, :user_id=>577275005, :retweet=>0}
+{:text=>"Loving @ferrifrump &amp; Joanna Lumley on #BakeOff They should do an Ab Fab spin off!! 🎂", :followers=>108, :user_id=>216023187, :retweet=>0}
+{:text=>"@BritishBakeOff That Joanna Lumley  is pure gold. Genius woman 😊", :followers=>33, :user_id=>2734505147, :retweet=>0}
+{:text=>"RT @OK_Magazine: Joanna Lumley and Jennifer Saunders together makes us want an Ab Fab reunion NOW! #bakeoff", :followers=>116, :user_id=>917683350, :retweet=>22}
+{:text=>"Joanna Lumley &gt;&gt;&gt;", :followers=>547, :user_id=>237808318, :retweet=>0}
+{:text=>"RT @ollypenderghast: Joanna Lumley is everything I aspire to be in life and so much more", :followers=>4208, :user_id=>76114256, :retweet=>7}
+{:text=>"When will Joanna Lumley and Kate Bush realise we could form the ultimate squad", :followers=>138, :user_id=>39806454, :retweet=>0}
+{:text=>"'I ask that you don't put the knife too close to that as it's the top of my make up mirror' Joanna Lumley - my life icon! #GBBOComicRelief", :followers=>126, :user_id=>2987880868, :retweet=>0}
+{:text=>"Joanna Lumley is my favourite person ever", :followers=>256, :user_id=>174855041, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>253, :user_id=>78241446, :retweet=>161}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>296, :user_id=>789770497, :retweet=>17}
+{:text=>"Joanna Lumley is my spirit animal", :followers=>936, :user_id=>1056374761, :retweet=>0}
+{:text=>"I am entirely in love with Joanna Lumley", :followers=>128, :user_id=>371869365, :retweet=>0}
+{:text=>"Can't stop laughin' at Jen Saunders and Joanna Lumley #GBBOComicRelief #hilarious @BritishBakeOff", :followers=>67, :user_id=>402756164, :retweet=>0}
+{:text=>"I want to have afternoon tea with Joanna Lumley. Just throwing that out there. #GBBO", :followers=>639, :user_id=>105832313, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>1052, :user_id=>475795622, :retweet=>17}
+{:text=>"Joanna Lumley on #GBBOComicRelief is the most hilarious thing...", :followers=>769, :user_id=>29454836, :retweet=>0}
+{:text=>"@RachelEBeauty \nJoanna Lumley:\n\"can I ask that you don't cut here as it is my makeup mirror\" 😂", :followers=>503, :user_id=>299222881, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>25, :user_id=>2875343173, :retweet=>161}
+{:text=>"LOVED #GBBOComicRelief this week. Joanna Lumley is my favourite. So funny.", :followers=>436, :user_id=>176208701, :retweet=>0}
+{:text=>"Joanna Lumley needs her own baking show #GBBOComicRelief", :followers=>81, :user_id=>177319601, :retweet=>0}
+{:text=>"i can do an amazing joanna lumley impression will that get me a job", :followers=>3573, :user_id=>751629080, :retweet=>0}
+{:text=>"Joanna Lumley is me in female form I swear 😨", :followers=>8116, :user_id=>94849503, :retweet=>0}
+{:text=>"Dream night out: Jennifer Saunders, Joanna Lumley, Sue Perkins and Mary Berry. #GBBOComicRelief", :followers=>110, :user_id=>2900601907, :retweet=>0}
+{:text=>"I want to be Joanna Lumley when I'm older.", :followers=>157, :user_id=>111640997, :retweet=>0}
+{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>23, :user_id=>2873819869, :retweet=>161}
+{:text=>"@BBCOne The comic relief bake off...Genius TV. Joanna Lumley and Jennifer Saunders, pure genius.  Crying with laughter. #ComicReliefBakeOff", :followers=>170, :user_id=>22281468, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>2445, :user_id=>866741504, :retweet=>17}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>401, :user_id=>29524441, :retweet=>17}
+{:text=>"Joanna Lumley is a legend", :followers=>374, :user_id=>49346249, :retweet=>0}
+{:text=>"Joanna Lumley is cracking me up", :followers=>423, :user_id=>436855570, :retweet=>0}
+{:text=>"RT @JackDMurphy: Joanna Lumley even made the word \"grouting\" sound sexy. How is that even possible?! ❤️ #GBBOComicRelief", :followers=>544, :user_id=>117700768, :retweet=>7}
+{:text=>"\"i ask that you don't put the knife too near this bit because this is actually the top of my make-up mirror\" joanna lumley is queen 😂", :followers=>542, :user_id=>118378294, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>649, :user_id=>2475636835, :retweet=>17}
+{:text=>"Joanna Lumley's voice is so calming, I love it... :P", :followers=>117, :user_id=>45821234, :retweet=>0}
+{:text=>"absolutely LOVE both Joanna Lumley and Jennifer Saunders on #ComicReliefBakeOff #abfab", :followers=>136, :user_id=>166601959, :retweet=>0}
+{:text=>"Joanna Lumley &amp; Jennifer Saunders are like a pair of naughty, giggling kids #GBBOComicRelief", :followers=>605, :user_id=>368901604, :retweet=>0}
+{:text=>"Joanna Lumley is hilarious. #thegreatbritishbakeoff", :followers=>63, :user_id=>1314919034, :retweet=>0}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>1125, :user_id=>98684284, :retweet=>17}
+{:text=>"RT @BBCOne: Joanna Lumley has burnt @PaulHollywood’s tongue. Oops! #GBBOComicRelief http://t.co/V4ZNQHoWOA", :followers=>248, :user_id=>19386982, :retweet=>17}
+{:text=>"Joanna Lumley's 'oh what have I done', upon burning Paul Hollywood's tongue = priceless. #ComicReliefBakeOff", :followers=>603, :user_id=>402680720, :retweet=>0}
+{:text=>"Joanna Lumley. Legend on #BakeOff #ComicReliefBakeOff As is Dame Edna", :followers=>4880, :user_id=>297835747, :retweet=>0}
+{:text=>"@carrie__rose nuh uh Joanna Lumley not even ashamed", :followers=>660, :user_id=>115767924, :retweet=>0}
