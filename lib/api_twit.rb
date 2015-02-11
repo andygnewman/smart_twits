@@ -5,6 +5,7 @@ require 'rest-client'
 require 'json'
 require 'open-uri'
 require 'json'
+require './app/helpers/twitter_helpers'
 
 PATH = './credentials.md'
 LONDON = 44418
@@ -15,6 +16,8 @@ PATH_TWEETS_FOLLOWERS = './data/tweets/followers/'
 PATH_TWEETS_RETWEETED = './data/tweets/retweeted/'
 
 class APITwitter
+
+  include Twitter_Helpers
 
   attr_reader :client, :trends
 
@@ -37,11 +40,11 @@ class APITwitter
     end
   end
 
-  def save_data(filename,item)
-    file = File.open(filename, 'w')
-    file.puts item.to_json
-    file.close()  
-  end
+  # def save_data(filename,item)
+  #   file = File.open(filename, 'w')
+  #   file.puts item.to_json
+  #   file.close()  
+  # end
 
   def get_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
@@ -68,20 +71,9 @@ class APITwitter
     return result
   end
 
-  def getlocation
-     html = open('https://twitter.com/trends?id=44418').read
-  end
-
   def merge_tweets(array_of_hash)
     array_of_hash.reduce('') {|sum, el| sum += el[:text]}
-  end
-
-  def save_tweet_text(tweet_text_string, trend)
-    filename = trend+'_text.json'
-    file = File.open(filename, 'w')
-    file.puts tweet_text_string
-    file.close()
-  end
+  end 
 
   def top_followers_tweets(array_of_hashes, number = 5)
     array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..(number-1)]
@@ -91,15 +83,15 @@ class APITwitter
     array_of_hashes.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
   end
 
-  def get_tweet_from_file (filename)
-    array_of_hashes = []
-    file = File.open(filename, 'r')
-    file.readlines.each do |el| 
-      array_of_hashes << eval(el.chomp)
-    end
-    file.close()
-    return array_of_hashes
-  end
+  # def get_tweet_from_file (filename)
+  #   array_of_hashes = []
+  #   file = File.open(filename, 'r')
+  #   file.readlines.each do |el| 
+  #     array_of_hashes << eval(el.chomp)
+  #   end
+  #   file.close()
+  #   return array_of_hashes
+  # end
 
   def save_tweet_text_per_trend(trends = @trends)
     trends.each do |trend| 
@@ -128,7 +120,11 @@ class APITwitter
   def delete_files_from_directory(dirname)
     FileUtils.rm Dir.glob("#{dirname}/*")
   end
-  
+
+   def getlocation
+     html = open('https://twitter.com/trends?id=44418').read
+  end
+
 end
 
 
