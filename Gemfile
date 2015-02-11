@@ -13,4 +13,5 @@ group :development, :test do
   gem 'twitter'
   gem 'rest-client'
   gem 'json'
+  gem 'httparty'
 end
