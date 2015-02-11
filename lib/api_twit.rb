@@ -34,17 +34,18 @@ class APITwitter
 
   def get_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
-    @response.attrs[:trends].each { |el| @trends << el[:name]}
+    @response.attrs[:trends].each { |el| @trends << {:name => el[:name],:query => el[:query]}}
+    byebug
     @response
   end
 
-  def get_twits(hash_tag_g)
-    twitts = @client.search(hash_tag=hash_tag_g)
+  def get_twits(hash_tag_g,query_number = 100)
+    twitts = @client.search(hash_tag_g).take(query_number)
     result=[]
-    twitts.attrs[:statuses].each do |twit|
-      result << [twit[:text],twit[:retweet_count],twit[:followers_count]]
-    end  
-    # byebug
+    twitts.each do |el|
+      result << {:text => el.text, :followers => el.user.followers_count,
+                 :user_id => el.user.id, :retweet => el.retweet_count}
+    end
     return result
   end
 
