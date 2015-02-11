@@ -46,6 +46,10 @@ class APITwitter
       result << {:text => el.text, :followers => el.user.followers_count,
                  :user_id => el.user.id, :retweet => el.retweet_count}
     end
+    filename = hash_tag_g+'_tweets.dat'
+    file = File.open(filename, 'w')
+    file.puts result
+    file.close()
     return result
   end
 
@@ -58,10 +62,14 @@ class APITwitter
   end
 
   def save_tweet_text(tweet_text_string, trend)
-    filename = trend+'.txt'
+    filename = trend+'_text.txt'
     file = File.open(filename, 'w')
     file.puts tweet_text_string
     file.close()
+  end
+
+  def top_followers_tweets(array_of_hashes, number)
+    array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..4]
   end
   
 end
