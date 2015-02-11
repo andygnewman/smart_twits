@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'sinatra'
+gem 'json'
+gem 'twitter'
+gem 'rest-client'
 
 group :development, :test do
   gem 'capybara'
@@ -10,7 +13,4 @@ group :development, :test do
   gem 'rspec'
   gem 'shotgun'
   gem 'byebug'
-  gem 'twitter'
-  gem 'rest-client'
-  gem 'json'
 end
