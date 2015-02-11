@@ -32,11 +32,8 @@ class SmartTwit < Sinatra::Base
       array << eval(el.chomp)
     end
     file.close()
-    @words = array.map{|el| el[:text]}
-    #@words = freq.find_top_results(20, './data.txt')
-    #./data/tweets/#{params[:trend]}.txt
-    
-    # puts @words
+    words = array.map{|el| el[:text]}
+    @words = freq.find_top_results(20, words)
     erb :trends
   end
 
@@ -46,7 +43,13 @@ class SmartTwit < Sinatra::Base
   run! if app_file == $0
 end
 
-
+file = File.open("./data/tweets/Eurovision_tweets.txt",'r')
+    array = []
+    file.readlines.each do |el| 
+      array << eval(el.chomp)
+    end
+    file.close()
+    words = array.map{|el| el[:text]}
 
 
 
