@@ -1,100 +1,100 @@
-{:text=>"The police the DWP the Govt didn't care that there were kids in the house they broke the law..Benefit Cheats!! #HSBC http://t.co/7KxxpdG3Fz", :followers=>40611, :user_id=>212973087, :retweet=>1}
-{:text=>"Blog: \"It is #HSBC &amp; UBS today, &amp; yesterday it was someone else &amp; tomorrow it will be someone else again\" @TIukED http://t.co/cZ21GByVtO", :followers=>967, :user_id=>523127115, :retweet=>0}
-{:text=>"RT @MrAWG1945: #HSBC #dodgydave The quality of arguments \nLabour - Why didn't you do anything about tax avoidance at HSBC?\nTories - You've …", :followers=>1898, :user_id=>294283011, :retweet=>3}
-{:text=>"Don't worry ! #JebBush , will take care of #HSBC , \" Out Of Love \" . #HSBCFiles , #HSBCLeaks ,#HSBCGate", :followers=>20, :user_id=>261473051, :retweet=>0}
-{:text=>"@38_degrees @neilgeezer @George_Osborne &amp; did #HSBC assisted tax hiding donors buy immunity from prosecution with their #Tory donations?", :followers=>292, :user_id=>406551236, :retweet=>0}
-{:text=>"RT @Channel4News: Whistleblowers, incognito court appearances, tax evasion + money laundering.. http://t.co/eLkENReNZe  #HSBC #c4news http:…", :followers=>1991, :user_id=>21234344, :retweet=>26}
-{:text=>"RT @Ian_Fraser: Shameful. #HSBC now faces criminal investigations in the US, France, Belgium and Argentina. But not in the country where it…", :followers=>159, :user_id=>21015547, :retweet=>307}
-{:text=>"#HSBC @George_Osborne, Our political system is rotten, please sort out HSBC", :followers=>471, :user_id=>80558742, :retweet=>0}
-{:text=>"RT @minutounocom: #CuentasOcultasEnSuiza: Gran Bretaña pidió a la AFIP información de la denuncia al #HSBC http://t.co/sDTLjIZngF http://t.…", :followers=>1596, :user_id=>258147691, :retweet=>4}
-{:text=>"When you owe council tax as a JSA claimant you are targeted with letters and home visits even if you owe 0.01p #HSBC http://t.co/W0IckaOSB9", :followers=>761, :user_id=>7394542, :retweet=>0}
-{:text=>"vlad, #UKRAINE IS NOT YOURS.\n\nhttp://t.co/LdEjDKXJ0n     \n\n#GRAMMYs\n#HSBC\n#Tory\n#Tories\n#ISTEP\n#Beck\n#NationalPizzaDay", :followers=>11, :user_id=>1581250002, :retweet=>0}
-{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>2154, :user_id=>266490351, :retweet=>57}
-{:text=>"RT @canalbernard: SwissLeaks : #Cameron embarrassé par Stephen #Green, un ancien ministre ayant dirigé #HSBC http://t.co/yVkte09THM", :followers=>698, :user_id=>87951400, :retweet=>26}
-{:text=>"RT @bassmadman: @BBCNormanS: PM turned blind eye over #hsbc scandal as he did over andy Coulson - Ed Miliband #pmqs", :followers=>2498, :user_id=>75769341, :retweet=>2}
-{:text=>"UK government closes ranks on HSBC tax issue via @ft http://t.co/pZG7In72xU #tax #hsbc", :followers=>404, :user_id=>305482367, :retweet=>0}
-{:text=>"RT @RTarabic: كاميرون يتعهد بالكشف عن ملابسات تورط مصرف \"HSBC\"\nhttp://t.co/5WFt5aK5EW #كاميرون #مصرف #HSBC", :followers=>297, :user_id=>557168248, :retweet=>11}
-{:text=>"Ministers knew about hidden #HSBC Swiss bank funds in 2010 #HSBCleaks #swissleaks #swiss #fintech http://t.co/10cejsnA0q", :followers=>8, :user_id=>2884671180, :retweet=>0}
-{:text=>"What Cameron forgets any penny the Unions donate to any party all the taxes have been paid by the people who contribute to funds.....#HSBC", :followers=>874, :user_id=>176734707, :retweet=>0}
-{:text=>"Filtraciones en caso #HSBC, “sólo la punta del iceberg”: Falciani http://t.co/dsnSWjckz0 #SwissLeaks", :followers=>7690, :user_id=>282717030, :retweet=>0}
-{:text=>"RT @PaulFedayn: The verb \"to Shanghai\" = \"induced to do something by means of fraud\" \n\nShoulda seen it coming\n\n#HSBC (HongKong Shanghai Ban…", :followers=>512, :user_id=>254908551, :retweet=>1}
-{:text=>"RT @IpswichGreens: We know wot the other parties stand 4\n\nHeres what @theGreenParty stand 4\nRT if you agree!\n\n#PMQs\n#ClimateChange\n#HSBC ht…", :followers=>54, :user_id=>2368947264, :retweet=>6}
-{:text=>"RT @iansample: Timely amendment to an #HSBC ad on the BA air bridge at Heathrow today. http://t.co/v0mUrQpoJH", :followers=>120, :user_id=>935433366, :retweet=>23}
-{:text=>"RT @BBCNormanS: PM turned blind eye over #hsbc scandal as he did over andy Coulson - Ed Miliband #pmqs", :followers=>267, :user_id=>367296011, :retweet=>58}
-{:text=>"RT @BBCNormanS: PM turned blind eye over #hsbc scandal as he did over andy Coulson - Ed Miliband #pmqs", :followers=>3899, :user_id=>1557771882, :retweet=>58}
-{:text=>"RT @CameronMcNeish: This is the cancer that is destroying our society. The rich dodge tax with impunity while the poor are hounded for ever…", :followers=>195, :user_id=>307785259, :retweet=>596}
-{:text=>"RT @MrAWG1945: #HSBC #dodgydave The quality of arguments \nLabour - Why didn't you do anything about tax avoidance at HSBC?\nTories - You've …", :followers=>1455, :user_id=>77685764, :retweet=>3}
-{:text=>"The verb \"to Shanghai\" = \"induced to do something by means of fraud\" \n\nShoulda seen it coming\n\n#HSBC (HongKong Shanghai Banking Corporation)", :followers=>2406, :user_id=>302918532, :retweet=>1}
-{:text=>"RT @GracieSamuels: Labour under Ed Miliband has not benefitted from any on that #HSBC list. Cameron screaming abt Lord Paul, turns out dona…", :followers=>2498, :user_id=>75769341, :retweet=>3}
-{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>240, :user_id=>1356842012, :retweet=>57}
-{:text=>"RT @MrAWG1945: #HSBC #dodgydave The quality of arguments \nLabour - Why didn't you do anything about tax avoidance at HSBC?\nTories - You've …", :followers=>2534, :user_id=>502908681, :retweet=>3}
-{:text=>"RT @minutounocom: #CuentasOcultasEnSuiza: Gran Bretaña pidió a la AFIP información de la denuncia al #HSBC http://t.co/sDTLjIZngF http://t.…", :followers=>675, :user_id=>1112220727, :retweet=>4}
-{:text=>"RT @VaIoRock: Confía en los bancos y dormirás en uno. #HSBC #Suiza http://t.co/UpF2NBF1qu", :followers=>3963, :user_id=>55121301, :retweet=>7}
-{:text=>"#HSBC : David Cameron sous pression au Parlement britannique http://t.co/HnWiCUJ9MO $HSBA", :followers=>323, :user_id=>1953776653, :retweet=>0}
-{:text=>"RT @Harryslaststand: The next time the media put a banker on tv to tell us how the economy should  be run remember #HSBC's #taxavoidance ad…", :followers=>843, :user_id=>1683481705, :retweet=>134}
-{:text=>"RT @nw_nicholas: Journalists, print and media,  don't report bank fraud because the amount banks spend advertising. #HSBC spends £400m a ye…", :followers=>120, :user_id=>935433366, :retweet=>26}
-{:text=>"There are suggestions that a deferred prosecution agreement in the US with #HSBC could be scrapped\nhttp://t.co/Jf80e6sgi6 via @TaxJusticeNet", :followers=>2922, :user_id=>110237893, :retweet=>0}
-{:text=>"RT @minutounocom: #CuentasOcultasEnSuiza: Gran Bretaña pidió a la AFIP información de la denuncia al #HSBC http://t.co/sDTLjIZngF http://t.…", :followers=>29, :user_id=>2924062079, :retweet=>4}
-{:text=>"RT @LabourEoin: Some of the most sexist Tory MPs I know are now tweeting #PinkBuss with glee having ignored the #HSBC scandal for 4 days. A…", :followers=>236, :user_id=>270849871, :retweet=>89}
-{:text=>"RT @guldill: #HSBC tax avoidance schemes for wealthy clients earned #bank millions of pounds http://t.co/yHxBYNavky #WeBackEM http://t.co/9…", :followers=>6897, :user_id=>58258157, :retweet=>1}
-{:text=>"Denials continue despite MPs hearing of #HSBC tax evasion claims in 2011 http://t.co/wLg8lBbLw7", :followers=>1825, :user_id=>25986274, :retweet=>0}
-{:text=>"RT @BBCNormanS: PM turned blind eye over #hsbc scandal as he did over andy Coulson - Ed Miliband #pmqs", :followers=>633, :user_id=>22276194, :retweet=>58}
-{:text=>"RT @Harryslaststand: The next time the media put a banker on tv to tell us how the economy should  be run remember #HSBC's #taxavoidance ad…", :followers=>112, :user_id=>31079404, :retweet=>134}
-{:text=>"No surprise #HSBC ranks among the lowest for ethics in our latest independent research on UK Banks http://t.co/oF2be9kMry #HSBCFiles #csr", :followers=>971, :user_id=>241203260, :retweet=>0}
-{:text=>"RT @Channel4News: Whistleblowers, incognito court appearances, tax evasion + money laundering.. http://t.co/eLkENReNZe  #HSBC #c4news http:…", :followers=>120, :user_id=>935433366, :retweet=>26}
-{:text=>"Arma, droga eta diamante trafikatzaileak eta Al-Qaedari lotutako erakundeak daude #HSBC.ren bezeroen artean http://t.co/o9RbnSlrXd @berria", :followers=>2377, :user_id=>552883864, :retweet=>0}
-{:text=>"RT @BBCNewsGraphics: Britain's biggest bank #HSBC is accused of helping clients in many countries to evade tax http://t.co/07Rh4mUxU2 http:…", :followers=>345, :user_id=>84942660, :retweet=>138}
-{:text=>"RT @andybell5news: Labour; will be no backing down on Lord Fink, Ed will  make allegations again outside Parliament #HSBC", :followers=>1044, :user_id=>230748240, :retweet=>4}
-{:text=>"http://t.co/9TldB2RrR4   , London's Property Portal\n#London #estateagents #property #HSBC #ConsentDebate http://t.co/OxIHUIuSKf", :followers=>48, :user_id=>2500148948, :retweet=>0}
-{:text=>"RT @Ian_Fraser: #HSBC scandal: Where were the auditors? http://t.co/JxAZoIVNOV via @RichardJMurphy #HSBCFiles http://t.co/COr9P1jG8J", :followers=>677, :user_id=>993535075, :retweet=>24}
-{:text=>"HeyHey&lt; #Chiste #Parodia #LavanderíaHSBC #HSBCLeaks #heyheymexico #Videgaray #SAT #ReformaFiscal #Followback #HSBC https://t.co/NrrJqUaGL4", :followers=>40132, :user_id=>14109858, :retweet=>0}
-{:text=>"RT @guldill: #HSBC: @David_Cameron wooed #bank boss to become a Minister after #tax dodge was known http://t.co/wfe4ADPega http://t.co/V77d…", :followers=>6897, :user_id=>58258157, :retweet=>1}
-{:text=>"RT @Harryslaststand: We don't need to lower taxes but we must reduce our tolerance to systemic #taxavoidance by the elite before they ruin …", :followers=>1516, :user_id=>1723096267, :retweet=>93}
-{:text=>"RT @labourpress: Nick Gibb on Lord Green on @daily_politics: \"This man had written books on morality in banking, there was no need to ask h…", :followers=>267, :user_id=>367296011, :retweet=>18}
-{:text=>"RT @GracieSamuels: Labour under Ed Miliband has not benefitted from any on that #HSBC list. Cameron screaming abt Lord Paul, turns out dona…", :followers=>469, :user_id=>2466073838, :retweet=>3}
-{:text=>"Ministers knew about hidden #HSBC Swiss bank funds in 2010 #HSBCleaks #swissleaks #swiss #fintech http://t.co/lKPGZf9DuB", :followers=>8, :user_id=>2880982973, :retweet=>0}
-{:text=>"RT @MPACUK: City bankers give massive donations to the major political parties &amp; that's why they are above the law #hsbc : \n\nhttps://t.co/F…", :followers=>10707, :user_id=>2719642167, :retweet=>13}
-{:text=>"RT @Harryslaststand: We've had a war on drugs, crime and the eternal war on terror But the tories will never have a war on #taxevasion #HSBC", :followers=>357, :user_id=>1499926334, :retweet=>28}
-{:text=>"What a total stinker! PM says Ed was \"personally horrid to me\" at #PMQs #HSBC  http://t.co/lzemL8uP5o", :followers=>3753, :user_id=>973005421, :retweet=>0}
-{:text=>"IMPORTANT les escrocs #EvasionFiscale #Hsbc peuvent dormir tranquille. Le procureur ne peut pas les assigner en justice ... #AncienRegime", :followers=>810, :user_id=>601993444, :retweet=>0}
-{:text=>"RT @_TheJack34: #GadElmaleh et #HSBC n'ont fait qu'appliquer les Art. 32 &amp; 63 du #TFUE (traité de Lisbonne) #SwissLeaks #HSBCLeaks http://t…", :followers=>421, :user_id=>2257699153, :retweet=>23}
-{:text=>"RT @theuneasyreaper: Hodge Takes Down 'Pathetic' #HMRC Over #HSBC Tax Evasion Failure - http://t.co/HzClwvxWXp http://t.co/fARv6bMjZ0", :followers=>2870, :user_id=>20974816, :retweet=>1}
-{:text=>"RT @Harryslaststand: We've had a war on drugs, crime and the eternal war on terror But the tories will never have a war on #taxevasion #HSBC", :followers=>270, :user_id=>1635421561, :retweet=>28}
-{:text=>"No sabia que las reservas internacionales de Venezuela estaban en el banco #HSBC en Suiza, gracias mi comandante bello!! Eres un genio CDTM", :followers=>2382, :user_id=>223496427, :retweet=>1}
-{:text=>"RT @Ian_Fraser: Ex HMRC chief Dave Hartnett signed off #HSBCFiles \"dirty deal\" months before joining #HSBC to advise it on honesty http://t…", :followers=>1759, :user_id=>359877319, :retweet=>33}
-{:text=>"RT @labourpress: Nick Gibb on Lord Green on @daily_politics: \"This man had written books on morality in banking, there was no need to ask h…", :followers=>3684, :user_id=>105200096, :retweet=>18}
-{:text=>"RT @Ian_Fraser: Ex HMRC boss Dave Hartnett signed off #HSBCFiles \"dirty deal\" months before joining #HSBC to advise it on honesty http://t.…", :followers=>1593, :user_id=>2799588421, :retweet=>118}
-{:text=>"RT @BBCNormanS: Understood former Tory treasurer Lord Fink  was living and working in Switzerland and had his salary paid into Bank as norm…", :followers=>1572, :user_id=>833721073, :retweet=>9}
-{:text=>"Bloke behind Lin Homer at the #HSBC committee hearing is clearly asleep. http://t.co/NkTcnO42xv", :followers=>141, :user_id=>1344770017, :retweet=>0}
-{:text=>"RT @Harryslaststand: We've had a war on drugs, crime and the eternal war on terror But the tories will never have a war on #taxevasion #HSBC", :followers=>818, :user_id=>212701664, :retweet=>28}
-{:text=>"RT @bon_the_one: From #Gibraltar to #HSBC, @EdMiliband_MP keeps getting his facts wrong on tax... http://t.co/WgJ5itrGao", :followers=>632, :user_id=>615160218, :retweet=>1}
-{:text=>"RT @ZeinebTurki: À propos des clients tunisiens “@Amywebhouse: Le pôle juridique et financier ouvre une enquête sur l'affaire #HSBC http://…", :followers=>48, :user_id=>3021037655, :retweet=>1}
-{:text=>"Sign the Declaration with the Global Freedom Network: United to end slavery. http://t.co/855QaMMlqw   #HSBC", :followers=>486, :user_id=>256303339, :retweet=>0}
-{:text=>"RT @worldnetdaily: Emerging Obama scandal 1st found by WND … in 2012 http://t.co/Y6yLBlw417 \nBig-money bankers tried to shut news site down…", :followers=>189, :user_id=>1786566690, :retweet=>14}
-{:text=>"RT @andybell5news: Labour; will be no backing down on Lord Fink, Ed will  make allegations again outside Parliament #HSBC", :followers=>1247, :user_id=>610028948, :retweet=>4}
-{:text=>"RT @CapitalMexico: Reconoce Horacio Cartes, presidente de Paraguay que abrió cuentas en #HSBC de Suiza http://t.co/bfNmSQfdRR #SiTeLoPerdis…", :followers=>213, :user_id=>445213989, :retweet=>1}
-{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>30, :user_id=>1564173187, :retweet=>57}
-{:text=>"RT @CheGenetic: Causa #PapelPrensa: Denegación de Justicia\nCausa #JPMorgan: Denegación de Justicia\nCausa #HSBC: Denegación de Justicia\nEn t…", :followers=>512, :user_id=>2208777577, :retweet=>23}
-{:text=>"RT @GracieSamuels: Labour under Ed Miliband has not benefitted from any on that #HSBC list. Cameron screaming abt Lord Paul, turns out dona…", :followers=>262, :user_id=>2294040718, :retweet=>3}
-{:text=>"RT @Mandiprieto: @bakiiaasuhudi #ChapelHillShooting #ReplaceAMovieTitleWithGoat #pinkbus #HSBC Draw my LIFE? Draw MY SOLDIER! https://t.co/…", :followers=>46, :user_id=>2739498515, :retweet=>1}
-{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>1013, :user_id=>118073224, :retweet=>57}
-{:text=>"#HSBC La investigación que aporta dos mil 642 clientes mexicanos a esa lista... Ve a Columnas de RRP http://t.co/ksZzUAhvH1", :followers=>876, :user_id=>112458286, :retweet=>0}
-{:text=>"RT @Mandiprieto: @bakiiaasuhudi #ChapelHillShooting #ReplaceAMovieTitleWithGoat #pinkbus #driverlesscars #HSBC\"#Crazy #Vines&amp; #Jokes\" https…", :followers=>46, :user_id=>2739498515, :retweet=>1}
-{:text=>"RT @PeterDombi: After the #HSBC scandal can there be any doubt whatsoever the #Tory Party is the party of corporate corruption? http://t.co…", :followers=>96, :user_id=>2440826809, :retweet=>10}
-{:text=>"Reconoce Horacio Cartes, presidente de Paraguay que abrió cuentas en #HSBC de Suiza http://t.co/bfNmSQfdRR #SiTeLoPerdiste", :followers=>18176, :user_id=>748110248, :retweet=>1}
-{:text=>"RT @Harryslaststand: We've had a war on drugs, crime and the eternal war on terror But the tories will never have a war on #taxevasion #HSBC", :followers=>1836, :user_id=>44175686, :retweet=>28}
-{:text=>"#HSBC ferme les yeux sur le trafic d'armes en #Afrique http://t.co/GVwVyLOkLu http://t.co/B6EDD0ZHCs", :followers=>14, :user_id=>2739708841, :retweet=>0}
-{:text=>"RT @thomas_riegler: Die Liste der österr. #HSBC-Kunden: Schlaff, Kohn, Swarovski, Exner-Wöhrer #swissleaks http://t.co/ME5Dsmojdr", :followers=>61, :user_id=>989550300, :retweet=>3}
-{:text=>"Opinión de @rivapa #HSBC una caja de Pandora http://t.co/5EX4sm11IB", :followers=>1095, :user_id=>177543066, :retweet=>0}
-{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>1923, :user_id=>274688787, :retweet=>57}
-{:text=>"RT @feralbritain: It wasn't those on benefits and migrants who stole our money - it was the bankers http://t.co/m7UvRAzO3N #hsbc", :followers=>494, :user_id=>35254197, :retweet=>2}
-{:text=>"Shabana Mahmood is beating up on the Tories in the HOC during the tax avoidance debate. #HSBC #HMRC", :followers=>761, :user_id=>7394542, :retweet=>0}
-{:text=>"MP recolhe dados de portugueses ligados ao SwissLeaks http://t.co/tWjh5Eqxos #HSBC", :followers=>1232, :user_id=>1020962575, :retweet=>0}
-{:text=>"El Banco sinvergüenza #HSBC , el de la #ListaFalciani , tambien fue el preferido de #Delincuentes #Traficantes y #Terroristas | @HSBC_Press", :followers=>2496, :user_id=>474316323, :retweet=>0}
-{:text=>"RT @CheGenetic: Causa #PapelPrensa: Denegación de Justicia\nCausa #JPMorgan: Denegación de Justicia\nCausa #HSBC: Denegación de Justicia\nEn t…", :followers=>138, :user_id=>2549750495, :retweet=>23}
-{:text=>"RT @andybell5news: Labour; will be no backing down on Lord Fink, Ed will  make allegations again outside Parliament #HSBC", :followers=>2622, :user_id=>284566108, :retweet=>4}
-{:text=>"RT @oConsciente: Rutger_Hauer: RT RegisBeaGalo13: \"DemocraciaSempr: \"#HSBC mantém U$ 7 bilhões de brasileiros em contas secretas ($… http:/…", :followers=>2099, :user_id=>565882892, :retweet=>5}
-{:text=>"#cashier #hsbc #ripley https://t.co/NOSM6QjAfo", :followers=>823, :user_id=>487406834, :retweet=>0}
-{:text=>"RT @CheGenetic: Causa #PapelPrensa: Denegación de Justicia\nCausa #JPMorgan: Denegación de Justicia\nCausa #HSBC: Denegación de Justicia\nEn t…", :followers=>117, :user_id=>332526185, :retweet=>23}
-{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :followers=>3334, :user_id=>48415689, :retweet=>84}
-{:text=>"RT @BBCNormanS: PM turned blind eye over #hsbc scandal as he did over andy Coulson - Ed Miliband #pmqs", :followers=>245, :user_id=>435973477, :retweet=>58}
+{:text=>"RT @charlesfrith: In the UK it's illegal to grow 1 cannabis plant in your house but its legal for #HSBC to launder £65 billion for drug car…", :followers=>109, :user_id=>2635807604, :retweet=>119}
+{:text=>"RT @Independent: Here's how #HSBC helped rich customers dodge tax with secret Swiss banks accounts http://t.co/hdNnBDfp4X http://t.co/C8rWS…", :followers=>554, :user_id=>229890588, :retweet=>82}
+{:text=>"RT @CeasarorRome: So we bail out the banks to the tune of £850+ billion, causing onset of austerity &amp; they repay us by helping the rich eva…", :followers=>119, :user_id=>227257941, :retweet=>174}
+{:text=>"RT @EdgardoRovira: En España las tapas de los diarios no hablan de los clientes del #HSBC q evaden y lavan. En Argentina? http://t.co/0PhiI…", :followers=>1036, :user_id=>231116499, :retweet=>21}
+{:text=>"RT @cpulturerodrojo: Mudaron el Tesoro Nacional a sus cuentas personales en la Banca Suiza mientras te matan de hambre en una cola #HSBC ht…", :followers=>748, :user_id=>2173696036, :retweet=>321}
+{:text=>"RT @MrAWG1945: #HSBC #dodgydave The quality of arguments \nLabour - Why didn't you do anything about tax avoidance at HSBC?\nTories - You've …", :followers=>235, :user_id=>473108973, :retweet=>16}
+{:text=>"RT @AnitaBellows12: The penny has finally dropped. We are in this together! #HSBC \n@Dis_PPL_Protest http://t.co/a6KFCPYKku", :followers=>1331, :user_id=>1320007608, :retweet=>14}
+{:text=>"RT @Min_Finances: \"Depuis 2012, la lutte contre la fraude fiscale et les paradis fiscaux est totale\" http://t.co/dEhbTp6K0H via @gouverneme…", :followers=>1459, :user_id=>461460916, :retweet=>11}
+{:text=>"RT @Ian_Fraser: How #HMRC's \"dirty deal\" let #HSBC bankers and 1,100 British tax cheats off the hook http://t.co/vBnYtPBdsl http://t.co/U2J…", :followers=>370, :user_id=>47991955, :retweet=>95}
+{:text=>"RT @Scriptonite: The HMRC boss who helped HSBC with their scam now works for HSBC. The #HSBC boss now sits in the Tory govt. But... http://…", :followers=>119, :user_id=>227257941, :retweet=>50}
+{:text=>"RT @CharlieWoof81: HSBC leaks: David Cameron faces grilling over party links with scandal-hit bank http://t.co/0XM7JYFP4b #HSBC http://t.co…", :followers=>738, :user_id=>213816808, :retweet=>90}
+{:text=>"RT @Ian_Fraser: How #HMRC's \"dirty deal\" let #HSBC bankers and 1,100 British tax cheats off the hook http://t.co/vBnYtPBdsl http://t.co/U2J…", :followers=>90, :user_id=>2729116435, :retweet=>95}
+{:text=>"RT @Harryslaststand: We don't need to lower taxes but we must reduce our tolerance to systemic #taxavoidance by the elite before they ruin …", :followers=>381, :user_id=>1924165885, :retweet=>102}
+{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>4221, :user_id=>17710543, :retweet=>144}
+{:text=>"RT @MrAWG1945: #HSBC #dodgydave The quality of arguments \nLabour - Why didn't you do anything about tax avoidance at HSBC?\nTories - You've …", :followers=>888, :user_id=>2242044623, :retweet=>16}
+{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>328, :user_id=>743641141, :retweet=>144}
+{:text=>"RT @Ian_Fraser: #HSBC scandal: Where were the auditors? http://t.co/JxAZoIVNOV via @RichardJMurphy #HSBCFiles http://t.co/COr9P1jG8J", :followers=>987, :user_id=>2389124370, :retweet=>50}
+{:text=>"RT @BBCFreeSpeech: With #HSBC in the news, do you know your tax avoidance from your tax evasion? \nhttp://t.co/If8Ag1IffE http://t.co/v6OS0l…", :followers=>3734, :user_id=>285115075, :retweet=>2}
+{:text=>"RT @WillBlackWriter: Hi @David_Cameron, did you manage to make citizen arrests of any dastardly tax avoiders at the hedge fund ball the oth…", :followers=>195, :user_id=>1378904534, :retweet=>105}
+{:text=>"RT @Ian_Fraser: #HSBC scandal: Where were the auditors? http://t.co/JxAZoIVNOV via @RichardJMurphy #HSBCFiles http://t.co/COr9P1jG8J", :followers=>89, :user_id=>36949878, :retweet=>50}
+{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>1667, :user_id=>90950085, :retweet=>144}
+{:text=>"Follow\n@HazemSharifpage \nhttp://t.co/Jx7qCRPyny\nhttp://t.co/Wnl7xpERrt\n#حازم_شريف #Healer #HazalKaya #HSBC #HappyBirthdayHarryStyles", :followers=>68, :user_id=>2937334700, :retweet=>0}
+{:text=>"RT @ToriesMustGo: #HSBC tax dodgers: Rich get away with it while poor are punished http://t.co/5RP7pUwCQa #TaxAvoidance #ToriesMustGo #Fini…", :followers=>484, :user_id=>3019672973, :retweet=>10}
+{:text=>"RT @OccupyLondon: Watch @Jesse_Norman probe Martin Wheatley re: @TheFCA non-prosecution of #HSBC fraud in @nw_nicholas case. https://t.co/u…", :followers=>268, :user_id=>367296011, :retweet=>23}
+{:text=>"RT @chunkymark: They were claiming as single people rather than couples to avoid the marriage tax on poor people..Call the cops #HSBC http:…", :followers=>801, :user_id=>331477257, :retweet=>39}
+{:text=>"Enquête édifiante: \"#HSBC ferme les yeux sur le trafic d'armes en #Afrique\" http://t.co/TPk96BLA0q via @LeMonde_Afrique", :followers=>366, :user_id=>1961038999, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/KAGCU9eZCK", :followers=>99986, :user_id=>325259500, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/BHK765ZgPh", :followers=>396198, :user_id=>322024752, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/JtctcIH3GI", :followers=>517228, :user_id=>57652284, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/DvgkCJeLX0", :followers=>427575, :user_id=>278096906, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/5lUYuQiRU0", :followers=>447514, :user_id=>326450140, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/mWKbb3ek9w", :followers=>433593, :user_id=>36982750, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/FMaN1sUHUx", :followers=>409337, :user_id=>378222973, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/garSUVPUT9", :followers=>357677, :user_id=>322038356, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/DUYGFZw9qn", :followers=>2093229, :user_id=>18906599, :retweet=>0}
+{:text=>"10 Downing Street OFFICIAL SECRETS ACT NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Case http://t.co/qLc4e4HXLv", :followers=>414367, :user_id=>325585553, :retweet=>0}
+{:text=>"Que hará el #gobiernomexicano con #HSBC y su #lavadodedinero todos los #países ya están poniendo manos a la obra", :followers=>27, :user_id=>315908825, :retweet=>0}
+{:text=>"RT @Ian_Fraser: Ex HMRC chief Dave Hartnett signed off #HSBCFiles \"dirty deal\" months before joining #HSBC to advise it on honesty http://t…", :followers=>987, :user_id=>2389124370, :retweet=>55}
+{:text=>"RT @Big__Kev: The usual paradgim is lots of moral outrage at bankgster criminality for example #Libor but as with Libor no bankers are in p…", :followers=>109, :user_id=>2635807604, :retweet=>9}
+{:text=>"RT @carrie_p_: Private Eye must feel like they're shouting in a locked room most of the time. Been on this story for years  @PrivateEyeNews…", :followers=>17, :user_id=>344259363, :retweet=>5}
+{:text=>"RT @CeasarorRome: So we bail out the banks to the tune of £850+ billion, causing onset of austerity &amp; they repay us by helping the rich eva…", :followers=>775, :user_id=>346937412, :retweet=>174}
+{:text=>"RT @EdgardoRovira: A qué pensaban q se dedicaban los Bancos suizos, a patrocinar la producción de chocolate o abrir cuentas para evadir y l…", :followers=>1036, :user_id=>231116499, :retweet=>29}
+{:text=>"RT @GHOSTPROTOCOLS: 10 Downing Street NEWS MEDIA BLACKOUT CARROLL*TRUST HMRC #HSBC Biggest Offshore Tax Evasion Fraud Case http://t.co/WI4g…", :followers=>184, :user_id=>348380571, :retweet=>1}
+{:text=>"RT @jon_swindon: Oh dear Mr Cameron, its all going horribly wrong for you. 3 months before an election, such a shame. #HSBC", :followers=>328, :user_id=>743641141, :retweet=>25}
+{:text=>"RT @chunkymark: Fraud Raids.. It's not a bankers home but pensioners and families #HSBC http://t.co/4QFUDKIJ6X", :followers=>3711, :user_id=>866839813, :retweet=>85}
+{:text=>"RT @chunkymark: Fraud Raids.. It's not a bankers home but pensioners and families #HSBC http://t.co/4QFUDKIJ6X", :followers=>1667, :user_id=>90950085, :retweet=>85}
+{:text=>"Advierten sobre más delitos de #HSBC en #Suiza http://t.co/91VIzVp0bL http://t.co/m5FFh85QBp", :followers=>273770, :user_id=>195914313, :retweet=>0}
+{:text=>"RT @LabourLeft: In the Top of the \"Tax Haven\" Charts, Switzerland doesn't even get in the Top 10. #HSBC is the tip of the ice-berg http://t…", :followers=>71, :user_id=>2939490616, :retweet=>5}
+{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>2788, :user_id=>213288963, :retweet=>144}
+{:text=>"RT @chunkymark: Fraud Raids.. It's not a bankers home but pensioners and families #HSBC http://t.co/4QFUDKIJ6X", :followers=>459, :user_id=>213631861, :retweet=>85}
+{:text=>"RT @BBCFreeSpeech: With #HSBC in the news, do you know your tax avoidance from your tax evasion? \nhttp://t.co/If8Ag1IffE http://t.co/v6OS0l…", :followers=>229, :user_id=>2568775052, :retweet=>2}
+{:text=>"RT @Ian_Fraser: #HSBC scandal: Where were the auditors? http://t.co/JxAZoIVNOV via @RichardJMurphy #HSBCFiles http://t.co/COr9P1jG8J", :followers=>1667, :user_id=>90950085, :retweet=>50}
+{:text=>"RT @MagsNews: HMRC investigates second list of #HSBC offshore accounts @paulmasonnews reports http://t.co/TrjbsAXqFf http://t.co/DJszumN6hF…", :followers=>378, :user_id=>2902584496, :retweet=>14}
+{:text=>"RT @chunkymark: The police the DWP the Govt didn't care that there were kids in the house they broke the law..Benefit Cheats!! #HSBC http:/…", :followers=>122, :user_id=>567192402, :retweet=>23}
+{:text=>"RT @CharlieWoof81: HSBC leaks: David Cameron faces grilling over party links with scandal-hit bank http://t.co/0XM7JYFP4b #HSBC http://t.co…", :followers=>269, :user_id=>226959626, :retweet=>90}
+{:text=>"RT @WillBlackWriter: Hi @David_Cameron, did you manage to make citizen arrests of any dastardly tax avoiders at the hedge fund ball the oth…", :followers=>328, :user_id=>743641141, :retweet=>105}
+{:text=>"RT @MagsNews: HMRC investigates second list of #HSBC offshore accounts @paulmasonnews reports http://t.co/TrjbsAXqFf http://t.co/DJszumN6hF…", :followers=>95, :user_id=>2889914277, :retweet=>14}
+{:text=>"@keithpp @rustyrockets \nObama Pick for AG Let #HSBC Off the Hook http://t.co/IMCFwoFKVY http://t.co/2LhBOZeVeP", :followers=>2874, :user_id=>74672763, :retweet=>0}
+{:text=>"RT @Ian_Fraser: How #HMRC's \"dirty deal\" let #HSBC bankers and 1,100 British tax cheats off the hook http://t.co/vBnYtPBdsl http://t.co/U2J…", :followers=>268, :user_id=>367296011, :retweet=>95}
+{:text=>"RT @OUPAcademic: Money Laundering and Terrorism: How does it affect the banks? http://t.co/qMf65Qyk4H via @OUPCommLaw @YouTube #HSBC", :followers=>511, :user_id=>70270016, :retweet=>8}
+{:text=>"RT @LabourEoin: In the Top of the \"Tax Haven\" Charts, Switzerland doesn't even get in the Top 10. #HSBC is the tip of the ice-berg http://t…", :followers=>927, :user_id=>924117187, :retweet=>57}
+{:text=>"RT @CharlieWoof81: HSBC leaks: David Cameron faces grilling over party links with scandal-hit bank http://t.co/0XM7JYFP4b #HSBC http://t.co…", :followers=>378, :user_id=>2902584496, :retweet=>90}
+{:text=>"MPs knew of #HSBC Swiss tax evasion claims in 2011 http://t.co/DF8Z3wsfsk #TaxAvoidance #ToriesMustGo #FinishTheTories", :followers=>484, :user_id=>3019672973, :retweet=>0}
+{:text=>"RT @charlesfrith: In the UK it's illegal to grow 1 cannabis plant in your house but its legal for #HSBC to launder £65 billion for drug car…", :followers=>1113, :user_id=>527436404, :retweet=>119}
+{:text=>"RT @Iceman_cometh1: You couldn't make it up! #CameronMustGo #HSBC files show Tories raised over £5m from HSBC Swiss account holders.  http:…", :followers=>71, :user_id=>2939490616, :retweet=>13}
+{:text=>"RT @Alexdessinateur: Mon dessin dans le @Courrier_picard du 10.02.2015 : Gad #Elmaleh rêve....#HSBC #SwissLeaks #LCL http://t.co/U6eSJgetU0", :followers=>774, :user_id=>468281420, :retweet=>87}
+{:text=>"RT @CameronMcNeish: This is the cancer that is destroying our society. The rich dodge tax with impunity while the poor are hounded for ever…", :followers=>110, :user_id=>1459265252, :retweet=>605}
+{:text=>"\"@ToriesMustGo: MPs knew of #HSBC Swiss tax evasion claims in 2011 http://t.co/DF8Z3wsfsk #TaxAvoidance #ToriesMustGo #FinishTheTories", :followers=>484, :user_id=>3019672973, :retweet=>0}
+{:text=>"RT @EdgardoRovira: La AFIP debe recuperar más 8.000 millones dólares evadidos en cuentas del #HSBC y jueces y fiscales q marchan en silenci…", :followers=>1036, :user_id=>231116499, :retweet=>29}
+{:text=>"RT @ChrisThody: ,@Donnysandra No, It's OK, normally if you commit a crime, then stop doing it, because you get caught, you get let off\nOh..…", :followers=>2161, :user_id=>98515244, :retweet=>2}
+{:text=>"\"@ToriesMustGo: MPs knew of #HSBC Swiss tax evasion claims in 2011 http://t.co/DF8Z3wsfsk #TaxAvoidance #ToriesMustGo #FinishTheTories\"", :followers=>484, :user_id=>3019672973, :retweet=>0}
+{:text=>"RT @jon_swindon: Oh dear Mr Cameron, its all going horribly wrong for you. 3 months before an election, such a shame. #HSBC", :followers=>1667, :user_id=>90950085, :retweet=>25}
+{:text=>"What is it with bankers who used to be vicars?  First it was Co-op bank now #HSBC", :followers=>654, :user_id=>105909634, :retweet=>0}
+{:text=>"RT @AnitaBellows12: The penny has finally dropped. We are in this together! #HSBC \n@Dis_PPL_Protest http://t.co/a6KFCPYKku", :followers=>764, :user_id=>1854866233, :retweet=>14}
+{:text=>"Prosecute the #HSBC tax dodgers - sign the petition:\nhttps://t.co/9iUq1FdDn7", :followers=>1221, :user_id=>575760760, :retweet=>0}
+{:text=>"With #HSBC in the news, do you know your tax avoidance from your tax evasion? \nhttp://t.co/If8Ag1IffE http://t.co/v6OS0lhLYa", :followers=>24135, :user_id=>501987780, :retweet=>2}
+{:text=>"RT @ToriesMustGo: MPs knew of #HSBC Swiss tax evasion claims in 2011 http://t.co/4jcx2vrBgC #TaxAvoidance #ToriesMustGo #FinishTheTories", :followers=>484, :user_id=>3019672973, :retweet=>2}
+{:text=>"RT @chunkymark: They were claiming as single people rather than couples to avoid the marriage tax on poor people..Call the cops #HSBC http:…", :followers=>289, :user_id=>45834986, :retweet=>39}
+{:text=>"RT @nw_nicholas: Whilst the taxpayer was bailing out the banks #HSBC was quietly defrauding the poorest in society. http://t.co/kzQJeAv6MD", :followers=>119, :user_id=>227257941, :retweet=>112}
+{:text=>"RT @WillBlackWriter: Hi @David_Cameron, did you manage to make citizen arrests of any dastardly tax avoiders at the hedge fund ball the oth…", :followers=>1667, :user_id=>90950085, :retweet=>105}
+{:text=>"RT @Ian_Fraser: Ex HMRC boss Dave Hartnett signed off #HSBCFiles \"dirty deal\" months before joining #HSBC to advise it on honesty http://t.…", :followers=>268, :user_id=>367296011, :retweet=>124}
+{:text=>"RT @BBCNormanS: PM turned blind eye over #hsbc scandal as he did over andy Coulson - Ed Miliband #pmqs", :followers=>84, :user_id=>2219736971, :retweet=>74}
+{:text=>"RT @LabourLeft: In the Top of the \"Tax Haven\" Charts, Switzerland doesn't even get in the Top 10. #HSBC is the tip of the ice-berg http://t…", :followers=>48, :user_id=>1340184272, :retweet=>5}
+{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>49, :user_id=>2426853665, :retweet=>144}
+{:text=>"RT @nw_nicholas: Whilst the taxpayer was bailing out the banks #HSBC was quietly defrauding the poorest in society. http://t.co/kzQJeAv6MD", :followers=>1667, :user_id=>90950085, :retweet=>112}
+{:text=>"RT @Harryslaststand: We don't need to lower taxes but we must reduce our tolerance to systemic #taxavoidance by the elite before they ruin …", :followers=>268, :user_id=>367296011, :retweet=>102}
+{:text=>"#Venezuela el tercer país con más dólares depositados en el #HSBC suizo ---&gt; http://t.co/RB8gXeZzxI vía @ElUniversal http://t.co/bd6PyRFMvD", :followers=>134, :user_id=>94951215, :retweet=>0}
+{:text=>"RT @Scriptonite: The HMRC boss who helped HSBC with their scam now works for HSBC. The #HSBC boss now sits in the Tory govt. But... http://…", :followers=>468, :user_id=>1140215065, :retweet=>50}
+{:text=>"RT @charlesfrith: In the UK it's illegal to grow 1 cannabis plant in your house but its legal for #HSBC to launder £65 billion for drug car…", :followers=>73, :user_id=>520796220, :retweet=>119}
+{:text=>"RT @Harryslaststand: A Govt. that harasses &amp; persecutes the poor over benefits fraud but ignores systemic #taxevasion is a Govt. for the el…", :followers=>459, :user_id=>213631861, :retweet=>144}
+{:text=>"RT @LabourEoin: Some of the most sexist Tory MPs I know are now tweeting #PinkBuss with glee having ignored the #HSBC scandal for 4 days. A…", :followers=>1667, :user_id=>90950085, :retweet=>114}
+{:text=>"RT @CeasarorRome: So we bail out the banks to the tune of £850+ billion, causing onset of austerity &amp; they repay us by helping the rich eva…", :followers=>405, :user_id=>302881411, :retweet=>174}
+{:text=>"RT @CeasarorRome: So we bail out the banks to the tune of £850+ billion, causing onset of austerity &amp; they repay us by helping the rich eva…", :followers=>879, :user_id=>5738962, :retweet=>174}
+{:text=>"RT @CharlieWoof81: HSBC leaks: David Cameron faces grilling over party links with scandal-hit bank http://t.co/0XM7JYFP4b #HSBC http://t.co…", :followers=>1667, :user_id=>90950085, :retweet=>90}
+{:text=>"RT @CeasarorRome: So we bail out the banks to the tune of £850+ billion, causing onset of austerity &amp; they repay us by helping the rich eva…", :followers=>219, :user_id=>859598575, :retweet=>174}
+{:text=>"RT @nw_nicholas: Whilst the taxpayer was bailing out the banks #HSBC was quietly defrauding the poorest in society. http://t.co/kzQJeAv6MD", :followers=>268, :user_id=>367296011, :retweet=>112}
+{:text=>"RT @CharlieWoof81: HSBC leaks: David Cameron faces grilling over party links with scandal-hit bank http://t.co/0XM7JYFP4b #HSBC http://t.co…", :followers=>82, :user_id=>1658388228, :retweet=>90}
+{:text=>"RT @WillBlackWriter: Hi @David_Cameron, did you manage to make citizen arrests of any dastardly tax avoiders at the hedge fund ball the oth…", :followers=>473, :user_id=>715734697, :retweet=>105}
+{:text=>"RT @Ian_Fraser: \"Revolving door\" b/w #HSBC auditors #KPMG and regulators/govt aggravates Britain's blindness to fraud http://t.co/JxAZoIEcXn", :followers=>30082, :user_id=>204864531, :retweet=>45}
+{:text=>"RT @nw_nicholas: Whilst the taxpayer was bailing out the banks #HSBC was quietly defrauding the poorest in society. http://t.co/kzQJeAv6MD", :followers=>125, :user_id=>2322717964, :retweet=>112}

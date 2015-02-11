@@ -2,7 +2,7 @@
 
   def save_data(filename,item)
     file = File.open(filename, 'w')
-    file.puts item.to_json
+    file.puts item
     file.close()  
   end
 
@@ -14,6 +14,10 @@
     end
     file.close()
     return array_of_hashes
+  end
+
+  def delete_files_from_directory(dirname)
+    FileUtils.rm Dir.glob("#{dirname}/*")
   end
 
  end

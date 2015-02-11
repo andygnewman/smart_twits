@@ -1,0 +1,100 @@
+{:text=>"Breaking news on Italian cruise ship Costa Concordia runs aground: http://t.co/L3jULjMJRt via @YouTube", :followers=>3, :user_id=>3023958713, :retweet=>0}
+{:text=>"RT @CNN: Francesco Schettino, Costa Concordia captain, was convicted of manslaughter &amp; other charges: http://t.co/PRgh7eIqpQ http://t.co/WR…", :followers=>335, :user_id=>327226608, :retweet=>15}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/PvN8mPtQ4p", :followers=>223, :user_id=>2871886571, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/tnDOdigDSV", :followers=>241, :user_id=>2871872813, :retweet=>0}
+{:text=>"#Italie : 16 ans de prison pour le commandant du #Costa #Concordia http://t.co/WJZAHwwpdj", :followers=>279, :user_id=>83011520, :retweet=>0}
+{:text=>"CNN: Costa Concordia captain convicted in deadly shipwreck http://t.co/xs3jOv0viN", :followers=>41, :user_id=>2992876209, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/JygQ14e5s0", :followers=>236, :user_id=>2871866435, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/fJ0BGvbi7P", :followers=>256, :user_id=>2871833163, :retweet=>0}
+{:text=>"RT @AP: MORE: Costa Concordia captain convicted of manslaughter, sentenced to 16 years in prison: http://t.co/S56ehudOOR", :followers=>374, :user_id=>47419539, :retweet=>93}
+{:text=>"“@globeandmail: Costa Concordia captain convicted, sentenced to 16 years for disaster http://t.co/dJO94viAPz” Only 16 years for 32 dead?", :followers=>41, :user_id=>2781964697, :retweet=>0}
+{:text=>"RT @sudouest: L'ex-commandant du Costa #Concordia condamné à 16 ans de prison http://t.co/GJZtC21nb1 http://t.co/VEO3PquFyh", :followers=>2015, :user_id=>2526030359, :retweet=>13}
+{:text=>"RT @ActualidadRT: ÚLTIMA HORA: El capitán del crucero #CostaConcordia, condenado a 16 años de prisión http://t.co/WHSdkdH4PZ http://t.co/7I…", :followers=>128, :user_id=>1226556204, :retweet=>49}
+{:text=>"RT @CNN: Francesco Schettino, Costa Concordia captain, was convicted of manslaughter &amp; other charges: http://t.co/PRgh7eIqpQ http://t.co/WR…", :followers=>788, :user_id=>44297286, :retweet=>15}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/URKaFkPDgg", :followers=>256, :user_id=>2871871180, :retweet=>0}
+{:text=>"RT @CP24: BREAKING: The captain of the Costa Concordia has been sentenced to just over 16 years in prison for multiple manslaughter charges.", :followers=>286, :user_id=>18546715, :retweet=>34}
+{:text=>"Costa Concordia Captain Guilty Of Manslaughter http://t.co/5Ekqa4SA3c", :followers=>622, :user_id=>1322349120, :retweet=>0}
+{:text=>"Costa captain guilty of manslaughter: Costa Concordia captain Francesco Schettino is found gui... http://t.co/ILE9G16iuH #Teamfollowback", :followers=>1634, :user_id=>1093090068, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/0T1twuKrXg", :followers=>229, :user_id=>2871837353, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/SqmRNLvFCr", :followers=>227, :user_id=>323685593, :retweet=>0}
+{:text=>"Costa Concordia Captain Sentenced to 16 Years in Prison http://t.co/yTafrJ0ZQW", :followers=>165, :user_id=>2169775340, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/A0xEcVeVtX", :followers=>229, :user_id=>2871683339, :retweet=>0}
+{:text=>"RT @MediasetTgcom24: Costa #Concordia, \"#Schettino è colpevole\" Condannato a sedici anni e un mese  http://t.co/0Jm46DBxoe http://t.co/8PK0…", :followers=>31, :user_id=>111275408, :retweet=>12}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia http://t.co/NW2bVXRtJk", :followers=>50, :user_id=>2365715100, :retweet=>0}
+{:text=>"Es Cretino un capitan ejemplar, ha sido condenado a 16 años por el asunto del Costa Concordia http://t.co/5JV6ICgdjp http://t.co/LBFJfpD6Uv", :followers=>1757, :user_id=>555994400, :retweet=>0}
+{:text=>"RT @CNN: Francesco Schettino, Costa Concordia captain, was convicted of manslaughter &amp; other charges: http://t.co/PRgh7eIqpQ http://t.co/WR…", :followers=>15, :user_id=>554431340, :retweet=>15}
+{:text=>"Costa captain guilty of manslaughter: Costa Concordia captain Francesco Schettino is found guilty of the mansl... http://t.co/anbnnU1cVx", :followers=>528, :user_id=>556583621, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/ujIYuRi5ie", :followers=>262, :user_id=>2871705964, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/EdnDoU9rJA", :followers=>183, :user_id=>351039315, :retweet=>0}
+{:text=>"BREAKING NEWS: Captain found guilty in Costa Concordia shipwreck that killed 32 http://t.co/FBn2yFIGn3", :followers=>1474, :user_id=>787546010, :retweet=>0}
+{:text=>"Costa captain guilty of manslaughter: Costa Concordia captain Francesco Schettino is found guilty of the mansl... http://t.co/tIy4Dk6BPi", :followers=>34, :user_id=>2228565756, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/xWpjX9YlS4", :followers=>1044, :user_id=>438866699, :retweet=>0}
+{:text=>"RT @NYDailyNews: JUST IN: Costa Concordia captain sentenced to 16 years in prison for shipwreck that killed 32 people. http://t.co/Lfi3XfdP…", :followers=>334, :user_id=>29692736, :retweet=>3}
+{:text=>"Costa Concordia captain gets 16 years in jail - CNN http://t.co/VJj4vSNSbo #WayneRooney_INA", :followers=>683, :user_id=>570722541, :retweet=>0}
+{:text=>"16 jaar cel voor kapitein van Costa Concordia http://t.co/2zKntj2orc", :followers=>176, :user_id=>212170861, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/Wem75fLIbc", :followers=>246, :user_id=>2871691744, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/rU1UYJuWbo", :followers=>245, :user_id=>477042158, :retweet=>0}
+{:text=>"- «Costa Concordia»-Kapitän zu 16 Jahren Haft verurteilt: Der Kapitän der «Costa Concordia», Francesco Schetti... http://t.co/WAlvFvUdpK", :followers=>712, :user_id=>1030919934, :retweet=>0}
+{:text=>"Costa Concordia captain found guilty, jailed for 16 years http://t.co/EAV7qQx2Qf #abcnews", :followers=>437, :user_id=>2506199450, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/XwVyXIggEh", :followers=>196, :user_id=>552363428, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/xFcivN2eOP", :followers=>243, :user_id=>2871622851, :retweet=>0}
+{:text=>"Costa Concordia captain sentenced to 16 years in prison http://t.co/qr23JXHFv8 #cruise #cruise #cruiseship #captain #italy #travel #europe", :followers=>1006, :user_id=>35737684, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/TJBonz4Wqa", :followers=>629, :user_id=>865546398, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/I69oy32FMs", :followers=>270, :user_id=>546744362, :retweet=>0}
+{:text=>"BBC News - Costa Concordia captain Schettino guilty of manslaughter http://t.co/rEXyctLu39\nJustice shall be served ice cold #Schettino", :followers=>425, :user_id=>610206730, :retweet=>0}
+{:text=>"RT @FinancialTimes: .@fastFT: Costa Concordia captain sentenced to 16 years http://t.co/vyualirxPZ", :followers=>1050, :user_id=>16656621, :retweet=>11}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/xFVUc0r31k", :followers=>400, :user_id=>554983967, :retweet=>0}
+{:text=>"Costa Concordia Captain Sentenced to 16 Years in Prison http://t.co/R0a5E7pUt1", :followers=>1044, :user_id=>438866699, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/WS4tFmSERR", :followers=>255, :user_id=>2871617727, :retweet=>0}
+{:text=>"RT @CNN: Francesco Schettino, Costa Concordia captain, was convicted of manslaughter &amp; other charges: http://t.co/PRgh7eIqpQ http://t.co/WR…", :followers=>548, :user_id=>1353075572, :retweet=>15}
+{:text=>"- «Costa Concordia»-Kapitän zu 16 Jahren Haft verurteilt: Der Kapitän der «Costa Concordia», Francesco Schetti... http://t.co/FvaBl1xijo", :followers=>166, :user_id=>2278519800, :retweet=>0}
+{:text=>"RT @tagesschau: 16 Jahre Haft für \"Costa Concordia\"-Kapitän Schettino http://t.co/7NRQe2zhON #CostaConcordia #Schettino", :followers=>9, :user_id=>2257595438, :retweet=>14}
+{:text=>"Costa captain guilty of manslaughter: Costa Concordia captain Francesco Schettino is found guilty of the mansl... http://t.co/5lzwrySx1K", :followers=>289, :user_id=>2191793006, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/jko6ZFp1z7", :followers=>137, :user_id=>544768770, :retweet=>0}
+{:text=>"Costa Concordia Captain Francesco Schettino Sent To Jail http://t.co/0S922Yw9cX", :followers=>342, :user_id=>2864397183, :retweet=>0}
+{:text=>"RT @folha: Justiça da Itália condena capitão do Costa Concordia a 11 anos de prisão. http://t.co/ETxDWoRiDX", :followers=>382, :user_id=>484195246, :retweet=>9}
+{:text=>"BREAKING: Costa Concordia captain sentenced to just over 16 years in prison. Via @ap", :followers=>17645, :user_id=>180317088, :retweet=>0}
+{:text=>"Costa Concordia Captain Sentenced to 16 Years in Prison http://t.co/QR0mistj82", :followers=>361, :user_id=>1275624552, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/U1bK1Z0N2L", :followers=>216, :user_id=>368435600, :retweet=>0}
+{:text=>"MORE: Costa Concordia captain convicted of manslaughter, sentenced to 16 years in prison: http://t.co/jTq4YQWGGY Via @ap", :followers=>17645, :user_id=>180317088, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/zFyxnBRqWF Whizzy_Walexzy", :followers=>422, :user_id=>384448184, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/A6pPYBEePa", :followers=>77, :user_id=>1740060962, :retweet=>0}
+{:text=>"RT @FRANCE24: #BREAKING - Costa Concordia captain Schettino sentenced to 16 years prison http://t.co/43njrut6mS", :followers=>1146, :user_id=>1928003306, :retweet=>12}
+{:text=>"Costa Concordia captain Francesco Schettino guilty of manslaughter\n\nhttp://t.co/NIkoSQgsDe", :followers=>689, :user_id=>272281253, :retweet=>0}
+{:text=>"#WorldNews:Photos: The Costa Concordia disaster http://t.co/oJptz2EaBn", :followers=>439, :user_id=>725813827, :retweet=>0}
+{:text=>"RT @BBC_ua: Капітана Costa Concordia визнали винним в убивствах  http://t.co/bXCo2Jjeaj", :followers=>21, :user_id=>2774662248, :retweet=>1}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/9EP8mfU6H5", :followers=>248, :user_id=>2871634625, :retweet=>0}
+{:text=>"RT @tvrain: Итальянский суд приговорил капитана Costa Concordia к 16 годам лишения свободы: http://t.co/G3GU3uI4Bf http://t.co/9VEd3kw6Fh", :followers=>103, :user_id=>2241977156, :retweet=>40}
+{:text=>"Costa Concordia captain sentenced http://t.co/UJC1FaOpwT", :followers=>1879, :user_id=>414640264, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/hadbfza0Bt", :followers=>117, :user_id=>1253082505, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/T43FuGkX3n", :followers=>460, :user_id=>1294338276, :retweet=>0}
+{:text=>"Costa Concordia: Italian tragedy that reflected state of a nation http://t.co/z5VI3psdYH #News", :followers=>125, :user_id=>2976462089, :retweet=>0}
+{:text=>"#openfollow Photos: The Costa Concordia disaster http://t.co/gpgvTRNsYW #followback", :followers=>1483, :user_id=>200435698, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/j8ti0bfw6J", :followers=>653, :user_id=>211527513, :retweet=>0}
+{:text=>"Captain Schettino and the sinking of the Costa Concordia - video report http://t.co/NF4g11yaql #News", :followers=>125, :user_id=>2976462089, :retweet=>0}
+{:text=>"RT @KIRO7Seattle: Costa Concordia captain sentenced to 16 years in prison &gt;&gt; http://t.co/nZKPJi1tKe http://t.co/9AH9fv9q9i", :followers=>568, :user_id=>1581585452, :retweet=>1}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/aqNtRTvArF #teamfollowback", :followers=>11130, :user_id=>396788747, :retweet=>0}
+{:text=>"Costa Concordia captain sentenced to 16 years in prison http://t.co/83n7SQSRhG", :followers=>89, :user_id=>2432677142, :retweet=>0}
+{:text=>"Costa Concordia captain Francesco Schettino guilty of manslaughter http://t.co/c03y0oFATp #News", :followers=>125, :user_id=>2976462089, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/ZkoxE28oTo", :followers=>384, :user_id=>1425205518, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/kQw7VZZUwZ", :followers=>81, :user_id=>2201976366, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/AyGOXYPY6p", :followers=>286, :user_id=>550989837, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/pIbYOtetJW", :followers=>364, :user_id=>603440278, :retweet=>0}
+{:text=>"RT @CNN: Francesco Schettino, Costa Concordia captain, was convicted of manslaughter &amp; other charges: http://t.co/PRgh7eIqpQ http://t.co/WR…", :followers=>783, :user_id=>76725214, :retweet=>15}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/6EmX7YudBI", :followers=>211, :user_id=>129350587, :retweet=>0}
+{:text=>"Dictan 16 años de prisión a capitán del Costa Concordia: Francesco Schettino fue encontrado culpable por la mu... http://t.co/SUDg5yCYT6", :followers=>256, :user_id=>2871595503, :retweet=>0}
+{:text=>"follow @zacseth || Photos: The Costa Concordia disaster http://t.co/HnPI3ZswtP", :followers=>609, :user_id=>228156734, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/QNzwaMtI8Y", :followers=>2476, :user_id=>377898604, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/e5pQHtuEJm #NDNetwork", :followers=>4129, :user_id=>244586991, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/LKGGpJ4Rlm", :followers=>1525, :user_id=>400632457, :retweet=>0}
+{:text=>"GUILTY: Costa Concordia captain convicted in deadly shipwreck http://t.co/Eamkc3zArY", :followers=>20768, :user_id=>9544952, :retweet=>0}
+{:text=>"Costa-Concordia-Prozess - Gericht verurteilt Schettino zu 16 Jahren Haft http://t.co/c4DYMFxCQ3 #DieNachrichten #Focus", :followers=>167, :user_id=>2723425020, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/TH2CJ862cl", :followers=>55, :user_id=>125283348, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/aUVZBaEuoB", :followers=>245, :user_id=>477042158, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/zLdnZU0ymM", :followers=>1012, :user_id=>453176496, :retweet=>0}
+{:text=>"RT @CBSNews: JUST IN: Capt. Francesco Schettino sentenced to 16 years for Costa Concordia disaster.", :followers=>5, :user_id=>2971475223, :retweet=>46}
+{:text=>"Costa Concordia: Italian tragedy that reflected state of a nation http://t.co/XAZLE2ADOY", :followers=>400, :user_id=>481011796, :retweet=>0}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/KDo7IfMtxy", :followers=>609, :user_id=>228156734, :retweet=>0}
+{:text=>"RT @lemondefr: Le commandant du « Costa-Concordia » condamné à seize ans de prison http://t.co/31LTMQZXc2 http://t.co/45e1kIWFjB", :followers=>184, :user_id=>141940914, :retweet=>73}
+{:text=>"Photos: The Costa Concordia disaster http://t.co/d8Kpba3pgy", :followers=>361, :user_id=>1275624552, :retweet=>0}
+{:text=>"Costa Concordia Captain Sentenced to 16 Years in Prison http://t.co/QClIUHjJZr", :followers=>243, :user_id=>2532090938, :retweet=>0}

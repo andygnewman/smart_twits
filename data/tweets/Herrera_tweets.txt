@@ -1,0 +1,100 @@
+{:text=>"Seems like sagna is getting more starts at city than herrera at utd;", :followers=>20230, :user_id=>1121974974, :retweet=>0}
+{:text=>"No mata or Herrera? Fucks he playing at!", :followers=>333, :user_id=>496550721, :retweet=>0}
+{:text=>"Van Gaal should give Herrera more playing time. #FreeAnderHerrera", :followers=>264, :user_id=>33522020, :retweet=>0}
+{:text=>"@ManUtd After a horrible match last week, Januzaj&amp; Falcao are still starting , but Mata &amp; Herrera are on the bench? Ridiculous #mufclive", :followers=>206, :user_id=>76891556, :retweet=>0}
+{:text=>"No Mata or Herrera?! #mufc", :followers=>879, :user_id=>242812628, :retweet=>0}
+{:text=>"Hi HERRERA @Money_Tre1 Wanna get 2000.000 Fifa 15 COINS for FREE? Check this SECRET tricks: LINK on my Bio", :followers=>113, :user_id=>2988430458, :retweet=>0}
+{:text=>"RT @Fabregasam: Azpi 7m Shaw 30m\nHazard 32m Di Maria 60m\nCourtois 9m De Gea 16m\nCahill 7m Jones 20m\nMatic 24m Herrera 35m\n\nChelsea ruining …", :followers=>306, :user_id=>304941232, :retweet=>134}
+{:text=>"RT @Fabregasam: Azpi 7m Shaw 30m\nHazard 32m Di Maria 60m\nCourtois 9m De Gea 16m\nCahill 7m Jones 20m\nMatic 24m Herrera 35m\n\nChelsea ruining …", :followers=>210, :user_id=>38802722, :retweet=>134}
+{:text=>"RT @Fabregasam: Azpi 7m Shaw 30m\nHazard 32m Di Maria 60m\nCourtois 9m De Gea 16m\nCahill 7m Jones 20m\nMatic 24m Herrera 35m\n\nChelsea ruining …", :followers=>182, :user_id=>400302089, :retweet=>134}
+{:text=>"RT @utderrera: Herrera playing well - sits on the bench\nJanuzaj playing awfully - starts every week now", :followers=>3122, :user_id=>279228459, :retweet=>12}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>215, :user_id=>636297595, :retweet=>478}
+{:text=>"RT @Elio_MUFC: Not to forget that Herrera paid his buy out clause from his own money.", :followers=>398, :user_id=>374748397, :retweet=>40}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>5611, :user_id=>65809559, :retweet=>1873}
+{:text=>"RT @OffsideLiam: Stubbornness will be LvG's downfall as the Man United manager. Herrera fails to start again whereas Rooney does in midfiel…", :followers=>4061, :user_id=>110431066, :retweet=>151}
+{:text=>"RT @Elio_MUFC: Herrera: The £28m scouted by Fergie &amp; Moyes who waited a year for his move to United, left his boyhood club for us only to s…", :followers=>398, :user_id=>374748397, :retweet=>72}
+{:text=>"Yet to understand why Mata and Herrera are on that bloody bench #Mufc #FreeHerrera", :followers=>838, :user_id=>1495766197, :retweet=>0}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>348, :user_id=>1436702539, :retweet=>478}
+{:text=>"RT @UtdIndonesia: Subs for this match: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson. #mufclive", :followers=>268, :user_id=>134133214, :retweet=>11}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>581, :user_id=>617303521, :retweet=>478}
+{:text=>"😍😍😍😍 http://t.co/JPkpv969mj", :followers=>850, :user_id=>2608176260, :retweet=>0}
+{:text=>"Herrera just have to be patient.... #mufc", :followers=>150, :user_id=>1036757874, :retweet=>0}
+{:text=>"RT @Vixx_68_99_08: United Cluedo..... Herrera. In the toilets. With Mrs Van Gaal 👀 #MUFC", :followers=>5029, :user_id=>12025682, :retweet=>2}
+{:text=>"Herrera on the bench. I'm assuming, the whole match fixing malarkey w/ Herrera is still going on which is probably why he isn't starting", :followers=>137, :user_id=>37470903, :retweet=>0}
+{:text=>"Free Herrera, Free Mata #MUFC", :followers=>191, :user_id=>2384668809, :retweet=>0}
+{:text=>"Van Gaal wasn't watching Ander, as you were... RT @ManUtdUniverse: Herrera scores past Valdes in the warm up. #mufc https://t.co/Bd1cbLIZjk", :followers=>19525, :user_id=>236632752, :retweet=>2}
+{:text=>"Has Herrera shags van Gaal's daughter? It's unbelievable", :followers=>1524, :user_id=>261110053, :retweet=>0}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>230, :user_id=>1331572856, :retweet=>1873}
+{:text=>"RT @SemperFiUnited: My TL now \n\nStart Herrera \nArrogant LVG \nPlastic fans\nDrop RVP/Falcao \nPlay Rooney upfront \nEvans ffs\n\nLVG be like http…", :followers=>785, :user_id=>319008609, :retweet=>92}
+{:text=>"Herrera is on the bench once again 😥😤", :followers=>143, :user_id=>2237320743, :retweet=>0}
+{:text=>"RT @ManUtdDevilNews: Herrera &amp; Mata are on the bench. Absolutely ridiculous. Waste of creative, attacking talent with them on the bench. ht…", :followers=>2311, :user_id=>80910141, :retweet=>58}
+{:text=>"RT @Squawka: Ander Herrera's last Premier League start for Man Utd was on 2nd December vs. Stoke. He got an assist on that day. http://t.co…", :followers=>278, :user_id=>312522711, :retweet=>219}
+{:text=>"RT @Efson_: Who are you asking here? \"@kwesiaduanaba: what has Herrera done to LvG?\"", :followers=>961, :user_id=>2427826294, :retweet=>1}
+{:text=>"@Adi1839 Same. Rooney should be upfront and Herrera in Mid.", :followers=>2154, :user_id=>126494163, :retweet=>0}
+{:text=>"@MadeInAmbleside I can't fathom out Ander Herrera on the bench, never mind Mata. Madness.", :followers=>450, :user_id=>93584457, :retweet=>0}
+{:text=>"adriana51florso : ¡LA GNB SE ROBA LA FACTURACIÓN! Situación de Distribuidora Herrera a un mes de la ocupación -►", :followers=>13, :user_id=>2917478498, :retweet=>0}
+{:text=>"@scrappy1968 No Herrera?Disappointing", :followers=>36, :user_id=>1155131150, :retweet=>0}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>237, :user_id=>1229016906, :retweet=>1873}
+{:text=>"@BusbyMUFC I question his subs sometimes but im sure he will get us where we belong.  Rooney out for Herrera should have happened though.", :followers=>162, :user_id=>271951959, :retweet=>0}
+{:text=>"RT @_Henrinho_: Dutch cunt \" @Andy_waJeff\n\" @ivans254 : Seeing Herrera in the bench is\nthe worst thing ever\" Baaaaana!!!!\"", :followers=>1805, :user_id=>462275547, :retweet=>2}
+{:text=>"RT @mantomanmarking: Van Gaal's refusal to play Herrera just because he didn't personally sign him is great #tactics. It really is.", :followers=>273, :user_id=>2180724320, :retweet=>3}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>239821, :user_id=>558016351, :retweet=>478}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>1234, :user_id=>455723285, :retweet=>1873}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>88, :user_id=>118360726, :retweet=>1873}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>133299, :user_id=>1079128244, :retweet=>478}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>172053, :user_id=>758797560, :retweet=>478}
+{:text=>"Obviously Herrera wasn't a Van Gaal signing. But why was it sanctioned if he was known to be the new manager?Makes no sense.", :followers=>291, :user_id=>17667090, :retweet=>0}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>233997, :user_id=>756776102, :retweet=>478}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>108, :user_id=>38455771, :retweet=>1873}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>218459, :user_id=>279252616, :retweet=>478}
+{:text=>"RT @IconicUnited: Herrera is Kagawa 2.0", :followers=>522, :user_id=>342826941, :retweet=>25}
+{:text=>"Amazes me why Herrera doesn't start. Waste of 20+ million", :followers=>429, :user_id=>466366116, :retweet=>0}
+{:text=>"RT @Borracho_soy: Se escribe \"Carolina Herrera\" y se pronuncia \"Caroulena Hewrewraw”.", :followers=>150602, :user_id=>2206981471, :retweet=>478}
+{:text=>"Delighted to see McNair start ahead of Valencia, hope he has a great game and makes RB his. Still no Herrera...", :followers=>2285, :user_id=>1507207718, :retweet=>0}
+{:text=>"RT @RedDevil96Utd: Wondering if Herrera is another Kagawa. 😢", :followers=>785, :user_id=>319008609, :retweet=>9}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>107, :user_id=>2712258815, :retweet=>1873}
+{:text=>"RT @MufcDevilUpdate: Man Utd subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson. #MUFC", :followers=>354, :user_id=>318454026, :retweet=>17}
+{:text=>"RT @FletchTM: Herrera will see more games, but probably not as much as Rooney. Needs to be patient &amp; bulk up a bit. More chances with CL fo…", :followers=>8738, :user_id=>350181437, :retweet=>2}
+{:text=>"RT @Andy_waJeff: \"@ivans254: Seeing Herrera in the bench is the worst thing ever\" Baaaaana!!!!", :followers=>1805, :user_id=>462275547, :retweet=>1}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>7207, :user_id=>184326746, :retweet=>1873}
+{:text=>"Herrera 👈👈 i don't get what he's still doing on the bench..", :followers=>1036, :user_id=>274199610, :retweet=>0}
+{:text=>"RT @Fabregasam: Azpi 7m Shaw 30m\nHazard 32m Di Maria 60m\nCourtois 9m De Gea 16m\nCahill 7m Jones 20m\nMatic 24m Herrera 35m\n\nChelsea ruining …", :followers=>87, :user_id=>867813835, :retweet=>134}
+{:text=>"If having Rooney in midfield proves to be ineffective again, LVG surely has to look at putting him up front again and utilising Herrera.", :followers=>129, :user_id=>1935653066, :retweet=>0}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>296, :user_id=>964020240, :retweet=>1873}
+{:text=>"@manutd Please let Herrera come on Tell Van Gaal that", :followers=>366, :user_id=>311015605, :retweet=>0}
+{:text=>"@FullTimeDEVILS good other than no Herrera.", :followers=>34, :user_id=>179732547, :retweet=>0}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>305, :user_id=>324805210, :retweet=>1873}
+{:text=>"@SR_Herrera insensitivE", :followers=>130, :user_id=>228711319, :retweet=>0}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>2012, :user_id=>232690265, :retweet=>1873}
+{:text=>"@jonasinho0905: So disappointed yet again to see a team without Herrera. LVG is so stubborn. Low expectations. @FullTimeDEVILS", :followers=>13, :user_id=>113376307, :retweet=>0}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>353, :user_id=>374522655, :retweet=>1873}
+{:text=>"RT @femi_marsh: At the time Man utd were playing some decent football, both Mata and Herrera were starting games if i remember clearly...", :followers=>1140, :user_id=>342031344, :retweet=>2}
+{:text=>"Herrera 💔", :followers=>530, :user_id=>730238684, :retweet=>0}
+{:text=>"Rojo as left back and McNair at the right back, Evans back to starting XI with Herrera and Mata still on the bench. #mufclive", :followers=>328471, :user_id=>62190389, :retweet=>3}
+{:text=>"RT @Elio_MUFC: Dont worry, Herrera and Mata are just getting rested for our big FA Cup game against Preston.", :followers=>317, :user_id=>34316227, :retweet=>7}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :followers=>172, :user_id=>513983658, :retweet=>1873}
+{:text=>"Why the same formation? Rooney is wasted in midfield, Herrera should play. Di maria needs to play out wide...", :followers=>110, :user_id=>24920469, :retweet=>0}
+{:text=>"Peña Nieto anuncia programa de créditos para jóvenes http://t.co/VipiPhHjHE", :followers=>222, :user_id=>1727891748, :retweet=>0}
+{:text=>"What is the deal with herrera man! Gotta be something gone one!", :followers=>433, :user_id=>589146041, :retweet=>0}
+{:text=>"Mi esposa obtuvo los créditos en EU, pero no es la dueña: Murat http://t.co/ihOUFhkxIH", :followers=>222, :user_id=>1727891748, :retweet=>0}
+{:text=>"RT @Squawka: Ander Herrera's last Premier League start for Man Utd was on 2nd December vs. Stoke. He got an assist on that day. http://t.co…", :followers=>225, :user_id=>151829436, :retweet=>219}
+{:text=>"(2/2) creativity is being sacrificed (mata/herrera). i dont know if being too technical is a good thing or a bad thing.  only time will tell", :followers=>1413, :user_id=>297562423, :retweet=>0}
+{:text=>"RT @suma1978: Mata and herrera deserve to start.", :followers=>77, :user_id=>134776582, :retweet=>1}
+{:text=>"RT @JamalMotorwala: Herrera paid his buy out clause to make a move to United and get benched every week. That fucking guy paid his own buyo…", :followers=>1171, :user_id=>180358552, :retweet=>7}
+{:text=>"RT @planetaurbe: Se descubrieron millones de #Venezuela en Suiza por los #SwissLeaks que podían arreglar esto http://t.co/Jur7kcXwcz http:/…", :followers=>97, :user_id=>777466297, :retweet=>2}
+{:text=>"Subs for this match: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson. #mufclive", :followers=>45, :user_id=>929922756, :retweet=>0}
+{:text=>"RT @ManUtdBR: Senhor distribuidor de coletes, Evans na zaga DE NOVO? Rooney de 'volante' DE NOVO? Januzaj titular DE NOVO? Herrera no banco…", :followers=>540, :user_id=>82424594, :retweet=>12}
+{:text=>"RT @07Elfat: Montaje #breakvip @breakchitre carnavales parque unión #Chitre #Herrera  tu Spot en carnavales...... http://t.co/b8y5hBFXqQ", :followers=>2010, :user_id=>366871884, :retweet=>1}
+{:text=>"RT @magnitudCL: [SUCh|preliminar] Magnitud 6.3 el 11/Feb a las 15:57:19 en ANTOFAGASTA (a 147.0km al NE de Peine) a 209km de prof: http://t…", :followers=>23, :user_id=>558150291, :retweet=>207}
+{:text=>"RT @darrenrusse11: Sad to see what's happening with Herrera.\nFucking annoying too 😡", :followers=>1743, :user_id=>241038864, :retweet=>1}
+{:text=>"I Have Even Called State House Controler To Make Van Gaal  Play Herrera..Anaongoja Call From Who?Jesus?", :followers=>4772, :user_id=>270765046, :retweet=>0}
+{:text=>"RT @_JMOxQ: Kagawa was a Sir Alex signing Moyes didn't like, Herrera was a Moyes signing van Gaal doesn't like.", :followers=>732, :user_id=>2356694804, :retweet=>7}
+{:text=>"Man United Subs: Valdes, Smalling, Fellaini, Valencia, Herrera, Mata, Wilson.", :followers=>3644, :user_id=>362804877, :retweet=>0}
+{:text=>"RT @Elio_MUFC: Dont worry, Herrera and Mata are just getting rested for our big FA Cup game against Preston.", :followers=>743, :user_id=>51061809, :retweet=>7}
+{:text=>"Please for the love of god play herrera over januzaj or mata and switch his position with di maria😭", :followers=>277, :user_id=>337153427, :retweet=>0}
+{:text=>"HERRERA ISNT STARTING AGAIN. DROP FALCAO, ROONEY UP TOP AND HERRERA PLAYING WHERE ROONEY WAS IN MIDFIELD", :followers=>381, :user_id=>305282106, :retweet=>0}
+{:text=>"Would have loved to have seen di Maria Mata Herrera n blind in a midfield tonight, Rooney back up front. Shame #MUFC", :followers=>198, :user_id=>218568577, :retweet=>0}
+{:text=>"It was kagawa nw herrera even anderson nd cleverly got a chance @ManUtd #MUFC why! I wont mind if lvg is sacked Pep is available this summer", :followers=>549, :user_id=>1508118001, :retweet=>0}
+{:text=>"After a disaster game last weekend. LVG still stick with the same lineup. I am disappointed that Mata &amp; Herrera are still not first choice.", :followers=>90, :user_id=>68345164, :retweet=>0}
+{:text=>"RT @VanGaald: @ManUtd did Herrera fuck lvgs daughter or?", :followers=>426, :user_id=>425706410, :retweet=>19}
+{:text=>"@theredsunited @AnderHerrera u are our best midfielder, #TRUST HERRERA", :followers=>16, :user_id=>2715013817, :retweet=>0}

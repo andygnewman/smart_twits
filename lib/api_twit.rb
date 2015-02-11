@@ -40,24 +40,24 @@ class APITwitter
     end
   end
 
-  # def save_data(filename,item)
-  #   file = File.open(filename, 'w')
-  #   file.puts item.to_json
-  #   file.close()  
-  # end
+  def refresh_all_twitter_data
+    save_trends
+    save_tweets_per_trend
+    save_tweet_text_per_trend
+    save_tweets_most_followers_per_trend
+    save_tweets_most_retweeted_per_trend
+  end
 
-  def get_trends(id_g = LONDON)
+  def save_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
     @response.attrs[:trends].each { |el| @trends << {:name => el[:name],:query => el[:query]}}
-    json_trends = {toptrends: @trends}
-    save_data(PATH_TRENDS+'toptrends.json', json_trends) #maybe @trends does not need to be
-    @response                          #instance ver. 
+    save_data(PATH_TRENDS+'toptrends.txt', @trends) 
   end
 
   def save_tweets_per_trend(query_number = 100,trends = @trends)
     trends.each do |trend| 
       tweets = get_tweets(trend[:query],query_number)
-      save_data(PATH_TWEETS+trend[:name]+'_tweets.json',tweets)
+      save_data(PATH_TWEETS+trend[:name]+'_tweets.txt',tweets)
     end
   end
 
@@ -71,57 +71,58 @@ class APITwitter
     return result
   end
 
+  def save_tweet_data_for_specific_extractions
+    save_tweet_utility(merge_tweets, PATH_TWEETS_TEXT, '_tweets_text.txt')
+    save_tweet_utility(top_followers_tweets, PATH_TWEETS_FOLLOWERS, '_tweets_followers.txt')
+    save_tweet_utility(top_retweeted_tweets, PATH_TWEETS_RETWEETED, '_tweets_retweeted.txt')
+  end
+
+  def save_tweet_utility(method, path, extension)
+    trends.each do |trend| 
+      tweets = get_tweet_from_file(PATH_TRENDS+trend[:name]+'_tweets.txt')
+      tweet_extraction = self.send(method, tweets)
+      save_data(path+trend[:name]+extension, tweet_extraction)
+    end
+  end
+
+  def save_tweet_text_per_trend(trends = @trends)
+    trends.each do |trend| 
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweet_text = merge_tweets(tweets)
+      save_data(PATH_TWEETS_TEXT+trend[:name]+'_tweets_text.txt', tweet_text)
+    end
+  end
+
   def merge_tweets(array_of_hash)
     array_of_hash.reduce('') {|sum, el| sum += el[:text]}
   end 
+
+  def save_tweets_most_followers_per_trend(trends = @trends)
+    trends.each do |trend| 
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweets_most_followers = top_followers_tweets(tweets)
+      save_data(PATH_TWEETS_FOLLOWERS+trend[:name]+'_tweets_followers.txt', tweets_most_followers)
+    end
+  end  
 
   def top_followers_tweets(array_of_hashes, number = 5)
     array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..(number-1)]
   end
 
+  def save_tweets_most_retweeted_per_trend(trends = @trends)
+    trends.each do |trend| 
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweets_most_retweeted = top_retweeted_tweets(tweets)
+      save_data(PATH_TWEETS_RETWEETED+trend[:name]+'_tweets_retweeted.txt', tweets_most_retweeted)
+    end
+  end  
+
   def top_retweeted_tweets(array_of_hashes, number = 5)
     array_of_hashes.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
   end
 
-  # def get_tweet_from_file (filename)
-  #   array_of_hashes = []
-  #   file = File.open(filename, 'r')
-  #   file.readlines.each do |el| 
-  #     array_of_hashes << eval(el.chomp)
-  #   end
-  #   file.close()
-  #   return array_of_hashes
-  # end
-
-  def save_tweet_text_per_trend(trends = @trends)
-    trends.each do |trend| 
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.json')
-      tweet_text = merge_tweets(tweets)
-      save_data(PATH_TWEETS_TEXT+trend[:name]+'_tweets_text.json', tweet_text)
-    end
-  end
-
-  def save_tweets_most_followers_per_trend(trends = @trends)
-    trends.each do |trend| 
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.json')
-      tweets_most_followers = top_followers_tweets(tweets)
-      save_data(PATH_TWEETS_FOLLOWERS+trend[:name]+'_tweets_followers.json', tweets_most_followers)
-    end
-  end  
-
-  def save_tweets_most_retweeted_per_trend(trends = @trends)
-    trends.each do |trend| 
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.json')
-      tweets_most_retweeted = top_retweeted_tweets(tweets)
-      save_data(PATH_TWEETS_RETWEETED+trend[:name]+'_tweets_retweeted.json', tweets_most_retweeted)
-    end
-  end  
-
-  def delete_files_from_directory(dirname)
-    FileUtils.rm Dir.glob("#{dirname}/*")
-  end
-
-   def getlocation
+# possible for new feature
+  def getlocation
      html = open('https://twitter.com/trends?id=44418').read
   end
 

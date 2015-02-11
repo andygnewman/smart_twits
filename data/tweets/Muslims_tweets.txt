@@ -1,100 +1,100 @@
-{:text=>"RT @ozchrisrock: Muslims killed is never as good as Muslim's killing. So now it's a gun violence story, which means nothing to see here. #C…", :followers=>105, :user_id=>145934702, :retweet=>403}
-{:text=>"RT @ChuckCJohnson: CAIR will spin the deaths of 3 Muslim-Americans into a national crisis &amp; ignore the dozens of attacks by Muslims. #Chape…", :followers=>884, :user_id=>2859289742, :retweet=>17}
-{:text=>"موقع ضيفني وأضيفك لزيادة المتابعين يفتح من جديد\n\nللاشترك:http://t.co/jyK2d8wCky\n\nسحوبات على آيفون6📱 للمشتركين\n #Muslims", :followers=>192, :user_id=>2957212232, :retweet=>0}
-{:text=>"RT @Independent: Three young Muslims have been shot dead in their home #ChapelHillShooting http://t.co/ue46iUMdvC http://t.co/Jb2P1NaD4R", :followers=>68, :user_id=>64359914, :retweet=>5400}
-{:text=>"RT @KhaledBeydoun: Muslims only newsworthy when \"behind a gun. Not in front it.\"\n\nLack of coverage on Chapel HIll murders confirms this htt…", :followers=>414, :user_id=>152103467, :retweet=>1794}
-{:text=>"RT @stopbeingfamous: Atheist Extremist Exicutes 3 Muslims in North Carolina Family Home: http://t.co/6tG6N9ynkv  #ChapelHillShooting http:/…", :followers=>1456, :user_id=>169280190, :retweet=>16}
-{:text=>"RT @IKW_Official: Muslims are in majority but have no value because we are far away from teachings of Quran &amp; Sunnah. #ShameOnUSMedia", :followers=>535, :user_id=>2753844153, :retweet=>8}
-{:text=>"RT @JuddLegum: 3 Muslims students were gunned down by an atheist. Here's how Muslims and Atheists are responding http://t.co/dfOMf97ebf", :followers=>3772, :user_id=>18005231, :retweet=>51}
-{:text=>"@iShewaani Thewhole world kills the ture Muslims.Fack Muslims (Isis) kill us,jews kill us, Christians kill us.where should we go to be safe?", :followers=>446, :user_id=>546272806, :retweet=>0}
-{:text=>"Where are the \"Array of world leaders join to defy terrorism\"? http://t.co/350jM119St", :followers=>74, :user_id=>111833820, :retweet=>0}
-{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>890, :user_id=>456848352, :retweet=>7806}
-{:text=>"RT @Y4zz_Official: 3 MUSLIMS gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage?\nhttp://t.c…", :followers=>17, :user_id=>2968320341, :retweet=>27}
-{:text=>"RT @iHegazy_: Three muslims were murdered today but the shooter is not a bearded man so nobody cares about them #ChapelHillShooting http://…", :followers=>338, :user_id=>2382969189, :retweet=>55}
-{:text=>"#ChapelHillShooting And everybody are against the muslims", :followers=>38, :user_id=>2890798803, :retweet=>0}
-{:text=>"RT @ozchrisrock: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be nonstop. \n#ChapelHillShooting http…", :followers=>727, :user_id=>2278407222, :retweet=>6354}
-{:text=>"RT @Independent: Sources say all three #ChapelHillShooting victims were shot in the head http://t.co/ue46iUMdvC http://t.co/4PsTs6l3Px", :followers=>208, :user_id=>2589349215, :retweet=>926}
-{:text=>"RT @SaiyanSyrian: Not covering the slaughter of muslims in other countries is one thing, but American media ignoring the slaughter of them …", :followers=>151, :user_id=>943361755, :retweet=>32}
-{:text=>"RT @inkzaps: it is extremely upsetting and disgusting how the media portrays muslims compared to other faiths #ChapelHillShooting http://t.…", :followers=>15038, :user_id=>525460444, :retweet=>3}
-{:text=>"RT @Independent: Three young Muslims shot dead, Twitter asks 'where are the protests?' #ChapelHillShooting http://t.co/ue46iUMdvC http://t.…", :followers=>178, :user_id=>553897090, :retweet=>5713}
-{:text=>"RT @Hurshal: Chapel Hill shooting: Three American Muslims murdered - Telegraph http://t.co/6Namz1G1hx via #hng #earthchanges", :followers=>1075, :user_id=>475992063, :retweet=>14}
-{:text=>"RT @TheMoeDee: Rest in peace. 3 young Muslims murdered in North Carolina. Today is a sad day for American Muslims. #3Angels   http://t.co/L…", :followers=>234, :user_id=>153481354, :retweet=>170}
-{:text=>"RT @ZKhanOfficial: RIP to the three #Muslims murdered. I'd like to see the same public uproar as the #CharlieHebdo aftermath. #ChapelHillSh…", :followers=>629, :user_id=>18544441, :retweet=>210}
-{:text=>"RT @stopbeingfamous: Atheist Extremist Exicutes 3 Muslims in North Carolina Family Home: http://t.co/6tG6N9ynkv  #ChapelHillShooting http:/…", :followers=>1391, :user_id=>68000283, :retweet=>16}
-{:text=>"RT @BBCWorld: #ChapelHillShootings that killed 3 Muslims in North Carolina motivated by \"dispute over parking\" - police http://t.co/4pB3Jxf…", :followers=>116, :user_id=>538440616, :retweet=>270}
-{:text=>"Chapel Hill shooting: Three young Muslims gunned down in North Carolina family home http://t.co/eu40nVEkrR", :followers=>90, :user_id=>306191217, :retweet=>0}
-{:text=>"RT @DreamzHammad: #ShameOnUSMedia By Killing Muslims Extremists cant Stop Islam From Spreading!Islam will Reach Every Home", :followers=>535, :user_id=>2753844153, :retweet=>6}
-{:text=>"Killing of 3 in Chapel Hill stirs alarm among Muslims http://t.co/cC8PdY8PMM", :followers=>47, :user_id=>902873442, :retweet=>0}
-{:text=>"RT @cutequeer96: Why don't you care about Muslims @CNN @FoxNews @BBCWorld @abcnews", :followers=>233, :user_id=>974733372, :retweet=>40}
-{:text=>"RT @dankennik: @patcondell @FaithJupiter A classic example of failure of multiculturalism.  Muslims will &amp; can never be multicultural its n…", :followers=>243, :user_id=>299286458, :retweet=>3}
-{:text=>"RT @PeterFeaman: Tea Party-hater, Rachel Maddow fan guns down 3 Muslims; MSM downplays his politics http://t.co/C5sdSXmEM3 - @BizPacReview", :followers=>2653, :user_id=>798530833, :retweet=>2}
-{:text=>"RT @lucid1ty: Permanent mis-reporting &amp; mis-representation of Muslims by media &amp; politicians cost lives. People die. #ChappelHillShooting", :followers=>660, :user_id=>42295305, :retweet=>2}
-{:text=>"RT @BBCWorld: #ChapelHillShootings that killed 3 Muslims in North Carolina motivated by \"dispute over parking\" - police http://t.co/4pB3Jxf…", :followers=>47, :user_id=>28105561, :retweet=>270}
-{:text=>"RT @meteorologo777: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be prolific\n\n#ChapelHillShooting h…", :followers=>281, :user_id=>1876787953, :retweet=>1903}
-{:text=>"RT @Thunayyan16: #ChapelHillShooting\nThe only question comes up to my mind\nIs it going to be the same if the killer was a Muslim and the vi…", :followers=>378, :user_id=>545739205, :retweet=>51}
-{:text=>"They are just muslims you can kill them\n\n#ChapelHillShooting", :followers=>111, :user_id=>156755691, :retweet=>0}
-{:text=>"RT @BazeFrmCle: We as in Muslims can't stoop down to there level. We all need to stand together and become one.", :followers=>315, :user_id=>246328756, :retweet=>2}
-{:text=>"Especially all these know it all muslims in my class talking about ISIS. go fuck yourselves.", :followers=>529, :user_id=>362543851, :retweet=>0}
-{:text=>"RT @Independent: These are the victims of the #ChapelHillShooting... #MuslimLivesMatter http://t.co/ue46iUMdvC http://t.co/LyLN4FgwOD", :followers=>85, :user_id=>529698376, :retweet=>2494}
-{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>58, :user_id=>3005241060, :retweet=>7806}
-{:text=>"@CarrollFreyRN Mexicans behead too but they do it in the dark of the night. Notice how Muslims enjoy public watching gruesome acts as sports", :followers=>2222, :user_id=>17983686, :retweet=>0}
-{:text=>"Group of Muslims killed at Chapel Hill was probably not the mythical #Islamophobia - It was just a progressive atheist having a breakdown.", :followers=>477, :user_id=>219111955, :retweet=>0}
-{:text=>"RT @LibyaLiberty: Muslims may be the last people who have to work this hard to prove that they're being killed out of hate, not coincidence.", :followers=>1370, :user_id=>437679955, :retweet=>23}
-{:text=>"RT @MallyPosts: Muslims killed by an atheist is labeled a \"hate-crime\"\n\nHad it been the opposite it'd be labeled a \"TERRORIST ATTACK\" \n\n#Ch…", :followers=>378, :user_id=>1063743152, :retweet=>335}
-{:text=>"RT @FarhanKVirk: #ShameOnUSMedia This is the reality of US Media houses! Always puts blame on Muslims! http://t.co/cHjf1GQEFH", :followers=>788, :user_id=>121637897, :retweet=>156}
-{:text=>"RT @ALLCAPSLYRICS: RIP to the 3 Muslims that died 😔💓 #ChapeHillShooting http://t.co/DzSeF171XQ", :followers=>1076, :user_id=>1574445236, :retweet=>1125}
-{:text=>"RT @ImranistJunooni: They drone our villages to kill their enemies but protect the criminals who kill Muslims in their country  Hypocrisy o…", :followers=>535, :user_id=>2753844153, :retweet=>9}
-{:text=>"RedScareBot: Generation \"П\" RT vnn_forum The NC guy who killed 3 Muslims is a far left communist who supports the … http://t.co/AE09JpZfle", :followers=>469, :user_id=>3000093281, :retweet=>0}
-{:text=>"Stop judging people based on their religions! Christians, Jews, Muslims, etc are all humans! Why must we be violent? #ChapelHillShooting", :followers=>133, :user_id=>312946332, :retweet=>0}
-{:text=>"3 Muslims murdered in cold blood, here are today's headlines #ChapeHillShooting http://t.co/5zahdN9Vna", :followers=>220, :user_id=>303331633, :retweet=>0}
-{:text=>"my experience, Atheists are often not nice &amp; don't respect life so is it a stretch that one would kill some Muslims students over parking?", :followers=>749, :user_id=>15462005, :retweet=>0}
-{:text=>"@Clouds0fSmoke @meshari_m_b my issue is also AC and fans! But muslims like me cant win", :followers=>94, :user_id=>23294337, :retweet=>0}
-{:text=>"RT @Bipartisanism: Muslims were targeted in the #ChapelHillShooting but why does #FoxNews &amp; #CNN not call the shooter as a terrorist? http:…", :followers=>1268, :user_id=>47421452, :retweet=>146}
-{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>606, :user_id=>370920304, :retweet=>7806}
-{:text=>"RT @guypbenson: If 'leftist atheist' were replaced by 'conservative Christian,' we'd be having one hell of a \"national conversation:\" http:…", :followers=>2574, :user_id=>2209323169, :retweet=>37}
-{:text=>"RT @abeer_uae: The killing of three young Muslims ,\nVery easy   , \nthe silence of the USA media.\n Because they are Muslims!\nUnjust . http:/…", :followers=>774, :user_id=>409138478, :retweet=>1}
-{:text=>"RT @thetimes: Three Muslims students murdered in ‘anti-Islamic hate crime’ in the US  #ChapelHillShooting http://t.co/dukuYbbYXx http://t.c…", :followers=>426, :user_id=>1263453589, :retweet=>227}
-{:text=>"RT @Independent: These are the victims of the #ChapelHillShooting... #MuslimLivesMatter http://t.co/ue46iUMdvC http://t.co/LyLN4FgwOD", :followers=>5089, :user_id=>55214803, :retweet=>2494}
-{:text=>"RT @Independent: Three young Muslims have been shot dead in their home #ChapelHillShooting http://t.co/ue46iUMdvC http://t.co/Jb2P1NaD4R", :followers=>36, :user_id=>2242734614, :retweet=>5400}
-{:text=>"RT @coolerthancold: 3 college kids killed, including a married couple. Where's the outrage? Oh wait they're Muslims...America doesn't care", :followers=>583, :user_id=>271103025, :retweet=>5}
-{:text=>"RT @see502see_9: #بيع_متابعين ثابتين واشتراك ريتويت شهري حقيقي واتس0551114217\n#Muslims http://t.co/3xAGDbEYv7", :followers=>1140, :user_id=>2877153229, :retweet=>294}
-{:text=>"When white america/media habitually erases the humanity of Muslims they may as well be handing the gun to ppl like Hicks. #ChapeHillShooting", :followers=>268, :user_id=>86826957, :retweet=>0}
-{:text=>"RT @Boutaina: Muslim (practicing or not) kills none-Muslim = Terrorism\nIsraeli kills Arab = Self Defense\nWestern kills Muslims = Crazy Lone…", :followers=>48, :user_id=>2933494469, :retweet=>3}
-{:text=>"RT @NoM0reSilence: Muslims uneasy after windows shot out at school on Cavendish http://t.co/QrYiQfSUOF", :followers=>199, :user_id=>23521431, :retweet=>1}
-{:text=>"RT @JamesStreet_: Muslims are seen as terrorists and Black Men are seen as dangerous threats. And for this, WE are murdered without justice…", :followers=>2248, :user_id=>38888928, :retweet=>4}
-{:text=>"RT @NamaanYe: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be prolific\n\n#ChapelHillShooting http://…", :followers=>513, :user_id=>2513822858, :retweet=>165}
-{:text=>"NEWS FLASH WORLD #ALLLIVESMATTER not just MUSLIMS #MUSLIMLIVESMATTER ~ ALL LIVES MATTER stop picking and choosing who is more worthy!", :followers=>2032, :user_id=>15569772, :retweet=>0}
-{:text=>"@_PwincessShuffy @mnMalhi yeah they were muslims...!!", :followers=>1099, :user_id=>155097464, :retweet=>0}
-{:text=>"RT @MeerNikhil: While 3 Innocent Muslims Died And Uno Is Busy In Making Valentine This Is What Their Humanity Is ! #ShameOnUSMedia http://t…", :followers=>1651, :user_id=>133162616, :retweet=>2}
-{:text=>"@thekiranbedi is right, surely Fatwa affected the voting, almost 70% of muslims voted congress.", :followers=>774, :user_id=>2390772690, :retweet=>0}
-{:text=>"RT @blackheaux: White people want all Muslims to be apologetic for radical Islamic people but can't accept responsibility for oppression. O…", :followers=>118, :user_id=>292970400, :retweet=>17}
-{:text=>"RT @Independent: 'Execution style' #ChapelHillShooting of three young Muslims met with fury http://t.co/ue46iUMdvC #MuslimLivesMatter http:…", :followers=>1771, :user_id=>560021764, :retweet=>383}
-{:text=>"RT @CBCNews: UPDATE: Police investigating whether #ChapelHillShooting of 3 Muslims was motivated by hate http://t.co/oAcNgizfHk http://t.co…", :followers=>44, :user_id=>977548170, :retweet=>41}
-{:text=>"🔴 \"مجانا\"\n\n🔵 اشترك في تطبيق زيادة المتابعين\n\n✔️ متابعين عرب وخليجيين 100%\n\n☑️ http://t.co/xlXpnYJNxb\n #Muslims", :followers=>246, :user_id=>2957227303, :retweet=>0}
-{:text=>"RT @mandraian: #ShameOnUSMedia For always repeating the same characteristics. Maligning Muslims at every opportunity &amp; ignoring at will, wh…", :followers=>21, :user_id=>3004899380, :retweet=>4}
-{:text=>"@noahwj19 @Key_To_havean @Quran_truth Muslims follow the teachings of Jesus.Yet most christians eat pork, consume alcohol and nt circumcized", :followers=>268, :user_id=>604005906, :retweet=>0}
-{:text=>"RT @Independent: Three young Muslims shot dead, Twitter asks 'where are the protests?' #ChapelHillShooting http://t.co/ue46iUMdvC http://t.…", :followers=>2, :user_id=>2322519743, :retweet=>5713}
-{:text=>"RT @stopbeingfamous: Atheist Extremist Exicutes 3 Muslims in North Carolina Family Home: http://t.co/6tG6N9ynkv  #ChapelHillShooting http:/…", :followers=>1248, :user_id=>163965755, :retweet=>16}
-{:text=>"RT @KhaledBeydoun: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be prolific\n\n#ChapelHillShooting ht…", :followers=>640, :user_id=>50075505, :retweet=>4507}
-{:text=>"RT @BocaRatonRC: Atheist tea party-hater, Rachel Maddow fan guns down 3 Muslims; MSM downplays his politics http://t.co/iYT4Rr127m  via @Bi…", :followers=>189, :user_id=>2909534399, :retweet=>1}
-{:text=>"RT @Boutaina: Muslim (practicing or not) kills none-Muslim = Terrorism\nIsraeli kills Arab = Self Defense\nWestern kills Muslims = Crazy Lone…", :followers=>1557, :user_id=>488561271, :retweet=>3}
-{:text=>"RT @aurosan: The media only loves to play up stories where Muslims are terrorists, not when they're the victims of terrorism themselves. Di…", :followers=>131, :user_id=>392980628, :retweet=>285}
-{:text=>"الخدمة الأكثر مبيعاً\n\n☆\n☆\n☆\n\nإحصل الآن على متابعين تويتر\nمع إمكانية التجربة قبل الدفع\nhttp://t.co/f8OUBVkrue\n #Muslims\n614", :followers=>6425, :user_id=>144679625, :retweet=>0}
-{:text=>"What's the betting that the murder of three Muslims will get substantially less media coverage than the murder of three people by a Muslim?", :followers=>4981, :user_id=>197403075, :retweet=>1}
-{:text=>"RT @Bipartisanism: Three Muslims were killed by a lone gunman in a hate crime but the mainstream media is nowhere. #ChapelHillShooting http…", :followers=>1588, :user_id=>298622115, :retweet=>94}
-{:text=>"RT @x3Mahi: 3 young Muslims shot dead in their home in North Carolina\n\nWHERE is the world condemning these criminal acts NOW?\n\n #ChapelHill…", :followers=>2762, :user_id=>2514624412, :retweet=>7}
-{:text=>"RT @AJENews: Opinion: #ChapelHillshooting &amp; Western media. Religion only an issue when Muslims are shooters http://t.co/72zwNxgroy http://t…", :followers=>365, :user_id=>551262592, :retweet=>2269}
-{:text=>"RT @javisalas: Un ateo blanco ha matado a tres jóvenes musulmanes en USA. Si fuera al revés estaría abriendo los telediarios http://t.co/Yp…", :followers=>2782, :user_id=>221710429, :retweet=>486}
-{:text=>"Condemnation of the media silence..Campaign on \"Twitter\" about the killing of three Muslims in the United States\nhttps://t.co/WzwuCyrzHy", :followers=>73502, :user_id=>1544111664, :retweet=>0}
-{:text=>"RT @yomnamohsen0: Doctor his wife&amp;her sis are killed \nWhy?because they're Muslims \nHasbuna Allah wane'ma alwakel😔\n#ChapelHillShooting http:…", :followers=>1374, :user_id=>943975045, :retweet=>7}
-{:text=>"RT @PennyRed: Militant Atheist murders three Muslims in America. Where is the world's outrage? http://t.co/Nw6UviI99k #ChapelHillShooting #…", :followers=>3207, :user_id=>7612582, :retweet=>32}
-{:text=>"Being able to read Arabic&amp;English allowed me to follow&amp;read other ppl tweets.Thanks to the westerns who are tweeting about Muslims victims", :followers=>712, :user_id=>271332757, :retweet=>0}
-{:text=>"RT @shahidkhan711: @Saadiamsm @lasharis21 @DrAyesha4 @newyorklivetv \n\n#ShameOnUsMedia\n\n#ShameOnUsMedia\n\nKillin of innocent Muslims\nBut worl…", :followers=>1212, :user_id=>2919221485, :retweet=>5}
-{:text=>"RT @farwzaz: Muslims are only newsworthy when villains, not victims.", :followers=>1571, :user_id=>30541063, :retweet=>119}
-{:text=>"May Allah grant them Jannat ul Firdous...  R.I.P 3 innocent Muslims.. #ChapelHillShooting http://t.co/D7mdwfczgY\"", :followers=>296, :user_id=>563477485, :retweet=>0}
-{:text=>"RT @Yahya_AbuSedo: 3 Muslims shot dead. Mainstream media? Global outrage? None. Disgusting. 😔 #ChapelHillShooting #MuslimLivesMatter http:/…", :followers=>401, :user_id=>498315710, :retweet=>2}
-{:text=>"RT @hamzamusse: College shootings are usually all over the news when the tragedy hits. But 3 Muslims students were shot &amp; killed at UNC tod…", :followers=>234, :user_id=>153481354, :retweet=>370}
-{:text=>"RT @TonyaShrigley: GET ON TOP OF THIS PATRIOTS - \n.\nACCORDING TO CNN - THE SHOOTER OF THE 3 MUSLIMS WAS AN #ATHEIST .\n.\n#MuslimLivesMatter", :followers=>1021, :user_id=>430344855, :retweet=>2}
-{:text=>"RT @random_ukht: Mainstream media must be dying coz they can't find something bad about the 3 Muslims to blame them for their own death. #C…", :followers=>306, :user_id=>582521951, :retweet=>11}
-{:text=>"RT @Independent: Facebook page set up to honour #ChapelHillShooting victims, called 'Our Three Winners' http://t.co/ue46iUMdvC http://t.co/…", :followers=>1634, :user_id=>114036618, :retweet=>34}
-{:text=>"We are muslims", :followers=>70, :user_id=>94446930, :retweet=>0}
+{:text=>"RT @RBerkywcnc: US Attorney says not part of targeted attempt against Muslims.@wcnc http://t.co/6yEwI3Imen", :followers=>537, :user_id=>212447681, :retweet=>1}
+{:text=>"“Moderate” Muslim Leader says all Muslims are “Radical” and “Extremists” - Eagle Rising http://t.co/FBM2UTpNd6", :followers=>4813, :user_id=>217575068, :retweet=>0}
+{:text=>"RT @RT_com: #ChapelHillshooting: 3 Muslims gunned down sparks twitter storm http://t.co/WDTu4FD5lp http://t.co/gDZXlQYrEu", :followers=>534, :user_id=>1064036287, :retweet=>575}
+{:text=>"#ChapelHillShooting, people. A 46-yr old man shot 3 people, 23m, 21f, 19f, in the head in a home invasion. http://t.co/TwImtzmVyr", :followers=>565, :user_id=>8170712, :retweet=>0}
+{:text=>"RT @madisonlawrence: These are not terrorists. These are Muslims. There is a fucking difference. Get that through your idiotic skulls. http…", :followers=>1955, :user_id=>411133027, :retweet=>11}
+{:text=>"RT @Selintifada: First of all, my thoughts and dua's are with the families of the 3 young Muslims, Deah, Yusor and Razan who were murdered …", :followers=>20, :user_id=>2939556351, :retweet=>35}
+{:text=>"Waiting for @CNN @msnbc AND @FoxNews to become outraged at this TERRORIST attack on those innocent Muslims by that WHITE SUPREMACIST", :followers=>1517, :user_id=>2239672904, :retweet=>0}
+{:text=>"RT @ChrisJohnMilly: White US man shoots and kills 3 innocent Muslims today.\n\nLet's make sure the world knows, cause the racist media won't.…", :followers=>41, :user_id=>2347445838, :retweet=>3686}
+{:text=>"What do the Berber Muslims off the Barbary Coast in the 1800s and ISIS of today have in common?  They both made... http://t.co/XC8lVJ0q1F", :followers=>898, :user_id=>16193473, :retweet=>0}
+{:text=>"RT @FemsHaveBallz: Hey muslims, do you see how easy it is to speak up and show outrage? Try it when your kind kills 4,000 a month. Thanks #…", :followers=>2593, :user_id=>289470512, :retweet=>50}
+{:text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :followers=>112, :user_id=>21934371, :retweet=>752}
+{:text=>"RT @DrMatthewAshton: The police are now claiming that those three Muslims were killed because of a 'parking dispute'. I'm a tad sceptical a…", :followers=>411, :user_id=>470283088, :retweet=>3}
+{:text=>"If the victims are Muslims ..... it is Collateral damage\n #ChapelHillShooting", :followers=>664, :user_id=>322892302, :retweet=>0}
+{:text=>"@OCTimism (fighting the racism against Muslims in media). Like I said it's not the race that makes a terrorist a terrorist, it's the motive", :followers=>1020, :user_id=>395925592, :retweet=>0}
+{:text=>"RT @KhaledBeydoun: Muslims only newsworthy when \"behind a gun. Not in front it.\"\n\nLack of coverage on Chapel HIll murders confirms this htt…", :followers=>242, :user_id=>857758370, :retweet=>1986}
+{:text=>"@ImranELSS - Deal with your own hate and intolerance and you will find - hey presto - people leave Muslims alone... http://t.co/KRy3xtDcPJ", :followers=>315, :user_id=>2778770807, :retweet=>0}
+{:text=>"RT @MiddleEastEye: In wake of #ChapelHillShooting @stwuk's @LindseyAGerman examines the cancer of Islamaphobia http://t.co/H0kPuTmPEU http:…", :followers=>33, :user_id=>810584456, :retweet=>27}
+{:text=>"RT @LebaneseProblem: Three Muslims murdered tonight in Chapel Hill, NC by a man because they were Muslim. \n\nWhat a sad night in America. ht…", :followers=>1143, :user_id=>367247620, :retweet=>2317}
+{:text=>"RT @Independent: These are the victims of the #ChapelHillShooting... #MuslimLivesMatter http://t.co/ue46iUMdvC http://t.co/pfanLjLOy4", :followers=>22, :user_id=>610488726, :retweet=>1162}
+{:text=>"Wondering, three people, read muslims shot dead and no one is crying? Not enough deaths or just bias? #ChappelHillShooting", :followers=>301, :user_id=>2353178454, :retweet=>0}
+{:text=>"RT @CloydRivers: Muslims ask not to be judged by the actions of a few terrorists. So don't judge white people based on the action of one ps…", :followers=>1114, :user_id=>338807166, :retweet=>576}
+{:text=>"\"We don't have any information that this was a targeted campaign against Muslims in NC\" - Ripley Rand #ChapelHillShooting", :followers=>71501, :user_id=>18342955, :retweet=>1}
+{:text=>"RT @FergieTimeMUFC: #ChapelHill a white man kills 3 Muslims and it fails to reach any news channel, \n\nI do wonder sometimes...", :followers=>102, :user_id=>488169451, :retweet=>26}
+{:text=>"RT @philippenis: the media is taking the shooting of the 3 muslims lightly but imagine if it was a muslim who shot people we wouldn't be se…", :followers=>1301, :user_id=>969154352, :retweet=>387}
+{:text=>"RT @nsj: US Attorney Rand: Based on all the info we have, yesterday was not part of a targeted campaign against Muslims. #ChapelHillShooting", :followers=>1272, :user_id=>27052147, :retweet=>3}
+{:text=>"RT @KhaledBeydoun: Muslims only newsworthy when \"behind a gun. Not in front it.\"\n\nLack of coverage on Chapel HIll murders confirms this htt…", :followers=>92, :user_id=>33117077, :retweet=>1986}
+{:text=>"RT @MallyPosts: You don't invade a home and execute the 3 Muslims living there with shots to the head over a parking spot! What a joke.\n\n#C…", :followers=>64, :user_id=>172086405, :retweet=>7}
+{:text=>"RT @RichardDawkins: Parking Dispute Cited in Shooting Deaths of 3 Muslims in North Carolina - WSJ http://t.co/cXUoBpfVea", :followers=>92, :user_id=>107697031, :retweet=>27}
+{:text=>"RT @BIZPACReview: Atheist tea party-hater, Rachel Maddow fan guns down 3 Muslims http://t.co/ybczxy7I3r  #ChapelHillShooting http://t.co/CZ…", :followers=>630, :user_id=>193590938, :retweet=>28}
+{:text=>"RT @zvyyvd: “@MrAbuSidiq: \"Churches invite me for prayers almost on daily basis,the muslims hardly invite me to the mosque-GEJ”\n\nLmao sorry…", :followers=>13, :user_id=>491696505, :retweet=>23}
+{:text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :followers=>13298, :user_id=>110579028, :retweet=>752}
+{:text=>"RT @Khanyeezyy: It's sad that in today's world I can't tell Americans I'm Muslim...\n\nAnd I can't tell Muslims I'm American.", :followers=>560, :user_id=>273674708, :retweet=>1}
+{:text=>"RT @AfroQueen1993: It's funny how White Americans call Muslims \"terrorist\"\nYet terrorized Black Americans for centuries. http://t.co/RkNbQm…", :followers=>377, :user_id=>614371892, :retweet=>237}
+{:text=>"Photo: zindagichist: The hypocrisy of mainstream media never fails to disappoint. 3 Muslims in North... http://t.co/MlFGToJ10p", :followers=>347, :user_id=>184213656, :retweet=>0}
+{:text=>"RT @AbrahamHanover: Y'know how Muslims need to speak out against radicals? As an atheist, the Chapel Hill shooter is a fucking monster and …", :followers=>2933, :user_id=>236506960, :retweet=>160}
+{:text=>"RT @JulieSLalonde: Every time you refer to the victims of #ChapelHill as \"peaceful Muslims\", I fear you're playing into the Islamophobic na…", :followers=>262, :user_id=>74804363, :retweet=>22}
+{:text=>"RT @meteorologo777: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be prolific\n\n#ChapelHillShooting h…", :followers=>236, :user_id=>988926512, :retweet=>2413}
+{:text=>"RT @jkloljck: #pt @ADL_National maybe issue a statement on the shooting of three Muslims at UNC before going after your own community.", :followers=>326, :user_id=>1000772834, :retweet=>2}
+{:text=>"RT @zara_anna_: people think that isis and the taliban are representations of islam but don't know that they're killing actual muslims", :followers=>485, :user_id=>2282921815, :retweet=>26}
+{:text=>"RT @Independent: These are the victims of the #ChapelHillShooting... #MuslimLivesMatter http://t.co/ue46iUMdvC http://t.co/LyLN4FgwOD", :followers=>421, :user_id=>491336979, :retweet=>3343}
+{:text=>"*works in the news* there has been no concerted campaign to vilify and murder Muslims", :followers=>839, :user_id=>95030641, :retweet=>0}
+{:text=>"The Prophet: \"And he who hears a man [any person] calling, O, to Muslims, &amp; doesn't respond is not a #Muslim.\" #Islam http://t.co/h9p7xt9ptB", :followers=>4719, :user_id=>331456004, :retweet=>0}
+{:text=>"are ppl seriously using the hashtag #/AllLivesMatter like sure they do but right now black and muslims are oppressed +", :followers=>79, :user_id=>2586568587, :retweet=>0}
+{:text=>"RT @philippenis: the media is taking the shooting of the 3 muslims lightly but imagine if it was a muslim who shot people we wouldn't be se…", :followers=>372, :user_id=>2717065592, :retweet=>387}
+{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>273, :user_id=>28716527, :retweet=>9632}
+{:text=>"RT @AksarMMiah: Chapel Hill shooting: Three young Muslims have been executed, but the media ignored it because of their religion http://t.c…", :followers=>17048, :user_id=>320583974, :retweet=>1}
+{:text=>"@thefruityninja this is respectability politics - Muslims don't need to prove we're proud of being British", :followers=>1577, :user_id=>153083123, :retweet=>0}
+{:text=>"RT @FergieTimeMUFC: #ChapelHill a white man kills 3 Muslims and it fails to reach any news channel, \n\nI do wonder sometimes...", :followers=>435, :user_id=>311968686, :retweet=>26}
+{:text=>"RT @saladinahmed: Waiting for the NRA to argue that more Muslims should be carrying guns in order to avoid this sort of tragedy.", :followers=>340, :user_id=>16317597, :retweet=>67}
+{:text=>"RT @AJENews: Opinion: #ChapelHillshooting &amp; Western media. Religion only an issue when Muslims are shooters http://t.co/72zwNxgroy http://t…", :followers=>181, :user_id=>737779993, :retweet=>2920}
+{:text=>"RT @Selintifada: Secondly, I would bet you my life savings that Craig Hicks probably most likely definitely watched American Sniper before …", :followers=>20, :user_id=>2939556351, :retweet=>93}
+{:text=>"RT @vinirish: @mediacrooks I was in Delhi 5 feb onwards,met Muslims who told me arvind had promised them 19k salary and right to namaaz on …", :followers=>28, :user_id=>1351645148, :retweet=>334}
+{:text=>"RT @WSJ: Three Muslims killed in North Carolina shooting. Police say crime stemmed from ongoing parking dispute. http://t.co/F44lUqafvp", :followers=>338, :user_id=>239093724, :retweet=>133}
+{:text=>"RT @B1OLA: @darthmeuser @Le_Magnifiq but he's right tho... If the shooter is a muslim the whole world would already be relating it to how m…", :followers=>240, :user_id=>72559458, :retweet=>1}
+{:text=>"#NEWSROOM  #bobbyJindal, demonizing #muslims, a POS, Ok! Running 4POTUS,yea where's his B-Certificte he don't look like \"us\" either!", :followers=>70, :user_id=>1349587064, :retweet=>0}
+{:text=>"RT @shershot99: @TomboyChick @ChrisLoesch @_BroteinSheikh Yeah cause there is an epidemic of people killing muslims worldwide... NOT AT ALL.", :followers=>544, :user_id=>58071232, :retweet=>1}
+{:text=>"RT @manveerheir: White people, you're complicit in this narrative that Muslims are the terrorists and that white people aren't when you DON…", :followers=>15697, :user_id=>18148724, :retweet=>31}
+{:text=>"\"@KeepItRealist: @IndieRepub I wouldnt agree at all. What else are Muslims and Islam known for? Their great contributions in the arts?\"\n\nBye", :followers=>3177, :user_id=>1390550516, :retweet=>0}
+{:text=>"RT @JRehling: BREAKING NEWS: Muslim kills three people in Chapel Hill, NC.\n\nWait, no, a shooter killed three Muslims, so the national news …", :followers=>224, :user_id=>186307534, :retweet=>2225}
+{:text=>"RT @MontaserMarai: TV cameras don't chase the victims because they are Muslims.\n#ChapeHillShooting #ChapelHillTerror x http://t.co/g0NRoHwT…", :followers=>89, :user_id=>952385274, :retweet=>2}
+{:text=>"@Gigglemittens i think covering yourself is a good way to be modest, but i don't think non-muslims should be forced to follow islamic law", :followers=>176, :user_id=>64083123, :retweet=>0}
+{:text=>"Officials say at a a news conference that #ChapelHillShooting was “not part of a targeted campaign against Muslims in North Carolina”", :followers=>748, :user_id=>86231642, :retweet=>1}
+{:text=>"RT @manveerheir: White people, you're complicit in this narrative that Muslims are the terrorists and that white people aren't when you DON…", :followers=>249, :user_id=>273684743, :retweet=>31}
+{:text=>"RT @jtLOL: That atheist in North Carolina shot those Muslims over a parking space. And that Muslim killed those Jews in Paris for cutting i…", :followers=>238, :user_id=>1348554108, :retweet=>6}
+{:text=>"RT @guypbenson: If 'leftist atheist' were replaced by 'conservative Christian,' we'd be having one hell of a \"national conversation:\" http:…", :followers=>9974, :user_id=>18378801, :retweet=>172}
+{:text=>"RT @JohnFugelsang: 3 young Muslims, including a newly married couple, shot dead in NC - tune into FOX to not hear this called 'terrorism.'", :followers=>155, :user_id=>2395722551, :retweet=>346}
+{:text=>"RT @iFalasteen: We are Proud Muslims Alhamdulillah seeing sisters supporting hijab and make them more strong from the #ChapelHillShooting #…", :followers=>158, :user_id=>942624373, :retweet=>73}
+{:text=>"Im sick and tired of white people hating anyone that isn't white.. Like WYD. Not all Muslims are not terrorists", :followers=>1703, :user_id=>1480993280, :retweet=>0}
+{:text=>"RT @Independent: Three young Muslims have been shot dead in their home #ChapelHillShooting http://t.co/ue46iUMdvC http://t.co/Jb2P1NaD4R", :followers=>250, :user_id=>519624932, :retweet=>5590}
+{:text=>"@mubasherlucman sir what happening with muslims in US... #ShameOnUSMedia http://t.co/pAgXG0UHs8", :followers=>34, :user_id=>569883652, :retweet=>0}
+{:text=>"RT @KhaledBeydoun: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be prolific\n\n#ChapelHillShooting ht…", :followers=>3390, :user_id=>2063921, :retweet=>4893}
+{:text=>"3 Muslims shot dead by Atheist || #muslimlivesmatter: http://t.co/AvIfotwalG @immusaman @AliDawow", :followers=>147, :user_id=>802604179, :retweet=>1}
+{:text=>"a lot of modern day 'atheists' seem to use their anti god stance to display their hate for muslims in particular. #chapelhillshooting", :followers=>685, :user_id=>151832064, :retweet=>0}
+{:text=>"RT @DivyaSoti: @sarkar_swati AAP did campaign on  Hindutva.... presented itself as a force which can stop Saffron advance, Muslims rewarded…", :followers=>283, :user_id=>1592355552, :retweet=>7}
+{:text=>"RT @BorisWatch: OMG over a million Londoners are Muslims. The old place seems to be doing all right, nonetheless. *thinks* Hey, maybe racis…", :followers=>285, :user_id=>46611555, :retweet=>3}
+{:text=>"RT @Ellie_adamsx: 3 Muslims were shot this morning in the US here's there headlines, imagine if it was a Muslim shooting three people. http…", :followers=>688, :user_id=>563201641, :retweet=>15}
+{:text=>"@FatimaFatwa @eS3udi @JRehling bearing in mind that there are currently 1.3 BILLION Muslims walking on this earth. And if you wanna get out", :followers=>1599, :user_id=>556171255, :retweet=>0}
+{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>620, :user_id=>192086491, :retweet=>9632}
+{:text=>"RT @edlnews: Scant National News coverage of the three young Muslims who were gunned down in the United States http://t.co/KgCj9Yrovf #jesu…", :followers=>107, :user_id=>497160921, :retweet=>8}
+{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :followers=>350, :user_id=>2705900362, :retweet=>9632}
+{:text=>"Muslims bleed, they feel pain and if killed don't return just like any other human being..\n#ShameOnUSMedia\n#ChapelHill\"", :followers=>22252, :user_id=>144418981, :retweet=>0}
+{:text=>"RT @Millennial_: ANYONE CAN BE A TERRORIST, not just Muslims or people of Arabic descent. #ChapelHillShooting http://t.co/xRWCqj6rrM", :followers=>312, :user_id=>700199510, :retweet=>49}
+{:text=>"Is Richard Dawkins the bigger story here? Or the killing of 3 wonderful innocent young Muslims?  MSM should focus on latter.", :followers=>2466, :user_id=>32610083, :retweet=>0}
+{:text=>"RT @WFMY: U.S Attorney for middle district of NC: Based on all the information, the events are not part of a target campaign against Muslim…", :followers=>643, :user_id=>104991529, :retweet=>1}
+{:text=>"RT @sallykohn: US media covered shooting *BY* Muslims in FRANCE constantly FOR DAYS! No remotely comp coverage for shooting *OF* Muslims ri…", :followers=>637, :user_id=>363983152, :retweet=>447}
+{:text=>"RT @SahilBahra: 3 muslims killed in chapel hill. No major coverages from the media. Time to show the power of youth and social media. #Chap…", :followers=>954, :user_id=>255277262, :retweet=>2}
+{:text=>"RT @7mdanM7md: \"I guess Muslims are newsworthy only when behind the gun, not in front.\"", :followers=>359, :user_id=>2182692524, :retweet=>10}
+{:text=>"RT @Maestrouzy: Non-Muslims think that Muslims get angry when they don't accept Islam. No, we get sad because we know whats waiting on the …", :followers=>35, :user_id=>778759098, :retweet=>132}
+{:text=>"RT @saladinahmed: Waiting for the NRA to argue that more Muslims should be carrying guns in order to avoid this sort of tragedy.", :followers=>218, :user_id=>2346178098, :retweet=>67}
+{:text=>"RT @MexicAnarchist: It was a white atheist that killed three Muslims. Don't expect world leaders to come and march for the victims.", :followers=>36, :user_id=>2657048124, :retweet=>32}
+{:text=>"RT @BillClintonTHOF: 3 Muslims were shot over a parking spot, I give Obama 5 minutes before he chimes in on \"Radical Christianity.\"", :followers=>1355, :user_id=>2588576084, :retweet=>4}
+{:text=>"RT @defilibrator: Will the world stand in solidarity with the American Muslims who were brutally massacred in #ChapelHillShooting? http://t…", :followers=>480, :user_id=>100621833, :retweet=>46}
+{:text=>"like if there's anything I never want to be like it's @billmaher .No life.No wife.Just a show to try and diss muslims.We sadly don't care.", :followers=>41, :user_id=>2513128367, :retweet=>0}
+{:text=>"Carry a gun in case of parking dispute? RT @RichardDawkins Police: Parking Dispute Led to Murder of 3 Young Muslims http://t.co/pMa3Ikkqmf", :followers=>246, :user_id=>90159566, :retweet=>0}
+{:text=>"@consuelabetz all the headlines addressed an atheist killing three Muslims instead of a man killing his student neighbors. I think it's", :followers=>851, :user_id=>72935432, :retweet=>0}
+{:text=>"Lens Blog: French Muslims, Never Fully at Home: In the wake of last month’s terrorist attacks, Bharat Choudhar... http://t.co/Kl7UUX5CHM", :followers=>440, :user_id=>971339364, :retweet=>0}
+{:text=>"RT @Bea4Palestine: Yesterday: Happy Smiles. Lives just started.\nToday: 3 young Muslims murdered in #ChapelHillShooting \n\n#Enough\n#Khalas ht…", :followers=>693, :user_id=>2288928768, :retweet=>99}
+{:text=>"RT @boonaamohammed: 3 Muslims were killed unjustly and will be sent straight to Jannah because of it inshaAllah! Never forget the Wisdom an…", :followers=>158, :user_id=>942624373, :retweet=>373}
+{:text=>"RT @__arsenal_news_: R.I.P to the 3 Muslims that were shot in Chapel Hill. It's a sad day when innocent students are killed, because of the…", :followers=>333, :user_id=>376403615, :retweet=>487}
+{:text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :followers=>222, :user_id=>2935582408, :retweet=>752}

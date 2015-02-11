@@ -1,10 +1,10 @@
 {:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting"}
+{:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words"}
 {:name=>"#ReplaceAMovieTitleWithGoat", :query=>"%23ReplaceAMovieTitleWithGoat"}
 {:name=>"#HSBC", :query=>"%23HSBC"}
-{:name=>"#teamfearne", :query=>"%23teamfearne"}
-{:name=>"#ConsentDebate", :query=>"%23ConsentDebate"}
+{:name=>"#HoleInMyHeartTour", :query=>"%23HoleInMyHeartTour"}
 {:name=>"Jon Stewart", :query=>"%22Jon+Stewart%22"}
-{:name=>"Eurovision", :query=>"Eurovision"}
-{:name=>"Andy Coulson", :query=>"%22Andy+Coulson%22"}
+{:name=>"Costa Concordia", :query=>"%22Costa+Concordia%22"}
+{:name=>"Herrera", :query=>"Herrera"}
 {:name=>"London", :query=>"London"}
 {:name=>"Muslims", :query=>"Muslims"}
