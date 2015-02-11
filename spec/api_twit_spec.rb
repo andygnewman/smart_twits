@@ -49,6 +49,12 @@ describe 'API' do
     expect(twitter.merge_twitt(hash)).to be_an_instance_of (String)
   end
 
+  it 'should write the string of merged tweets to a text file' do
+    twitter.save_tweet_text('this is a test tweet text', 'testtrend')
+    expect(File.exists?('testtrend.txt')).to be(true)
+    # expect(file content length) to. eq(input string length) 
+  end
+
 
 
 end

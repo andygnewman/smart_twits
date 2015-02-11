@@ -56,5 +56,16 @@ class APITwitter
   def merge_twitt(array_of_hash)
     array_of_hash.reduce('') {|sum, el| sum += el[:text]}
   end
+
+  def save_tweet_text(tweet_text_string, trend)
+    filename = trend+'.txt'
+    file = File.open(filename, 'w')
+    file.puts tweet_text_string
+    file.close()
+  end
   
 end
+
+
+
+
