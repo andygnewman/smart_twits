@@ -10,7 +10,6 @@ describe 'Handles' do
 
   it 'can create an array of twitter handles' do
     expect(handles.read_file('data.txt')).to include('@britishchambers')
-    puts handles.read_file('data.txt')
   end
 
   it 'can find the frequency with which the twitter handles occur' do
