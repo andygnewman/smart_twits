@@ -1,4 +1,6 @@
 require 'sinatra/base'
+require 'httparty'
+require 'json'
 require_relative 'api_twit'
 require_relative 'Wordfrequency'
 
@@ -7,7 +9,6 @@ class SmartTwit < Sinatra::Base
   set :views, Proc.new { File.join(root, "..", "views") }
   
   get '/' do
-    twit = APITwitter.new
     file = File.open('./data/trends/toptrends.txt','r')
     array = []
     file.readlines.each do |el| 
@@ -15,19 +16,37 @@ class SmartTwit < Sinatra::Base
     end
     file.close()
     @trends_list = array.map{|el| el[:name]}.compact
+    erb :index
+  end
+
+  get '/trends/' do
+    'hello'
+  end
+  
+  get '/trends?:trend' do
+    'hi I am here'
+    freq = WordFrequency.new
+    file = File.open("./data/tweets/#{params[:trend]}_tweets.txt",'r')
+    array = []
+    file.readlines.each do |el| 
+      array << eval(el.chomp)
+    end
+    file.close()
+    @words = array.map{|el| el[:text]}
+    #@words = freq.find_top_results(20, './data.txt')
+    #./data/tweets/#{params[:trend]}.txt
+    
+    # puts @words
     erb :trends
   end
-  
-  get '/:trend' do
-    freq = WordFrequency.new
-    file = "#{params[:trend]}.txt"
-    @words = freq.find_top_results(20, file)
-  end
+
 
   
-
-  
-
   # start the server if ruby file executed directly
   run! if app_file == $0
 end
+
+
+
+
+
