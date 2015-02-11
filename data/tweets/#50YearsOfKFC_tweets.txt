@@ -1,100 +1,100 @@
-{:text=>"#50YearsOfKFC thank fuck", :followers=>6654, :user_id=>571842759, :retweet=>0}
-{:text=>"RT @IamHappyToast: so much to be proud of #50YearsOfKFC wouldn't it be funny if God turned out to be a chicken http://t.co/wq6a5iO5n4", :followers=>64, :user_id=>2540410987, :retweet=>3}
-{:text=>"#50YearsOfKFC @KFC_UKI I would go to ksi and pretend I scratched his car then smack him in the face with whipped cream", :followers=>50, :user_id=>2764858707, :retweet=>0}
-{:text=>"RT @mashed: Happy 50th Birthday KFC! Here's our interpretation of what 50 years of KFC will probably do to you. #50YearsOfKFC http://t.co/U…", :followers=>64, :user_id=>2540410987, :retweet=>1}
-{:text=>"@KFC_UKI #50YearsOfKFC I would do anything, anything! Let's eat some insects?!?!?", :followers=>37, :user_id=>1887484195, :retweet=>0}
-{:text=>"#selfie #50YearsOfKFC \nGoing to eat something of KFC haha :P :) http://t.co/ZIZsJfrsAu", :followers=>36, :user_id=>2973252201, :retweet=>0}
-{:text=>"Wow... #50YearsOfKFC and at least one week of Kentucky Fried Mouse in the Tavistock St branch in Bedford years ago - put me right off!", :followers=>310, :user_id=>225253470, :retweet=>0}
-{:text=>"#50YearsOfKFC I would do nothing. Absoulutly NOTHING!", :followers=>4, :user_id=>2729280669, :retweet=>0}
-{:text=>"OMG @KSIOlajidebt 50years of @KFC_UKI u know what I would do if I won?Give the food to the homeless people thats what I'll do #50YearsOfKFC", :followers=>57, :user_id=>2871968161, :retweet=>0}
-{:text=>"RT @extinctsymbol: #50YearsOfKFC http://t.co/6T5kY6quFF", :followers=>34, :user_id=>1394969101, :retweet=>45}
-{:text=>"#50YearsOfKFC @kfc_uki I would run into mc Donalds and scream KFC IS BETTER and then i will offer people KFC", :followers=>50, :user_id=>2764858707, :retweet=>0}
-{:text=>"@KFC_UKI I will actually found the Church of Colonel Sanders and follow it until the day I die #50YearsOfKFC", :followers=>25, :user_id=>2905204011, :retweet=>0}
-{:text=>"@KFC_UKI Send me out to a London Derby and I'll wear a rival shirt in the other teams stand and celebrate for the other team. #50YearsOfKFC", :followers=>543, :user_id=>2463324953, :retweet=>0}
-{:text=>"@KFC_UKI for #50YearsOfKFC  i would do a blindfolded skydive naked, then allow @KSIOlajidebt to verbally rip me to shreds.", :followers=>180, :user_id=>138171027, :retweet=>0}
-{:text=>"@KFC_UKI I would pour twp 4 pints of milk over me while singing Taylor swift for #50YearsOfKFC", :followers=>81, :user_id=>2511349565, :retweet=>0}
-{:text=>"RT @KFC_UKI: It's our 50th &amp; we're rewarding our superfans. What would you do for #50YearsOfKFC? Tweet us your suggestions! http://t.co/w39…", :followers=>96, :user_id=>201678928, :retweet=>195}
-{:text=>"TT UK\n4 #50YearsOfKFC\n5 Eurovision\n6 Beck\n7 Muslims\n8 London\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/sMScarHmeK", :followers=>6168, :user_id=>2837580459, :retweet=>0}
-{:text=>"@KFC_UKI For #50YearsOfKFC i would go To McDonalds get food and when i get my food i will throw it at them and scream that KFC is better :)", :followers=>3, :user_id=>2764702484, :retweet=>0}
-{:text=>"@MsLauraTarsi good morning. Umm... u should go get kfc in honor of #50YearsOfKFC", :followers=>628, :user_id=>2615761333, :retweet=>0}
-{:text=>"WE. WANT. DELVERIES. @KFC_UKI #50YearsOfKFC", :followers=>1899, :user_id=>20944402, :retweet=>0}
-{:text=>"RT @RashaunzyAsh: Im just hungry please #50YearsOfKFC", :followers=>2046, :user_id=>139844649, :retweet=>1}
-{:text=>"I will make customer fire works that say all hail KFC and then say 50 Years of KFC and fire the on top of a KFC@KFC_UKI #50YearsOfKFC", :followers=>64, :user_id=>2518753098, :retweet=>0}
-{:text=>"According to @kfc , \"sharing a bucket can help breakdown barriers\" - so can a salad https://t.co/w5C05w0Izp #50YearsOfKFC", :followers=>4498, :user_id=>111352166, :retweet=>0}
-{:text=>"@KFC_UKI I would dress up as a goddamn chicken and get chased by bloodhounds for an hour #50YearsOfKFC", :followers=>25, :user_id=>2905204011, :retweet=>0}
-{:text=>"@KFC_UKI  I would fly across the Bermuda triangle for 50 years of KFC #50YearsOfKFC", :followers=>145, :user_id=>402788052, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC bungee jump", :followers=>161, :user_id=>2335614801, :retweet=>0}
-{:text=>"I'd sent it to Africa because I'm not a c*nt that celebrates how much food the west has...\n\n@KFC_UKI #50YearsOfKFC", :followers=>1410, :user_id=>1653052424, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC KFC", :followers=>98, :user_id=>2373989867, :retweet=>0}
-{:text=>"@KFC_UKI I will wear a snapback made from kfc chicken for a year #50YearsOfKFC", :followers=>148, :user_id=>1858121239, :retweet=>0}
-{:text=>"TT UK\n4 #50YearsOfKFC\n5 Eurovision\n6 Beck\n7 Muslims\n8 London\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/tEAvVRQHdO http://t.co/AO4DWFGOrA", :followers=>1219, :user_id=>2597027190, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I would get inside a Water Ball while handcuffed to Kanye West and run the whole length of Russia for 50 years of KFC", :followers=>118, :user_id=>2364543266, :retweet=>0}
-{:text=>"@NoughtPointFour What would you do for #50YearsOfKFC", :followers=>28, :user_id=>2320115555, :retweet=>0}
-{:text=>"@kfc #50YearsOfKFC I would skydive out of a helicopter while eating a KFC chicken drumstick to win 50 years of chicken", :followers=>15, :user_id=>2942348770, :retweet=>0}
-{:text=>"\"Trending UK:04:12 PM GMT\"\n1. #ChapelHillShooting\n2. #ReplaceAMovieTitleWithGoat\n3. #pinkbus\n4. #HSBC\n5. #50YearsOfKFC", :followers=>4556, :user_id=>2797973256, :retweet=>0}
-{:text=>"Thanks for the #50YearsOfKFC - Always treating me;)\n\nHere's to 50 more years! :D", :followers=>29051, :user_id=>419773780, :retweet=>0}
-{:text=>"100 percent on my business finance test #bricksquad #50YearsOfKFC", :followers=>296, :user_id=>610285602, :retweet=>0}
-{:text=>"@KFC_UKI    #50yearsofKFC I will go outside", :followers=>72, :user_id=>2195766340, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC headbutt a chair", :followers=>10, :user_id=>2886067612, :retweet=>0}
-{:text=>"#50YearsOfKFC I'll bring a date to KFC for Valentine's day &amp; make her pay for her own meal", :followers=>2340, :user_id=>318367684, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC", :followers=>17, :user_id=>2463552031, :retweet=>0}
-{:text=>"@KFC_UKI  #50YearsOfKFC  i will pore 5 pints of milk over my head then jump into a river.", :followers=>1, :user_id=>3018355678, :retweet=>0}
-{:text=>"@worcesterpark_i @WPTraders its #50YearsOfKFC! Can we setup a WP #celebration #takeout @KFC_UKI @kfc @thebestofepsom http://t.co/vgg8mQ0kmm", :followers=>41, :user_id=>2864092977, :retweet=>0}
-{:text=>"@kfc #50yearsofchicken #50YearsOfKFC I'll have sex with @MileyCyrus if she let's me", :followers=>78, :user_id=>2824923154, :retweet=>0}
-{:text=>"This afternoon, in Reasons Our Decadent Civilisation Doesn't Deserve to Survive: #50YearsOfKFC is trending. God help us all.", :followers=>1940, :user_id=>78873412, :retweet=>0}
-{:text=>"#50YearsOfKFC wouldn't eat that crap", :followers=>313, :user_id=>325433780, :retweet=>0}
-{:text=>"#50YearsOfKFC ... would celebrate but I'm a vegetarian. Oops", :followers=>3066, :user_id=>413970123, :retweet=>0}
-{:text=>"#50YearsOfKFC I'll put my ear inside of my ear", :followers=>211, :user_id=>382720483, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I would walk into a McDonalds and offer every customer a piece of KFC chicken........", :followers=>158, :user_id=>2446952228, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I would jump out a plane whilst eating kfc", :followers=>29, :user_id=>2942860641, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I would get custom made roshe runs that say KFC with the logo and with #50YearsOfKFC on it and all the colors of KFC", :followers=>64, :user_id=>2518753098, :retweet=>0}
-{:text=>"#50yearsofKFC @KFCIUKDRINKBOTTLEOFGRAVEY", :followers=>25, :user_id=>3024805857, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I will drink my own urine and drink toilet water 😀", :followers=>110, :user_id=>2806190788, :retweet=>0}
-{:text=>"RT @KFC_UKI: It's our 50th &amp; we're rewarding our superfans. What would you do for #50YearsOfKFC? Tweet us your suggestions! http://t.co/w39…", :followers=>6249, :user_id=>309768216, :retweet=>195}
-{:text=>"I would smash the front window of my father's car #50YearsofKFC @KFC_UKI", :followers=>14, :user_id=>2940095205, :retweet=>0}
-{:text=>"#50YearsOfKFC #news KFC celebrates 50th anniversary with year-long #50YearsOfKFC push - The Drum  http://t.co/fJjscCToMV", :followers=>168, :user_id=>2946364316, :retweet=>0}
-{:text=>"#50YearsOfKFC would probably kill most people.", :followers=>45, :user_id=>348866422, :retweet=>0}
-{:text=>"I would pull my pants down in front of everyone in my school (that's huge since it will haunt you forever) #50YearsofKFC @KFC_UKI", :followers=>14, :user_id=>2940095205, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC eat a spider", :followers=>10, :user_id=>2886067612, :retweet=>0}
-{:text=>"#50YearsofKFC @KFC_UKI  I would walk into McDonalds and ask for KFC's number while eating KFC I'm not saying please because #forthelols", :followers=>19, :user_id=>2863609081, :retweet=>0}
-{:text=>"#50YearsOfKFC @kfc_uki I would go to ksi and tell him KFC Is bad", :followers=>50, :user_id=>2764858707, :retweet=>0}
-{:text=>"I would ask out and then ask to marry random people on the street for #50YearsOfKFC yes @KFC_UKI @kfc i went there !\nps id kill my sister 😇", :followers=>25, :user_id=>2783989192, :retweet=>0}
-{:text=>"#50YearsOfKFC I will go round a strangers house and throw chicken at them,screaming 50 years of kfc!!!!!!!!", :followers=>6, :user_id=>2955424167, :retweet=>0}
-{:text=>"i would run around naked in my city 1 hour for #50YearsOfKFC #KFC", :followers=>0, :user_id=>2837245899, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsofKFC http://t.co/wI8EodNoLn snort some chicken like eric cartman", :followers=>92, :user_id=>778712624, :retweet=>0}
-{:text=>"#50YearsOfKFC \nKath💖", :followers=>134, :user_id=>2379443785, :retweet=>0}
-{:text=>"I would give up a 50 years of free McDonald's and Burger King #50YearsofKFC @KFC_UKI", :followers=>14, :user_id=>2940095205, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I would eat a bucket of chicken at six flags on every ride", :followers=>64, :user_id=>2518753098, :retweet=>0}
-{:text=>"Happy #50YearsOfKFC @KFC_UKI - have you seen their latest heartwarming ad? #Family https://t.co/0ET5l02cqn", :followers=>180, :user_id=>1221974754, :retweet=>0}
-{:text=>"For #50YearsOfKFC I would sky dive in a chicken outfit into a pool filled with kfc's own gravy", :followers=>4, :user_id=>1416134822, :retweet=>0}
-{:text=>"@KFC_UKI I would fly to Africa, cycle through it, catch a flight back, and jump out of my window for #50YearsOfKFC", :followers=>0, :user_id=>2962999095, :retweet=>0}
-{:text=>"TT UK 16:04\n1.#ChapelHillShooting\n2.#ReplaceAMovieTitleWithGoat\n3.#pinkbus\n4.#HSBC\n5.#50YearsOfKFC\n6.Beck\nhttp://t.co/eXVltR317F\n8.Muslims", :followers=>1057, :user_id=>2645038507, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC for 50 years of chicken I would eat chicken everyday for 50 years..", :followers=>40, :user_id=>561438745, :retweet=>0}
-{:text=>"RT @Amroboy99: #50YearsOfKFC #50yearsofchicken", :followers=>32, :user_id=>2905532853, :retweet=>1}
-{:text=>"@KFC_UKI Pitch invade a Barclays Premier League match dressed as Colonel Sanders #50YearsOfKFC", :followers=>288, :user_id=>1239386690, :retweet=>0}
-{:text=>"I would dance #50YearsofKFC @KFC_UKI", :followers=>14, :user_id=>2940095205, :retweet=>0}
-{:text=>"#50yearsofkfc has trended 144 times since #Futures UK began - see the chart at http://t.co/UqmCSzIC38", :followers=>2080, :user_id=>2240504065, :retweet=>0}
-{:text=>"🇫🇴🇱🇱🇴🇼🇪🇷🇸\n╚►http://t.co/MwPAKb75cx\n\nSpider-Man\n#50YearsOfKFC\nBeck\n#ChapelHillShooting", :followers=>124, :user_id=>882273241, :retweet=>0}
-{:text=>"I would get loads of bargain buckets take them home and have a bath in the chicken @KFC_UKI #50YearsofKFC", :followers=>8, :user_id=>2324706605, :retweet=>0}
-{:text=>"@KFC_UKI @KSIOlajidebt  #50YearsOfKFC I'll bite my own dick for it", :followers=>22, :user_id=>941868626, :retweet=>0}
-{:text=>"#50YearsOfKFC ❤ #RT KFC to give away a family meal every month for 50 years as part of 50th  # # # - Marketing  http://t.co/xj2mWTEr0P", :followers=>681, :user_id=>1599636565, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I would dress up in a spiderman suit and go to a posh restaurant with a bucket of kfc chicken and just eat it", :followers=>97, :user_id=>714347191, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC i will smash my playstation, my tv and my phone and then eat a lot of chicken", :followers=>202, :user_id=>701574689, :retweet=>0}
-{:text=>"#50YearsOfKFC I would bath in Nutella", :followers=>16, :user_id=>120232458, :retweet=>0}
-{:text=>"@KSIOlajidebt @KFC_UKI I would jump into a snake pit for 1 minute for #50YearsOfKFC", :followers=>441, :user_id=>3015939503, :retweet=>0}
-{:text=>"Im just hungry please #50YearsOfKFC", :followers=>4881, :user_id=>919996872, :retweet=>1}
-{:text=>"1. #ChapelHillShooting\n2. #ReplaceAMovieTitleWithGoat\n3. #pinkbus\n4. #HSBC\n5. #50YearsOfKFC\n\n2015/2/11 15:57 GMT http://t.co/do7Hdxwcnc", :followers=>5674, :user_id=>1266803563, :retweet=>0}
-{:text=>"#50YearsOfKFC for 50 years of KFC chicken, I would watch Chelsea vs Tottenham 2015 match, all highlights for 10 times... I'm a Chelsea fan..", :followers=>32, :user_id=>1400433812, :retweet=>0}
-{:text=>"SING A song about LOVE for KFC, SUNG LIVE IN LONDON WITH LOADS OF PEOPLE, And the LEAD SINGER BEING A ARTIST OF YOUR CHOICE #50YearsOfKFC", :followers=>1183, :user_id=>1693718984, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsOfKFC I will do a double backflip for you guys 💝", :followers=>55, :user_id=>2179791490, :retweet=>0}
-{:text=>"@KFC_UKI I Would Say F*ck You To my Teacher randomly #50YearsOfKFC", :followers=>1, :user_id=>1707861667, :retweet=>0}
-{:text=>"i would wear a kfc bucket on my head for 1 week  #50YearsOfKFC", :followers=>0, :user_id=>1539200070, :retweet=>0}
-{:text=>"RT @IamHappyToast: so much to be proud of #50YearsOfKFC wouldn't it be funny if God turned out to be a chicken http://t.co/wq6a5iO5n4", :followers=>64, :user_id=>527295037, :retweet=>3}
-{:text=>"RT @IamHappyToast: so much to be proud of #50YearsOfKFC wouldn't it be funny if God turned out to be a chicken http://t.co/wq6a5iO5n4", :followers=>1588, :user_id=>1040321, :retweet=>3}
-{:text=>"Celebrating #50YearsofKFC - What would you do? http://t.co/h40KQsHXX5 #video #celebrating #you #50yearsofkfc #would #what", :followers=>190, :user_id=>366983073, :retweet=>0}
-{:text=>"@KFC_UKI  #50YearsOfKFC i would jump of an airplane eating KFC,then i would do bungee jump with a KFC Bucket in my head screaming i love KFC", :followers=>0, :user_id=>437024906, :retweet=>0}
-{:text=>"@KFC_UKI #50YearsofKFC I will smash my Xbox over my head and run around My field BUT NAKED", :followers=>17, :user_id=>2267980579, :retweet=>0}
-{:text=>"@kfc #50YearsOfKFC", :followers=>82, :user_id=>591432245, :retweet=>0}
-{:text=>"@KFC_UKI i would dive into a pool of your awesome gravy, and then let 50 dogs lick it off #50YearsOfKFC", :followers=>57, :user_id=>51743284, :retweet=>0}
-{:text=>"so much to be proud of #50YearsOfKFC wouldn't it be funny if God turned out to be a chicken http://t.co/wq6a5iO5n4", :followers=>1579, :user_id=>325183830, :retweet=>3}
-{:text=>"@KFC_UKI #50YearsOfKFC I will slap my mum in the face", :followers=>48, :user_id=>2939957343, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC for 50 years of Chicken I would fill a bathtub full of ice and sit iN it for 1 minute 30", :followers=>96, :user_id=>1718714928, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC SkyDiving!", :followers=>23, :user_id=>2413110258, :retweet=>0}
+{:text=>"i would bungee jump off the highest bridge for #50yearsofkfc", :followers=>8, :user_id=>2798374188, :retweet=>0}
+{:text=>"@KFC_UKI I would go bald for 6 months for #50YearsOfKFC", :followers=>444, :user_id=>2282229995, :retweet=>0}
+{:text=>"#50YearsOfKFC @KFC_UKI \nI would do anything for Colonel Sanders KFC!!! I would parachute whilst eating a KFC bucket and landing on KFC", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I would think the public wouldn't mind me eating 50 years worth of chicken for that, is it a worthy offer?", :followers=>419, :user_id=>1038051181, :retweet=>0}
+{:text=>"@KFC_UKI  I would set myself on fire and bungee jump off a cliff whilst eating KFC #50YearsOfKFC", :followers=>26, :user_id=>2757636004, :retweet=>0}
+{:text=>"@KFC_UKI I would circumnavigate the world, and give a homeless person a bargain bucket in every country I pass through #50YearsOfKFC", :followers=>25, :user_id=>2905204011, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I would like to be a human slingshot", :followers=>419, :user_id=>1038051181, :retweet=>0}
+{:text=>"#50YearsOfKFC @KFC_UKI", :followers=>117, :user_id=>2367184067, :retweet=>0}
+{:text=>"What I'd do for #50YearsOfKFC I would go around Dublin City and feed all the homeless people I hate seeing people hungry it annoys me to see", :followers=>87, :user_id=>2985548122, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC for 50 years of Chicken I would fill a bathtub full of ice and sit in it for 1 minute 30", :followers=>96, :user_id=>1718714928, :retweet=>0}
+{:text=>"U @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I would like the chance to be a human sling shot", :followers=>419, :user_id=>1038051181, :retweet=>0}
+{:text=>"Y @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"T @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"@KFC_UKI i will jump in the sea on a cold freezing day in just swimming shorts #50YearsOfKFC", :followers=>9, :user_id=>2724600929, :retweet=>0}
+{:text=>"#50YearsOfKFC  please be me!", :followers=>16, :user_id=>2996778021, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I would like the chance to be a human sling shot off a cliff Into water, you would need to make the slingshot first", :followers=>419, :user_id=>1038051181, :retweet=>0}
+{:text=>"R @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"E @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"W @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I would like the chance to be a human sling shot off a cliff Into water, you would need to make the slingshot first!", :followers=>419, :user_id=>1038051181, :retweet=>0}
+{:text=>"Q @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"#50YearsOfKFC", :followers=>16, :user_id=>2996778021, :retweet=>0}
+{:text=>"L @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"K @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"J @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"H @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"G @KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsofKFC I'll build a duplicate of the bargain bucket out of bricks. Massive one.", :followers=>13, :user_id=>839284772, :retweet=>0}
+{:text=>"@KFC_UKI #50yearsofKFC I will run into our school assembly in a chicken costume and do a backflip off the stage..", :followers=>23, :user_id=>2851729665, :retweet=>0}
+{:text=>"#50YearsOfKFC @KFC_UKI \nI would do almost anything for Colonel Sanders KFC!!! I would jump into a pool with snakes,spiders and crocodiles", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"RT @SamTompkinsUK: “@KFC_UKI: @SamTompkinsUK Thanks for celebrating with us Sam! #50YearsofKFC” love you KFC ❤️", :followers=>2770, :user_id=>894105390, :retweet=>2}
+{:text=>"For 50 years of chicken, I'd Brazilian wax my leg hair! #50YearsOfKFC", :followers=>0, :user_id=>2943088008, :retweet=>0}
+{:text=>"I would get shot with a paintball gun on the bare bum 3 times from 10m away. For 50 years of chicken. #50YearsOfKFC", :followers=>12, :user_id=>2941262741, :retweet=>0}
+{:text=>"#50YearsOfKFC i would go skydiving in a dress just after doing the flour challenge", :followers=>98, :user_id=>1495794223, :retweet=>0}
+{:text=>"#50YearsOfKFC @KFC_UKI for 50 years of chicken I would fill a bathtub of ice sit in it for 1 minute 30", :followers=>96, :user_id=>1718714928, :retweet=>0}
+{:text=>"#50YearsOfKFC @KFC_UKI \nI would do almost anything for Colonel Sanders KFC!!! I would have ghost chilli", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"@KSIOlajidebt i will job out of a plan while holding the rape face all the way down #50YearsOfKFC", :followers=>114, :user_id=>529353592, :retweet=>0}
+{:text=>"#50YearsOfKFC I will go in to mc donnals sing very lound", :followers=>27, :user_id=>2769900539, :retweet=>0}
+{:text=>"@KFC_UKI I would make up a KFC parody of baby by JB and then sing it. #50YearsofKFC", :followers=>41, :user_id=>2810219985, :retweet=>0}
+{:text=>"I would eat 7 KFC bargain buckets for 50 years if chicken #50YearsOfKFC", :followers=>12, :user_id=>2941262741, :retweet=>0}
+{:text=>"Mmm #50YearsOfKFC @KFC_UKI", :followers=>48, :user_id=>2472148385, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC https://t.co/1bArUqINea", :followers=>124, :user_id=>1060216578, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I will dress like a M&amp;M and run through Tesco yelling \"THE SKITTLES ARE COMING!!!\"", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"@kfc #50YearsOfKFC", :followers=>2, :user_id=>2460070686, :retweet=>0}
+{:text=>"#50YearsOfKFC = 50 years of eating out of a bucket like a farmyard animal", :followers=>169, :user_id=>190648960, :retweet=>0}
+{:text=>"#50YearsOfKFC I'd bathe in a bath of warm kfc gravy. :)", :followers=>29, :user_id=>1872918632, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I'll explain my best magic trick on YouTube! 😝", :followers=>19, :user_id=>716384087, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I would punch a window than do a tribal dance with ants in my pants", :followers=>80, :user_id=>630200624, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I will call McDonalds asking for directions to Burger King.", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"Le jeu what 2 fuck 2015 les gars 👌✌space Phallus jeux de bite 😳\n#50YearsOfKFC http://t.co/OZbMzUGhYY", :followers=>39, :user_id=>3010536575, :retweet=>1}
+{:text=>"#50YearsOfKFC For 50 years of chicken I'll skydive in my boxers @KFC_UKI", :followers=>832, :user_id=>891741512, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC  I will go to an electronic store with a banana and say that you want to upgrade to an apple.", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"@KFC_UKI  #50YearsOfKFC in Kfc Ordering chocolate brownie cream ball new ice cream 🍨🍧🍦 #YummyInMyTummy http://t.co/aXAxuzsNsh", :followers=>717, :user_id=>173934835, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsofKFC", :followers=>13, :user_id=>839284772, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would sleep in a room full with KFC", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"#50YearsOfKFC I would smack my mum and dad with a cake for a whole week.", :followers=>16, :user_id=>2941082499, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC  i will Throw Skittles at a random person and scream TASTE THE RAINBOW!!!!", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"I would try and head but through dry wall #50YearsOfKFC", :followers=>12, :user_id=>2941262741, :retweet=>0}
+{:text=>"#50YearsOfKFC @KFC_UKI                      I will go on holiday on the 28th of March 😄 to Spain", :followers=>7, :user_id=>2996662017, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would eat a chickens eye and legs", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"@KFC_UKI I would walk into my local McDonald's wearing a mankini and mask while dancing to \"get hyper\" #50YearsOfKFC", :followers=>14, :user_id=>941762666, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC  I will dye my hair blonde and do a 10mile run!", :followers=>15, :user_id=>2255108823, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would choke on KFC", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"#50YearsOfKFC i would eat the hostess chill in the world with a snake on me for 50 years of kfc chicken", :followers=>0, :user_id=>2942027524, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would bring Sanders back to life", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC I will Put up a \"Lost Dog\" poster with a picture of a cat on it.", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would sleep with snakes and spiders", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"@KFC_UKI for #50YearsOfKFC I would do Anything literally anything even if it is really embarrassing. It's for KFC! So it's all worth it.", :followers=>12, :user_id=>2286311933, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would stab myself", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 13", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 12", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"@KFC_UKI I would eat a hole tube of tooth past #50YearsOfKFC", :followers=>19, :user_id=>2850946008, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC i will buy a donut and complain that there's a hole in it.", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 11", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 10", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would go to jail for life", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 9", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 8", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 7", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would get attacked by a lion", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 6", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC  i will go to the toilet and scream LET IT GO LET IT GO CANT HOLD IT BACK ANYMORE then throw something in the toilet", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 5", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"#50YearsOfKFC \nI would do almost anything for Colonel Sanders KFC!!! I would parachute while eating a wickedzinger burger,and land on KFC", :followers=>21, :user_id=>2940166949, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 4", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 3", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC", :followers=>6, :user_id=>2942462242, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC  I will eat pink food.eg marshmallows lobster", :followers=>4, :user_id=>2946322269, :retweet=>0}
+{:text=>"@KFC_UKI i would stand in a box filled with red ants for 30 seconds #50YearsOfKFC", :followers=>405, :user_id=>2198035094, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 2", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI 1", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"I would unsubscribe @KSIOlajidebt  for 50 years of KFC chicken @KFC_UKI #50YearsOfKFC", :followers=>51, :user_id=>1625692568, :retweet=>0}
+{:text=>"spend 3 hours in a pit with snakes spiders and chickens while wearing a straight jacket #50YearsOfKFC   @KFC_UKI", :followers=>4, :user_id=>2203443414, :retweet=>0}
+{:text=>"RT @steghepburn: Dear @KFC_UKI ma pal @DaleMcsherry is willing to let me shit on his face for that mad #50YearsOfKFC n a hink that's worthy…", :followers=>511, :user_id=>210902374, :retweet=>2}
+{:text=>"@KFC_UKI #50YearsOfKFC", :followers=>58, :user_id=>2207055170, :retweet=>0}
+{:text=>"@KFC_UKI #50YearsOfKFC If I win I'll lick my dogs poo and record it!", :followers=>12, :user_id=>1640829703, :retweet=>0}
+{:text=>"Drive a kfc bargain bucket go kart into 50 tons of kfc chicken @KFC_UKI #50YearsOfKFC", :followers=>40, :user_id=>2260512556, :retweet=>0}

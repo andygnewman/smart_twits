@@ -1,100 +1,100 @@
-{:text=>"#ReplaceAMovieTitleWithGoat \nGoat Island", :followers=>152, :user_id=>45802221, :retweet=>0}
-{:text=>"@CoreyCrewe Indiana Jones and and the Temple of Goats #ReplaceAMovieTitleWithGoat", :followers=>14, :user_id=>21043693, :retweet=>0}
-{:text=>"RT @pablofranke: #ReplaceAMovieTitleWithGoat Mean Goats http://t.co/Kt3nQfXvIo", :followers=>187, :user_id=>52419972, :retweet=>44}
-{:text=>"Goat with the Wind #ReplaceAMovieTitleWithGoat", :followers=>54, :user_id=>1519310821, :retweet=>0}
-{:text=>"RT @mdcarden: Couldn't resist... #ReplaceAMovieTitleWithGoat #ForrestGoat http://t.co/C0AJYY7DT6", :followers=>276, :user_id=>176606415, :retweet=>10}
-{:text=>"#ReplaceAMovieTitleWithGoat Little Miss Goat", :followers=>102, :user_id=>374365258, :retweet=>0}
-{:text=>"Goatfellas? #ReplaceAMovieTitleWithGoat", :followers=>45, :user_id=>279322587, :retweet=>0}
-{:text=>"RT @tpfsherborne: #ReplaceAMovieTitleWithGoat How To Train Your Goat. http://t.co/6mNCMn5RcL", :followers=>147, :user_id=>2642152244, :retweet=>59}
-{:text=>"RT @MrsQueenGrassi: #ReplaceAMovieTitleWithGoat Goat Potter", :followers=>637, :user_id=>397989842, :retweet=>1}
-{:text=>"Goat Story #ReplaceAMovieTitleWithGoat", :followers=>332, :user_id=>615848975, :retweet=>0}
-{:text=>"RT @MrsQueenGrassi: #ReplaceAMovieTitleWithGoat \"Goat Brothers: The 3D Concert Experience\"", :followers=>637, :user_id=>397989842, :retweet=>1}
-{:text=>"\"@martyrogers: How to Train Your Goat #ReplaceAMovieTitleWithGoat\" 50 Shades of Goat", :followers=>515, :user_id=>116379742, :retweet=>0}
-{:text=>"Goat-work Orange? #ReplaceAMovieTitleWithGoat", :followers=>523, :user_id=>94849296, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat Then men who stare at goat's :P", :followers=>249, :user_id=>393331012, :retweet=>0}
-{:text=>"RT @IndiaTrends247: #AAPSweep\n#DelhiDecides\n#2DaysToMSG\n#AAPStorm\n#ReplaceAMovieTitleWithGoat http://t.co/bwBZZpYNUL", :followers=>355, :user_id=>2880703226, :retweet=>1}
-{:text=>"THE CANTERVILLA GOAT #ReplaceAMovieTitleWithGoat", :followers=>8, :user_id=>1848103944, :retweet=>0}
-{:text=>"RT @Arnimal2000: #ReplaceAMovieTitleWithGoat  @ghostcreative  The Great... http://t.co/SUMMnQPQT3", :followers=>338, :user_id=>148381967, :retweet=>99}
-{:text=>"Goat Becomes Her #ReplaceAMovieTitleWithGoat", :followers=>47, :user_id=>865685636, :retweet=>0}
-{:text=>"50 shades of goat #ReplaceAMovieTitleWithGoat", :followers=>418, :user_id=>711280808, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat ❤ #followme Please feel free to like Taylor Swift - RedEye Chicago  http://t.co/jl0zlVPBtK", :followers=>394, :user_id=>2784653083, :retweet=>0}
-{:text=>"The fault in our goats 😂 #ReplaceAMovieTitleWithGoat", :followers=>104, :user_id=>1539100584, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat The Goat of Wall Street {Not bad}", :followers=>33, :user_id=>2989661725, :retweet=>0}
-{:text=>"\"A Goat Affair\" #ReplaceAMovieTitleWithGoat", :followers=>19, :user_id=>2524107201, :retweet=>0}
-{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>233, :user_id=>2610933063, :retweet=>183}
-{:text=>"#ReplaceAMovieTitleWithGoat #follow Leashes and Tiger Fish and Broncos, Oh My - 303 Magazine  http://t.co/kUnEhjD5RN", :followers=>383, :user_id=>1604832373, :retweet=>0}
-{:text=>"'Goat Club' #ReplaceAMovieTitleWithGoat", :followers=>523, :user_id=>94849296, :retweet=>0}
-{:text=>"RT @bimmerella: Dude, Where's my Goat?\n#ReplaceAMovieTitleWithGoat\n@midnight http://t.co/hFhfg0ARSU", :followers=>47, :user_id=>2163431184, :retweet=>26}
-{:text=>"RT @BellamyBeMine: #ReplaceAMovieTitleWithGoat Goats with Benefits", :followers=>81, :user_id=>313703000, :retweet=>27}
-{:text=>"Since when did I What is today the updated \"ReplaceAMovieTitleWithGoat\"? http://t.co/r2CpESKlzi #MashUpplusEn #ReplaceAMovieTitleWithGoat", :followers=>898, :user_id=>2928157826, :retweet=>0}
-{:text=>"RT @PaulBorley: this #ReplaceAMovieTitleWithGoat stuff HAS TO STOP NOW!! 😕 *uploads picture* Goats Of The Galaxy. 😎😎 http://t.co/HZZp22XHDP…", :followers=>3536, :user_id=>14134950, :retweet=>145}
-{:text=>"@CoreyCrewe Armagoatden #ReplaceAMovieTitleWithGoat", :followers=>14, :user_id=>21043693, :retweet=>0}
-{:text=>"Goat Getaway #ReplaceAMovieTitleWithGoat", :followers=>317, :user_id=>205342263, :retweet=>0}
-{:text=>"@ashens Goat monster of Indian flats #ReplaceAMovieTitleWithGoat", :followers=>16, :user_id=>232704016, :retweet=>0}
-{:text=>"Christmas Goat #ReplaceAMovieTitleWithGoat", :followers=>51, :user_id=>1330518866, :retweet=>0}
-{:text=>"Showgoats #ReplaceAMovieTitleWithGoat", :followers=>876, :user_id=>16280579, :retweet=>0}
-{:text=>"Friends with Goats, When Harry met Goat, Goat Club. #ReplaceAMovieTitleWithGoat", :followers=>27, :user_id=>54946120, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat \"Get Goat or Die tryin\" 😂", :followers=>341, :user_id=>527933081, :retweet=>0}
-{:text=>"the goat in our stars #ReplaceAMovieTitleWithGoat", :followers=>677, :user_id=>2308623906, :retweet=>0}
-{:text=>"RT @jdalerussell: \"@LikeGoatsDaily: 127 Goats #ReplaceAMovieTitleWithGoat http://t.co/CMWrEFup7x\"@adr", :followers=>33, :user_id=>2729625732, :retweet=>1}
-{:text=>"#ReplaceAMovieTitleWithGoat  Goat to the Future.. no going back, just sending a goat to the future.", :followers=>235, :user_id=>2308380487, :retweet=>0}
-{:text=>"RT @martyrogers: How to Train Your Goat #ReplaceAMovieTitleWithGoat", :followers=>515, :user_id=>116379742, :retweet=>2}
-{:text=>"Goat 9 From Outer Space #ReplaceAMovieTitleWithGoat", :followers=>9, :user_id=>749205901, :retweet=>0}
-{:text=>"Gone Goat #ReplaceAMovieTitleWithGoat", :followers=>876, :user_id=>16280579, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat How about adding to one word titles?  Blow Goats", :followers=>82, :user_id=>18107744, :retweet=>0}
-{:text=>"@SportsNation White Goats Can't Jump  #ReplaceAMovieTitleWithGoat", :followers=>12, :user_id=>2740112469, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat \nharry potter and the deathly goat!", :followers=>5, :user_id=>2998365536, :retweet=>0}
-{:text=>"Fifty shades of GOAT 😂 #ReplaceAMovieTitleWithGoat", :followers=>104, :user_id=>1539100584, :retweet=>0}
-{:text=>"'ENTER THE GOAT' #ReplaceAMovieTitleWithGoat", :followers=>523, :user_id=>94849296, :retweet=>0}
-{:text=>"love, goat #ReplaceAMovieTitleWithGoat", :followers=>677, :user_id=>2308623906, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat Jurassic Goat", :followers=>102, :user_id=>374365258, :retweet=>0}
-{:text=>"RT @247miami: #ReplaceAMovieTitleWithGoat #np HECTOR VALDES @valdesmusic IGNOTIZA , Tonight at 9pm @capesandcohosts show on http://t.co/e8S…", :followers=>89, :user_id=>1702875032, :retweet=>1}
-{:text=>"Goats who stare at Goats #ReplaceAMovieTitleWithGoat", :followers=>28, :user_id=>19155520, :retweet=>0}
-{:text=>"RT @247miami: #ReplaceAMovieTitleWithGoat #np HECTOR VALDES @valdesmusic IGNOTIZA , Tonight at 9pm @capesandcohosts show on http://t.co/e8S…", :followers=>89, :user_id=>1702875032, :retweet=>1}
-{:text=>"#ReplaceAMovieTitleWithGoat Silence of the Goats.", :followers=>1242, :user_id=>367750490, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat How about adding to one word titles?  Terminator Goat", :followers=>82, :user_id=>18107744, :retweet=>0}
-{:text=>"RT @BardOfEarth: #ReplaceAMovieTitleWithGoat Goat Busters", :followers=>1193, :user_id=>624827127, :retweet=>2}
-{:text=>"#ReplaceAMovieTitleWithGoat Goatbusters!", :followers=>396, :user_id=>37006975, :retweet=>0}
-{:text=>"the mortal goat #ReplaceAMovieTitleWithGoat", :followers=>677, :user_id=>2308623906, :retweet=>0}
-{:text=>"#replaceamovietitlewithgoat Office Goat", :followers=>102, :user_id=>374365258, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat \nharry potter &amp; the goat of fire\nharry potter &amp; the order or goat\nharry potter &amp; the goat prince", :followers=>5, :user_id=>2998365536, :retweet=>0}
-{:text=>"\"The Goat of Monte Cristo\" #ReplaceAMovieTitleWithGoat", :followers=>19, :user_id=>2524107201, :retweet=>0}
-{:text=>"Goat games😂 rt if you got this #ReplaceAMovieTitleWithGoat", :followers=>104, :user_id=>1539100584, :retweet=>0}
-{:text=>"The Goat That Rocked. #ReplaceAMovieTitleWithGoat", :followers=>87, :user_id=>70242112, :retweet=>0}
-{:text=>"RT @LikeGoatsDaily: The Goatfather #ReplaceAMovieTitleWithGoat http://t.co/pIY39ukeZW", :followers=>338, :user_id=>148381967, :retweet=>225}
-{:text=>"RT @itsWillyFerrell: #ReplaceAMovieTitleWithGoat: Spidergoat http://t.co/RCOrQvDBBW", :followers=>471, :user_id=>365576005, :retweet=>519}
-{:text=>"Goats on a plane or GOAP #ReplaceAMovieTitleWithGoat", :followers=>282, :user_id=>995827363, :retweet=>0}
-{:text=>"\"@LikeGoatsDaily: 127 Goats #ReplaceAMovieTitleWithGoat http://t.co/CMWrEFup7x\"@adr", :followers=>248, :user_id=>6048662, :retweet=>1}
-{:text=>"Goat of the Rings: The Goat Towers  #ReplaceAMovieTitleWithGoat", :followers=>534, :user_id=>605837920, :retweet=>0}
-{:text=>"Goat of the Living Dead #ReplaceAMovieTitleWithGoat", :followers=>9, :user_id=>749205901, :retweet=>0}
-{:text=>"the goat runner #ReplaceAMovieTitleWithGoat", :followers=>677, :user_id=>2308623906, :retweet=>0}
-{:text=>"RT@bluephilosophe3:#ReplaceAMovieTitleWithGoat \"The Other Goat\".... \n RT@Ayangbeb:see&gt;http://t.co/RA9TEUpf6A", :followers=>1218, :user_id=>2157323743, :retweet=>0}
-{:text=>"Little Man Goat #ReplaceAMovieTitleWithGoat", :followers=>47, :user_id=>865685636, :retweet=>0}
-{:text=>"RT @jonhartmannjazz: let me say this:\n to the people who keep Tweeting \n#ReplaceAMovieTitleWithGoat\nyou DESERVE to lose your country to Fas…", :followers=>1508, :user_id=>2785095528, :retweet=>2}
-{:text=>"#ReplaceAMovieTitleWithGoat\nGoat Note", :followers=>79, :user_id=>989597174, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat #np HECTOR VALDES @valdesmusic IGNOTIZA , Tonight at 9pm @capesandcohosts show on http://t.co/e8SYjhXDoe", :followers=>1162, :user_id=>72280445, :retweet=>1}
-{:text=>"RT @OinkshireOink: Have you guys seen this? #ReplaceAMovieTitleWithGoat\nmade me laugh pretty hard on some of em", :followers=>33, :user_id=>2989661725, :retweet=>1}
-{:text=>"Goat 6 #ReplaceAMovieTitleWithGoat", :followers=>51, :user_id=>1330518866, :retweet=>0}
-{:text=>"Goatception - that's a very weird image... #ReplaceAMovieTitleWithGoat", :followers=>71, :user_id=>356111720, :retweet=>0}
-{:text=>"Goat Girl.\n#ReplaceAMovieTitleWithGoat", :followers=>699, :user_id=>227756092, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat\nAvatar;The last Goatbender", :followers=>79, :user_id=>989597174, :retweet=>0}
-{:text=>"The goat next door #ReplaceAMovieTitleWithGoat", :followers=>178, :user_id=>624198287, :retweet=>0}
-{:text=>"@tomhanks You've Goat Mail #piazza  #ReplaceAMovieTitleWithGoat", :followers=>12, :user_id=>2740112469, :retweet=>0}
-{:text=>"@OliverAge24 \"Willy Wonka and the Goat Factory\" . . . . . \"Goathog's Day\" . . . .  #ReplaceAMovieTitleWithGoat", :followers=>332, :user_id=>1013489718, :retweet=>0}
-{:text=>"RT @Onl2forme2Gold: #ReplaceAMovieTitleWithGoat: Goats Of The Galaxy. http://t.co/hv4fAwXcRG", :followers=>4141, :user_id=>1379060618, :retweet=>108}
-{:text=>"RT@Guru_Shifu:RT @KaziKaboom: #ReplaceAMovieTitleWithGoat the great goatsby ... \n RT@sumcara:see&gt;http://t.co/NJ3bF6D25c", :followers=>1218, :user_id=>2157323743, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat \"The Goat Runner\"", :followers=>507, :user_id=>2848260213, :retweet=>0}
-{:text=>"Mean Goats\nAmerican Goats\nThe Goatbook\nFinding Goats\n50 Shades of Goats\nCrazy, Stupid, Goat\n#ReplaceAMovieTitleWithGoat", :followers=>229, :user_id=>1321392188, :retweet=>0}
-{:text=>"RT@paimcarol_:RT @itsWillyFerrell: #ReplaceAMovieTitleWithGoat: Mean Goats ... \n RT@dccell:see&gt;http://t.co/AjBl7gCJrF", :followers=>1832, :user_id=>478252028, :retweet=>0}
-{:text=>"Reservoir Goats #ReplaceAMovieTitleWithGoat", :followers=>51, :user_id=>1330518866, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat ❤ #followme How to improve any film with the addition of a goat - Radio Times  http://t.co/OhmnjC2t9G", :followers=>560, :user_id=>1707297361, :retweet=>0}
-{:text=>"RT @pablofranke: #ReplaceAMovieTitleWithGoat Mean Goats http://t.co/Kt3nQfXvIo", :followers=>83, :user_id=>107858742, :retweet=>44}
-{:text=>"RT @LikeGoatsDaily: The Goatfather #ReplaceAMovieTitleWithGoat http://t.co/pIY39ukeZW", :followers=>482, :user_id=>171141860, :retweet=>225}
-{:text=>"RT@DiamondMolecule:RT @pablofranke: #ReplaceAMovieTitleWithGoat Mean Goats ... \n RT@sumcara:see&gt;http://t.co/fnJx0klyry", :followers=>1218, :user_id=>2157323743, :retweet=>0}
-{:text=>"THE DIARY OF A YOUNG GOAT #ReplaceAMovieTitleWithGoat", :followers=>8, :user_id=>1848103944, :retweet=>0}
-{:text=>"RT @jadoregaga: #ReplaceAMovieTitleWithGoat GoatBusters http://t.co/zzmGqiq0pM", :followers=>164, :user_id=>213387406, :retweet=>49}
-{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>179, :user_id=>2292913400, :retweet=>183}
-{:text=>"Spy Goats #ReplaceAMovieTitleWithGoat", :followers=>47, :user_id=>865685636, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat Scott Pilgrim vs. the goat", :followers=>509, :user_id=>433014039, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat Showgoats #thrustit #THRUSTIT", :followers=>1940, :user_id=>78873412, :retweet=>0}
-{:text=>"#ReplaceAMovieTitleWithGoat \nThe Hobbit;\nThe Unexpected Goat \nThe desolation of Goat\nThe Battle of Five Goats", :followers=>26, :user_id=>66747796, :retweet=>0}
+{:text=>"The goat and misses mueller #ReplaceAMovieTitleWithGoat", :followers=>45, :user_id=>2985879284, :retweet=>0}
+{:text=>"RT @itsWillyFerrell: #ReplaceAMovieTitleWithGoat: Goats Of The Galaxy. http://t.co/1b3HGkQhRb", :followers=>281, :user_id=>386655037, :retweet=>703}
+{:text=>"Goats in Black 3 #GIB3 #ReplaceAMovieTitleWithGoat", :followers=>168, :user_id=>565606485, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Top Goat.", :followers=>110, :user_id=>910984567, :retweet=>0}
+{:text=>"\"@LikeGoatsDaily: Goat School Musical #ReplaceAMovieTitleWithGoat http://t.co/3PPfQ0GkSn\"@sidney_marks 😂😂😉", :followers=>145, :user_id=>1973949175, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat  is trending right now @JosephMiner \nMiss ewe.", :followers=>649, :user_id=>20930294, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Goats With Benefits...", :followers=>34, :user_id=>1038118340, :retweet=>0}
+{:text=>"RT @WWEUniverse: No truth to the rumor that @WWEDanielBryan started the Twitter Trend #ReplaceAMovieTitleWithGoat. http://t.co/U6U0NROzas", :followers=>48, :user_id=>2975011690, :retweet=>82}
+{:text=>"#ReplaceAMovieTitleWithGoat Ride AGOAT , 21 Goat Street , Theory Of Goat , The GoatFather , AmericanGoat , I Am Goat , The Goat Next Door.", :followers=>235, :user_id=>709399082, :retweet=>0}
+{:text=>"@srotella  #ReplaceAMovieTitleWithGoat Something´s Goatta Give", :followers=>90, :user_id=>228454023, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat how to train your goat!", :followers=>119, :user_id=>88412285, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat big goat 6", :followers=>631, :user_id=>463036454, :retweet=>0}
+{:text=>"Romancing the Goat. #ReplaceAMovieTitleWithGoat", :followers=>47, :user_id=>1562351018, :retweet=>0}
+{:text=>"The Dark Goat Rises. \n\nBatGoat Begins\n\nRT @WriterOfKrogan: #ReplaceAMovieTitleWithGoat The Goat Knight Rises", :followers=>786, :user_id=>128503854, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat \n\nHigh School Goat 3: Senior Year", :followers=>705, :user_id=>419202478, :retweet=>0}
+{:text=>"The fault in our goat  #ReplaceAMovieTitleWithGoat", :followers=>362, :user_id=>493600775, :retweet=>0}
+{:text=>"RT @Liamer01: #ReplaceAMovieTitleWithGoat Ok these are getting stupid", :followers=>35, :user_id=>43767418, :retweet=>2}
+{:text=>"24 hour party goat #ReplaceAMovieTitleWithGoat", :followers=>45, :user_id=>2985879284, :retweet=>0}
+{:text=>"The Emperor's New Goat. #ReplaceAMovieTitleWithGoat", :followers=>552, :user_id=>2777169714, :retweet=>0}
+{:text=>"Goat #ReplaceAMovieTitleWithGoat.", :followers=>832, :user_id=>223976976, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat mortal instruments city of goats", :followers=>8, :user_id=>2982938348, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Failure to Goat 🐑", :followers=>12227, :user_id=>474221855, :retweet=>0}
+{:text=>"Harry Potter &amp; the Goat of Secrets 👀👀 RT @LankyTP: #ReplaceAMovieTitleWithGoat Harry Potter and The Chamber of Goat", :followers=>124, :user_id=>42629434, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Dude, Where's My Goat?", :followers=>440, :user_id=>803363953, :retweet=>0}
+{:text=>"What's Eating Gilbert Goat #ReplaceAMovieTitleWithGoat", :followers=>77, :user_id=>245540062, :retweet=>0}
+{:text=>"Mr. and Mrs. Goat #ReplaceAMovieTitleWithGoat", :followers=>188, :user_id=>407396261, :retweet=>0}
+{:text=>"\"@LikeGoatsDaily: Forrest Goat #ReplaceAMovieTitleWithGoat http://t.co/r9ozMHLEXR\" @AUrbs17 😂😂😂😂", :followers=>145, :user_id=>1973949175, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Goat Willy #Free", :followers=>34, :user_id=>1038118340, :retweet=>0}
+{:text=>"The Chronicles Of Narnia: The Goat, The Witch, And The Wardrobe\n#ReplaceAMovieTitleWithGoat", :followers=>479, :user_id=>754037622, :retweet=>0}
+{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>3560, :user_id=>1204706040, :retweet=>205}
+{:text=>"RT @kapilbeni007: #ReplaceAMovieTitleWithGoat The Hunger Goats http://t.co/bGj4IBVMbo", :followers=>533, :user_id=>1433776910, :retweet=>112}
+{:text=>"Mother's Goat #ReplaceAMovieTitleWithGoat", :followers=>173, :user_id=>30472446, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat 2001: A Space Goat", :followers=>33, :user_id=>2351474318, :retweet=>0}
+{:text=>"http://t.co/keBQ9RA5zf #ReplaceAMovieTitleWithGoat", :followers=>1547, :user_id=>1961973560, :retweet=>0}
+{:text=>"@silentmark Ferris Bueller's Goat Off, Bill &amp; Ted's Excellent Goat and Not Another Goat Movie. #ReplaceAMovieTitleWithGoat", :followers=>259, :user_id=>52491118, :retweet=>0}
+{:text=>"RT @AlexReidPerc: Silence of the goats #ReplaceAMovieTitleWithGoat", :followers=>6380, :user_id=>83477443, :retweet=>1}
+{:text=>"RT @tpfsherborne: #ReplaceAMovieTitleWithGoat How To Train Your Goat. http://t.co/6mNCMn5RcL", :followers=>35, :user_id=>2763998608, :retweet=>65}
+{:text=>"\"The Men Who Stare at...\" Oh wait, that one probably doesn't count.  #ReplaceAMovieTitleWithGoat", :followers=>2221, :user_id=>302891544, :retweet=>0}
+{:text=>"@srotella  #ReplaceAMovieTitleWithGoat  The Silence of the Goats", :followers=>90, :user_id=>228454023, :retweet=>0}
+{:text=>"The GoatFather\n\n#ReplaceAMovieTitleWithGoat", :followers=>349, :user_id=>583993920, :retweet=>0}
+{:text=>"@grantconklin7 @saragooconnor grant you are the best person.  #ReplaceAMovieTitleWithGoat", :followers=>179, :user_id=>826193282, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat ❤❤❤❤❤ Why #AdviceforYoungJournalists Twitter feed is helpful, and not - Kansas Ci  http://t.co/wGkw9WuscC", :followers=>1616, :user_id=>2594870676, :retweet=>0}
+{:text=>"RT @OMGStarterPack: The \"#ReplaceAMovieTitleWithGoat\" starter pack: http://t.co/1RJLa31L7g", :followers=>687, :user_id=>1107340016, :retweet=>444}
+{:text=>"RT @EverythingGoats: The Goatbook #ReplaceAMovieTitleWithGoat http://t.co/ug4P7xSiLI", :followers=>576, :user_id=>2422886065, :retweet=>573}
+{:text=>"RT @AllAboutZombies: Goat of the Dead\n#ReplaceAMovieTitleWithGoat http://t.co/kvoia5xYyR", :followers=>533, :user_id=>1433776910, :retweet=>7}
+{:text=>"#ReplaceAMovieTitleWithGoat now trending in Harrisburg http://t.co/w9zIHjcgJL", :followers=>1131, :user_id=>2909648091, :retweet=>0}
+{:text=>"Okay, one more.  Spider-Goat #ReplaceAMovieTitleWithGoat", :followers=>35, :user_id=>2521857190, :retweet=>0}
+{:text=>"Goat 43 #ReplaceAMovieTitleWithGoat", :followers=>173, :user_id=>30472446, :retweet=>0}
+{:text=>"RT @AnthonyLee59: #ReplaceAMovieTitleWithGoat\n\nWhat'syours? http://t.co/hGcvJHD4NZ", :followers=>687, :user_id=>1107340016, :retweet=>74}
+{:text=>"#ReplaceAMovieTitleWithGoat - Zombie Goat! http://t.co/eA4s02HcRq @ZombieCastNews @ZombieRiot @ZombieeNews #zombies #kickstarter", :followers=>560, :user_id=>31591780, :retweet=>0}
+{:text=>"RT @kamper: Dress as your favorite Furry and Run wild with sexy cats http://t.co/SAEBcT4pMM #ReplaceAMovieTitleWithGoat #LIVTOT http://t.co…", :followers=>408, :user_id=>147289637, :retweet=>88}
+{:text=>"anchor goat\n\n#replaceamovietitlewithgoat", :followers=>533, :user_id=>1433776910, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Goat Sniper", :followers=>218, :user_id=>384573501, :retweet=>0}
+{:text=>"Fargoat #ReplaceAMovieTitleWithGoat", :followers=>3, :user_id=>807853100, :retweet=>0}
+{:text=>"RT @BowTieCinemas: #ReplaceAMovieTitleWithGoat Fifty Shades of Goat #FiftyShadesofGrey @FiftyShades http://t.co/pwSpI35248", :followers=>5183, :user_id=>64997961, :retweet=>2}
+{:text=>"#ReplaceAMovieTitleWithGoat Resevoir Goats...", :followers=>34, :user_id=>1038118340, :retweet=>0}
+{:text=>"The Goat, The Bad and the Ugly #ReplaceAMovieTitleWithGoat", :followers=>17, :user_id=>34077761, :retweet=>0}
+{:text=>"RT @tpfsherborne: #ReplaceAMovieTitleWithGoat How To Train Your Goat. http://t.co/6mNCMn5RcL", :followers=>687, :user_id=>1107340016, :retweet=>65}
+{:text=>"@srotella  #ReplaceAMovieTitleWithGoat  Vertigoat", :followers=>90, :user_id=>228454023, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat The Goatbook", :followers=>158, :user_id=>2228979174, :retweet=>0}
+{:text=>"RT @LikeGoatsDaily: Spy Goats #ReplaceAMovieTitleWithGoat http://t.co/IB4SmmbeeP", :followers=>145, :user_id=>1973949175, :retweet=>8}
+{:text=>"#ReplaceAMovieTitleWithGoat The Goat Knight Rises", :followers=>383, :user_id=>2257147023, :retweet=>0}
+{:text=>"The Goat in the Woods #ReplaceAMovieTitleWithGoat", :followers=>173, :user_id=>30472446, :retweet=>0}
+{:text=>"For Valentine's day, sit your sweetie down and watch The Goatbook #ReplaceAMovieTitleWithGoat", :followers=>216, :user_id=>469112070, :retweet=>0}
+{:text=>"RT @FunkyVenues: Joseph And His Technicolour Dream Goat #ReplaceAMovieTitleWithGoat http://t.co/nosIUQPGXM", :followers=>687, :user_id=>1107340016, :retweet=>21}
+{:text=>"RT @pablofranke: #ReplaceAMovieTitleWithGoat Mean Goats http://t.co/Kt3nQfXvIo", :followers=>533, :user_id=>1433776910, :retweet=>69}
+{:text=>"@srotella  #ReplaceAMovieTitleWithGoat Goatgambo", :followers=>90, :user_id=>228454023, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Cloudy With A Chance of Goat Balls... http://t.co/5gPndGuwVS", :followers=>34, :user_id=>1038118340, :retweet=>0}
+{:text=>"http://t.co/hFC6CnEksf  #ChapelHillShooting #ReplaceAMovieTitleWithGoat", :followers=>1564, :user_id=>2875020587, :retweet=>0}
+{:text=>"The Goat Witch Project #ReplaceAMovieTitleWithGoat", :followers=>95, :user_id=>426668390, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat \nThe Dawn of the Planet of Goats http://t.co/ug04PnHLgZ", :followers=>94, :user_id=>833704950, :retweet=>0}
+{:text=>"RT @WWEUniverse: No truth to the rumor that @WWEDanielBryan started the Twitter Trend #ReplaceAMovieTitleWithGoat. http://t.co/U6U0NROzas", :followers=>73, :user_id=>72175386, :retweet=>82}
+{:text=>"RT @gokywoky: The Blair Witch Goat #ReplaceAMovieTitleWithGoat http://t.co/tLT7yASD8V", :followers=>101, :user_id=>97953297, :retweet=>8}
+{:text=>"#ReplaceAMovieTitleWithGoat\nKnow more about DXN company that make you health and rich.\nhttp://t.co/jBkHVqqfbU\nmembership No:142032040", :followers=>96, :user_id=>627683891, :retweet=>0}
+{:text=>"@shutupkimberley the men who stare at goats #ReplaceAMovieTitleWithGoat", :followers=>28, :user_id=>371254762, :retweet=>0}
+{:text=>"RT @prosadio: Fifty shades of goat #ReplaceAMovieTitleWithGoat http://t.co/3ocYUYL2mG", :followers=>35, :user_id=>2763998608, :retweet=>71}
+{:text=>"@lizbetharoo The Goats Who Stare at Goats. #ReplaceAMovieTitleWithGoat", :followers=>92, :user_id=>19289093, :retweet=>0}
+{:text=>"The Da Vinci Goat #ReplaceAMovieTitleWithGoat", :followers=>188, :user_id=>407396261, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Goat Sniper", :followers=>531, :user_id=>536715485, :retweet=>0}
+{:text=>"RT @pablofranke: #ReplaceAMovieTitleWithGoat Mean Goats http://t.co/Kt3nQfXvIo", :followers=>687, :user_id=>1107340016, :retweet=>69}
+{:text=>"@BuffaloSabres if u trade this years first round pick ill move out of buffalo. #mcdavid #ReplaceAMovieTitleWithGoat #JonStewart", :followers=>64, :user_id=>310356161, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat Goat Whisperer.", :followers=>1242, :user_id=>367750490, :retweet=>0}
+{:text=>"Killer Goat #ReplaceAMovieTitleWithGoat", :followers=>173, :user_id=>30472446, :retweet=>0}
+{:text=>"Why is #ReplaceAMovieTitleWithGoat trending...", :followers=>171, :user_id=>2787072213, :retweet=>0}
+{:text=>"Kingsman: The Secret Goat #ReplaceAMovieTitleWithGoat", :followers=>328, :user_id=>1009857972, :retweet=>0}
+{:text=>"Sex in the Goat or Goat in the City #ReplaceAMovieTitleWithGoat", :followers=>168, :user_id=>565606485, :retweet=>0}
+{:text=>"http://t.co/np7viYQfln  #ChapelHillShooting #ReplaceAMovieTitleWithGoat", :followers=>2735, :user_id=>3000496763, :retweet=>0}
+{:text=>"RT @JosephDevries: #ReplaceAMovieTitleWithGoat Mean Goats", :followers=>247, :user_id=>2911479135, :retweet=>205}
+{:text=>"Goatspotting\n#ReplaceAMovieTitleWithGoat http://t.co/tJcV5sSByI", :followers=>201, :user_id=>35251628, :retweet=>0}
+{:text=>"Harry Potter and The Goblet of Goats #ReplaceAMovieTitleWithGoat", :followers=>84, :user_id=>1213494643, :retweet=>0}
+{:text=>"RT @WWEUniverse: No truth to the rumor that @WWEDanielBryan started the Twitter Trend #ReplaceAMovieTitleWithGoat. http://t.co/U6U0NROzas", :followers=>49, :user_id=>340098598, :retweet=>82}
+{:text=>"@srotella  #ReplaceAMovieTitleWithGoat  Goatzilla", :followers=>90, :user_id=>228454023, :retweet=>0}
+{:text=>"RT @pablofranke: #ReplaceAMovieTitleWithGoat Mean Goats http://t.co/Kt3nQfXvIo", :followers=>792, :user_id=>373627734, :retweet=>69}
+{:text=>"#ReplaceAMovieTitleWithGoat \"Goat\" instead of \"Titanic\".", :followers=>275, :user_id=>311485981, :retweet=>0}
+{:text=>"Fifty Shades of Goat #ReplaceAMovieTitleWithGoat", :followers=>17, :user_id=>34077761, :retweet=>0}
+{:text=>"RT @kapilbeni007: #ReplaceAMovieTitleWithGoat The Hunger Goats http://t.co/bGj4IBVMbo", :followers=>62, :user_id=>340039115, :retweet=>112}
+{:text=>"50 shades of goat #ReplaceAMovieTitleWithGoat", :followers=>181, :user_id=>469776957, :retweet=>0}
+{:text=>"#ReplaceAMovieTitleWithGoat 'Goat Story'", :followers=>366, :user_id=>1642450962, :retweet=>0}
+{:text=>"The Goatman Prophecies #ReplaceAMovieTitleWithGoat", :followers=>95, :user_id=>426668390, :retweet=>0}
+{:text=>"RT @JuiceRapNews: GOAT #ReplaceAMovieTitleWithGoat http://t.co/nI2aZFfpeQ", :followers=>44, :user_id=>1562320082, :retweet=>60}

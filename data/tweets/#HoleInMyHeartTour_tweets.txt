@@ -1,0 +1,100 @@
+{:text=>"THERES SOMETHING WRONG WITH MY BREATHING RN @LukeFriendMusic #HoleInMyHeartTour", :followers=>2678, :user_id=>351763106, :retweet=>0}
+{:text=>"@LukeFriendMusic YAY #HoleInMyHeartTour IS TRENDING ❤️❤️ http://t.co/fm3jPkSoJu", :followers=>1180, :user_id=>2277243383, :retweet=>0}
+{:text=>"@LukeFriendMusic waiting for your follow like....#HoleInMyHeartTour x91 http://t.co/zBdU4bk3YK", :followers=>3796, :user_id=>36118402, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: Get the next date by RT'ing the poster or tweeting me where you think it will be! #HoleInMyHeartTour http://t.co/alT5g…", :followers=>7926, :user_id=>2263697736, :retweet=>379}
+{:text=>"if cardiff haven't got a date on the tour I will cry buckets @LukeFriendMusic #HoleInMyHeartTour", :followers=>754, :user_id=>2201967307, :retweet=>0}
+{:text=>"@LukeFriendMusic it needs to be a bit closer still for me to be able to drive there myself!! Birmingham or cheltenham? #holeinmyhearttour ☺️", :followers=>445, :user_id=>298086870, :retweet=>0}
+{:text=>"@LukeFriendMusic PLEASE ANNOUNCE THE NEXT DATE #HoleInMyHeartTour", :followers=>1161, :user_id=>2438188586, :retweet=>0}
+{:text=>"@LukeFriendMusic can you come outside the venue on your tour so me and @HanFriendiexo can meet you?😊\n#HoleInMyHeartTour", :followers=>4315, :user_id=>255097205, :retweet=>0}
+{:text=>"@LukeFriendMusic basically we are all buying tickets for a lil date with you ❤️❤️ #HoleInMyHeartTour", :followers=>474, :user_id=>2625878033, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>285, :user_id=>2826637796, :retweet=>152}
+{:text=>"If you don't come to Notts @LukeFriendMusic then I will get to the closest one no matter what 😊🙌💙 #HoleInMyHeartTour", :followers=>295, :user_id=>1044296942, :retweet=>0}
+{:text=>"@LukeFriendMusic waiting for your follow like....#HoleInMyHeartTour x1711 http://t.co/KHExEwuSAG", :followers=>3796, :user_id=>36118402, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: “@connors_kilt: @LukeFriendMusic but probably just this... http://t.co/vxXe5cjI8J” #HoleInMyHeartTour", :followers=>216, :user_id=>2902494903, :retweet=>13}
+{:text=>"@LukeFriendMusic LUKE THERES A HOLE IN MY HEART, I NEED YOU TO FIX IT BY TELLING ME THERES A LONDON DATE #HoleInMyHeartTour 💖", :followers=>1050, :user_id=>1109685144, :retweet=>0}
+{:text=>"so happy I can finally see @LukeFriendMusic again in April☺️☺️ #HoleInMyHeartTour", :followers=>1143, :user_id=>2520965280, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: @lukiefriendie this tour is gonna be so close and personal! Can't wait ❤️ #HoleInMyHeartTour", :followers=>818, :user_id=>410983674, :retweet=>19}
+{:text=>"\"@LukeFriendMusic: “@connors_kilt: @LukeFriendMusic but probably just this... http://t.co/gtiZBUdP8P” #HoleInMyHeartTour\" love it x", :followers=>400, :user_id=>1539740672, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: @True_Friendie no thank you!! This is just ridiculous #HoleInMyHeartTour", :followers=>591, :user_id=>2737459462, :retweet=>8}
+{:text=>"@LukeFriendMusic waiting for your follow like....#HoleInMyHeartTour xzz http://t.co/hvSUynNXvf", :followers=>3796, :user_id=>36118402, :retweet=>0}
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>216, :user_id=>2902494903, :retweet=>8}
+{:text=>"RT @missfriendie: I have a feeling in my heart that you're not coming to Ireland @LukeFriendMusic #HoleInMyHeartTour 😭💔", :followers=>1552, :user_id=>1735789165, :retweet=>1}
+{:text=>"@LukeFriendMusic LUKE THERES A HOLE IN MY HEART, I NEED YOU TO FIX IT BY TELLING ME THERES A LONDON DATE #HoleInMyHeartTour 💙", :followers=>1050, :user_id=>1109685144, :retweet=>0}
+{:text=>"Will be so good to catch up w/ this boy❤️❤️ @LukeFriendMusic  #HoleInMyHeartTour http://t.co/LMF1im6Ljq", :followers=>3624, :user_id=>282677119, :retweet=>0}
+{:text=>"@LukeFriendMusic TWEET ME A HAPPY SELFIE 👀👀👀😂🙊🙊🙊 #HoleInMyHeartTour 🌾🌾", :followers=>3152, :user_id=>186591320, :retweet=>0}
+{:text=>"CAN'T WAIT TO SEE YOU #HoleInMyHeartTour @LukeFriendMusic", :followers=>36162, :user_id=>782834724, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>793, :user_id=>2203085291, :retweet=>152}
+{:text=>"RT @perkofafriendie: @LukeFriendMusic @Murronmcmanus THIS IS SO ADORABLE!!!!! 💖💖💖 #HoleInMyHeartTour", :followers=>73, :user_id=>2249022315, :retweet=>1}
+{:text=>"@LukeFriendMusic me cause I don't see dublin .... #HoleInMyHeartTour http://t.co/nZRfvYspAJ", :followers=>26571, :user_id=>366664087, :retweet=>0}
+{:text=>"@LukeFriendMusic waiting for your follow like....#HoleInMyHeartTour http://t.co/A4mrYxyx1B", :followers=>3796, :user_id=>36118402, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>1184, :user_id=>2482433829, :retweet=>152}
+{:text=>"SO HOPING YOU COME NEAR ME #HoleInMyHeartTour @LukeFriendMusic", :followers=>36162, :user_id=>782834724, :retweet=>0}
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>275, :user_id=>2271211684, :retweet=>8}
+{:text=>"I have a feeling in my heart that you're not coming to Ireland @LukeFriendMusic #HoleInMyHeartTour 😭💔", :followers=>628, :user_id=>2389543233, :retweet=>1}
+{:text=>"RT @LukeFriendMusic: I am going to be going on a six date tour!! Find out where from 4pm! #HoleInMyHeartTour http://t.co/A48Xx9kPpi", :followers=>1161, :user_id=>2438188586, :retweet=>272}
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>2281, :user_id=>2296052164, :retweet=>8}
+{:text=>"@LukeFriendMusic Luke for real hurry up #holeinmyhearttour", :followers=>1552, :user_id=>1735789165, :retweet=>0}
+{:text=>"@LukeFriendMusic waiting for your follow like....#HoleInMyHeartTour x0193", :followers=>3796, :user_id=>36118402, :retweet=>0}
+{:text=>"@LukeFriendMusic 💎😏 TWEET ME A HAPPY SELFIE #HoleInMyHeartTour", :followers=>3152, :user_id=>186591320, :retweet=>0}
+{:text=>"Praying that the #HoleInMyHeartTour tickets aren't that expensive 😁😁", :followers=>4026, :user_id=>396778984, :retweet=>0}
+{:text=>"@LukeFriendMusic if I buy tickets will you be my valentine 🌝💕 #HoleInMyHeartTour ❤️", :followers=>4679, :user_id=>1153330494, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: So this tours gonna be very up close and personal!! So we can all hangout!! #HoleInMyHearttour http://t.co/YLJ0lVHGzy", :followers=>818, :user_id=>410983674, :retweet=>162}
+{:text=>"@LukeFriendMusic I see what you did there valentines day💙💞😉 #HoleInMyHeartTour", :followers=>48, :user_id=>2420635037, :retweet=>0}
+{:text=>"@LukeFriendMusic waiting for your follow like....#HoleInMyHeartTour c92", :followers=>3796, :user_id=>36118402, :retweet=>0}
+{:text=>"@LukeFriendMusic basically as there going on sale on Valentine's day we are all spending it searching for you 😂😂💕💕#HoleInMyHeartTour ❤️", :followers=>275, :user_id=>2271211684, :retweet=>0}
+{:text=>"@LukeFriendMusic #HoleInMyHeartTour when are you coming to edinburgh😩", :followers=>265, :user_id=>2867238423, :retweet=>0}
+{:text=>"@LukeFriendMusic SINCE WHEN DID YOU HAVE SO MANY FANS IN GLASGOW MAN I BETTER GET TICKETS #HoleInMyHearttour", :followers=>2233, :user_id=>350909519, :retweet=>0}
+{:text=>"patiently waiting to know if @LukeFriendMusic is coming to Cardiff 🙏😩😍 #HoleInMyHeartTour", :followers=>2876, :user_id=>120535317, :retweet=>0}
+{:text=>"@LukeFriendMusic @kingtuts @LukeFriendMusic Cardiff or Wales pleaseee????? :) #HoleInMyHeartTour", :followers=>497, :user_id=>2391576552, :retweet=>0}
+{:text=>"@LukeFriendMusic please come to Cambridge, no one comes here 🙈 #HoleInMyHeartTour", :followers=>5143, :user_id=>77235840, :retweet=>0}
+{:text=>"@LukeFriendMusic waiting for your follow like....#HoleInMyHeartTour http://t.co/nOkkruuvyI", :followers=>3796, :user_id=>36118402, :retweet=>0}
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>1181, :user_id=>2807438343, :retweet=>8}
+{:text=>"@LukeFriendMusic #HoleInMyHeartTour You should really come to Ireland. Like you don't have to but I would 100% recommend it🙈❤️👌 x", :followers=>6953, :user_id=>171071060, :retweet=>0}
+{:text=>"@LukeFriendMusic #HoleInMyHeartTour BE MY DATE FOR VALENTINE'S DAY", :followers=>44, :user_id=>2998577519, :retweet=>0}
+{:text=>"WHAT A TOUR OOMMMMGG !!😭😭😱😱😱😱😁😁😁 LUKEE!! OMG PLEASE COME MANCHESTER!!OMG LUKE I'M SO PROUD!! LOVE YOU 💙 #HoleInMyHeartTour @LukeFriendMusic", :followers=>418, :user_id=>2734866430, :retweet=>0}
+{:text=>"#HoleInMyHeartTour ❤ #RT Leadership tension: Malcolm Turnbull backs Treasurer Joe Hockey - Herald Sun  http://t.co/pqVDv3aoDi", :followers=>685, :user_id=>1553766630, :retweet=>0}
+{:text=>"@LukeFriendMusic will there be m&amp;g 😩😩? #HoleInMyHeartTour", :followers=>1143, :user_id=>2520965280, :retweet=>0}
+{:text=>"@LukeFriendMusic TWEET ME A HAPPY SELFIE 👀👀👀😂🙊🙊🙊 #HoleInMyHeartTour 🙈✨", :followers=>3152, :user_id=>186591320, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: Your doing so well! So here is a free give away for getting 200K! See you in Leeds! Next get 250K #HoleInMyHeartTour h…", :followers=>439, :user_id=>705472629, :retweet=>148}
+{:text=>"LUKE FRIEND IS THE LOVE OF MY LIFE #HoleInMyHeartTour", :followers=>508, :user_id=>2928392811, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>754, :user_id=>2201967307, :retweet=>152}
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>43, :user_id=>2949430337, :retweet=>8}
+{:text=>"@LukeFriendMusic PLEASE COME TO CARDIFF FOR THE #HoleInMyHeartTour WE NEED A REUNION PICTURE 😂😂✌️😘 http://t.co/f2G1RCzr3N", :followers=>3281, :user_id=>311409525, :retweet=>0}
+{:text=>"Hanging out on twitter, crying bc you know @LukeFriendMusic won't be coming to Ireland 😭 #HoleInMyHeartTour", :followers=>727, :user_id=>22189326, :retweet=>0}
+{:text=>"@LukeFriendMusic I'm never going to meet you 😢 #HoleInMyHeartTour", :followers=>505, :user_id=>2914554845, :retweet=>0}
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>189, :user_id=>865299252, :retweet=>8}
+{:text=>"RT @LukeThatsAll: @LukeFriendMusic WAITING FOR LONDON OR SOUTHEND 😂😂 #HoleInMyHeartTour", :followers=>1311, :user_id=>584452845, :retweet=>14}
+{:text=>"RT @LukeFriendMusic: “@connors_kilt: @LukeFriendMusic but probably just this... http://t.co/vxXe5cjI8J” #HoleInMyHeartTour", :followers=>1311, :user_id=>584452845, :retweet=>13}
+{:text=>"Actually can't wait till i get to see you again @LukeFriendMusic 🙈❤️ #HoleInMyHeartTour http://t.co/YMmNF6SH3g", :followers=>1351, :user_id=>2596573284, :retweet=>0}
+{:text=>"@LukeFriendMusic @Murronmcmanus THIS IS SO ADORABLE!!!!! 💖💖💖 #HoleInMyHeartTour", :followers=>615, :user_id=>2256353875, :retweet=>1}
+{:text=>"@LukeFriendMusic you don't know how much your tweets mean to me fella! I LOVE YOU SO MUCH #HoleInMyHeartTour", :followers=>2678, :user_id=>351763106, :retweet=>0}
+{:text=>"@LukeFriendMusic PRAYING FOR A NORWICH GIG🙏 #HoleInMyHeartTour", :followers=>1161, :user_id=>2438188586, :retweet=>0}
+{:text=>"@LukeFriendMusic This tour can't come quick enough! I've missed you! #HoleInMyHeartTour x", :followers=>1799, :user_id=>197478333, :retweet=>0}
+{:text=>"RT @SEXTAPEGRAHAM: ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495R…", :followers=>371389, :user_id=>1581160345, :retweet=>8}
+{:text=>"#HoleInMyHeartTour will there be m&amp;g's for glasgow?!🙈", :followers=>637, :user_id=>572619194, :retweet=>0}
+{:text=>"@LukeFriendMusic I just wish you would come to Spain too!! #HoleInMyHeart #HoleInMyHeartTour", :followers=>31, :user_id=>2908475032, :retweet=>0}
+{:text=>"@LukeFriendMusic TWEET ME A HAPPY SELFIE 👀👀👀😂🙊🙊🙊 #HoleInMyHeartTour ☺️🙅😏", :followers=>3152, :user_id=>186591320, :retweet=>0}
+{:text=>"RT @missfriendie: *hole in my heart melody*\nLuke come to...\nI-R-E-L-A-N-D \n#HoleInMyHeartTour 💕", :followers=>2210, :user_id=>265034018, :retweet=>2}
+{:text=>"@LukeFriendMusic @kingtuts IM COMING TO THE GLASGOW DATE I DONT EVEN CARE #HoleInMyHeartTour", :followers=>176, :user_id=>2177086132, :retweet=>0}
+{:text=>"@LukeFriendMusic quit ignoring me pal, bet ur buzzing to see me back in glasgow?! #HoleInMyHearttour", :followers=>13301, :user_id=>810983784, :retweet=>0}
+{:text=>"@LukeFriendMusic That's so cute Luke!! Your so lovely💕xx #holeinmyhearttour", :followers=>481, :user_id=>2734176777, :retweet=>0}
+{:text=>"@LukeFriendMusic TWEET ME A HAPPY SELFIE 👀👀👀😂🙊🙊🙊 #HoleInMyHeartTour 💕", :followers=>3152, :user_id=>186591320, :retweet=>0}
+{:text=>"@LukeFriendMusic gonna go to as many dates as I can 😏😏💪 #HoleInMyHeartTour", :followers=>2066, :user_id=>1340070216, :retweet=>0}
+{:text=>"I'm having a panic attack woah #HoleInMyHeartTour", :followers=>381, :user_id=>2559315793, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>176, :user_id=>2177086132, :retweet=>152}
+{:text=>"@LukeFriendMusic PLEASE ANNOUNCE ONE I CAN GO TO. I NEED TO HUG YOU💖\n#HoleInMyHeart #HoleInMyHeartTour", :followers=>203, :user_id=>2308557056, :retweet=>0}
+{:text=>"@LukeFriendMusic TWEET ME A HAPPY SELFIE 👀👀👀😂🙊🙊🙊 #HoleInMyHeartTour 💛", :followers=>3152, :user_id=>186591320, :retweet=>0}
+{:text=>"@LukeFriendMusic ESSEX OR LONDON ESSEX OR LONDON ESSEX OR LONDON 🙏🙏🙏🙏🙏🙏 #HoleinMyHeartTour", :followers=>615, :user_id=>2256353875, :retweet=>0}
+{:text=>"@LukeFriendMusic please show us the next one it is killing me i need to know lol #HoleInMyHeartTour  x", :followers=>668, :user_id=>500090901, :retweet=>0}
+{:text=>"ME BECAUSE YOUR COMING TO GLASGOW AND ITS MAKING ME EMOTIONAL #HoleInMyHeartTour @LukeFriendMusic 💋 http://t.co/mWFm495RjH", :followers=>508, :user_id=>2928392811, :retweet=>8}
+{:text=>"@LukeFriendMusic come to DUBLIN #HoleInMyHeartTour 🍀🍀🍀🍀", :followers=>1190, :user_id=>2240006643, :retweet=>0}
+{:text=>"@LukeFriendMusic TWEET ME A HAPPY SELFIE 👀👀👀😂🙊🙊🙊 #HoleInMyHeartTour", :followers=>3152, :user_id=>186591320, :retweet=>0}
+{:text=>"@weirdworld0famy @LukeFriendMusic I AGREE! LUKE can u see us #HoleInMyHeartTour", :followers=>2291, :user_id=>279694528, :retweet=>0}
+{:text=>"I NEED A OXYGEN TANK THING RIGHT NOW @LukeFriendMusic  #HoleInMyHeartTour YOURE FAULT BUT I FORGIVE YOU", :followers=>48, :user_id=>2420635037, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: @True_Friendie no thank you!! This is just ridiculous #HoleInMyHeartTour", :followers=>3836, :user_id=>480555605, :retweet=>8}
+{:text=>"@LukeFriendMusic are you coming to Newcastle?🙏💕 #HoleInMyHeartTour", :followers=>44, :user_id=>2744730329, :retweet=>0}
+{:text=>"RT @LukeFriendMusic: This is too easy! See you in April @kingtuts Glasgow!! Get to 400K for next release!  #HoleInMyHeartTour http://t.co/1…", :followers=>818, :user_id=>410983674, :retweet=>152}
+{:text=>"@LukeFriendMusic IF CARDIFF ISNT ON THERE WE CANT BE PALS #HoleInMyHeartTour", :followers=>109, :user_id=>2987195733, :retweet=>0}
+{:text=>"@LukeFriendMusic NORWICH #HoleInMyHeartTour", :followers=>1161, :user_id=>2438188586, :retweet=>0}
+{:text=>"RT @TNLUK: I've got a hole in my heart, but £2.1million could fill it! #HoleInMyHeartTour ^C x", :followers=>1070, :user_id=>127205955, :retweet=>1}
+{:text=>"RT @BeddersJunior: Basically 1 hope left for cardiff bc theres a london date obvsss #HoleInMyHeartTour", :followers=>754, :user_id=>2201967307, :retweet=>1}

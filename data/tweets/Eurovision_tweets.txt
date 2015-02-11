@@ -1,100 +1,100 @@
-{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/bznTwkjIef", :followers=>0, :user_id=>512223113, :retweet=>0}
-{:text=>"RT @ArwaM: Just asked American in my office if she knew what EuroVision was. \n\"Is it an analytics tool?\"", :followers=>184, :user_id=>2800085254, :retweet=>1}
-{:text=>"RT @FootyHumour: Why does Daley Blind look like he's about to drop the hottest eurovision entry of 2015 http://t.co/HDRZKEidDl", :followers=>520, :user_id=>982325395, :retweet=>300}
-{:text=>"RT @PublicFR: Eurovision 2015 : Kylie Minogue ou AC/DC pour représenter... l'Australie ! http://t.co/FVdYQ8F4AQ", :followers=>989, :user_id=>2745443078, :retweet=>1}
-{:text=>"@eurofestivalit @NaliOfficial @tvblogit @blogoit sarebbe fichissimo vederti lì e noi faremo di tutto per farti cantare all'@Eurovision", :followers=>14, :user_id=>2761349050, :retweet=>0}
-{:text=>"@TheMediaTweets @RasEaDaukus Eurovision is a joke...", :followers=>175, :user_id=>2600707688, :retweet=>0}
-{:text=>"RT @GrupoRisaCOPE: Australia competirá en el Festival de Eurovisión. Solo falta que al concurso de chirigotas de Cádiz se presente un grupo…", :followers=>1188, :user_id=>86051933, :retweet=>14}
-{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>84, :user_id=>403958097, :retweet=>154}
-{:text=>"I really don't mind Australia joining Eurovision because even if they give us points the UK still won't win", :followers=>1691, :user_id=>259404694, :retweet=>0}
-{:text=>"#AjdarEurovisionaGitsin2015 EUROVİSİON YAKİN SMS PAKETLERİNİ HAZİRLAYİN !!! YURU BE RAYİZ", :followers=>1255, :user_id=>1005743419, :retweet=>0}
-{:text=>"RT @AntonyGreenABC: View of the stadium from my seat at Dusseldorf Eurovision 2011. Quite spectacular. http://t.co/GGSrDGwC8W", :followers=>17, :user_id=>607750727, :retweet=>29}
-{:text=>"Australia joining Eurovision turns the song contest upside down http://t.co/lhY29IN23H", :followers=>46, :user_id=>1433768202, :retweet=>0}
-{:text=>"RT @pilgrim_spain: \"Ruth Lorenzo, representante española en Eurovisión 2014, revela que estuvo a punto de ser abortada\" http://t.co/PY4NSfy…", :followers=>43, :user_id=>2747413533, :retweet=>1}
-{:text=>"RT @andrewhodgskin: @drewkcrawford @CherylMikeJay who cares as long as the end result is @BBC eurovision Asking @CherylMikeJay to perform ;…", :followers=>21, :user_id=>50951612, :retweet=>3}
-{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/F3jDV3vVEJ", :followers=>0, :user_id=>512605804, :retweet=>0}
-{:text=>"RT @TheSunNewspaper: Look out #Eurovision, the Aussies are coming! http://t.co/BIfNrW50g4 http://t.co/BK6eCKIi4Q", :followers=>749, :user_id=>1629990434, :retweet=>4}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>2111, :user_id=>11685812, :retweet=>22}
-{:text=>"Why the fuck are Australia in the Eurovision this year?! Someone clearly hasn't studied their globe enough..", :followers=>376, :user_id=>627934116, :retweet=>0}
-{:text=>"@sosos683: @EBU_Eurovision hope the one who is presenting OZ Eurovision is australian coz if it's not what is the point.", :followers=>2, :user_id=>2955538022, :retweet=>0}
-{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/7NZTuivIok", :followers=>0, :user_id=>579678663, :retweet=>0}
-{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>308, :user_id=>113860528, :retweet=>154}
-{:text=>"RT @eurovision_tve: #Eurovisión amplía fronteras. ¡Australia competirá en el Festival! Por muchas buenas razones… \nhttp://t.co/ifotxnlN17 h…", :followers=>994, :user_id=>503015877, :retweet=>43}
-{:text=>"#AjdarEurovisionaGitsin2015 cikitayi eurovision da soylerken klipteki gibi muzu yemek hakkindir reyiz", :followers=>113, :user_id=>2234769960, :retweet=>0}
-{:text=>"Eurovision hyper starımızın hakkı\n#AjdarEurovisionaGitsin2015", :followers=>139, :user_id=>289388260, :retweet=>0}
-{:text=>"RT @eurovisionde: Australien nimmt am #ESC teil! Der Kontinent darf in diesem Jahr einen eigenen Kandidaten nach Wien schicken! http://t.co…", :followers=>14408, :user_id=>21302594, :retweet=>38}
-{:text=>"RT @_5SOSHelp_: GUYS apparently 5sos might be representing Australia in Eurovision!!! -Bree", :followers=>4110, :user_id=>1242443047, :retweet=>2}
-{:text=>"So it turns out Australia is going to participate in this years Eurovision. #WhoKnew", :followers=>49, :user_id=>470396309, :retweet=>0}
-{:text=>"@denniscessan eller hur! Jag valde mellan Eurovision och SOS Barnbyar. Valet var enkelt.", :followers=>173, :user_id=>10354792, :retweet=>0}
-{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/lrclfsk28j", :followers=>0, :user_id=>581228755, :retweet=>0}
-{:text=>"Eurovision 2015 : Kylie Minogue ou AC/DC pour représenter... l'Australie ! http://t.co/FVdYQ8F4AQ", :followers=>157882, :user_id=>243114432, :retweet=>1}
-{:text=>"RT @TheMediaTweets: If you Photoshop Australia so it's just off the coast of Portugal, letting them into Eurovision kind of makes sense htt…", :followers=>50, :user_id=>74135929, :retweet=>758}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>1476, :user_id=>487642710, :retweet=>22}
-{:text=>"Australia participará en #Eurovision2015 http://t.co/b1eaEtEWmw http://t.co/5rC2nC39JH", :followers=>21, :user_id=>2178979723, :retweet=>0}
-{:text=>"RT @izzy1601: @andipeters can you please tweet #iwantmyfizz! Eurovision 60th anniv this year and bucks fizz not included..need to get it tr…", :followers=>21, :user_id=>50951612, :retweet=>5}
-{:text=>"RT @courtneyact: My Twitter is flutter with #courtneyforeurovision messages, best you all let @SBS and @Eurovision know how U feel. Now....…", :followers=>132, :user_id=>31444822, :retweet=>36}
-{:text=>"RT @courtneyact: Hey @SBS Australia and @Eurovision Here's my #courtneyforeurovision performance audition http://t.co/fnn8veQHZ6", :followers=>132, :user_id=>31444822, :retweet=>25}
-{:text=>"RT @99imamefendi: Ajdar milli bir değerdir ajdarsız eurovision düşünülemez @AjdarOnline \n\n#AOG Seninle Ajdar Reyizz\n#AjdarEurovisionaGitsin…", :followers=>7, :user_id=>2900532365, :retweet=>9}
-{:text=>"RT @musicalcloud: Australia competirá en Eurovisión. ¿Será @kylieminogue su representante? ► http://t.co/6wEbP1svwW", :followers=>15, :user_id=>2909107329, :retweet=>1}
-{:text=>"Eurovision was before considered as prestigious competition, and now it became so shit and irrelevant", :followers=>2762, :user_id=>910717423, :retweet=>0}
-{:text=>"RT @dantracey1983: So let me get this straight #Australia are going to be in this year's #Eurovision - I also look forward to #Malta enteri…", :followers=>1137, :user_id=>165806142, :retweet=>2}
-{:text=>"Now that Australia are in the Eurovision can we set up a campaign to get @thelivingendaus to perform? @YHA_Australia you in? #MakeTheCallOz", :followers=>200, :user_id=>733335638, :retweet=>0}
-{:text=>"RT @miaeddleston: Well, frankly I don't see what the fuss is about. After all Azerbaijan is in it so why not let the Australians have a go …", :followers=>113, :user_id=>410770520, :retweet=>1}
-{:text=>"eurovision\n\neuro\n\neurope", :followers=>1250, :user_id=>246895915, :retweet=>0}
-{:text=>"RT @99imamefendi: Ajdar milli bir değerdir ajdarsız eurovision düşünülemez @AjdarOnline \n\n#AOG Seninle Ajdar Reyizz\n#AjdarEurovisionaGitsin…", :followers=>232, :user_id=>497778228, :retweet=>9}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>2006, :user_id=>419619709, :retweet=>22}
-{:text=>"RT @Lola_Hooper: Australia joining Eurovision turns the song contest upside down: It’s nowhere near Europe and it’s far too hot... http://t…", :followers=>1120, :user_id=>3009771779, :retweet=>1}
-{:text=>"Why in the hell are Australia part of eurovision 2015!?", :followers=>21, :user_id=>2496018942, :retweet=>0}
-{:text=>"why are australia doing eurovision go away ur not welcome here", :followers=>1250, :user_id=>246895915, :retweet=>0}
-{:text=>"RT @esctoday: Yeah the Aussies are coming to #Eurovision! Long live love....#BuildingBridges http://t.co/eGWztDohIJ", :followers=>88, :user_id=>514313559, :retweet=>5}
-{:text=>"I so want to go to a Eurovision Party this year! 🙌", :followers=>194, :user_id=>2184979543, :retweet=>0}
-{:text=>"RT @Cherylbaker: Thanks those of you tweeting #iwantmyfizz because we haven't been invited to perform at the 60th anniversary of Eurovision…", :followers=>343, :user_id=>1854828828, :retweet=>40}
-{:text=>"RT @danisnotonfire: AUSTRALIA IN EUROVISION WTF do they know what they signed up to i have such high expectations i want surfing kangaroos …", :followers=>0, :user_id=>847870880, :retweet=>7451}
-{:text=>"Australia participará por primera vez en el festival de Eurovisión http://t.co/PkdaU66WwK #Televisión", :followers=>259, :user_id=>2274740654, :retweet=>0}
-{:text=>"RT @5_News: .@NeighboursTV star @doctorkk tells us: I'll put my name forward for #Eurovision http://t.co/tiCcQE5trB @channel5_tv http://t.c…", :followers=>1051, :user_id=>24452216, :retweet=>6}
-{:text=>"\"Ruth Lorenzo, representante española en Eurovisión 2014, revela que estuvo a punto de ser abortada\" http://t.co/PY4NSfyNXa", :followers=>867, :user_id=>359881707, :retweet=>1}
-{:text=>"RT @LeHuffPost: Un pays improbable va participer à l'Eurovision 2015 http://t.co/Amt83JVDcn &gt; Australie \ncc @clicdemoins", :followers=>92, :user_id=>614490279, :retweet=>0}
-{:text=>"Australia a Eurovisión, dios que grande http://t.co/0ETBlFmtUW @JohnyLoLClimax es genial", :followers=>148, :user_id=>129485022, :retweet=>0}
-{:text=>"RT @eurofan_talifan: OJALÁ AUSTRALIA GANANDO EUROVISIÓN ANTES QUE PORTUGAL", :followers=>137, :user_id=>2216573296, :retweet=>10}
-{:text=>"RT @YorkshireTea: Chuffed that #Australia is joining the Eurovision Song Contest. It'll be much cheaper to visit once it moves to the Medit…", :followers=>118, :user_id=>14112689, :retweet=>24}
-{:text=>"Ajdar milli bir değerdir ! Ajdardan baska kim gidecekki zaten ? Eurovision Ajdar'ın hakkı. #AjdarEurovisionaGitsin2015", :followers=>776, :user_id=>2192390752, :retweet=>0}
-{:text=>"#Armenia #Eurovision #Esc2015 #Vienna #Austria #Can't #wait", :followers=>35, :user_id=>2821856844, :retweet=>0}
-{:text=>"RT @kitkatspain: Si #Edurne queda entre los 15 primeros en #Eurovisión prometemos un Kit Kat a cada uno que haga RT.", :followers=>144, :user_id=>2968659623, :retweet=>82694}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>3, :user_id=>2953270461, :retweet=>22}
-{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/XmBJL7awDY", :followers=>0, :user_id=>511844765, :retweet=>0}
-{:text=>"RT @PapaJian___: @EBU_Eurovision It's not the #LandOfMakeBelieve REMEMBER #BucksFizz won in '81. Time to give @CherylMikeJay a #PieceOfTheA…", :followers=>21, :user_id=>50951612, :retweet=>6}
-{:text=>"And now: first reactions and Objection Skeet on Australia's participation in #Eurovision, with @Lozzie_Robicake.\nhttps://t.co/wRqdEhdA9S", :followers=>21, :user_id=>2444223547, :retweet=>0}
-{:text=>"TT UK\n3 #HoleInMyHeartTour\n4 #HSBC\n5 Eurovision\n6 Beck\n7 Muslims\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/WPXUyuW6B2 http://t.co/YhXycOXCSF", :followers=>5576, :user_id=>2922003072, :retweet=>0}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>369, :user_id=>54894899, :retweet=>22}
-{:text=>"@EBU_Eurovision hope the one who is presenting OZ Eurovision is australian coz if it's not what is the point", :followers=>2, :user_id=>2955538022, :retweet=>0}
-{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>418, :user_id=>168212333, :retweet=>335}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>414, :user_id=>25997352, :retweet=>22}
-{:text=>"Australia's inclusion does little to disprove Eurovision as a nightmarish vision of the music industry in a world with no black people.", :followers=>1191, :user_id=>108285690, :retweet=>0}
-{:text=>"RT @PrinsDanne: Estelle tycker att vi kan skippa hela  #melfest 2015 och skicka Snoppen och snippan-låten till Eurovision direkt. Morfar Kn…", :followers=>45, :user_id=>1052244492, :retweet=>103}
-{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>3311, :user_id=>952469600, :retweet=>335}
-{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>462, :user_id=>2958476710, :retweet=>154}
-{:text=>"RT @andrewhodgskin: @drewkcrawford @CherylMikeJay who cares as long as the end result is @BBC eurovision Asking @CherylMikeJay to perform ;…", :followers=>129, :user_id=>19935873, :retweet=>3}
-{:text=>"When people ask you.. Why is Australia in #Eurovision this year? And you don't know the answer for yourself #itstillfeelsweird", :followers=>445, :user_id=>128496264, :retweet=>0}
-{:text=>"RT @dreamyphan: Im so hyped about eurovision already", :followers=>9176, :user_id=>144588260, :retweet=>2}
-{:text=>"I just heard the Eurovision news. Suitably silly :  http://t.co/m0AwTUbE6X", :followers=>738, :user_id=>321347565, :retweet=>0}
-{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>833, :user_id=>1913460758, :retweet=>154}
-{:text=>"#Eurovision Song Contest: #Australia to compete in #2015 http://t.co/xPnPjRDTXS", :followers=>1080, :user_id=>2195628277, :retweet=>0}
-{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>227, :user_id=>1459220502, :retweet=>335}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>845, :user_id=>30257267, :retweet=>22}
-{:text=>"RT @innocentdrinks: The world, according to Eurovision. http://t.co/AXMVICC2wI", :followers=>13, :user_id=>242750508, :retweet=>315}
-{:text=>"Listen to @Laibach's Eurovision (@MarcelDettmann Remix) off Spectremix out 3/31. http://t.co/s1HhW3Pmt5\n\nhttp://t.co/ffG1weoCpj", :followers=>18594, :user_id=>17792220, :retweet=>1}
-{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/p1KrcYFXUr", :followers=>0, :user_id=>512601318, :retweet=>0}
-{:text=>"@HabboJonaske EUROvision?", :followers=>622, :user_id=>1145818748, :retweet=>0}
-{:text=>"#AjdarEurovisionaGitsin2015 Ajdar abi biz aogdan geliyoz seni çok seviyoz, seni eurovision'da görmek istiyoz😄 @AjdarOnline", :followers=>262, :user_id=>567545022, :retweet=>0}
-{:text=>"RT @ristomejide: Australia entra en Eurovision sólo para que por fin alguien no pueda votar a sus vecinos.", :followers=>137, :user_id=>2216573296, :retweet=>324}
-{:text=>"Australia participará por primera vez en el festival de Eurovisión http://t.co/wQWLMDRrJD", :followers=>447, :user_id=>234730466, :retweet=>0}
-{:text=>"Im so hyped about eurovision already", :followers=>2368, :user_id=>1405245522, :retweet=>2}
-{:text=>"RT @innocentdrinks: IMPORTANT GEOGRAPHY UPDATE: Australia have joined the @Eurovision song contest. Please update your world maps according…", :followers=>13, :user_id=>242750508, :retweet=>212}
-{:text=>"@almudenanegro En uno se vota, en el otro los botan... @eurovision_tve", :followers=>2258, :user_id=>227040723, :retweet=>0}
-{:text=>"RT @izzy1601: @JoeyEssex_ please could you #iwantmyfizz as eurovision 60th anniv and Britain's most successful group buck fizz not been inc…", :followers=>129, :user_id=>19935873, :retweet=>4}
-{:text=>"Click the link to subscribe to our monthly newsletter. Read it in less time than a Eurovision single: http://t.co/cwuyQ9A8bB", :followers=>310, :user_id=>267389522, :retweet=>0}
-{:text=>"Australia to compete at Eurovision http://t.co/2GLC4juL0t", :followers=>715, :user_id=>1299622676, :retweet=>0}
-{:text=>"@theworldstaras @Eurovisn_Turkey Ajdar Eurovision'a katılsa Avrupalılar Amerikayı tekrar koloni yapıp oraya kaçar :DD", :followers=>477, :user_id=>1893399674, :retweet=>0}
-{:text=>"RT @OrkneyLibrary: Paul Hogan filed in European travel! That's the sort of anarchy we can all expect now Australia can do Eurovision http:/…", :followers=>241, :user_id=>10885402, :retweet=>22}
-{:text=>"RT @ristomejide: Australia entra en Eurovision sólo para que por fin alguien no pueda votar a sus vecinos.", :followers=>13, :user_id=>593864564, :retweet=>324}
-{:text=>"RT @jillyjames: @kavana_official ever fancied a bash at Eurovision? Did you know Buck's Fizz have been snubbed off 60th reunion show bad eh…", :followers=>129, :user_id=>19935873, :retweet=>4}
+{:text=>"Sophia Patsalides - I pio omorfi mera (Cyprus) 2014 Junior Eurovision So...: http://t.co/UB1v8SyNNI via @YouTube", :followers=>1185, :user_id=>106117624, :retweet=>0}
+{:text=>"@theworldstaras @AOG_Yeniden Aog'ta olabilirim ama bu hayranın oldugum gerçegini değiştirmez Gerçekten eurovision'da bulunmanı istiyorum. &lt;3", :followers=>285, :user_id=>2267780995, :retweet=>0}
+{:text=>"RT @Pxncho: En el 2011 Australia hizo un simulacro de votos y este fue el resultado #eurovision ¡Tienen buen gusto! http://t.co/1QU7f0Moff", :followers=>518, :user_id=>154568747, :retweet=>1}
+{:text=>"RT @Turkey_Esc: 2016 Eurovision Şarkı Yarışma'sında ülkemizi kim temsil etmeli\nAnketinde @aynurofficial 1.sırada", :followers=>216, :user_id=>185103832, :retweet=>17}
+{:text=>"@andrewhodgskin @CherylMikeJay @ITVLorraine @bbceurovision Cheryl Mike and Jay didn't win Eurovision...Bucks Fizz did!!!!!!", :followers=>69, :user_id=>20258883, :retweet=>0}
+{:text=>"RT @gilesfgb: #ReasonsForJoiningEurovision As the name suggests, Eurovision is a purely visual event and so you can watch it with the sound…", :followers=>3236, :user_id=>62011546, :retweet=>1}
+{:text=>"RT @xposedKM: Australia, el país de las antípodas europeas, participará por primera vez en el festival de Eurovisión, y su... http://t.co/W…", :followers=>374, :user_id=>1710834906, :retweet=>1}
+{:text=>"RT @RandomSpain: Australia participará en #Eurovision 2015 :P http://t.co/MkaS7XS2bc", :followers=>157, :user_id=>1250138996, :retweet=>1}
+{:text=>"SNÄLLA NÅGON!? Direktkvalificering? AUSTRALIEN? _EURO_VISION??? Samtidigt nekar man Liechtenstein år för år...\n http://t.co/QbFUtGr7ok", :followers=>36, :user_id=>1912132903, :retweet=>0}
+{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>194, :user_id=>1522184622, :retweet=>347}
+{:text=>"RT @Cultura_blog: Gran sorpresa en Eurovisión: Australia participará por primera vez en el festival http://t.co/7NphLM78Xr", :followers=>668, :user_id=>138871350, :retweet=>3}
+{:text=>"RT @aetuiter: .@SealandGov for the Eurovision Song Contest 2016 http://t.co/AaBhGJPLF3", :followers=>68, :user_id=>3004187631, :retweet=>7}
+{:text=>"Eurovision Song Contest: Australia to compete in 2015 ~ http://t.co/ifhiSHbzK9", :followers=>1074, :user_id=>221077719, :retweet=>0}
+{:text=>"RT @BeerBongUK: @LornaJF90 Dang, we spent all afternoon putting these rules together...but we think we like that idea better! http://t.co/G…", :followers=>141, :user_id=>300454442, :retweet=>1}
+{:text=>"@OnurAytac06 Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>65, :user_id=>372474578, :retweet=>235}
+{:text=>"And on a less important note - Australia in Eurovision ??? Someone badly needs an Atlas! #Eurovision", :followers=>174, :user_id=>25657645, :retweet=>0}
+{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/wnK6FdblD1", :followers=>15, :user_id=>492422167, :retweet=>0}
+{:text=>"@Cakomoo Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"#AjdarEurovisionaGitsin2015 Ajdarsız bir Eurovision bandudaksız AOG'a benzer.", :followers=>35, :user_id=>2987975896, :retweet=>0}
+{:text=>"@oguzhangl4 Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"@sytksms7 Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"@8888Unal Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"RT @leepresents: @msg_jacob Please show support of @cherylmikejay by tweeting to @ebu_eurovision with hashtag #iwantmyfizz", :followers=>56, :user_id=>2347235259, :retweet=>4}
+{:text=>"@bayxoen Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"@cubbelivendetta Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"RT @raifdub: Love this pic! #Australia #Eurovision http://t.co/zyex56NNna", :followers=>389, :user_id=>2374614504, :retweet=>20}
+{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/k8dtC73bgT", :followers=>2, :user_id=>490712909, :retweet=>0}
+{:text=>"@ugrbzdgn Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>143, :user_id=>2906878012, :retweet=>235}
+{:text=>"RT @swearyanthony: #dontcrossthestreams #eurovision #tism http://t.co/NlwiQTh7uR", :followers=>1376, :user_id=>796370, :retweet=>42}
+{:text=>"i am freaked australia are in the eurovision this year AND they're going straight to the final? ridiculous", :followers=>670, :user_id=>266217053, :retweet=>0}
+{:text=>"RT @tea_n_see: So our best chance at Eurovision is to go for revenge. Payback for Jedward, Bucks Fizz, and Englebert Humperdinck among othe…", :followers=>1680, :user_id=>15350382, :retweet=>1}
+{:text=>"Australia en Eurovision...\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\nCapital París", :followers=>1481, :user_id=>606517332, :retweet=>0}
+{:text=>"RT @Cultura_blog: Gran sorpresa en Eurovisión: Australia participará por primera vez en el festival http://t.co/7NphLM78Xr", :followers=>80, :user_id=>2174396618, :retweet=>3}
+{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>56, :user_id=>383381159, :retweet=>347}
+{:text=>"@leepresents @msg_jacob @CherylMikeJay @EBU_Eurovision #iwantmyfizz", :followers=>245, :user_id=>435973477, :retweet=>0}
+{:text=>"@ArchSmMcK @jonculshaw @grahnort Actually, could you imagine Farage doing Eurovision? \nNot so much Car Crash, more Multi-vehicle Pile-up TV!", :followers=>172, :user_id=>281529080, :retweet=>0}
+{:text=>"Australia participará en #Eurovision 2015 :P http://t.co/MkaS7XS2bc", :followers=>935, :user_id=>212298345, :retweet=>1}
+{:text=>"I never knew Australia was in Europe. School must of really failed me #Eurovision", :followers=>515, :user_id=>345887738, :retweet=>0}
+{:text=>"RT @esc_plus: Join the raffle and win a #drgrandprix 2015 CD signed by all the participants! #eurovision #esc2015 #denmark http://t.co/nSuD…", :followers=>167, :user_id=>2760519076, :retweet=>11}
+{:text=>"@BundyDeSalvo Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"@phanimeme singing and if the country wins they get to hold the next Eurovision. Kind of like the Olympics but for singing", :followers=>9, :user_id=>2619277773, :retweet=>0}
+{:text=>"@sanjosemarca Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"@blgegmz Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"The whole point of The Eurovision Song Contest is that the countries taking part are from Europe...why is Australia in it this year?x", :followers=>70, :user_id=>38937213, :retweet=>0}
+{:text=>"@OnurHan789 Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"Eurovision 2015 : l'Australie rejoint exceptionnellement le concours cette année http://t.co/NqEZiEalEQ", :followers=>91849, :user_id=>20600053, :retweet=>0}
+{:text=>"@tambirkrisiyano Sence Ajdar Eurovision'a giderse hangi şarkıyı söylesin ? Nane mi Çikita Muz mu yoksa Yeni Bir Şarkı mı ? :D", :followers=>3471, :user_id=>2966656372, :retweet=>0}
+{:text=>"@Eurovision @SBS even more excited now!!!!", :followers=>3330, :user_id=>2375709210, :retweet=>0}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>205, :user_id=>313185372, :retweet=>235}
+{:text=>"RT @Cultura_blog: Gran sorpresa en Eurovisión: Australia participará por primera vez en el festival http://t.co/7NphLM78Xr", :followers=>1481, :user_id=>606517332, :retweet=>3}
+{:text=>"Ive stayed a fan of Eurovision thru thick &amp; thin, even the loss of Wogan, I still watched\n\nBut Australia joining?  I think Im done  #anarchy", :followers=>1416, :user_id=>2465500828, :retweet=>0}
+{:text=>"Y si España gana Eurovisión, me pongo de avatar durante un mes una foto de Federico Llano, y de nombre \"#Federiquer AET\"", :followers=>709, :user_id=>1420721119, :retweet=>0}
+{:text=>"“@Eurovision: #Australia to compete @Eurovision 2015! @SBS  http://t.co/iYWmdw3KgV #SBSEurovision #Eurovision”whaaaaaat omg 🙌", :followers=>3330, :user_id=>2375709210, :retweet=>0}
+{:text=>"#Australia joining #Eurovision turns the song contest upside down | Stuart Heritage http://t.co/uzL0yFcmfK", :followers=>279, :user_id=>1338819972, :retweet=>0}
+{:text=>"http://t.co/xsTMVZCtTV http://t.co/ngHJPmfAZn", :followers=>302, :user_id=>110830140, :retweet=>0}
+{:text=>"RT @eurospaincom: [Breves] #Sanremo 2015 barre en Italia con 11.767.000 de espectadores y un 49,3% de share. + info en nuestra portada http…", :followers=>651, :user_id=>296408613, :retweet=>2}
+{:text=>"RT @leepresents: @msg_jacob Please show support of @cherylmikejay by tweeting to @ebu_eurovision with hashtag #iwantmyfizz", :followers=>245, :user_id=>435973477, :retweet=>4}
+{:text=>"Eurovision #CNN Australia joining Eurovision turns the song contest upside down - The Guardian  http://t.co/LbhX40vr2g", :followers=>403, :user_id=>2910231159, :retweet=>0}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>1245, :user_id=>2706257630, :retweet=>235}
+{:text=>"RT @cin_esc: I'd understand sadness and/or confusion, but why SUCH HOSTILITY about AUS in #eurovision from some fans.\nBuild a bridge and ge…", :followers=>1858, :user_id=>15031618, :retweet=>2}
+{:text=>"Ojalá Australia gane Eurovision.", :followers=>559, :user_id=>412404890, :retweet=>0}
+{:text=>"Just heard that ozzies are competing in eurovision! @tea_n_see you have to plan your trip sooner!", :followers=>1680, :user_id=>15350382, :retweet=>0}
+{:text=>"Bi ajdarın Eurovision'da yarışması eksiktı amk", :followers=>65, :user_id=>2925129177, :retweet=>0}
+{:text=>"Gran sorpresa en Eurovisión: Australia participará por primera vez en el festival http://t.co/7NphLM78Xr", :followers=>55907, :user_id=>1392641706, :retweet=>3}
+{:text=>"RT @eurospaincom: [Breves] #Sanremo 2015 barre en Italia con 11.767.000 de espectadores y un 49,3% de share. + info en nuestra portada http…", :followers=>485, :user_id=>1316536771, :retweet=>2}
+{:text=>"Brandhill reacts to Australia in Eurovision Song Contest 2015 * http://t.co/b4bmx2r75W http://t.co/KLpLgYWHoR", :followers=>32, :user_id=>1114600249, :retweet=>0}
+{:text=>"Australia will feature in this year’s Eurovision song contest, just because. http://t.co/gwPSjUrtx3 http://t.co/S0BB2HV3Nz", :followers=>2303, :user_id=>2381061764, :retweet=>0}
+{:text=>"Waltzing glittery Matilda! Australia to compete in the 2015 Eurovision Song Contest http://t.co/e1yeHwquS9 via @aussiemoose", :followers=>35165, :user_id=>988725697, :retweet=>0}
+{:text=>"RT @tve_tve: Australia competirá en Eurovisión http://t.co/uNNsZAgnhp vía @eurovision_tve http://t.co/SBzzdADCh1", :followers=>134, :user_id=>336239507, :retweet=>15}
+{:text=>"RT @caraave: australia is in eurovision this year????????!?? EUROvision   ????", :followers=>2015, :user_id=>94618000, :retweet=>1}
+{:text=>"I really don't understand how Australia have a wildcard entry to Eurovision?!?! #euro #clueisinthetitle", :followers=>91, :user_id=>303345181, :retweet=>0}
+{:text=>"#eurovision #Australia heard everything now, Australia to compete in Eurovision.  Maybe we'll get some votes?", :followers=>96, :user_id=>2739314088, :retweet=>0}
+{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/8hkJAlSucI", :followers=>4, :user_id=>490851612, :retweet=>0}
+{:text=>"Brandhill reacts to Australia in Eurovision Song Contest 2015 * http://t.co/b4bmx2r75W http://t.co/b6u212NF6j", :followers=>32, :user_id=>1114600249, :retweet=>0}
+{:text=>"RT @kitkatspain: Si #Edurne queda entre los 15 primeros en #Eurovisión prometemos un Kit Kat a cada uno que haga RT.", :followers=>448, :user_id=>158793265, :retweet=>82700}
+{:text=>"Και η Αυστραλία …στη φετινή Eurovision http://t.co/2faTWN9dYy #Cyprus  @dialogoscy", :followers=>1234, :user_id=>321854007, :retweet=>0}
+{:text=>"RT @RosaliaFdz: @SergiodeLorca @aquilatierratve @Edurnity @eurovision_tve @jacobpetrus_tve Menuda imagen,más que espectacular!!!", :followers=>267, :user_id=>338837187, :retweet=>1}
+{:text=>"australia is in eurovision this year????????!?? EUROvision   ????", :followers=>264, :user_id=>1255329506, :retweet=>1}
+{:text=>"RT @FR314: Australia is now part of the @Eurovision. \n\nIn other news, here’s the correct map of Europe. Looks accurate. http://t.co/RMAt9r6…", :followers=>25341, :user_id=>295268824, :retweet=>40}
+{:text=>"Si Australia gana Eurovisión, cierro AET. Ahí queda la promesa.", :followers=>709, :user_id=>1420721119, :retweet=>0}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>105, :user_id=>2904289931, :retweet=>235}
+{:text=>"RT @leepresents: @EvanD @Eurovoix @612brisbane @SpencerHowson Shame that @CherylMikeJay were overlooked by @EBU_Eurovision #iwantmyfizz", :followers=>245, :user_id=>435973477, :retweet=>3}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>131, :user_id=>955876585, :retweet=>235}
+{:text=>"Of course Australia is competing in #Eurovision2015. If I remember correctly, they flew it to Europe last year. I'm happy :) @Eurovision", :followers=>35, :user_id=>32499271, :retweet=>0}
+{:text=>"Eurovision Song Contest 2015 to Host Australia as Competitor for First Time in Event's History; Austria Prepar... http://t.co/pVXDar7ZwX", :followers=>337, :user_id=>2925748540, :retweet=>0}
+{:text=>"RT @J_edin: Apparently Australia is in this year's Eurovision Song Contest. I hope they send @axisofawesome", :followers=>12, :user_id=>339796361, :retweet=>7}
+{:text=>"Serbien och Turkiet har ofta gett oss bra låtar I #Eurovision måste jag säga. #förratweeten", :followers=>80, :user_id=>436021094, :retweet=>0}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>232, :user_id=>2175901727, :retweet=>235}
+{:text=>"#ReasonsForJoiningEurovision As the name suggests, Eurovision is a purely visual event and so you can watch it with the sound off.", :followers=>1029, :user_id=>98664518, :retweet=>1}
+{:text=>"@SergiodeLorca @aquilatierratve @Edurnity @eurovision_tve @jacobpetrus_tve Menuda imagen,más que espectacular!!!", :followers=>1340, :user_id=>435331152, :retweet=>1}
+{:text=>"VIDEO: Australia wins Eurovision wildcard http://t.co/0yRGzOWLHp", :followers=>21, :user_id=>490882828, :retweet=>0}
+{:text=>"RT @AjdarOnline: Eurovision tarihine bakın benim kadar büyük bir star göremezsiniz. Ülkemizin başarı anahtarı benim cebimde ey Türkiye gör …", :followers=>652, :user_id=>1634063815, :retweet=>90}
+{:text=>"RT @shikiofshit: Australia participa en eurovisión este año¿!1¿¿¡?", :followers=>66, :user_id=>2666747754, :retweet=>1}
+{:text=>"\"@tve_tve: Australia competirá en Eurovisión http://t.co/qS6scYBJgk vía @eurovision_tve http://t.co/DjPTu8LAvu\" no se supone q es euro??", :followers=>156, :user_id=>1069134126, :retweet=>0}
+{:text=>"RT @UKBanter: Congratulations to Australia who'll be entered into this years \"Eurovision\" song contest http://t.co/C4dcE3De8N", :followers=>83, :user_id=>629403429, :retweet=>347}
+{:text=>"Australia will feature in this year’s Eurovision song contest, just because. http://t.co/Bg9ak5ugKT http://t.co/ln0wMWxtTb", :followers=>4138, :user_id=>205178645, :retweet=>0}
+{:text=>"RT @AjdarOnline: Hey Eurovision Eurovision\nBende var şahane vizyon\nSana geliyorum sahneni hazırla\nAvrupa'da olacak erozyon...\n\nSöz&amp;Müzik: A…", :followers=>345, :user_id=>999829812, :retweet=>235}
+{:text=>"RT @lemondefr: Grande pourvoyeuse de pop stars, l'Australie exceptionnellement invitée à l'Eurovision 2015 http://t.co/pqft6awMix http://t.…", :followers=>40, :user_id=>2891843265, :retweet=>35}

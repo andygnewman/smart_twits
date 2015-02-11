@@ -75,11 +75,20 @@ describe 'API' do
     expect(twitter.top_retweeted_tweets(array_of_hashes, 5).count).to eq(5)
   end
 
-  it 'should create 10 files' do 
+  xit 'should create 10 files' do 
     twitter.get_trends
     # expect(twitter).to receive(:save_data).exactly(10).times
     twitter.save_tweets_per_trend()
   end
+
+  xit 'should read tweet from file' do
+    expect(twitter.get_tweet_from_file('./data/tweets/#HSBC_tweets.txt').count).to eq(100)
+  end
+
+  it 'should save 10 files of tweet text' do
+    twitter.get_trends
+    twitter.save_tweet_text_per_trend
+  end 
 
 
 end

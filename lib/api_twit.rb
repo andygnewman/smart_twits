@@ -9,6 +9,7 @@ PATH = './credentials.md'
 LONDON = 44418
 PATH_TRENDS = './data/trends/'
 PATH_TWEETS = './data/tweets/'
+PATH_TWEETS_TEXT = './data/tweets/text/'
 
 class APITwitter
 
@@ -86,6 +87,25 @@ class APITwitter
 
   def top_retweeted_tweets(array_of_hashes, number)
     array_of_hashes.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..4]
+  end
+
+  def get_tweet_from_file (filename)
+
+    array_of_hashes = []
+    file = File.open(filename, 'r')
+    file.readlines.each do |el| 
+      array_of_hashes << eval(el.chomp)
+    end
+    file.close()
+    return array_of_hashes
+  end
+
+  def save_tweet_text_per_trend(trends = @trends)
+    trends.each do |trend| 
+      tweets = get_tweet_from_file(PATH_TWEETS+trend[:name]+'_tweets.txt')
+      tweet_text = merge_tweets(tweets)
+      save_data(PATH_TWEETS_TEXT+trend[:name]+'_tweets_text.txt', tweet_text)
+    end
   end
   
 end
