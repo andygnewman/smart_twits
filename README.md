@@ -1,1 +1,3 @@
 # smart_twits
+
+MAKEATHON
