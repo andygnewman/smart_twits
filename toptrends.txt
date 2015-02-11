@@ -1,0 +1,10 @@
+{:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting"}
+{:name=>"#ReplaceAMovieTitleWithGoat", :query=>"%23ReplaceAMovieTitleWithGoat"}
+{:name=>"#HSBC", :query=>"%23HSBC"}
+{:name=>"#teamfearne", :query=>"%23teamfearne"}
+{:name=>"#ConsentDebate", :query=>"%23ConsentDebate"}
+{:name=>"Jon Stewart", :query=>"%22Jon+Stewart%22"}
+{:name=>"Eurovision", :query=>"Eurovision"}
+{:name=>"Andy Coulson", :query=>"%22Andy+Coulson%22"}
+{:name=>"London", :query=>"London"}
+{:name=>"Muslims", :query=>"Muslims"}

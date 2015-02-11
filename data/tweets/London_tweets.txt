@@ -1,0 +1,100 @@
+{:text=>"Playful pieces from our faves @eshvi_london we just love the gorgeous braid detailing. Get this from… http://t.co/RWLKn130rS", :followers=>352, :user_id=>1106511042, :retweet=>0}
+{:text=>"RT @RogerAlarconP: Mexican Gastronomy Comes to London #MXUK2015 @milkotri @Embamexru photos by @RogerAlarconP http://t.co/5WUaonoVG2", :followers=>631, :user_id=>2819207841, :retweet=>1}
+{:text=>"RT @bbcwritersroom: Great opportunity to get your 10-12 min script filmed professionally and showcased via @ArtsEdLondon Deadline 22 May ht…", :followers=>913, :user_id=>810826928, :retweet=>16}
+{:text=>"RT @BritishVogue: Angelina Jolie has today opened a rape study centre in London: http://t.co/ppYdIjqd7V http://t.co/5LgTfo1pAr", :followers=>2411, :user_id=>141720318, :retweet=>838}
+{:text=>"@mchrysopoulo @DrRodRohrich @DiepFlapBreast @London_Lady @MicroSure @OlivierBranford @6state Team Magic!!", :followers=>947, :user_id=>2427492366, :retweet=>0}
+{:text=>"RT @HistoryTime_: A drove of pigs crossing a London street, 1931. http://t.co/Ute74CpLwC", :followers=>28, :user_id=>2921832018, :retweet=>20}
+{:text=>"A #taxi #driver has been hospitalised after a crash at #Waltham #Abbey, we hope he recovers soon |  http://t.co/aVgv0eYvNk", :followers=>913, :user_id=>555083892, :retweet=>0}
+{:text=>"Hotel InterContinental London Westminster – London http://t.co/xPzhXuJKTr  #Hotel #Reviews #HotelDirect .com http://t.co/pPQKFeKlZc", :followers=>827, :user_id=>122392157, :retweet=>0}
+{:text=>"New job: Head of Media, The Fairtrade Foundation, London; £50,647 - £50,647 http://t.co/8JJZmX2dcc #bondjobs", :followers=>5985, :user_id=>182338237, :retweet=>0}
+{:text=>"Job ad: MAMA New Music – Promoter/Venue Booker (London): MAMA New Music is looking for an established concert ... http://t.co/z3SvqESUhv", :followers=>335, :user_id=>219689804, :retweet=>0}
+{:text=>"RT @Lookmagazine: Erm, so this eBay designer accessory haul is pretty amazing...http://t.co/Q6Sqfohze8 http://t.co/8R9uZaHFNK", :followers=>3546, :user_id=>140800210, :retweet=>4}
+{:text=>"Going to London for a night out il be the only one in flats 😂😂😂 http://t.co/UWv9jWYEBZ", :followers=>255, :user_id=>60280618, :retweet=>0}
+{:text=>"Most of the people I talk to seem to think London is dead or dying. By and large the people who disagree are the older and better off.", :followers=>1946, :user_id=>475160595, :retweet=>0}
+{:text=>"I will go with school to London this summer. I'm so excited! 😍🇬🇧🚌🎡", :followers=>79, :user_id=>2760336719, :retweet=>0}
+{:text=>"RT @thewordflirt: Prince Andrew uploads family photo with his mum, the Queen, to Facebook\n\nLONDON — Taking a quick family photo at... http:…", :followers=>1107, :user_id=>14218923, :retweet=>1}
+{:text=>"Guys, London is awesome.", :followers=>149, :user_id=>171302953, :retweet=>0}
+{:text=>"Then another retard made a 3 point turn into a 6 point turn, and I said to the Scandinavians \"Welcome to London\"", :followers=>4238, :user_id=>389679244, :retweet=>0}
+{:text=>"@London_Calling_ I do. Never really noticed it do anything, but never had any issues either - which I take to mean it's doing the job.", :followers=>790, :user_id=>20764059, :retweet=>0}
+{:text=>"RT @NUFC: Heading to the match? See @TfLTravelAlerts, @TfLTrafficNews and @TfLBusAlerts for travel updates from London. #NUFC http://t.co/J…", :followers=>7137, :user_id=>712874466, :retweet=>13}
+{:text=>"◼️◻POSEY AU CALME️◻️◼️ #sansforcer #parlonspeucheznous #originals #2015 #2016 #LONDON #hotel #meeting… http://t.co/4awXrjmNhn", :followers=>881, :user_id=>169933072, :retweet=>0}
+{:text=>"失敗", :followers=>143, :user_id=>206205532, :retweet=>0}
+{:text=>"RT @BBCLondonNews: .@MayorofLondon defends comment that @HillaryClinton is like a \"sadistic mental health nurse\" http://t.co/rKVtM8Surx htt…", :followers=>935, :user_id=>2995699426, :retweet=>140}
+{:text=>"RT @Entrepreneur: Smartphone Theft Drops in London, Two U.S. Cities as Anti-Theft 'Kill Switches' Installed http://t.co/7yhd5VLCcT via @Reu…", :followers=>602, :user_id=>24856135, :retweet=>15}
+{:text=>"Change the way you perceive sharks - visit our exhibition of sculptures made from discarded SHARK TEETH on -msn.com/1zvGcm9 (via @MSN)", :followers=>3655, :user_id=>274455661, :retweet=>0}
+{:text=>"RT @mchrysopoulo: Cheers for RTs! @DrRodRohrich @DiepFlapBreast @London_Lady @Microsure @LguzzzardiM @BRCAesponder @NickiDurlester @Olivier…", :followers=>9273, :user_id=>1939065583, :retweet=>1}
+{:text=>"London bound!! @NUFC #nufc #toonarmy", :followers=>274, :user_id=>526802944, :retweet=>0}
+{:text=>"Tour des Tages: London: 3,5-stündiger, geführter Gourmetmarkt-Rundgang http://t.co/qyMpK9wlTz #reisen #london #städtetrip", :followers=>971, :user_id=>84097841, :retweet=>0}
+{:text=>"Rocketing demand from patients+ Govt funding cuts risks “crippling” the London Ambulance Service says @DrOnkarSahota -http://t.co/X7MWceP6Ry", :followers=>3254, :user_id=>358156186, :retweet=>0}
+{:text=>"Prosecute #London Troll Who Creates Pages On Facebook About Mistreating Cats &amp; Destroying Them! #uk #catlovers http://t.co/4ZFqGIxvoQ", :followers=>172, :user_id=>127311724, :retweet=>0}
+{:text=>"The wait is over now we waiting on London to get here", :followers=>1597, :user_id=>41644819, :retweet=>0}
+{:text=>"RT @Kevin_Maguire: Premier League's Richard Scudamore still holding out against £7.85ph living wage(£9.15 London) guarantee after £5.1-BILL…", :followers=>271, :user_id=>251709902, :retweet=>251}
+{:text=>"@OkellsAles I'm not sure where their profits are going. Back to Diageo or the breweries of London?", :followers=>834, :user_id=>241637136, :retweet=>0}
+{:text=>"And this only appeared after the woolwich incident in London back in 2013", :followers=>1581, :user_id=>2570798309, :retweet=>0}
+{:text=>"RT @rsvpster: Will Passion Pit, Kendrick Lamar, Theophilus London or Beats Antique play during #SXSW? Read more #SXSWrumors: http://t.co/Sq…", :followers=>779, :user_id=>2267171644, :retweet=>2}
+{:text=>"@condorcycles Looking for a #RideLondon charity place? Don't miss out, join #TeamAction today http://t.co/Es9hKzphpI PLS RT", :followers=>2913, :user_id=>270835285, :retweet=>0}
+{:text=>"Mi país ideal de nacimiento sería Argentina por mi energia ¿Y el tuyo? http://t.co/UkZZzF7rSq", :followers=>1852, :user_id=>552524556, :retweet=>0}
+{:text=>"RT @Lagvilava7: North London derby: Tottenham v Arsenal http://t.co/fO7vE0ZVpg", :followers=>57, :user_id=>2585641604, :retweet=>679}
+{:text=>"RT @CC_StreetTeam: We're going, are you?! #Tour #Glasgow #Manchester #Bristol #London #Harlow #Norwich #Birmingham #Newcastle http://t.co/B…", :followers=>2320, :user_id=>313222373, :retweet=>1}
+{:text=>"RT @christianwolmar: Hoping this will appeal to my transport following:\nhttp://t.co/pSy77rFoMt http://t.co/9buK6xHnW8", :followers=>73, :user_id=>531092049, :retweet=>4}
+{:text=>"Rufus Bee Right now http://t.co/mww1EISFfN Lock in http://t.co/QBDG9yO0tX", :followers=>407, :user_id=>2989621779, :retweet=>0}
+{:text=>"@ctrlaltcalum wait is there a hot topic in London?🙈", :followers=>674, :user_id=>2942284675, :retweet=>0}
+{:text=>"Want to learn about #campaigning &amp; #EU #Environment policy?\n\n12m, 4 dpw paid #internship with @CHEMTrust in London:\n\nhttp://t.co/C7nIeTB5I1", :followers=>1164, :user_id=>67397583, :retweet=>0}
+{:text=>"@MilanWebID lagi liburan ke london dia hahaaha", :followers=>956, :user_id=>78893956, :retweet=>0}
+{:text=>"RT @SKSMediaBergen: 7/ Receive the latest alternative #investments from AI London each quarter &gt; http://t.co/QidJkcekO0  #sks8 http://t.co/…", :followers=>827, :user_id=>2895966258, :retweet=>1}
+{:text=>"Not one to be outdone by the weather, #Boris causing a funding storm for London’s #FinTech scene in NY this - http://t.co/NBw9iBwIcz", :followers=>163, :user_id=>215955472, :retweet=>0}
+{:text=>"RT @SKSMediaBergen: 3/ Latest quarterly investment picks from AI London.. #sks8 http://t.co/WZA4RSmqsq Complimentaries &gt; http://t.co/MzlMjT…", :followers=>827, :user_id=>2895966258, :retweet=>1}
+{:text=>"RT  BBC London Travel BBCTravelAlert :\nBus strike off for now http://t.co/R5I6isHnAi but another tube strike a-coming …", :followers=>259, :user_id=>2751488978, :retweet=>0}
+{:text=>"Activation Lock Decreases iPhone Theft by 25% in New York, 40% in San Francisco, 50% in London... http://t.co/66kWAog8Ns", :followers=>252, :user_id=>382465037, :retweet=>0}
+{:text=>"#Graduate - Associate / #Real Estate / Private Equit... at #CircleSquareTalent (#London) #job http://t.co/j0I3eE6Elt http://t.co/j7LUqCgM1n", :followers=>361, :user_id=>281965397, :retweet=>0}
+{:text=>"RT @CarDealerEd: Video added to Zonda F crashstory in London today. Thanks to @JackSully1992 for sending it http://t.co/eUslnZTeV8 http://t…", :followers=>284, :user_id=>389731416, :retweet=>4}
+{:text=>"RT @PangakoSayoKN: Happy birthday to ,KathNiel's gorgeous handler lulumromero 🎂🎉💕 we hope to see you here in London again Tita lulu &amp; … htt…", :followers=>423, :user_id=>418526852, :retweet=>1}
+{:text=>"RT @mpyeager: Next stop ... #MCLaunch2015 (@ Platform 1 in Mill Hill, Greater London) https://t.co/PPcDlpiXqX http://t.co/pgZ8Z15pMH", :followers=>140, :user_id=>1657188378, :retweet=>38}
+{:text=>"Off to London for a short exam at South Bank Uni. Shouldn't be too bad but always a bit scary!", :followers=>70, :user_id=>89227533, :retweet=>0}
+{:text=>"RT @rsvpster: Will Passion Pit, Kendrick Lamar, Theophilus London or Beats Antique play during #SXSW? Read more #SXSWrumors: http://t.co/Sq…", :followers=>132, :user_id=>522255478, :retweet=>2}
+{:text=>"Nigga fuk ya feelings nigga fuk ya feelings NIGGA FUK YA FEELINGS", :followers=>229, :user_id=>2967278403, :retweet=>0}
+{:text=>"15 Bottomless Boozy Brunches In London http://t.co/0nOTHZDYwT http://t.co/QldDEFflA1", :followers=>675, :user_id=>1601346288, :retweet=>0}
+{:text=>"Took a tour of the future home of London's Social Innovation Shared Space, at 201 King St.\nAmazing concept amazing space!", :followers=>3, :user_id=>3001596112, :retweet=>0}
+{:text=>"RT @JimmyPrinceton: The Mayor of London looks like Donald Trump. http://t.co/tx495xQ76J", :followers=>1829, :user_id=>750652153, :retweet=>1}
+{:text=>"@CoatbridgeCCC Looking for a #RideLondon charity place? Don't miss out, join #TeamAction today http://t.co/Es9hKzphpI PLS RT", :followers=>2913, :user_id=>270835285, :retweet=>0}
+{:text=>"Police covered up violent campaign to turn London area Islamic http://t.co/LFly45IpCD via @", :followers=>345, :user_id=>20179289, :retweet=>0}
+{:text=>"RT @DavidKeigh: @Remel_London @JeremyVassallo that photo makes me look like I performed at the VMA's or something 😂😂😂 nice shot mate 💪💪💪", :followers=>19, :user_id=>1293505658, :retweet=>2}
+{:text=>"RT @Salut_Sally: @YvannAtt C'est quand que tu m'invites a London frérot?", :followers=>463, :user_id=>517727182, :retweet=>1}
+{:text=>"RT @wareable: Our senior editor @stablesjames is talking #wearabletech at the Zayo Future Tech talk at The Ivy, London http://t.co/KCqs4xI6…", :followers=>265, :user_id=>384552973, :retweet=>2}
+{:text=>"Προσφορές σε Παπούτσια, Ρούχα, Τσάντες BT London για την Γυναίκα! Δες εδώ &gt; http://t.co/6UnoCoCnzc  http://t.co/fzvsdmV2Zz", :followers=>163276, :user_id=>1513592192, :retweet=>0}
+{:text=>"RT @MathsHub_LT: London Thames Maths Hub Primary Conference (27th March) - http://t.co/EaaqhNC7QN @MathsHubs #mathshubs #mathscpdchat http:…", :followers=>3236, :user_id=>2425750634, :retweet=>2}
+{:text=>"@AHAlSaleh1  i miss leeds london 💔😿", :followers=>447, :user_id=>2409860236, :retweet=>0}
+{:text=>"RT @louder_speak: Watch Ali Campbell UB40 talking about Cybersmile on London Live! Download the single here...... http://t.co/ovMpMo7x5U", :followers=>8907, :user_id=>2450278465, :retweet=>1}
+{:text=>"RT @x_billiejo_x: London tomorrow, off to see wicked and to the move it festival☺️👍", :followers=>360, :user_id=>2327208474, :retweet=>1}
+{:text=>"RT @andeneweb: http://t.co/pgS01ken1K Ali Ro Women's Floral Jacquard Bodycon Dress, Blue Sapphire Multi, 2Blue Sapphire Multi ... http://t.…", :followers=>289, :user_id=>2169013232, :retweet=>38}
+{:text=>"Refugees spark London Ebola scare http://t.co/ilsql1u9Bg", :followers=>174, :user_id=>32940984, :retweet=>0}
+{:text=>"@georgewestwood let's go London for the Brits", :followers=>1222, :user_id=>469769284, :retweet=>0}
+{:text=>"Great Art &amp; Culture Find! Delfina Foundation London @jennynoowyn #meltingbutternyc http://t.co/yfknFInUym who else #wouldlovetogo?", :followers=>472, :user_id=>39498889, :retweet=>0}
+{:text=>"RT @AndrewRLP: I'm looking for the result of the @TheChallengeCup game from 4/12/1993 between @BlackbrookJRLFC &amp; London Colonials. Can anyo…", :followers=>40, :user_id=>2982520271, :retweet=>3}
+{:text=>"RT @MathsHub_LT: We're delighted to be hosting our first Primary Maths Conference on Friday 27 March. Book here http://t.co/EaaqhNC7QN @Mat…", :followers=>3236, :user_id=>2425750634, :retweet=>2}
+{:text=>"Britain has gone into a frenzy over United's £50 First Class London-to-Newark return tickets http://t.co/nutm7sK07F", :followers=>781, :user_id=>798253, :retweet=>0}
+{:text=>"@officialeman Spoonys House is back &gt; 27th Feb @ The Jazz Café, Camden  http://t.co/ute4HerrjR …. Tickets &gt; http://t.co/5c2QcayKxP … Pls RT", :followers=>21, :user_id=>210698983, :retweet=>0}
+{:text=>"Back on my own", :followers=>314, :user_id=>1228706238, :retweet=>0}
+{:text=>"RT @nikkiIholmes: Great, ebola in London http://t.co/CmVOnus9QK", :followers=>221, :user_id=>390907185, :retweet=>1}
+{:text=>"RT @RobbyBitting: Today's a big day for @MassChallenge! 3 Launches in 3 cities: #Boston, #Jerusalem, #London. Startups apply today! #MCLaun…", :followers=>9458, :user_id=>15136484, :retweet=>2}
+{:text=>"RT @GeorgeMorina: #london is the most desirable city in the world for foreign workers,beating #NewYork &amp; #Paris  http://t.co/ngKtJeqmWu htt…", :followers=>319, :user_id=>2720790451, :retweet=>124}
+{:text=>"RT @MathsHub_LT: Spaces still available on two upcoming events exploring the new curriculum &amp; mastery teaching http://t.co/EaaqhNC7QN http:…", :followers=>3236, :user_id=>2425750634, :retweet=>2}
+{:text=>"Angelina Jolie dedicates war rape centre in London to teenage ISIS victim⏩\nhttp://t.co/ESVnn4OIQc http://t.co/8sD2b8ygnp\n#bradpitt #refugees", :followers=>9211, :user_id=>851359326, :retweet=>0}
+{:text=>"RT @WalthForestArts: The War Hospital: Stories from Whipps Cross\n13 February 2015 \n11am-12.30pm\nFree\nLeyton Library\nLeyton High Road\nLeyton…", :followers=>485, :user_id=>337215199, :retweet=>1}
+{:text=>"Waiting for @dyeyoungband to come to London because they're amazing", :followers=>946, :user_id=>612643154, :retweet=>0}
+{:text=>"RT @OpChemtrails: #London calling. http://t.co/hRpGDaJrFb http://t.co/l2MWz3HKN2 #OpChemtrails  #EnMod", :followers=>1563, :user_id=>2608956567, :retweet=>1}
+{:text=>"@clitheroe_bc Looking for a #RideLondon charity place? Don't miss out, join #TeamAction today http://t.co/Es9hKzphpI PLS RT", :followers=>2913, :user_id=>270835285, :retweet=>0}
+{:text=>"#Badin: Halandar Deinhan me Altaf Hussain san jeki kujh thio un g khushi karan lai London Pio wajan: Zulfiqar mirza jo niji tv khe interview", :followers=>1073, :user_id=>1239111908, :retweet=>0}
+{:text=>"@LukeFriendMusic please can one be in london I need to see u xx", :followers=>155, :user_id=>2718734501, :retweet=>0}
+{:text=>"I wanna travel the world with my loved ones:\n\nParis🗼\nNew York🗽\nJapan🗾\nAlaska🗻\nChina🏯\nLondon 🌉", :followers=>8647, :user_id=>2757877836, :retweet=>0}
+{:text=>"RT @CF_1905: Selamat Malam Para Pecinta Warna \"BIRU\" dari London Barat!! Siapa aja nih Yg rela begadang Nonton Chelsea♥ dini hari nanti?? #…", :followers=>298, :user_id=>408364223, :retweet=>4}
+{:text=>"The Mayor of London looks like Donald Trump. http://t.co/tx495xQ76J", :followers=>5575, :user_id=>539490309, :retweet=>1}
+{:text=>"RT @NewWisGov: Scott Walker says #WI too broke to fund schools, but there's plenty of taxpayer money for campaign trips to London. #TeaPart…", :followers=>2054, :user_id=>1349829794, :retweet=>3}
+{:text=>"@horrorgrrrrl I hope you have an amazing time in London this weekend chick😘xxx", :followers=>300, :user_id=>289878754, :retweet=>0}
+{:text=>"RT @TRobinsonNewEra: http://t.co/Uw00YS7iqt Anger over plan to dig up 350,000 bodies in historic London cemetery for Muslim burial site. Si…", :followers=>172, :user_id=>19011566, :retweet=>131}
+{:text=>"{يا نساء النبي لستن كأحد من النساء إن اتقيتن فلا تخضعن بالقول فيطمع الذي في قلبه مرض وقلن قولا معروفا} [الأحزاب:32]\nhttp://t.co/Zo7LN5iTam", :followers=>94, :user_id=>522461688, :retweet=>0}
+{:text=>"Amanda @CandyShopLondon #New #Updated #Escort #Profile @PunterKingUK #Review #Sex #UK #Escorts http://t.co/Ax2aBUXo6u http://t.co/FVQeCnsHvL", :followers=>74724, :user_id=>1228425253, :retweet=>0}
+{:text=>"RT @grayperks: 3 hours fleeting visit with the wife-to-be, before I head of to London nancyquek http://t.co/uYlE2CvQGp", :followers=>135, :user_id=>247179684, :retweet=>1}
+{:text=>"RT @VeryOldPics: Officers of the Women Police Service, London, 1916. Photo by Christina Broom. http://t.co/Siqr5ZJsjg", :followers=>168, :user_id=>86739171, :retweet=>13}
+{:text=>"RT usemuzli: The best link of the day on Muzli: LONDON RECRUITS\nhttp://t.co/7xZh8I2giS\n#ux #ui #design http://t.co/WEPyzJ0f5p", :followers=>1144, :user_id=>493423721, :retweet=>0}
+{:text=>"RT @Am_2_Pro: London definitely won that last round..", :followers=>23, :user_id=>2935259464, :retweet=>1}
