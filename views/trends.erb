@@ -3,16 +3,16 @@
 </section>
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script src="d3.layout.cloud.js"></script>
+<script src="http://www.jasondavies.com/wordcloud/d3.layout.cloud.js"></script>
 
 <script>
   var fill = d3.scale.category20();
 
-  var data = [{word:"Hello",weight:20},{word:"World",weight:10},{word:"Normally",weight:25},{word:"You",weight:15},{word:"Want",weight:30},{word:"More",weight:12},{word:"Words",weight:8},{word:"But",weight:18},{word:"Who",weight:22},{word:"Cares",weight:27}];
+  var data = <%= @words.to_json %>;
 
   d3.layout.cloud().size([500, 500])
       .words(data.map(function(d) {
-        return {text: d.word, size: d.weight};
+        return {text: d[0], size: d[1]};
       }))
       .padding(5)
       .rotate(function() { return ~~(Math.random() * 2) * 90; })
