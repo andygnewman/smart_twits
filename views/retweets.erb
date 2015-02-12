@@ -1,0 +1,7 @@
+<section id="retweets">
+  Retweets
+  <ul>
+    <% @retweets.each do |tweet| %><li><%= "'#{tweet[0]}'. Number of retweets: #{tweet[1]}" %></li>
+    <% end %>
+  <ul>
+</section><br>
