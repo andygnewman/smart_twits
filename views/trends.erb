@@ -4,13 +4,21 @@
 </section><br>
 
 <section id="retweets">
-  Retweets <br>
-  <%= @retweet %>
+  Retweets
+  <ul>
+    <% @retweet.each do |tweet| %>
+      <li><%= tweet %></li>
+    <% end %>
+  <ul>
 </section><br>
 
 <section id="followers">
-  Followers <br>
-  <%= @followers %>
+  Followers
+  <ul>
+    <% @followers.each do |tweet| %>
+      <li><%= tweet %>
+    <% end %>
+  </ul>
 </section><br>
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
