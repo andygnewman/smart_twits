@@ -34,6 +34,10 @@ describe 'Tweets' do
       expect(tweets.count_freq(["hello", "how", "hello", "you", "how"])).to eq({"hello"=>2, "how"=>2, "you"=>1})
     end
 
+    it 'can return the n most frequently occuring words' do
+      expect(tweets.find_words(3, 'spec/test_data/test.txt')).to eq([["your", 14], ["amp", 13], ["valentines", 12]])
+    end
+
   end
 
 end
