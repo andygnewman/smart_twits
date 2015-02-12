@@ -120,7 +120,10 @@ describe 'API' do
                                       # more to do if needed
     tweets = twitter.get_tweets_streaming("banana")
     expect(tweets.count).not_to eq(0)
-    byebug
-  end  
+  end
+
+  it 'should be able to be consumed' do
+    expect()
+  end 
 
 end
