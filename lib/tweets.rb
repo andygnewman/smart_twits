@@ -19,16 +19,18 @@ class Tweets
     find_top_words(number, words)
   end
 
-  def find_retweets(number, file_path)
-    retwit_array = tweets.read_file(file_path)
+  def find_retweets(file_path)
+    retwit_array = read_file(file_path)
     array = []
     retwit_array.map{|el| array << [el[:text], el[:retweet]]}
+    return array
   end
 
-  def find_followers(number, file_path)
-    followers_array = tweets.read_file(file_path)
+  def find_followers(file_path)
+    followers_array = read_file(file_path)
     array = []
     followers_array.map{|el| array << [el[:name], el[:text], el[:followers]]}
+    return array
   end
 
   def find_mentions(number, file_path)

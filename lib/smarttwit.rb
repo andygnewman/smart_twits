@@ -14,6 +14,10 @@ class SmartTwit < Sinatra::Base
   end
 
   get '/index' do
+    @trends_list = tweets.find_trends('./data/trends/toptrends.txt')
+    @retweets = tweets.find_retweets("./data/tweets/retweeted/Tory_tweets_retweeted.txt")
+    @followers = tweets.find_followers("./data/tweets/followers/Tory_tweets_followers.txt")
+    @mentions = tweets.find_mentions(5, "./data/tweets/tweets/Tory_tweets.txt")
     erb :layout
   end
 
@@ -21,7 +25,7 @@ class SmartTwit < Sinatra::Base
     @words = tweets.find_words("./data/tweets/tweets/#{params[:trend]}_tweets.txt")
     @retweets = tweets.find_retweets("./data/tweets/retweeted/#{params[:trend]}_tweets_retweeted.txt")
     @followers = tweets.find_followers("./data/tweets/followers/London_tweets_followers.txt")
-    @mentions = tweets.find_mentions(5, "./data/tweets/tweets/#{params[:trend]}_tweets.txt")
+    @mentions = tweets.find_mentions("./data/tweets/tweets/#{params[:trend]}_tweets.txt")
 
     erb :words
   end
