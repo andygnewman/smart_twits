@@ -1,5 +1,4 @@
 require 'sinatra/base'
-require_relative 'api_twit'
 require_relative 'tweets'
 
 class SmartTwit < Sinatra::Base
