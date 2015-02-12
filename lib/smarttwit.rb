@@ -32,6 +32,14 @@ class SmartTwit < Sinatra::Base
     erb :words
   end
 
+  get '/followers' do
+    followers_array = freq.read_file("./data/tweets/followers/London_tweets_followers.txt")
+    @followers = []
+    followers_array.map{|el| @followers << [el[:name], el[:text], el[:followers]]}
+
+    erb :followers
+  end
+
   # start the server if ruby file executed directly
   run! if app_file == $0
 end
