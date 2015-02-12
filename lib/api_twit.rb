@@ -6,6 +6,7 @@ require 'json'
 require 'open-uri'
 require 'json'
 require './app/helpers/twitter_helpers'
+require 'cronedit'
 
 PATH = './credentials.md'
 LONDON = 44418
@@ -18,6 +19,7 @@ PATH_TWEETS_RETWEETED = './data/tweets/retweeted/'
 class APITwitter
 
   include Twitter_Helpers
+  include CronEdit
 
   attr_reader :client, :trends
 
@@ -118,7 +120,7 @@ class APITwitter
   end
 
   def save_tweets_most_retweeted_per_trend(trends = @trends)
-    save_tweets_per_trqend_utility(@trends,method(:top_retweeted_tweets),PATH_TWEETS_RETWEETED,'_tweets_retweeted.txt')
+    save_tweets_per_trend_utility(@trends,method(:top_retweeted_tweets),PATH_TWEETS_RETWEETED,'_tweets_retweeted.txt')
   end
 
   def top_retweeted_tweets(array_of_hashes, number = 5)
@@ -134,3 +136,8 @@ class APITwitter
   end
 
 end
+
+twitter = APITwitter.new
+twitter.refresh_all_twitter_data
+
+

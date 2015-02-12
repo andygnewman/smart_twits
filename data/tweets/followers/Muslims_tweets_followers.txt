@@ -1,0 +1,5 @@
+{:name=>"@LiberalMediaSux", :text=>"RT @barenakedislam: AUSTRALIA: Muslims leave sharia-based threatening letter in several mailboxes of the Melbourne suburb of Prahran http:/…", :followers=>8569, :user_id=>878719854, :retweet=>22}
+{:name=>"@AlverezAmanda", :text=>"Radical Democrat Atheist Kills Three Muslims in North Carolina http://t.co/t4C5wtOD6O", :followers=>7372, :user_id=>2178922148, :retweet=>0}
+{:name=>"@BushVsClinton", :text=>"@FineSilk_Sundas I agree but it goes both ways and as somebody that tries to see both sides I just don't see Muslims as compromisers", :followers=>5683, :user_id=>2265133784, :retweet=>0}
+{:name=>"@PrestonMitchum", :text=>"Has the media already diagnosed the man who killed three Muslims yesterday as \"mentally ill?\" Just waiting. #ChapelHillShooting", :followers=>5233, :user_id=>584797578, :retweet=>0}
+{:name=>"@ChPlt", :text=>"RT @AmyMek: Muslims -&gt;ask yourselves what u can do 4 humankind, before u demand that humankind respect U\n#MuslimLivesMatter #tcot http://t.…", :followers=>4372, :user_id=>254803029, :retweet=>108}

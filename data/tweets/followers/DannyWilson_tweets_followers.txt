@@ -1,5 +1,0 @@
-{:name=>"@SkyBet", :text=>"Mark Burton is the early 3/1 favourite to be the next Barnsley boss following Danny Wilson's sacking today &gt; http://t.co/qxXHNfGhPC", :followers=>248344, :user_id=>17290098, :retweet=>0}
-{:name=>"@ArabianPages", :text=>"Manager Wilson sacked by Barnsley: League One side Barnsley sack manager Danny Wilson and assistant bos... http://t.co/rPBC7BE79g #sport", :followers=>39152, :user_id=>1325709318, :retweet=>0}
-{:name=>"@BBCFtbl", :text=>"Manager Wilson sacked by Barnsley: League One side Barnsley sack manager Danny Wilson and assistant boss Chris... http://t.co/AV7V8SsoyA", :followers=>18215, :user_id=>123068546, :retweet=>0}
-{:name=>"@LeedsUnited_MAD", :text=>"RT @WYSdaily: #lufc NR on Danny Wilson sacking from Barnsley \"he's a top manager &amp; a top guy. You don't like to see anyone lose their job\"", :followers=>14751, :user_id=>40331315, :retweet=>3}
-{:name=>"@juanmuriango", :text=>"Danny Wilson sacked by Barnsley with League One club struggling in 17th place http://t.co/ehHZrWOWbQ", :followers=>9870, :user_id=>160930875, :retweet=>0}

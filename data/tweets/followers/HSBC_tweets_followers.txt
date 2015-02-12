@@ -1,0 +1,5 @@
+{:name=>"@carrolltrust", :text=>"British Consulate-General Hong Kong Organised Crime Fraud THE MAN WITH THE GOLDEN GUN * CARROLL*TRUST #HSBC NEWS!! http://t.co/ihE7gXK7uv", :followers=>2092802, :user_id=>18906599, :retweet=>0}
+{:name=>"@PublicInterests", :text=>"British Consulate-General Hong Kong Organised Crime Fraud THE MAN WITH THE GOLDEN GUN * CARROLL*TRUST #HSBC NEWS!! http://t.co/lvbqALb6vn", :followers=>517189, :user_id=>57652284, :retweet=>0}
+{:name=>"@GHOSTPROTOCOLS", :text=>"British Consulate-General Hong Kong Organised Crime Fraud THE MAN WITH THE GOLDEN GUN * CARROLL*TRUST #HSBC NEWS!! http://t.co/xhWZ606Hot", :followers=>447519, :user_id=>326450140, :retweet=>0}
+{:name=>"@onebillioncrime", :text=>"British Consulate-General Hong Kong Organised Crime Fraud THE MAN WITH THE GOLDEN GUN * CARROLL*TRUST #HSBC NEWS!! http://t.co/oA4gaMX5nK", :followers=>433562, :user_id=>36982750, :retweet=>0}
+{:name=>"@MarylandTrust", :text=>"British Consulate-General Hong Kong Organised Crime Fraud THE MAN WITH THE GOLDEN GUN * CARROLL*TRUST #HSBC NEWS!! http://t.co/UKOdC7d5zk", :followers=>427542, :user_id=>278096906, :retweet=>0}

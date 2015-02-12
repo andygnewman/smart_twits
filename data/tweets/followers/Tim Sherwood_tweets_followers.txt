@@ -1,0 +1,5 @@
+{:name=>"@OriginalWinger", :text=>"#ICYMI :: @AVFCOfficial Sack #PaulLambert – #TimSherwood Up Next? http://t.co/WclIZmwNjo http://t.co/sBDiRm2Ek3", :followers=>16236, :user_id=>15567070, :retweet=>0}
+{:name=>"@AlfieConn", :text=>"So no job for Tim Sherwood at QPR, despite \"his team\" being \"in place\", how is he talking himself them? #WinPercentage #ThoughActToFollow", :followers=>3916, :user_id=>20780641, :retweet=>0}
+{:name=>"@Harry_Hazard", :text=>"Has anyone notice Tim Sherwood is odds on favourite whenever any manager's job becomes available", :followers=>3022, :user_id=>1632377382, :retweet=>0}
+{:name=>"@LesRosbifs", :text=>"Just noticed I wrote Tm Sherwood on an earlier tweet instead of Tim Sherwood. He's a walking, talking, cockney trademark.", :followers=>3010, :user_id=>851484913, :retweet=>0}
+{:name=>"@kirstiemccrum", :text=>".@TheFiver are really spoiling us 'Tim Sherwood, who is rapidly becoming a sort of footballing kama sutra,has been linked with the position'", :followers=>2985, :user_id=>15467880, :retweet=>0}

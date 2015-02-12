@@ -1,0 +1,5 @@
+{:name=>"@thequote", :text=>"All you need is love, love, love is all you need. - John Lennon #ValentinesDay", :followers=>280189, :user_id=>30767393, :retweet=>3}
+{:name=>"@EdibleBrooklyn", :text=>"14 Love Poems Professing Our Love for Brooklyn http://t.co/Wu0RbwFguP #ValentinesDay @Allswell_NYC @tacoselbronco @moustacheyogurt", :followers=>27888, :user_id=>22640541, :retweet=>0}
+{:name=>"@Ronald_Crone", :text=>"\"How Targeted Ads Spoil #Valentine’s Day Surprises\" by @davevr =&gt; http://t.co/4VdRGKYfPw #ValentinesDay #marketing #advertising #search", :followers=>27051, :user_id=>2460662251, :retweet=>0}
+{:name=>"@BreakingNSNews", :text=>"Looking for something to do for #ValentinesDay? Spread some love to older adults with @dosomething and @MentorUp. http://t.co/qNga6ZI4U6", :followers=>17346, :user_id=>43389213, :retweet=>0}
+{:name=>"@depeche96", :text=>"RT @terapiaoral: 💢❤💢❤💢❤💢\n💢❤\n❤💢\n❤💢\n❤💢\n💢❤💢❤💢❤💢\n💢❤❤💢❤💢❤\n💢❤\n❤💢\n💢❤\n💢❤\n#ValentinesDay @fusako001", :followers=>15512, :user_id=>1229812874, :retweet=>1}

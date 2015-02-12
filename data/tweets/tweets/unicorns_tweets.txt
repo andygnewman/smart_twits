@@ -1,100 +1,100 @@
-{:name=>"@R_A_Burns", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>169, :user_id=>795221690, :retweet=>11}
-{:name=>"@g_penuelas", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>148, :user_id=>470764379, :retweet=>11}
-{:name=>"@diegodeaduriz", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>683, :user_id=>248417887, :retweet=>11}
-{:name=>"@Alovesublime", :text=>"RT @Ruth999: I don't understand why #unicorns is trending lead item, but it's somehow making me very happy.", :followers=>829, :user_id=>121018974, :retweet=>1}
-{:name=>"@Aljona_2", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>218, :user_id=>1388976356, :retweet=>11}
-{:name=>"@flicknightshade", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>547, :user_id=>86382825, :retweet=>11}
-{:name=>"@konomi173", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>877, :user_id=>265668234, :retweet=>11}
-{:name=>"@MarieMJS", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>1484, :user_id=>17885639, :retweet=>11}
-{:name=>"@khftannisa", :text=>"RT @SimplyBeUK: Ahhh #unicorns definitely one of the best trends for a while! :) http://t.co/ShRkPy18M9", :followers=>661, :user_id=>560952564, :retweet=>36}
-{:name=>"@Larryniamandzen", :text=>"RT @R1Breakfast: We've just set @danisnotonfire the challenge to get #kittens 🐈 #unicorns &amp; #cookies 🍪 trending this morning cos he's super…", :followers=>3061, :user_id=>834199711, :retweet=>261}
-{:name=>"@doctor__idiot", :text=>"RT @Gambit_ka: #Danbreakstheinternet bc of #kittens   #cookies and #unicorns  @danisnotonfire @R1Breakfast @grimmers http://t.co/2KnNpOADPW", :followers=>1124, :user_id=>1747386055, :retweet=>20}
-{:name=>"@Placebo_Coffee", :text=>"#unicorns sup dan", :followers=>9, :user_id=>2292868266, :retweet=>0}
-{:name=>"@britishmuseum", :text=>"Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>467215, :user_id=>19066345, :retweet=>11}
-{:name=>"@Alovesublime", :text=>"RT @high5itapp: Because #Unicorns will probably never trend again, we want to know things that are #RarerThanAUnicorn in your life! http://…", :followers=>829, :user_id=>121018974, :retweet=>3}
-{:name=>"@zaynsmerve", :text=>"RT @MAHOMiEBER_: @xSannyKaur liebt #unicorns :D", :followers=>726, :user_id=>2431147113, :retweet=>2}
-{:name=>"@Alovesublime", :text=>"RT @oxygenboutique: #unicorns is trending, we're not sure why but we love unicorns!", :followers=>829, :user_id=>121018974, :retweet=>6}
-{:name=>"@stygianr", :text=>"finally i'm trending #unicorns", :followers=>781, :user_id=>296643109, :retweet=>0}
-{:name=>"@Alovesublime", :text=>"RT @DigitasLBi_UK: What's that you say? #unicorns is trending worldwide? Ooft - we'd better get involved then! #homeoftheunicorn http://t.c…", :followers=>829, :user_id=>121018974, :retweet=>3}
-{:name=>"@gyllendaddy", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>216, :user_id=>114577995, :retweet=>69}
-{:name=>"@Gemma_Palmer", :text=>"RT @SimplyBeUK: Ahhh #unicorns definitely one of the best trends for a while! :) http://t.co/ShRkPy18M9", :followers=>162, :user_id=>465114790, :retweet=>36}
-{:name=>"@Alovesublime", :text=>"RT @PallantGallery: It appears that searching for the subject '#Unicorns' in the art database does return a result. Linocut by Enid Marx. h…", :followers=>829, :user_id=>121018974, :retweet=>6}
-{:name=>"@awsome_rawrgirl", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>280, :user_id=>210170976, :retweet=>1315}
-{:name=>"@BellaDameNoir", :text=>"\"@LuvTLC: @bellebailey2 @mellymet @glamour_02 @ms_tlovee @JenOdomOTH I don't know what this means,but trending right now is: #Unicorns\"😂💀", :followers=>1528, :user_id=>1202945010, :retweet=>0}
-{:name=>"@Alovesublime", :text=>"RT @katyawachtel: Why is #unicorns trending? is #unicorns always trending?", :followers=>829, :user_id=>121018974, :retweet=>1}
-{:name=>"@pegilola", :text=>"RT@Bubblicous122:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@dccell:see&gt;http://t.co/8ODmJXeY7x", :followers=>1244, :user_id=>2157323743, :retweet=>0}
-{:name=>"@x_della_x", :text=>"#cookies #kittens #unicorns", :followers=>36, :user_id=>1511770579, :retweet=>0}
-{:name=>"@myvotefactor", :text=>"#unicorns #Koronadal We(2)Love(4)You(3)=243 #Mentaphone #Anonym https://t.co/GDyRP3aXuX", :followers=>982, :user_id=>485628566, :retweet=>0}
-{:name=>"@troylerfeeels", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>572, :user_id=>2651619729, :retweet=>1315}
-{:name=>"@pandafarmer", :text=>"Nearly 1am, must..go..to..sleep. But must..stay..up..to..watch..#unicorns..trending..on..twitter", :followers=>53, :user_id=>24507955, :retweet=>0}
-{:name=>"@catbugh", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>199, :user_id=>1053358627, :retweet=>69}
-{:name=>"@BrittKitty", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>1134, :user_id=>1668671840, :retweet=>1315}
-{:name=>"@HamanSkh4444", :text=>"@danisnotonfire #kittens #unicorns #cookies", :followers=>28, :user_id=>2896252987, :retweet=>0}
-{:name=>"@HajiIshak1", :text=>"RT@Diltomyphan:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@haviafotokopi:see&gt;http://t.co/qPUUJj1mBb", :followers=>955, :user_id=>1013404638, :retweet=>0}
-{:name=>"@wongxiangfang", :text=>"wats wif #unicorns and #cookies and #kittens y r dey trending", :followers=>83, :user_id=>1706792449, :retweet=>0}
-{:name=>"@solahgatei", :text=>"RT@fgsugglet:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@sumcara:see&gt;http://t.co/lvF6tVcR1z", :followers=>1172, :user_id=>2153509892, :retweet=>0}
-{:name=>"@sweetoakley", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>2617, :user_id=>627067704, :retweet=>1315}
-{:name=>"@thephangiirl", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>308, :user_id=>1195196292, :retweet=>1315}
-{:name=>"@maya_clug", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>60, :user_id=>1622153592, :retweet=>1315}
-{:name=>"@ReemRidaa", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>3329, :user_id=>601006419, :retweet=>1315}
-{:name=>"@HajiIshak1", :text=>"RT@NattyNatalieXO:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@Stupid_Learner:see&gt;http://t.co/5uQGYc3lac", :followers=>955, :user_id=>1013404638, :retweet=>0}
-{:name=>"@mary_jackson16", :text=>"#unicorns Крикаю. Фандомам нельзя давать фш. Остановите мой ор. http://t.co/Ba5LQILYCq", :followers=>41, :user_id=>2741134653, :retweet=>0}
-{:name=>"@_BorrowedSmiles", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>245, :user_id=>419080225, :retweet=>1315}
-{:name=>"@HajiIshak1", :text=>"RT@maddie_trimmell:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@dccell:see&gt;http://t.co/HGd8QRE683", :followers=>955, :user_id=>1013404638, :retweet=>0}
-{:name=>"@Vahonica", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>268, :user_id=>418931826, :retweet=>1315}
-{:name=>"@DerpyNams", :text=>"waking up at four am to watch a certain internet takeover #kittens #cookies #unicorns", :followers=>20, :user_id=>2525410670, :retweet=>0}
-{:name=>"@mazhar_mostafa", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>27, :user_id=>2721105700, :retweet=>1315}
-{:name=>"@xSannyKaur", :text=>"RT @MAHOMiEBER_: @xSannyKaur liebt #unicorns :D", :followers=>4840, :user_id=>548588989, :retweet=>2}
-{:name=>"@mazhar_mostafa", :text=>"@danisnotonfire #kittens #unicorns #cookies", :followers=>27, :user_id=>2721105700, :retweet=>0}
-{:name=>"@chloe7429", :text=>"RT @natsome1: Niall ia zayn's unicorn\nAwwww #Ziall 😍💞💞\n@zaynmalik @NiallOfficial \n#unicorns http://t.co/MvU8bRHiu5", :followers=>199, :user_id=>2425399233, :retweet=>1}
-{:name=>"@JanTweetTweets", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>1833, :user_id=>244587336, :retweet=>49}
-{:name=>"@DerpyNams", :text=>"RT @SaraAzopardi: @danisnotonfire nice representation #kittens #unicorns #cookies http://t.co/vXt2uJraCD", :followers=>20, :user_id=>2525410670, :retweet=>18}
-{:name=>"@WeCreator", :text=>"#unicorns #MGWV  ❤❤  http://t.co/gloGBx53l9  ❤❤ http://t.co/4MGTGdt58K", :followers=>821, :user_id=>2938754685, :retweet=>0}
-{:name=>"@SLagaja", :text=>"RT@oakleysparkle:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@sumcara:see&gt;http://t.co/fdTjDozDeY", :followers=>1841, :user_id=>2154218233, :retweet=>0}
-{:name=>"@kitty_unicorns", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>145, :user_id=>258970260, :retweet=>1315}
-{:name=>"@maggot_in_mmorg", :text=>"RT @TWITBATTL: БИТВА ЕДИНОРОЖИКОВ ПРОТИВ КОТИКОВ, НА ЧЬЕЙ ТЫ СТОРОНЕ?\n\nRT #unicorns\n\nFAV #kittens http://t.co/LjrV8USiTW", :followers=>240, :user_id=>1329667968, :retweet=>25}
-{:name=>"@TTMobile_dk", :text=>"TT DENMARK 15:04\n1.#SætGedIEnDanskTitel\n2.United\n3.#pldk\n4.The Daily Show\n5.Ukraine\n6.#cookies\n7.#kittens\n8.#unicorns\n9.Århus\n10.Balotelli", :followers=>446, :user_id=>2617629932, :retweet=>0}
-{:name=>"@TTMobile_russia", :text=>"TT РОССИЯ 17:04\n1.#ТвиттерРодилПингвина\n2.#unicorns\n3.#ПодаркиОтПутина\n4.#cookies\n5.#Минск\n6.Су-24\n7.Спанч Боба\n8.Russia\n9.Порошенко", :followers=>981, :user_id=>2645431975, :retweet=>0}
-{:name=>"@TTMobile_sg", :text=>"TT SINGAPORE 22:04\n1.#INFINITEH5THWIN\n2.#unicorns\n3.#BDMELODI_139\n4.#kittens\n5.#cookies\n6.Valentine's Day\n7.Singapore\n8.Vday\n9.Style\n10.SIGH", :followers=>436, :user_id=>2645406012, :retweet=>0}
-{:name=>"@lucia_cab", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>128, :user_id=>2197713638, :retweet=>1315}
-{:name=>"@itsmesirens", :text=>"#unicorns ✌", :followers=>43, :user_id=>2621297833, :retweet=>0}
-{:name=>"@Muse_Madness", :text=>"RT @R1Breakfast: We've just set @danisnotonfire the challenge to get #kittens 🐈 #unicorns &amp; #cookies 🍪 trending this morning cos he's super…", :followers=>51, :user_id=>2488023613, :retweet=>261}
-{:name=>"@pegilola", :text=>"RT@ArizonaTeaPezz:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@Stupid_Learner:see&gt;http://t.co/JpWOr2PRMO", :followers=>1244, :user_id=>2157323743, :retweet=>0}
-{:name=>"@_Dean_Cas_", :text=>"RT @TWITBATTL: БИТВА ЕДИНОРОЖИКОВ ПРОТИВ КОТИКОВ, НА ЧЬЕЙ ТЫ СТОРОНЕ?\n\nRT #unicorns\n\nFAV #kittens http://t.co/LjrV8USiTW", :followers=>3159, :user_id=>606207640, :retweet=>25}
-{:name=>"@AtyHans", :text=>"#unicorns and #Mermaid exist because they might exist, @TakeThatDarwin. \n\nClarity!", :followers=>825, :user_id=>234094005, :retweet=>0}
-{:name=>"@joyjut", :text=>"RT @__Natzlala__: why is this trending lol  #unicorns http://t.co/4DlNWlMh1j", :followers=>3010, :user_id=>2435076886, :retweet=>1}
-{:name=>"@SLagaja", :text=>"RT@gracek531:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@haviafotokopi:see&gt;http://t.co/sXkOpy8Q4g", :followers=>1841, :user_id=>2154218233, :retweet=>0}
-{:name=>"@TakeThatDarwin", :text=>"RT @tkthtetymology: @TakeThatDarwin It's actually a chupacorn. TEACH THE CHUPACORN. #chupacabras #unicorns http://t.co/qPYef9XjOe", :followers=>7340, :user_id=>920925912, :retweet=>1}
-{:name=>"@tkthtetymology", :text=>"@TakeThatDarwin It's actually a chupacorn. TEACH THE CHUPACORN. #chupacabras #unicorns http://t.co/qPYef9XjOe", :followers=>66, :user_id=>2982638627, :retweet=>1}
-{:name=>"@salmanuv", :text=>"#unicorns Get Extra Cash Online! http://t.co/8wtuJrgLVw", :followers=>357, :user_id=>33896029, :retweet=>0}
-{:name=>"@salmanuv", :text=>"#unicorns Get Fast Cash 4 Homes!! http://t.co/gBtfDBsbRG", :followers=>357, :user_id=>33896029, :retweet=>0}
-{:name=>"@salmanuv", :text=>"#unicorns Get Extra Cash Online! http://t.co/xTLk1npRmO", :followers=>357, :user_id=>33896029, :retweet=>0}
-{:name=>"@salmanuv", :text=>"#unicorns Get Fast Cash 4 Homes!! http://t.co/u6hDYH06c2", :followers=>357, :user_id=>33896029, :retweet=>0}
-{:name=>"@Garnet8Ltd", :text=>"#Unicorns epidemic portends wild ride for #startups\n\n\"some pretty amazing trends: #cloud, #bigdata, interconnect...\"\n\nhttp://t.co/XefGHNxSO5", :followers=>1006, :user_id=>1264058454, :retweet=>0}
-{:name=>"@hejrusso", :text=>"RT @SimplyBeUK: Ahhh #unicorns definitely one of the best trends for a while! :) http://t.co/ShRkPy18M9", :followers=>1026, :user_id=>2679333962, :retweet=>36}
-{:name=>"@lily_scott1", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>244, :user_id=>2476782970, :retweet=>69}
-{:name=>"@asdfghlknialler", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>1444, :user_id=>580163196, :retweet=>1315}
-{:name=>"@pegilola", :text=>"RT@P_littlewonders:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@Stupid_Learner:see&gt;http://t.co/jiT1vwJeSo", :followers=>1244, :user_id=>2157323743, :retweet=>0}
-{:name=>"@tworldy", :text=>"#unicorns now trending in Sydney http://t.co/lARM2vXLnC", :followers=>1164, :user_id=>2909648091, :retweet=>0}
-{:name=>"@GroomsHadley", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>51, :user_id=>2220980107, :retweet=>1315}
-{:name=>"@pegilola", :text=>"RT@ChristieYousif:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@Stupid_Learner:see&gt;http://t.co/cyNJ9Ow6Mk", :followers=>1244, :user_id=>2157323743, :retweet=>0}
-{:name=>"@bornygstan_", :text=>"RT @SimplyBeUK: Oh we love that #unicorns is trending! :D http://t.co/QW74fsVFcH", :followers=>155, :user_id=>1916486460, :retweet=>36}
-{:name=>"@trendinaliaMY", :text=>"1. #ChapelHillShooting\n2. #INFINITEH5THWIN\n3. #TemanLelakiUpahan\n4. Hasbullah Awang\n5. #unicorns\n\n2015/2/12 21:56 MYT http://t.co/3ZpGNCIaQz", :followers=>5905, :user_id=>1372563925, :retweet=>0}
-{:name=>"@trendinaliaSG", :text=>"1. #INFINITEH5THWIN\n2. #unicorns\n3. #kittens\n4. #BDMELODI_139\n5. #cookies\n\n2015/2/12 21:56 SGT #trndnl2015 http://t.co/psP0GzBgZB", :followers=>953, :user_id=>1370453570, :retweet=>0}
-{:name=>"@pegilola", :text=>"RT@PeterPhannn:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@Ayangbeb:see&gt;http://t.co/ZAZDofF5ih", :followers=>1244, :user_id=>2157323743, :retweet=>0}
-{:name=>"@trendinaliaNO", :text=>"6. Kane\n7. Oslo\n8. Van Gaal\n9. #unicorns\n10. #cookies\n\n2015/2/12 14:56 CET #trndnl2015 http://t.co/6sjsp7X8c6", :followers=>929, :user_id=>1408418168, :retweet=>0}
-{:name=>"@AtyHans", :text=>"@TakeThatDarwin Do you &gt; @JimC146 &lt; believe in #unicorns? LOL", :followers=>825, :user_id=>234094005, :retweet=>0}
-{:name=>"@trendinaliaSE", :text=>"1. #Lyckligagatan\n2. #kittens\n3. #cookies\n4. #FoooBuzzkillZoo\n5. #unicorns\n\n2015/2/12 14:56 CET #trndnl2015 http://t.co/wvSpN08vGf", :followers=>958, :user_id=>1369914391, :retweet=>0}
-{:name=>"@Bagheera_D", :text=>"RT @DrunkPenguin69: Такие тэги в актуальных радуют :З\n#unicorns \n#kittens \n#cookies", :followers=>1235, :user_id=>1313383796, :retweet=>1}
-{:name=>"@ReTweetsupport", :text=>"RT@troyespoonty:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@Stupid_Learner:see&gt;http://t.co/tWLXwbMR1u", :followers=>1875, :user_id=>478252028, :retweet=>0}
-{:name=>"@rosicope", :text=>"RT @SimplyBeUK: Ahhh #unicorns definitely one of the best trends for a while! :) http://t.co/ShRkPy18M9", :followers=>314, :user_id=>83354084, :retweet=>36}
-{:name=>"@code_cherry", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>201, :user_id=>2147847602, :retweet=>1315}
-{:name=>"@XFilesFanaticus", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>17196, :user_id=>92235951, :retweet=>49}
-{:name=>"@HajiIshak1", :text=>"RT@TrumpetDragon:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@sumcara:see&gt;http://t.co/xqF9uAIzDQ", :followers=>955, :user_id=>1013404638, :retweet=>0}
-{:name=>"@AtyHans", :text=>"RT @TakeThatDarwin: The #unicorns hashtag has been trending lately in honor of Answers in Genesis' claim that unicorns are totally real. ht…", :followers=>825, :user_id=>234094005, :retweet=>8}
-{:name=>"@journalxrry", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>6890, :user_id=>118772364, :retweet=>69}
-{:name=>"@pegilola", :text=>"RT@CreatureIsMe:#kittens #unicorns #cookies... \n RT@TaksunT:see&gt;http://t.co/tn9hyIsibm", :followers=>1244, :user_id=>2157323743, :retweet=>0}
-{:name=>"@solahgatei", :text=>"RT@imstillrabia:@danisnotonfire #kittens #unicorns #cookies... \n RT@sumcara:see&gt;http://t.co/XA069S6AL7", :followers=>1172, :user_id=>2153509892, :retweet=>0}
-{:name=>"@grepinyak80", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>9, :user_id=>3014543518, :retweet=>1315}
-{:name=>"@nhazirah_05", :text=>"RT @trendinaliaMY: 1. #ChapelHillShooting\n2. #INFINITEH5THWIN\n3. #TemanLelakiUpahan\n4. Hasbullah Awang\n5. #unicorns\n\n2015/2/12 20:53 MYT ht…", :followers=>167, :user_id=>90278824, :retweet=>3}
-{:name=>"@CrabbyCrabsBB", :text=>"@XSpace_CakeX It's trending coz of the vid I posted of you pretending to be a #unicorns using Mr Big 😄😄😄😄", :followers=>54, :user_id=>1701691142, :retweet=>0}
+{:name=>"@kristina_1145", :text=>"люди, которые не верят в единорогов ИДИОТЫ\n#unicorns http://t.co/fl7YoH6WOa", :followers=>762, :user_id=>2385507468, :retweet=>0}
+{:name=>"@MilicaBosanac99", :text=>"#unicorns", :followers=>226, :user_id=>2276498322, :retweet=>0}
+{:name=>"@wowwooooy", :text=>"RT @MeriBaymasheva: Зашла я значит в Google поискать тамблеровских фото. #unicorns #zaynmalik #ZaynMalikWhyAreYouSoHot http://t.co/inR1smiY…", :followers=>2161, :user_id=>2563811244, :retweet=>2}
+{:name=>"@MeriBaymasheva", :text=>"Зашла я значит в Google поискать тамблеровских фото. #unicorns #zaynmalik #ZaynMalikWhyAreYouSoHot http://t.co/inR1smiYOK", :followers=>1322, :user_id=>599996609, :retweet=>2}
+{:name=>"@BSfil", :text=>"RT @OccupyRMN: Austerity Is 'Complete Horsesh*t': Ivy League Prof Dismantles the Conservative Lie http://t.co/B1Vz0iuzXu #SiSi #Yes45 #tcot…", :followers=>1794, :user_id=>2775904743, :retweet=>2}
+{:name=>"@LeiOcelot", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>30, :user_id=>865386433, :retweet=>1478}
+{:name=>"@elisasarablue", :text=>"RT @kimiwing: #unicorns how about multi-corns?!\n\n#PopChoiceAwards Album of the Year ONE DIRECTION http://t.co/Vm3yEEfZn1", :followers=>3223, :user_id=>2454508777, :retweet=>21}
+{:name=>"@DaisyxWright", :text=>"RT @BBCNewsbeat: #Unicorns trends because of @danisnotonfire and @R1Breakfast Did you know unicorn's the national animal of Scotland? http:…", :followers=>34, :user_id=>2881419497, :retweet=>234}
+{:name=>"@faithonthebass", :text=>"@danisnotonfire #kittens 🐱 #unicorns #cookies 🍪🍪🍪", :followers=>11, :user_id=>2815705998, :retweet=>0}
+{:name=>"@strawberrythief", :text=>"Suddenly #unicorns is/are trending. Not sure why.", :followers=>910, :user_id=>321770169, :retweet=>0}
+{:name=>"@cope_dave", :text=>"Fish n Chips anyone? #food #unicorns http://t.co/HSIcpcOhmg", :followers=>32, :user_id=>1688314380, :retweet=>0}
+{:name=>"@dream__bitch", :text=>"RT @candy_angel_69: В любой непонятной ситуации\nСадись на единорога\nИ уезжай пить винишко\n#unicorns", :followers=>2226, :user_id=>2734510167, :retweet=>4}
+{:name=>"@ScintillatingSZ", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>5384, :user_id=>2342030562, :retweet=>67}
+{:name=>"@phandytroyler", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>31, :user_id=>2990403184, :retweet=>1478}
+{:name=>"@_Charli_Cookie_", :text=>"#unicorns #kittens #cookies  @danisnotonfire HI", :followers=>30, :user_id=>2915990147, :retweet=>0}
+{:name=>"@KatieMSanDiego", :text=>"RT @JRWisms: .@larrykim's #content #unicorns #contenthacks http://t.co/kRSmj97zSs", :followers=>1333, :user_id=>56911232, :retweet=>1}
+{:name=>"@Africanalyst", :text=>"RT @RachelSLyon: Apparently #Unicorns are trending on Twitter. My Mucky would be pleased! http://t.co/sgJzeLCMDI", :followers=>8833, :user_id=>1410327247, :retweet=>1}
+{:name=>"@RachelSLyon", :text=>"Apparently #Unicorns are trending on Twitter. My Mucky would be pleased! http://t.co/sgJzeLCMDI", :followers=>438, :user_id=>195757133, :retweet=>1}
+{:name=>"@MiraTweeta", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>1730, :user_id=>448088583, :retweet=>183}
+{:name=>"@JRWisms", :text=>".@larrykim's #content #unicorns #contenthacks http://t.co/kRSmj97zSs", :followers=>1108, :user_id=>1642871348, :retweet=>1}
+{:name=>"@Ritsu_Onodera69", :text=>"Хочу себе тоже милого единорожека *_*\nЯ бы его назвала Пушок\nА как бы вы назвали своего единорога?)\n#unicorns http://t.co/RlleyT9uoI", :followers=>1037, :user_id=>2390373371, :retweet=>0}
+{:name=>"@nattylara", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>13682, :user_id=>45013334, :retweet=>67}
+{:name=>"@ifyouseeeloise", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>2842, :user_id=>953708197, :retweet=>1478}
+{:name=>"@aimiiglassman", :text=>"Your #kittens #unicorns #cookies are still trending @danisnotonfire 🐱🐎 🍪", :followers=>121, :user_id=>896081257, :retweet=>0}
+{:name=>"@Abuckalew", :text=>"How to hunt for a Unicorn (Top 4% of content). 1, aligned with high volume keyword. #ContentHacks #unicorns", :followers=>376, :user_id=>225566765, :retweet=>0}
+{:name=>"@ZaneZodrow", :text=>"RT @OccupyRMN: Austerity Is 'Complete Horsesh*t': Ivy League Prof Dismantles the Conservative Lie http://t.co/B1Vz0iuzXu #SiSi #Yes45 #tcot…", :followers=>3347, :user_id=>396720850, :retweet=>2}
+{:name=>"@RachelSLyon", :text=>"@TheBookPeople Don't forget about Mucky the horse, who thought he'd have more friends if he was a Unicorn #Unicorns http://t.co/pMy91FS7yN", :followers=>438, :user_id=>195757133, :retweet=>0}
+{:name=>"@sam19smith19", :text=>"#WhatIsLoveIn4Words\n    #ChapelHillShooting\n    #LordFink\n    #HSBC\n    #unicorns\n    #ValentinesDay\n    #London http://t.co/XkiyFSuACd", :followers=>42, :user_id=>3025206719, :retweet=>0}
+{:name=>"@yuliya_adler", :text=>"Ня #unicorns", :followers=>21, :user_id=>3022788202, :retweet=>0}
+{:name=>"@anushaweasley14", :text=>"RT @R1Breakfast: We've just set @danisnotonfire the challenge to get #kittens 🐈 #unicorns &amp; #cookies 🍪 trending this morning cos he's super…", :followers=>309, :user_id=>1649547799, :retweet=>276}
+{:name=>"@van_strael", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>981, :user_id=>2157436815, :retweet=>183}
+{:name=>"@Grace_RAINBOWS", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>5, :user_id=>2975293319, :retweet=>1478}
+{:name=>"@hashtagtopics_", :text=>"RT trending hashtags now http://t.co/DE92vF5RnD  #GoggleboxAU #unicorns #cookies http://t.co/hppn8CqBJI", :followers=>2615, :user_id=>3000496763, :retweet=>0}
+{:name=>"@CaitlinNadine55", :text=>"@danisnotonfire #kittens #unicorns #cookies", :followers=>9, :user_id=>3019414564, :retweet=>0}
+{:name=>"@afropig", :text=>"The latest for #ValentinesDay love. #unicorns http://t.co/DT6ppnWdpA http://t.co/F3JfXlV3ma", :followers=>372, :user_id=>25308856, :retweet=>0}
+{:name=>"@anushaweasley14", :text=>"#kittens #unicorns #cookies", :followers=>309, :user_id=>1649547799, :retweet=>0}
+{:name=>"@mcrareunicorns", :text=>"#unicorns #unicorns #unicorns #unicorns #unicorns #unicorns #unicorns #unicorns #unicorns #unicorns #unicorns http://t.co/quPDKvhgcv", :followers=>68, :user_id=>2831324477, :retweet=>0}
+{:name=>"@IAm_TylerOakley", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>21, :user_id=>2975219636, :retweet=>1478}
+{:name=>"@michaelrae0", :text=>"@ActuallyNPH I had a dream last night that a kittens leg fell off.I ran around waving it and called the vet.The cat is fine.#unicorns", :followers=>2, :user_id=>3025285161, :retweet=>0}
+{:name=>"@KitaVatre", :text=>"#unicorns #CNN Elusive, lucrative 'unicorns' are difficult to find - Boston Globe  http://t.co/TFASZnuW6R", :followers=>698, :user_id=>1599636565, :retweet=>0}
+{:name=>"@GrosagesChildle", :text=>"TT РОССИЯ 19:24\n1.#ТвиттерРодилПингвина\n2.#unicorns\n3.#ПодаркиОтПутина\n4.#kittens\n5.#МинскиеДоговоренности\n6.Эмбер\n7.Пятница 13\n8.Спанч Боба", :followers=>20, :user_id=>2729128681, :retweet=>0}
+{:name=>"@ifyouseeeloise", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>2842, :user_id=>953708197, :retweet=>104}
+{:name=>"@wthhowell", :text=>"RT @R1Breakfast: We've just set @danisnotonfire the challenge to get #kittens 🐈 #unicorns &amp; #cookies 🍪 trending this morning cos he's super…", :followers=>1219, :user_id=>1307366202, :retweet=>276}
+{:name=>"@Annie__Storm", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>879, :user_id=>348939241, :retweet=>104}
+{:name=>"@qplog", :text=>"RT @PhilisAmazing: IM TRASH @danisnotonfire #kittens #unicorns #cookies", :followers=>240, :user_id=>2925170690, :retweet=>9}
+{:name=>"@teen__qeen", :text=>"Руские Твиттерские:\n-#ТвиттерРодилПингвина \n#unicorns\n#ПодаркиОтПутина\n#kittensОстальные\nОстальные:\n-ОПЯТЬ ЧТОЛЬ РУССКИЕ РЕЗВЯТСЯ", :followers=>97, :user_id=>2286500902, :retweet=>0}
+{:name=>"@borisovrealtyRu", :text=>"#unicorns Минске #kittens #cookies Порошенко Савченко Путина \n\nОккупанты драпали из котла под видом мирного населения http://t.co/MmhvwfgUIc", :followers=>5579, :user_id=>2443803060, :retweet=>0}
+{:name=>"@kirstykn0x_", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>4822, :user_id=>103639392, :retweet=>104}
+{:name=>"@kittyros3", :text=>"#kittens #unicorns #cookies @danisnotonfire", :followers=>22, :user_id=>2865828501, :retweet=>0}
+{:name=>"@KingdomOfNoFire", :text=>"RT @SaraAzopardi: @danisnotonfire nice representation #kittens #unicorns #cookies http://t.co/vXt2uJraCD", :followers=>42, :user_id=>2560070659, :retweet=>20}
+{:name=>"@hashtagtopics_", :text=>"RT trending now online http://t.co/DE92vF5RnD  #GoggleboxAU #unicorns #cookies http://t.co/hppn8CqBJI", :followers=>2615, :user_id=>3000496763, :retweet=>0}
+{:name=>"@tracyam8", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>8, :user_id=>2592517836, :retweet=>1478}
+{:name=>"@tworldy", :text=>"#unicorns now trending in NewZealand http://t.co/lARM2vXLnC", :followers=>1165, :user_id=>2909648091, :retweet=>0}
+{:name=>"@Ritsu_Onodera69", :text=>"#unicorns http://t.co/zQif32iCBq", :followers=>1037, :user_id=>2390373371, :retweet=>0}
+{:name=>"@findmeagift", :text=>"RT @TracyLSteel: @findmeagift here's some inspiration; everyone knows #unicorns puke chocolate and poop rainbows! ;) http://t.co/yxPftAyaDF", :followers=>17271, :user_id=>18815068, :retweet=>1}
+{:name=>"@ALaingSEO", :text=>"Expecting to see this at Preson... #Unicorns #MUFC #prestonaway \nhttp://t.co/fySFcHqXnw", :followers=>431, :user_id=>236493862, :retweet=>0}
+{:name=>"@TTMobile_dk", :text=>"TT DENMARK 17:24\n1.#SætGedIEnDanskTitel\n2.Ukraine\n3.United\n4.The Daily Show\n5.#pldk\n6.#cookies\n7.#kittens\n8.Århus\n9.#unicorns\n10.Balotelli", :followers=>446, :user_id=>2617629932, :retweet=>0}
+{:name=>"@TTMobile_russia", :text=>"TT РОССИЯ 19:24\n1.#ТвиттерРодилПингвина\n2.#unicorns\n3.#ПодаркиОтПутина\n4.#kittens\n5.#МинскиеДоговоренности\n6.Эмбер\n7.Пятница 13\n8.Спанч Боба", :followers=>981, :user_id=>2645431975, :retweet=>0}
+{:name=>"@TTMobile_sg", :text=>"TT SINGAPORE 00:24\n1.#ShakeThatBrass\n2.Friday the 13th\n3.#INFINITEH5THWIN\n4.#unicorns\n5.#BDMELODI_139\n6.#kittens\n7.Singapore", :followers=>438, :user_id=>2645406012, :retweet=>0}
+{:name=>"@elliesaurusss", :text=>"When is Dil returning? @danisnotonfire #kittens #cookies #unicorns", :followers=>236, :user_id=>1066089054, :retweet=>0}
+{:name=>"@abi4125", :text=>"@danisnotonfire #kittens #unicorns #cookies 👏👏👏👏 unicorns is 1st lol 💜", :followers=>41, :user_id=>2546410790, :retweet=>0}
+{:name=>"@LindaBarnickel", :text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :followers=>68, :user_id=>956662141, :retweet=>183}
+{:name=>"@conico03", :text=>"Jejej mi snap!! #arcoiris #vomitodearcoiris #sexy #snapchat #crazy #f4f #l4l #xd #lol #unicorns… http://t.co/BolCDQcYPp", :followers=>54, :user_id=>2365384553, :retweet=>0}
+{:name=>"@abbey__suxx", :text=>"RT @Ritsu_Onodera69: Единороги котики -  вот кто круче всех 😎 👌\n#unicorns  #kittens http://t.co/QIEVwVfm7H", :followers=>1323, :user_id=>2416869034, :retweet=>1}
+{:name=>"@bntyuyi20", :text=>"#unicorns #teamfollowback Creationists: Darwin Was Wrong And Unicorns Are Real - Wonkette (satire) (blog)  http://t.co/5z7fSnsYDu", :followers=>436, :user_id=>2784653083, :retweet=>0}
+{:name=>"@drinkiapp", :text=>"So, #Unicorns are trending. Get horny with a #cocktail on us tonight? #PornStarMartini, #SexOnTheBeach, #KinkyMartini http://t.co/zYHqNckCYT", :followers=>1609, :user_id=>2433722275, :retweet=>0}
+{:name=>"@Queen_Snow1", :text=>"#unicorns опять эти единороги...\nПегасы лучше!!\nОни хоть летать умеют!", :followers=>645, :user_id=>212533300, :retweet=>0}
+{:name=>"@TracyLSteel", :text=>"@findmeagift here's some inspiration; everyone knows #unicorns puke chocolate and poop rainbows! ;) http://t.co/yxPftAyaDF", :followers=>699, :user_id=>33645205, :retweet=>1}
+{:name=>"@Ritsu_Onodera69", :text=>"Спанч Боб и Патрик в теме #unicorns http://t.co/woumlXP7BX", :followers=>1037, :user_id=>2390373371, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"Retweet trending now on twitter http://t.co/1RdCMmXnWp   #Lyckligagatan #kittens #unicorns #cookies http://t.co/hppn8CqBJI", :followers=>2615, :user_id=>3000496763, :retweet=>0}
+{:name=>"@meyuyuchmitti", :text=>"#unicorns ❤ #RT Creationists: Darwin Was Wrong And Unicorns Are Real - Wonkette (satire) (blog)  http://t.co/gYeDmdePJm", :followers=>310, :user_id=>3020535177, :retweet=>0}
+{:name=>"@GogoPhan", :text=>"Is it too late to enter @danisnotonfire? 😎🙀😂 xxx #Kittens #Unicorns #Cookies http://t.co/ZRpCCu3jP3", :followers=>429, :user_id=>1725755275, :retweet=>0}
+{:name=>"@LidmilaMA", :text=>"RT @MaxDementiev: летом мне будет не хватать льда\n\n#unicorns\n#kittens\n#cookies http://t.co/kgdywqZq8o", :followers=>342, :user_id=>2409594141, :retweet=>2}
+{:name=>"@Felinelester", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>42, :user_id=>1653446370, :retweet=>1478}
+{:name=>"@medhistorian", :text=>"RT @historecipes: Oh hai #unicorns! On \"The Wonders of Unicorn Horns\" at Recipes Project by @chelseamaia: http://t.co/OuD9MBfoTv #earlymode…", :followers=>1029, :user_id=>2168583079, :retweet=>4}
+{:name=>"@KitaVatre", :text=>"#unicorns ❤ #followme Elusive, lucrative 'unicorns' are difficult to find - Boston Globe  http://t.co/OdAPZ4gLPq", :followers=>698, :user_id=>1599636565, :retweet=>0}
+{:name=>"@annarcarroll", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>1130, :user_id=>521212961, :retweet=>104}
+{:name=>"@jennivess", :text=>"RT @jewishmuseummd: Did someone say #unicorns? Card collected by Henrietta Szold, Vienna 1881. http://t.co/kzMWctYe0Y", :followers=>102, :user_id=>426838155, :retweet=>1}
+{:name=>"@trendinaliaSG", :text=>"1. #ShakeThatBrass\n2. Friday the 13th\n3. #INFINITEH5THWIN\n4. #AMBER\n5. #unicorns\n\n2015/2/13 00:17 SGT #trndnl2015 http://t.co/psP0GzBgZB", :followers=>953, :user_id=>1370453570, :retweet=>1}
+{:name=>"@EzaMarlent", :text=>"#unicorns #teamfollowback Data scientists: 'As rare as unicorns' - The Guardian  http://t.co/XRiwamb184", :followers=>270, :user_id=>2651500728, :retweet=>0}
+{:name=>"@trendinaliaNO", :text=>"6. Kane\n7. Oslo\n8. #cookies\n9. #unicorns\n10. Takk\n\n2015/2/12 17:14 CET #trndnl2015 http://t.co/6sjsp7X8c6", :followers=>929, :user_id=>1408418168, :retweet=>0}
+{:name=>"@trendinaliaSE", :text=>"1. #Lyckligagatan\n2. #svpol\n3. #kittens\n4. #cookies\n5. #unicorns\n\n2015/2/12 17:14 CET #trndnl2015 http://t.co/wvSpN08vGf", :followers=>957, :user_id=>1369914391, :retweet=>0}
+{:name=>"@trahanBu", :text=>"В актуальных #unicorns, а я читаю unisonic\nОк", :followers=>4901, :user_id=>2200852107, :retweet=>0}
+{:name=>"@Jakelweller", :text=>"Strange but interesting day. Finaly home and really wanna cuppa. #unicorns", :followers=>10, :user_id=>1351937582, :retweet=>0}
+{:name=>"@peggyj1939", :text=>"RT @MetroUK: This is why #unicorns are trending + 13 things you never knew about them http://t.co/qQmfaiwfUS http://t.co/sDQCRwQ1mh", :followers=>46, :user_id=>1042702597, :retweet=>19}
+{:name=>"@kessedi93", :text=>"В актуальных #unicorns, а я читаю unisonic\nОк", :followers=>477, :user_id=>1196580577, :retweet=>0}
+{:name=>"@putbill", :text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :followers=>4817, :user_id=>1038064621, :retweet=>104}
+{:name=>"@bntyuyi20", :text=>"#unicorns #CNN Creationists: Darwin Was Wrong And Unicorns Are Real - Wonkette (satire) (blog)  http://t.co/9NgWm0YmYQ", :followers=>436, :user_id=>2784653083, :retweet=>0}
+{:name=>"@BESSBAD", :text=>"Save me from the #kittens mouth:\nfor thou hast heard me\nfrom the horns of the #unicorns:", :followers=>9980, :user_id=>24597658, :retweet=>0}
+{:name=>"@Susantyuydwar", :text=>"#unicorns ❤ #RT Believing Unicorns Are Fantasy Instead of Real 'Demeans' God's Word,' Says  # # # - Christian Post  http://t.co/ypQogMfdS6", :followers=>176, :user_id=>2656374655, :retweet=>0}
+{:name=>"@thelovelypath", :text=>"дэниэл ты где я хочу доставать тебя #kittens #unicorns #cookies", :followers=>19, :user_id=>2967852160, :retweet=>0}
+{:name=>"@lovethelester", :text=>"RT @PhilisAmazing: IM TRASH @danisnotonfire #kittens #unicorns #cookies", :followers=>4753, :user_id=>868228010, :retweet=>9}
+{:name=>"@http_howell", :text=>"RT @R1Breakfast: We've just set @danisnotonfire the challenge to get #kittens 🐈 #unicorns &amp; #cookies 🍪 trending this morning cos he's super…", :followers=>109, :user_id=>2964945262, :retweet=>276}
+{:name=>"@Mikuniaaa", :text=>"RT @kimiwing: #unicorns how about multi-corns?!\n\n#PopChoiceAwards Album of the Year ONE DIRECTION http://t.co/Vm3yEEfZn1", :followers=>687, :user_id=>549945715, :retweet=>21}
+{:name=>"@amelie817", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>32, :user_id=>2870517508, :retweet=>1478}
+{:name=>"@anastasiyagram", :text=>"Did you know that some #kittens like shoving #cookies up #unicorns' butts? @danisnotonfire", :followers=>114, :user_id=>198559611, :retweet=>0}
+{:name=>"@Cocolaboca", :text=>"@KUNMnews @BLMNational Operators use deep unpotable water for #fracking and dispose of produced water in even deeper wells. Tidy. #unicorns", :followers=>397, :user_id=>21218331, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"RT trending now on twitter http://t.co/1RdCMmXnWp   #Lyckligagatan #kittens #unicorns #cookies http://t.co/hppn8CqBJI", :followers=>2615, :user_id=>3000496763, :retweet=>0}
+{:name=>"@EveyFitzpatrick", :text=>"Trust your instincts... Or ask me for my opinion cause I'm never wrong 😉 👌 ❤ ✌\n\n#modest #unicorns #instinct #askme #Opinion", :followers=>134, :user_id=>555027034, :retweet=>0}
+{:name=>"@EeeAlalala", :text=>"#unicorns \nТру лав✨✨ http://t.co/37IAj0YVRs", :followers=>10, :user_id=>3023269439, :retweet=>0}

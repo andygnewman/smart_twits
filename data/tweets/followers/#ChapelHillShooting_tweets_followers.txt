@@ -1,5 +1,0 @@
-{:name=>"@sridarwanto", :text=>"Check out at http://t.co/4Tt1vOrots #ChapelHillShooting @AyyanHawash", :followers=>6203, :user_id=>118913746, :retweet=>0}
-{:name=>"@crewoflourry", :text=>"RT @__Garez__: Bizim sorunumuz bu! Dünyaya bu rahatlığı biz veriyoruz bugün sanalda herkes mücahit, dava adamı 2 gün sonra??  #ChapelHillSh…", :followers=>5188, :user_id=>707134854, :retweet=>278}
-{:name=>"@___bushraa", :text=>"RT @BenjaminNorton: If you are Muslim &amp; are murdered in a terrorist attack, this is all the media gives you: 7 lines.\n#ChapelHillShooting h…", :followers=>3164, :user_id=>221648115, :retweet=>8565}
-{:name=>"@Call_Me_Anah", :text=>"Absolutely disgusting to hear some people are saying \"good, kill them all now\" about the #ChapelHillShooting .", :followers=>2424, :user_id=>447052500, :retweet=>0}
-{:name=>"@FawazBaqer", :text=>"RT @piersmorgan: If a Muslim executed 3 Christian students in U.S., it would get a LOT more media coverage than I'm seeing right now. \n\n#Ch…", :followers=>2241, :user_id=>306459318, :retweet=>25528}

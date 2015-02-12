@@ -1,5 +1,0 @@
-{:name=>"@Independent", :text=>"As Jon Stewart steps down... what next for The Daily Show? http://t.co/OmOe53OYUj http://t.co/PZ7ErCkn8C", :followers=>1039331, :user_id=>16973333, :retweet=>3}
-{:name=>"@_NightclubGuru_", :text=>"RT @billclinton: Jon Stewart's departure raises 2 Qs: 1) Where will I get my news each night? 2) Does this mean he's doing a sequel to Deat…", :followers=>17388, :user_id=>2399242663, :retweet=>10353}
-{:name=>"@InChargeSM", :text=>"Interesting stuff: Comedy Central already has a shortlist for Jon Stewart's 'Daily Show' replacement http://t.co/ZaeJSVRv1X", :followers=>14604, :user_id=>357602444, :retweet=>0}
-{:name=>"@spikedonline", :text=>"How Jon Stewart went from a funny comedian to a viral snark-generator for lazy liberals @americansitu #DailyShow\nhttp://t.co/GyNBRYZW8C", :followers=>8332, :user_id=>21201150, :retweet=>0}
-{:name=>"@grammy620", :text=>"Obama:  I have to stay here for almost 2 years.. and I could be taking Jon Stewart's place on TV. DAMN! I need a vacation.", :followers=>5579, :user_id=>24516301, :retweet=>0}

@@ -1,5 +1,0 @@
-{:name=>"@paulwaugh", :text=>"RT @nedsimons: Grant Shapps tells me he wouldn't like to comment on Lord Fink's \"vanilla\" tax avoidance.", :followers=>58389, :user_id=>26985345, :retweet=>2}
-{:name=>"@labourpress", :text=>"Lord Fink on tax avoidance: \"everyone does it\". Does David Cameron agree? http://t.co/iaPdb6Gxyq", :followers=>58088, :user_id=>79173926, :retweet=>6}
-{:name=>"@JohnRentoul", :text=>"RT @JoeMurphyLondon: EXCLUSIVE LORD FINK INTERVIEW. Everyone avoids tax, says peer. He admits setting up family trusts in Switzerland http:…", :followers=>43371, :user_id=>14085096, :retweet=>31}
-{:name=>"@TheTruth24UK", :text=>"Lord Fink seems to drop threat to sue Miliband: Politics Live blog http://t.co/8J2S9tAoaG", :followers=>14725, :user_id=>2718164052, :retweet=>0}
-{:name=>"@herdmeister", :text=>"RT @JGForsyth: Big clarification from Lord Fink on what he would sue Ed M over in i/view with @JoeMurphyLondon Dodgy rather than tax avoida…", :followers=>8804, :user_id=>811829, :retweet=>2}

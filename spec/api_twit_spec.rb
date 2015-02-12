@@ -122,8 +122,7 @@ describe 'API' do
     expect(tweets.count).not_to eq(0)
   end
 
-  it 'should be able to be consumed' do
-    expect()
-  end 
-
-end
+  it 'should be able to be consumed file every five minutes' do
+    twitter.refresh_all_twitter_data
+  end
+end  

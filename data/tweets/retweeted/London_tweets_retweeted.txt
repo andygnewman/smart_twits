@@ -1,0 +1,5 @@
+{:text=>"RT @charli_xcx: omg just hearing doing it on the radio for the first time in london !!! 💖❤️💕💜", :retweet=>387}
+{:text=>"RT @JoshUJWorld: London Town 👍 http://t.co/HEnegA3VaE", :retweet=>333}
+{:text=>"RT @eveescort1: forever http://t.co/dGcXzbSwzw http://t.co/E16d4Yy910", :retweet=>102}
+{:text=>"RT @ShaunKing: Adjusted w/ race in mind, an African American is nearly 500X more likely to be shot/killed by police in the USA than a citiz…", :retweet=>52}
+{:text=>"RT @JamieDornanJPN: Prep has nearly completed for London premiere . #fiftyshades http://t.co/E3eIqsxEUi", :retweet=>34}

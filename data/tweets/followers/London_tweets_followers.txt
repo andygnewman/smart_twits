@@ -1,5 +1,5 @@
-{:name=>"@eastcoastuk", :text=>"@adamr85 The booking allocates the next available train from London bridge to Gatwick at 10.12 though you are not restricted to this service", :followers=>84348, :user_id=>313306238, :retweet=>0}
-{:name=>"@themistravassos", :text=>"FRENCH FOREIGN MINISTER CANCELS THURSDAY MEETINGS IN LONDON DUE TO ONGOING NEGOTIATIONS IN MINSK OVER UKRAINE\"", :followers=>71231, :user_id=>94307430, :retweet=>0}
-{:name=>"@ArtsMediaJobs", :text=>"#RadioJobs: Where It Begins - Radio 1 and 1 Xtra Scheme 2015 - London.\n\nApply Here:\n\nhttp://t.co/wfE1hro1Bl\n\n#MusicJobs #MediaJobs", :followers=>31730, :user_id=>2376887166, :retweet=>0}
-{:name=>"@UniteWithIsrael", :text=>"Mystery Surrounds London Kosher Café Attack - http://t.co/0fbZuzvaeJ", :followers=>28554, :user_id=>37908683, :retweet=>0}
-{:name=>"@Recretivo", :text=>"Oh Farage! London or Westminster as you put it, is one of the most progressive city's in the world! Hence it's our Capital.", :followers=>25990, :user_id=>72562983, :retweet=>0}
+{:name=>"@business", :text=>"It's \"very unlikely\" for the U.K. to leave the European Union, London's mayor says http://t.co/TUv3ZD3e7U http://t.co/IMMPOWFfzk", :followers=>2016578, :user_id=>34713362, :retweet=>3}
+{:name=>"@ventsmagazine", :text=>"Check out @neutronicuk new single Closer http://t.co/ea33AD0Mei… | For fans of The XX, Lapsely, London Grammar, minimal\ndowntempo indie pop", :followers=>125535, :user_id=>130278068, :retweet=>0}
+{:name=>"@TownFishLondon", :text=>"@thetraveltester Hi, we noticed you're a Londoner! If you need any London-related help, just give us a shout!", :followers=>36617, :user_id=>283136436, :retweet=>0}
+{:name=>"@itsMaxsta", :text=>"RT @ShaunKing: Adjusted w/ race in mind, an African American is nearly 500X more likely to be shot/killed by police in the USA than a citiz…", :followers=>36266, :user_id=>61375153, :retweet=>52}
+{:name=>"@London_Places", :text=>"Mentions for Canada Water: http://t.co/LkyKjR1Ifz - RT @JumpingJuliaUK Were looking forward to seeing you tonight! If missedout make sur...", :followers=>19096, :user_id=>97633564, :retweet=>0}

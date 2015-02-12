@@ -1,5 +1,0 @@
-{:name=>"@newprosvet2", :text=>"🇫🇴🇱🇱🇴🇼🇪🇷🇸\n╚►http://t.co/phVFzojNmR\n\nEurovision\n#cookies\n#unicorns\nValentine's Day\n#kittens", :followers=>15679, :user_id=>96769810, :retweet=>0}
-{:name=>"@OneMinuteBriefs", :text=>"RT @AndyPandyMillar: @OneMinuteBriefs @PaperjamCreate @PetsatHome #Kittens #Advertise #Creative #Pussy http://t.co/EiPJL51KuH", :followers=>7842, :user_id=>853363214, :retweet=>1}
-{:name=>"@OneMinuteBriefs", :text=>"RT @supercoolkp: @OneMinuteBriefs Fi-doh! #kittens http://t.co/xK0uGb69ky", :followers=>7842, :user_id=>853363214, :retweet=>1}
-{:name=>"@OneMinuteBriefs", :text=>"RT @katesteeth: #Kittens age suitability: 8+ unlike real ones, this is just for xmas @OneMinuteBriefs http://t.co/xZ7t330UKH", :followers=>7842, :user_id=>853363214, :retweet=>1}
-{:name=>"@trendinaliaMY", :text=>"1. #ChapelHillShooting\n2. #INFINITEH5THWIN\n3. Hasbullah Awang\n4. #unicorns\n5. #kittens\n\n2015/2/12 19:39 MYT http://t.co/3ZpGNCIaQz", :followers=>5900, :user_id=>1372563925, :retweet=>0}

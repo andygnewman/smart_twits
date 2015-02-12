@@ -1,0 +1,5 @@
+{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>249}
+{:text=>"RT @SMACKHighPA: #WhatIsLoveIn4Words\n\"Here's my Netflix password\"\n\"I made pizza rolls\"\n\"There's no school today\"\n\"We have no homework\"\n\"You…", :retweet=>174}
+{:text=>"RT @NarryMyDream: It's in their eyes #WhatIsLoveIn4Words http://t.co/UCmJgk5UXb", :retweet=>155}
+{:text=>"RT @NickTypesWords: #WhatIsLoveIn4Words \"have the last slice.\" http://t.co/7d8g9lPdFU", :retweet=>150}
+{:text=>"RT @_Food_Daily_: Oreo Ice Cream Cake #WhatIsLoveIn4Words http://t.co/x55ndZRbYZ", :retweet=>115}
