@@ -1,0 +1,5 @@
+{:name=>"@BBCNews", :text=>"UK government should have known of #HSBC scandal in 2010, whistleblower at the centre of story says http://t.co/mugphfVv8y", :followers=>3711066, :user_id=>612473, :retweet=>15}
+{:name=>"@Mundo24_ve", :text=>"Aumenta presión para pedir explicaciones a Maduro por el dinero del #HSBC http://t.co/WVwyeUFZDz", :followers=>34378, :user_id=>2678263322, :retweet=>0}
+{:name=>"@edwardlucas", :text=>"RT @alexwilks: Stop Putin by blocking Russian dirty money and the 'pinstripe army' of bankers who shift it, says @edwardlucas #r4today #HSBC", :followers=>29961, :user_id=>22369602, :retweet=>14}
+{:name=>"@prospect_uk", :text=>"Time to get serious about bank reform http://t.co/voB3QlYYoh #HSBC", :followers=>26587, :user_id=>21417687, :retweet=>2}
+{:name=>"@BenPBradshaw", :text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :followers=>25724, :user_id=>24211594, :retweet=>168}

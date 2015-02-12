@@ -1,5 +1,0 @@
-{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>23, :user_id=>2873819869, :retweet=>161}
-{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>8496, :user_id=>233679802, :retweet=>161}
-{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>6, :user_id=>2718753694, :retweet=>161}
-{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>803, :user_id=>123857897, :retweet=>161}
-{:text=>"RT @BritishBakeOff: RT if you could literally listen to Joanna Lumley say aurora borealis all day #GBBOComicRelief", :followers=>164, :user_id=>20972504, :retweet=>161}

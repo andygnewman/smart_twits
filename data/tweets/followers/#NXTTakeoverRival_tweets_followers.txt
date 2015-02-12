@@ -1,0 +1,5 @@
+{:name=>"@RonFunches", :text=>"It's a beautiful sight watching @FightOwensFight vs @iLikeSamiZayn in a WWE title match. Awesome humans #NXTTakeoverRival", :followers=>84292, :user_id=>60520655, :retweet=>4}
+{:name=>"@RonFunches", :text=>"You deserve it @SashaBanksWWE  further proof that the women need more love from @WWE  great match by all. #NXTTakeoverRival", :followers=>84292, :user_id=>60520655, :retweet=>3}
+{:name=>"@RonFunches", :text=>"Those boys went out there and taught a master class. Amazing #ZaynvsOwens #NXTTakeoverRival", :followers=>84292, :user_id=>60520655, :retweet=>0}
+{:name=>"@RonFunches", :text=>"Bull Dempsey improvise man! #NXTTakeoverRival", :followers=>84292, :user_id=>60520655, :retweet=>1}
+{:name=>"@EisukeRyu", :text=>"RT @RoFloESPN: That Finn Balor/ Adrian Neville match was tremendous. Great combo of Story telling and athleticism #NXTRival #NXTTakeoverRiv…", :followers=>11503, :user_id=>2547787934, :retweet=>148}

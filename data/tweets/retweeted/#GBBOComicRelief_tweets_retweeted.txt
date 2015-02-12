@@ -1,5 +1,0 @@
-{:text=>"RT @ZozeeBo: Did you see a little snippet of me then? haha Not looking good when the starting line is “uh oh” #GBBOComicRelief", :followers=>199, :user_id=>1550841168, :retweet=>1378}
-{:text=>"RT @ZozeeBo: Did you see a little snippet of me then? haha Not looking good when the starting line is “uh oh” #GBBOComicRelief", :followers=>473, :user_id=>2647815449, :retweet=>1378}
-{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>1180, :user_id=>770964565, :retweet=>856}
-{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>81, :user_id=>2849929751, :retweet=>856}
-{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>8758, :user_id=>183241435, :retweet=>856}

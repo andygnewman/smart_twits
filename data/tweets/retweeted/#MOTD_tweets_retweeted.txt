@@ -1,0 +1,5 @@
+{:text=>"RT @mrdanwalker: What is Burnley's away kit made of? #Foil #MOTD", :retweet=>151}
+{:text=>"RT @GaryLineker: Rotation folks, rotation. #MOTD", :retweet=>92}
+{:text=>"RT @BBCMOTD: Since August 2013 Kieran Trippier has provided more assists than any other defender in the top four tiers (17) #MOTD http://t.…", :retweet=>87}
+{:text=>"RT @ColinCooperc1: #MOTD burnley got their kit from Blackburn owners once match is over you can roast a chicken with it.", :retweet=>69}
+{:text=>"RT @BBCMOTD: No team has stopped Manchester City from scoring in their last 19 league away trips http://t.co/jqnsCJaluH #MOTD http://t.co/8…", :retweet=>49}

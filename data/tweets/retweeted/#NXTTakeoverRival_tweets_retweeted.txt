@@ -1,0 +1,5 @@
+{:text=>"RT @FinnBalorCOM: RT for a chance to win a @wwebalor t-shirt on us. 2 winners will be chosen shortly after #NXTTakeoverRival! http://t.co/g…", :retweet=>400}
+{:text=>"RT @wwebalor: #NXTTakeoverRival Finn Bàlor vs Adrian Neville @WWENXT #free @WWENetwork http://t.co/ZSNj8ftbHM http://t.co/mFKqJqkudp", :retweet=>339}
+{:text=>"RT @LanceStorm: . @MsCharlotteWWE @SashaBanksWWE @itsBayleyWWE @BeckyLynchWWE  \n\nYou have my respect and admiration. #NXTTakeoverRival", :retweet=>286}
+{:text=>"RT @LanceStorm: How awesome is it when the ladies get presented as competitive credible athletes just like the guys? #NXTTakeoverRival", :retweet=>267}
+{:text=>"RT @LanceStorm: Okay Balor may have dethroned The Undertaker for best ring entrances #NXTTakeoverRival", :retweet=>200}

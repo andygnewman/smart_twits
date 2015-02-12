@@ -1,10 +1,10 @@
-{:name=>"#GBBOComicRelief", :query=>"%23GBBOComicRelief", :filename=>"#GBBOComicRelief"}
 {:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting", :filename=>"#ChapelHillShooting"}
-{:name=>"#ComicReliefBakeOff", :query=>"%23ComicReliefBakeOff", :filename=>"#ComicReliefBakeOff"}
 {:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words", :filename=>"#WhatIsLoveIn4Words"}
-{:name=>"Joanna Lumley", :query=>"%22Joanna+Lumley%22", :filename=>"JoannaLumley"}
-{:name=>"Chris Smalling", :query=>"%22Chris+Smalling%22", :filename=>"ChrisSmalling"}
+{:name=>"#NXTTakeoverRival", :query=>"%23NXTTakeoverRival", :filename=>"#NXTTakeoverRival"}
+{:name=>"Ivanovic", :query=>"Ivanovic", :filename=>"Ivanovic"}
+{:name=>"#HSBC", :query=>"%23HSBC", :filename=>"#HSBC"}
+{:name=>"#MOTD", :query=>"%23MOTD", :filename=>"#MOTD"}
+{:name=>"Smalling", :query=>"Smalling", :filename=>"Smalling"}
+{:name=>"Jon Stewart", :query=>"%22Jon+Stewart%22", :filename=>"JonStewart"}
+{:name=>"London", :query=>"London", :filename=>"London"}
 {:name=>"Paul Lambert", :query=>"%22Paul+Lambert%22", :filename=>"PaulLambert"}
-{:name=>"#ReplaceAMovieTitleWithGoat", :query=>"%23ReplaceAMovieTitleWithGoat", :filename=>"#ReplaceAMovieTitleWithGoat"}
-{:name=>"Burnley", :query=>"Burnley", :filename=>"Burnley"}
-{:name=>"Villa", :query=>"Villa", :filename=>"Villa"}

@@ -1,0 +1,5 @@
+{:name=>"@politico", :text=>"From @jackshafer: Jon Stewart’s proud tradition http://t.co/TEg5xXkORY  | AP Photo http://t.co/8woYbcMovC", :followers=>1098695, :user_id=>9300262, :retweet=>3}
+{:name=>"@Independent", :text=>"RT @thei100: A selection of Jon Stewart's finest moments. We really recommend you watch them  http://t.co/gUDDXywX5y http://t.co/meryxupZf9", :followers=>1039050, :user_id=>16973333, :retweet=>8}
+{:name=>"@smh", :text=>"Top nine Jon Stewart quips on @TheDailyShow. http://t.co/hOBejPnuW9", :followers=>347784, :user_id=>16675569, :retweet=>4}
+{:name=>"@haaretzcom", :text=>"Opinion: Jon Stewart made it okay to be ambivalent about Israel http://t.co/yeX5Yy9nPR http://t.co/f25ybKU1Qf", :followers=>202869, :user_id=>24506246, :retweet=>13}
+{:name=>"@NBCNewYork", :text=>"These are Twitter's best nominees to replace Jon Stewart on \"The Daily Show\" http://t.co/STwniSw35W http://t.co/03O3qCUnJw", :followers=>195001, :user_id=>15864446, :retweet=>2}

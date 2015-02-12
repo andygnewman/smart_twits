@@ -1,0 +1,5 @@
+{:name=>"@MayorofLondon", :text=>"Good morning America &amp; good morning London from a sleepy New York City! On the way to #AskBoris on @LBC live from NYC http://t.co/D9pfcrO8zE", :followers=>1140319, :user_id=>14700117, :retweet=>9}
+{:name=>"@munsterfit", :text=>"The best Personal trainer in London  http://t.co/oLS6tmSSGU", :followers=>114798, :user_id=>1143472153, :retweet=>0}
+{:name=>"@Architectsuk", :text=>"58 seats left for London https://t.co/d7FhcGODrt", :followers=>107041, :user_id=>19564629, :retweet=>0}
+{:name=>"@casey_mccann_", :text=>"ROOFING SERVICES LONDON &amp; ESSEX #roofing #london #essex #flatroof #slateroof #tiledroof #roofrepairs #Fiberglass http://t.co/lAGljrs2F7", :followers=>54956, :user_id=>592460397, :retweet=>0}
+{:name=>"@casey_mccann_", :text=>"Domestic Electrical Services from rewires too small repairs.  #Electricians #electricalrepairs #london #essex  #bow http://t.co/5rnE9MDUR6", :followers=>54956, :user_id=>592460397, :retweet=>0}

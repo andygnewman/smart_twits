@@ -1,5 +1,0 @@
-{:text=>"RT @Troll__Football: Chris Smalling has scored twice in the first half... http://t.co/L10FLTIMLn", :followers=>11928, :user_id=>162870600, :retweet=>239}
-{:text=>"Chris Smalling has more premier league goals than Mario Balotelli this season", :followers=>11808, :user_id=>2377884038, :retweet=>5}
-{:text=>"TT UK\n1 #GBBOComicRelief\n2 Chris Smalling\n3 #WhatIsLoveIn4Words\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/knelnpBMwQ http://t.co/TjaiXXLySi", :followers=>6169, :user_id=>2837580459, :retweet=>0}
-{:text=>"RT @BPLZone: Chris Smalling is the 1st ever Premier League player to score a brace in the 1st half as a substitute. http://t.co/MejJifemKd", :followers=>4598, :user_id=>2696300280, :retweet=>8}
-{:text=>"RT @ManUtd: PIC: Chris Smalling opened the scoring for United with his first touch. #mufclive http://t.co/3jdGR142u6", :followers=>3610, :user_id=>2444138080, :retweet=>331}
