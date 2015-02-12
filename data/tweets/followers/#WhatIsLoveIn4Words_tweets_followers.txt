@@ -1,5 +1,0 @@
-{:name=>"@GeronimoFM", :text=>"#TENGTOP yang pertama adalah #WhatIsLoveIn4Words !! :D\n\nKalo versimu gimana ? :D #PLAYGROUND", :followers=>66933, :user_id=>97152151, :retweet=>0}
-{:name=>"@HotpointUK", :text=>"Winning them a Hotpoint #WhatIsLoveIn4Words https://t.co/t8MTtYKRL2 http://t.co/QoJlex8y5G", :followers=>13728, :user_id=>377402680, :retweet=>1}
-{:name=>"@TrendieWW", :text=>"\"#WhatIsLoveIn4Words\" is now trending at rank 3 world wide", :followers=>13237, :user_id=>2793605047, :retweet=>0}
-{:name=>"@CampLeaders", :text=>"#WhatIsLoveIn4Words I have been PLACED http://t.co/rj4Mk1aIsZ", :followers=>9343, :user_id=>20439252, :retweet=>0}
-{:name=>"@10Yetis", :text=>"RT @laurenwilden: #WhatIsLoveIn4Words \"Cooked You Some Bacon\"", :followers=>6663, :user_id=>2292871, :retweet=>1}

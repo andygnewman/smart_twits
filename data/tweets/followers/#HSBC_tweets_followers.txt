@@ -1,5 +1,0 @@
-{:name=>"@FRANCE24", :text=>"RT @F24Debate: #SwissLeaks - Did #HSBC funnel fonds to Al-Qaeda? @FrancoisF24 asks @F_Obermaier on @FRANCE24 http://t.co/nfNhpCLjPL http://…", :followers=>1364004, :user_id=>1994321, :retweet=>14}
-{:name=>"@France24_en", :text=>"RT @F24Debate: #SwissLeaks - Did #HSBC funnel fonds to Al-Qaeda? @FrancoisF24 asks @F_Obermaier on @FRANCE24 http://t.co/nfNhpCLjPL http://…", :followers=>88823, :user_id=>25049056, :retweet=>14}
-{:name=>"@PaulTMRetail", :text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :followers=>26544, :user_id=>326076833, :retweet=>178}
-{:name=>"@F24Debate", :text=>"#SwissLeaks - Did #HSBC funnel fonds to Al-Qaeda? @FrancoisF24 asks @F_Obermaier on @FRANCE24 http://t.co/nfNhpCLjPL http://t.co/f8laSMIGWy", :followers=>11026, :user_id=>2196023400, :retweet=>14}
-{:name=>"@jolofal", :text=>"#SwissLeaks \n-Did #HSBC funnel fonds to Al-#Qaeda? http://t.co/qlPJzJ0GNn", :followers=>6529, :user_id=>164684900, :retweet=>0}

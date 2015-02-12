@@ -1,0 +1,100 @@
+{:name=>"@NiFunina", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>48, :user_id=>2670820488, :retweet=>993}
+{:name=>"@5sos_lover_101", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>1023, :user_id=>2736843221, :retweet=>993}
+{:name=>"@Naty_loves1D", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>1147, :user_id=>387817288, :retweet=>993}
+{:name=>"@AlsuIskander", :text=>"RT @Cupcrazed: Sometimes we are funny, and so are our customers.... #cookies #ValentinesDay http://t.co/55RuQPljYG", :followers=>192, :user_id=>205575264, :retweet=>3}
+{:name=>"@ellatrinidad18", :text=>"@danisnotonfire Hi James HAHA.  #kittens #unicorns #cookies", :followers=>150, :user_id=>1585721358, :retweet=>0}
+{:name=>"@KimRina23", :text=>"Какие милые тэги в актуальных.😍\n#unicorns\n#kittens\n#cookies", :followers=>520, :user_id=>2441882796, :retweet=>0}
+{:name=>"@Horiyo_qali", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>380, :user_id=>304454872, :retweet=>141}
+{:name=>"@NeveaStorm", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>1, :user_id=>2861313912, :retweet=>141}
+{:name=>"@RionnaGivens", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>88, :user_id=>1082015414, :retweet=>993}
+{:name=>"@22_lokitho", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>5, :user_id=>2228735384, :retweet=>141}
+{:name=>"@fajars09", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>45, :user_id=>1826607205, :retweet=>141}
+{:name=>"@AtgAmazing", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>8, :user_id=>1892656946, :retweet=>141}
+{:name=>"@B_O_D_A_7", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>9, :user_id=>2951052867, :retweet=>141}
+{:name=>"@maanuzombie", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>224, :user_id=>211026138, :retweet=>141}
+{:name=>"@Mohamed_Hamakey", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>41, :user_id=>2891680701, :retweet=>141}
+{:name=>"@shashwat_mts", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>6, :user_id=>2983271588, :retweet=>141}
+{:name=>"@shriftamer", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>4, :user_id=>1397916631, :retweet=>141}
+{:name=>"@KobeRomero", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>7, :user_id=>1353561038, :retweet=>141}
+{:name=>"@juancarlitho", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>117, :user_id=>166152636, :retweet=>141}
+{:name=>"@00Cesae", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>15, :user_id=>2975651954, :retweet=>141}
+{:name=>"@genssimo", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>83, :user_id=>2885573409, :retweet=>141}
+{:name=>"@_RT_00", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>201, :user_id=>2737373861, :retweet=>141}
+{:name=>"@aLisLkkaRa", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>13, :user_id=>742768008, :retweet=>141}
+{:name=>"@CasanovaPan", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>623, :user_id=>2390199189, :retweet=>141}
+{:name=>"@Hi_ImCobii", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>62, :user_id=>627902026, :retweet=>141}
+{:name=>"@LantisRhum", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>63, :user_id=>2150597029, :retweet=>141}
+{:name=>"@akramfabian", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>6, :user_id=>1267622815, :retweet=>141}
+{:name=>"@Alcachofadof", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>414, :user_id=>2240619019, :retweet=>141}
+{:name=>"@el_menolrd", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>7279, :user_id=>1858149529, :retweet=>141}
+{:name=>"@ItsValeGarcia94", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>5427, :user_id=>259920547, :retweet=>141}
+{:name=>"@AlsuIskander", :text=>"RT @CustomCookieCo: Cookies for all occasions. Mazel Tov Izzy! #congratulations #cookies http://t.co/oDRa6EPxpY", :followers=>192, :user_id=>205575264, :retweet=>1}
+{:name=>"@Joseph96Ramos", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>20, :user_id=>2273640253, :retweet=>141}
+{:name=>"@Darkyears_", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>191, :user_id=>1550041975, :retweet=>141}
+{:name=>"@J0kad", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>0, :user_id=>2230345328, :retweet=>141}
+{:name=>"@B3RNnARDOoo", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>38, :user_id=>333107390, :retweet=>141}
+{:name=>"@SHShanto2", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>7, :user_id=>2283778391, :retweet=>141}
+{:name=>"@BANIL_", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>124, :user_id=>1953574448, :retweet=>141}
+{:name=>"@gokuforgod", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>3140, :user_id=>1687604828, :retweet=>141}
+{:name=>"@rodrigocab10", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>271, :user_id=>2792458224, :retweet=>141}
+{:name=>"@abeerweka", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>27, :user_id=>955994276, :retweet=>141}
+{:name=>"@juanjosegarzon4", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>14, :user_id=>589309248, :retweet=>141}
+{:name=>"@taii4peeps", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>1738, :user_id=>375891272, :retweet=>141}
+{:name=>"@RiidaZarouk", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>1477, :user_id=>2467044022, :retweet=>141}
+{:name=>"@Anam186", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>531, :user_id=>2839874240, :retweet=>141}
+{:name=>"@m3_Gaza", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>124, :user_id=>2727415593, :retweet=>141}
+{:name=>"@TrickxWorld", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>214, :user_id=>1618741410, :retweet=>141}
+{:name=>"@warcopsh", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>10, :user_id=>2981541633, :retweet=>141}
+{:name=>"@arturo94hdz", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>468, :user_id=>1532730338, :retweet=>141}
+{:name=>"@mrveltre", :text=>"#cookies #teamfollowback Girl Scout cookies baked with science literacy: Column - USA TODAY  http://t.co/99Voz1u8RD", :followers=>781, :user_id=>1361758392, :retweet=>0}
+{:name=>"@TraceColemanTuc", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>5, :user_id=>428438500, :retweet=>993}
+{:name=>"@ShaminaNatasha", :text=>"RT @wasbornaunicorn: ВСЁ ЧТО НУЖНО ДЛЯ СЧАСТЬЯ:\n#UNICORNS\n#KITTENS\n#COOKIES", :followers=>201, :user_id=>1664709854, :retweet=>5}
+{:name=>"@5sos_pizza_96", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>118, :user_id=>2421384227, :retweet=>993}
+{:name=>"@Js_View", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>92, :user_id=>2192852907, :retweet=>993}
+{:name=>"@ithealbinosquir", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>9, :user_id=>2879781651, :retweet=>993}
+{:name=>"@LilyDelNadine", :text=>"Шт? #unicorns #kittens #cookies", :followers=>70, :user_id=>3007899083, :retweet=>0}
+{:name=>"@5secondsofvouge", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>47, :user_id=>2936824384, :retweet=>993}
+{:name=>"@RandomPerson446", :text=>"@danisnotonfire #kittens #unicorns #cookies http://t.co/y9F6jqK3AQ", :followers=>13, :user_id=>1459419560, :retweet=>0}
+{:name=>"@fuckthepj", :text=>"@danisnotonfire #cookies sit my science exam", :followers=>315, :user_id=>1436931408, :retweet=>0}
+{:name=>"@PrincessTBiscut", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>56, :user_id=>2806491358, :retweet=>993}
+{:name=>"@Lmeinking", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>217, :user_id=>858222662, :retweet=>993}
+{:name=>"@dans_phil", :text=>"@danisnotonfire #kittens #unicorns #cookies", :followers=>10, :user_id=>2984663965, :retweet=>0}
+{:name=>"@magnoliab2001", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>326, :user_id=>881095831, :retweet=>993}
+{:name=>"@newprosvet2", :text=>"🇫🇴🇱🇱🇴🇼🇪🇷🇸\n╚►http://t.co/phVFzojNmR\n\nEurovision\n#cookies\n#unicorns\nValentine's Day\n#kittens", :followers=>15679, :user_id=>96769810, :retweet=>0}
+{:name=>"@TTMobile_dk", :text=>"TT DENMARK 12:44\n1.#SætGedIEnDanskTitel\n2.United\n3.#pldk\n4.The Daily Show\n5.#cookies\n6.#kittens\n7.#unicorns\n8.Ukraine\n9.Balotelli\n10.Århus", :followers=>446, :user_id=>2617629932, :retweet=>0}
+{:name=>"@TTMobile_nz", :text=>"TT NEW ZEALAND 23:44\n1.#CWC15\n2.#kittens\n3.#unicorns\n4.#cookies\n5.Valentine's Day\n6.#WorldCup\n7.Wellington\n8.John Key\n9.Tony Abbott\n10.Welly", :followers=>450, :user_id=>2644986206, :retweet=>0}
+{:name=>"@TTMobile_russia", :text=>"TT РОССИЯ 14:44\n1.#ТвиттерРодилПингвина\n2.#unicorns\n3.#kittens\n4.#cookies\n5.#ComeToRussiaOneDirection\n6.Порошенко\n7.Спанч Боба\n8.Савченко", :followers=>981, :user_id=>2645431975, :retweet=>0}
+{:name=>"@TTMobile_sg", :text=>"TT SINGAPORE 19:44\n1.#INFINITEH5THWIN\n2.#unicorns\n3.#BDMELODI_139\n4.#kittens\n5.#cookies\n6.Smalling\n7.Singapore\n8.Valentine's Day", :followers=>436, :user_id=>2645406012, :retweet=>0}
+{:name=>"@returnfranta", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>1311, :user_id=>1318573790, :retweet=>993}
+{:name=>"@_2Fabulous4You_", :text=>"@danisnotonfire  #kittens #unicorns #cookies", :followers=>82, :user_id=>2302469426, :retweet=>0}
+{:name=>"@GoAllTheAway_", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>748, :user_id=>2661149267, :retweet=>993}
+{:name=>"@PhilippaDunjay", :text=>"RT @R1Breakfast: We've just set @danisnotonfire the challenge to get #kittens 🐈 #unicorns &amp; #cookies 🍪 trending this morning cos he's super…", :followers=>946, :user_id=>203109361, :retweet=>245}
+{:name=>"@Emeny_101", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>638, :user_id=>2322752673, :retweet=>993}
+{:name=>"@hayley_barbera", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>617, :user_id=>1121331145, :retweet=>993}
+{:name=>"@zoeanne68190", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>177, :user_id=>2942715341, :retweet=>993}
+{:name=>"@tayloraranki", :text=>"Omg @danisnotonfire look at what you did\n#cookies #unicorns #kittens http://t.co/vtpCyCBfsw", :followers=>14, :user_id=>2988898673, :retweet=>0}
+{:name=>"@sarcasticmegan", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>43, :user_id=>2958071585, :retweet=>993}
+{:name=>"@nastuyshar", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>255, :user_id=>488412104, :retweet=>993}
+{:name=>"@rawrdinysaws", :text=>"#kittens #unicorns #cookies", :followers=>1098, :user_id=>2514924594, :retweet=>0}
+{:name=>"@anastufff", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>442, :user_id=>2311741224, :retweet=>993}
+{:name=>"@sediain", :text=>"#Now #Sedia http://t.co/lHPp60ExyN easy #almond #butter #cookies #Alfamart #Carrefour #Giant #Hero #Indomaret #7eleven #Ranch #SuperIndo #ut", :followers=>2189, :user_id=>379998839, :retweet=>0}
+{:name=>"@PhanDawson", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>398, :user_id=>2729577040, :retweet=>993}
+{:name=>"@pa1nter_l0ve", :text=>"#kittens #cookies #unicorns love you @danisnotonfire", :followers=>34, :user_id=>2292842493, :retweet=>0}
+{:name=>"@xphotographx", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>434, :user_id=>620186779, :retweet=>993}
+{:name=>"@crolchugafanat", :text=>"RT @bizDICK: #cookies http://t.co/3Notut8BqQ", :followers=>364, :user_id=>2797982765, :retweet=>1}
+{:name=>"@qplog", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>238, :user_id=>2925170690, :retweet=>141}
+{:name=>"@BlaineyDaysNDes", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>312, :user_id=>2419249164, :retweet=>993}
+{:name=>"@ReTweetsupport", :text=>"RT@CuddleMeLester:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@dccell:see&gt;http://t.co/LuUVut2qvg", :followers=>1873, :user_id=>478252028, :retweet=>0}
+{:name=>"@bizDICK", :text=>"#cookies http://t.co/3Notut8BqQ", :followers=>461, :user_id=>2532723601, :retweet=>1}
+{:name=>"@ki_roki", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>352, :user_id=>1389893604, :retweet=>993}
+{:name=>"@werehowell", :text=>"#kittens #cookies #unicorns", :followers=>508, :user_id=>2916427130, :retweet=>0}
+{:name=>"@HajiIshak1", :text=>"RT@McNaska:Иностранцы шалят\n#unicorns\n#kittens\n#cookies... \n RT@Ayangbeb:see&gt;http://t.co/BZNdt6eiYZ", :followers=>952, :user_id=>1013404638, :retweet=>0}
+{:name=>"@trendinaliaMY", :text=>"6. #cookies\n7. May Allah\n8. Smalling\n9. Rooney\n10. Valentine's Day\n\n2015/2/12 19:39 MYT #trndnl2015 http://t.co/3ZpGNCIaQz", :followers=>5900, :user_id=>1372563925, :retweet=>0}
+{:name=>"@trendinaliaSG", :text=>"1. #INFINITEH5THWIN\n2. #unicorns\n3. #BDMELODI_139\n4. #cookies\n5. #kittens\n\n2015/2/12 19:35 SGT #trndnl2015 http://t.co/psP0GzBgZB", :followers=>953, :user_id=>1370453570, :retweet=>0}
+{:name=>"@trendinaliaSE", :text=>"1. #Lyckligagatan\n2. #kittens\n3. #cookies\n4. #unicorns\n5. #FoooBuzzkillZoo\n\n2015/2/12 12:35 CET #trndnl2015 http://t.co/wvSpN08vGf", :followers=>961, :user_id=>1369914391, :retweet=>0}
+{:name=>"@ReTweetsupport", :text=>"RT@sorryimmaille:RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies... \n RT@Stupid_Learner:see&gt;http://t.co/sBr9SFR9Tc", :followers=>1873, :user_id=>478252028, :retweet=>0}
+{:name=>"@myvotefactor", :text=>"#cookies #Nadym http://t.co/DZ8HOpC1P5 Вот сижу и читаю ответы людей. Люди которые обижены на весь мир не заходите сюда. Не...", :followers=>981, :user_id=>485628566, :retweet=>0}
+{:name=>"@afluere", :text=>"@danisnotonfire #kittens #unicorns #cookies http://t.co/dIhRQ1DtTQ", :followers=>16, :user_id=>2788393173, :retweet=>0}
+{:name=>"@sharonblossom", :text=>"lOve . sprinkles . #baking . #homemade . #homebaking . #cookies . #sprinkles . #funfetti . #rainbow .… http://t.co/sP4AIo7l2E", :followers=>183, :user_id=>20696071, :retweet=>0}
+{:name=>"@Unicorn_LT", :text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :followers=>98, :user_id=>2320197165, :retweet=>993}
+{:name=>"@Kynen_Walker", :text=>"It is a good day when #cookies #unicorns and #kittens are trending.", :followers=>316, :user_id=>352370358, :retweet=>0}

@@ -76,21 +76,6 @@ class APITwitter
     return result
   end
 
-# attempt to refactor common methods - issue with passing arguments to
-# self.send
-  # def save_tweet_data_for_specific_extractions
-  #   save_tweet_utility(merge_tweets, PATH_TWEETS_TEXT, '_tweets_text.txt')
-  #   save_tweet_utility(top_followers_tweets, PATH_TWEETS_FOLLOWERS, '_tweets_followers.txt')
-  #   save_tweet_utility(top_retweeted_tweets, PATH_TWEETS_RETWEETED, '_tweets_retweeted.txt')
-  # end
-
-  # def save_tweet_utility(method, path, extension)
-  #   trends.each do |trend|
-  #     tweets = get_tweet_from_file(PATH_TRENDS+trend[:name]+'_tweets.txt')
-  #     tweet_extraction = self.send(method)
-  #     save_data(path+trend[:name]+extension, tweet_extraction)
-  #   end
-  # end
 
   def save_tweet_text_per_trend(trends = @trends)
     delete_files_from_directory(PATH_TWEETS_TEXT)
@@ -106,12 +91,7 @@ class APITwitter
   end
 
   def save_tweets_most_followers_per_trend(trends = @trends)
-    delete_files_from_directory(PATH_TWEETS_FOLLOWERS)
-    trends.each do |trend|
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
-      tweets_most_followers = top_followers_tweets(tweets)
-      save_data(PATH_TWEETS_FOLLOWERS+trend[:filename]+'_tweets_followers.txt', tweets_most_followers)
-    end
+    save_tweets_per_trend_utility(@trends,method(:top_followers_tweets),PATH_TWEETS_FOLLOWERS,'_tweets_followers.txt')
   end
 
   def top_followers_tweets(array_of_hashes, number = 5)
@@ -119,12 +99,7 @@ class APITwitter
   end
 
   def save_tweets_most_retweeted_per_trend(trends = @trends)
-    delete_files_from_directory(PATH_TWEETS_RETWEETED)
-    trends.each do |trend|
-      tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
-      tweets_most_retweeted = top_retweeted_tweets(tweets)
-      save_data(PATH_TWEETS_RETWEETED+trend[:filename]+'_tweets_retweeted.txt', tweets_most_retweeted)
-    end
+    save_tweets_per_trqend_utility(@trends,method(:top_retweeted_tweets),PATH_TWEETS_RETWEETED,'_tweets_retweeted.txt')
   end
 
   def top_retweeted_tweets(array_of_hashes, number = 5)

@@ -1,5 +1,0 @@
-{:name=>"@bet365", :text=>"Who will Aston Villa appoint to replace Paul Lambert? http://t.co/P7vfbI5PUP", :followers=>232380, :user_id=>221769011, :retweet=>0}
-{:name=>"@sportblogg", :text=>"RT @SportExpressen: JUST NU: Paul Lambert får sparken av Aston Villa efter tio (!) raka matcher utan seger http://t.co/nzknoncTzT http://t.…", :followers=>196647, :user_id=>173233253, :retweet=>9}
-{:name=>"@ITVCentral", :text=>"RT @MikeDolanTV: Paul Lambert factile - http://t.co/UTeaWh5uZ9 @ITVCentral", :followers=>78582, :user_id=>33184246, :retweet=>1}
-{:name=>"@sofoot_real", :text=>"Paul Lambert écarté http://t.co/ZZZGmBSSrX", :followers=>55903, :user_id=>48646451, :retweet=>0}
-{:name=>"@102greatgoals", :text=>"The MOTD pundits believe Aston Villa must act fast to replace Paul Lambert [Video] http://t.co/eu7glAaOyg http://t.co/HQ1nPBDTcS", :followers=>39679, :user_id=>2375666792, :retweet=>0}

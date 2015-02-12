@@ -31,8 +31,8 @@ describe 'API' do
   #   expect(twitter.trends).to be_empty
   # end
 
-  it "should be able to have trends" do
-    twitter.get_trends
+  xit "should be able to have trends" do
+    twitter.save_trends
     expect(twitter.trends.size).to eq(10)
     expect(Dir.glob("./data/trends/**/*").count).to eq(1)
   end
@@ -77,7 +77,7 @@ describe 'API' do
   end
 
   xit 'should create 10 files' do 
-    twitter.get_trends
+    twitter.save_trends
     twitter.save_tweets_per_trend()
     expect(Dir.glob("./data/tweets/**/*").count).to eq(10)
   end
@@ -87,25 +87,26 @@ describe 'API' do
   end
 
   xit 'should save 10 files of tweet text' do
-    twitter.get_trends
+    twitter.save_trends
     twitter.save_tweet_text_per_trend
     expect(Dir.glob("./data/tweets/text/**/*").count).to eq(10)
   end
 
   xit 'should save 10 files of tweets from users with most followers' do
-    twitter.get_trends
+    twitter.save_trends
+    twitter.save_tweets_per_trend()
     twitter.save_tweets_most_followers_per_trend
     expect(Dir.glob("./data/tweets/followers/**/*").count).to eq(10)
   end
 
   xit 'should save 10 files of tweets that were most retweeted' do
-    twitter.get_trends
+    twitter.save_trends
     twitter.save_tweets_most_retweeted_per_trend
     expect(Dir.glob("./data/tweets/retweeted/**/*").count).to eq(10)
   end
 
   xit 'should be able to delete all existing files in a directory' do
-    twitter.get_trends
+    twitter.save_trends
     expect(Dir.glob("./data/trends/**/*").count).to eq(1)
     twitter.delete_files_from_directory('./data/trends/')
     expect(Dir.glob("./data/trends/**/*").count).to eq(0)    

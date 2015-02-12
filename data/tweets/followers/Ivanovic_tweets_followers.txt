@@ -1,5 +1,5 @@
-{:name=>"@ManUnited_FFC", :text=>"RT @FootballFanCast: Mourinho sulked and refused to discuss Ivanovic's actions from last night http://t.co/eeBbS1bvxu", :followers=>29913, :user_id=>119047602, :retweet=>19}
-{:name=>"@tech_pearce", :text=>"RT @World_News_N1: Jose Mourinho threatens to walk out of press conference over Branislav Ivanovic headbutt claims: Chelsea manag... http:/…", :followers=>27411, :user_id=>2842243485, :retweet=>1}
-{:name=>"@NegoSwag", :text=>"RT @futmais: Ivanovic está sendo acusado de morder McCarthy no jogo de hoje https://t.co/0W2hqA4DNE", :followers=>18114, :user_id=>284836146, :retweet=>14}
-{:name=>"@WestHam_News", :text=>"RT @FootballFanCast: Mourinho sulked and refused to discuss Ivanovic's actions from last night http://t.co/eeBbS1bvxu", :followers=>18021, :user_id=>119049238, :retweet=>19}
-{:name=>"@ManCity_FFC", :text=>"RT @FootballFanCast: Mourinho sulked and refused to discuss Ivanovic's actions from last night http://t.co/eeBbS1bvxu", :followers=>14179, :user_id=>119047083, :retweet=>19}
+{:name=>"@johncrossmirror", :text=>"Ha. Just noticed spell check changed Branislav to Bratislava earlier. Still don't think Ivanovic should be punished http://t.co/37yw0gENWL", :followers=>213906, :user_id=>29716398, :retweet=>0}
+{:name=>"@NewsChelsea", :text=>"FA looking at Ivanovic incident http://t.co/X2LFsXXnV3", :followers=>93460, :user_id=>50591534, :retweet=>0}
+{:name=>"@FirstAfricaNews", :text=>"From Victim to Culprit: Ivanovic in Another Bite Scandal\n\nThe Football Association are poring over video footage... http://t.co/R6U8oXWp5R", :followers=>21603, :user_id=>2571300020, :retweet=>0}
+{:name=>"@CarefreeDaily", :text=>"RT @MirrorFootball: Headbutt? What headbutt? Ivanovic should face NO action over McCarthy clash | @johncrossmirror\nhttp://t.co/Xnr6nBtrJ0 h…", :followers=>12631, :user_id=>191224810, :retweet=>34}
+{:name=>"@ShigeMatsu007", :text=>"The damning photos of Branislav Ivanovic altercation with Everton’s James McCarthy: Jose Mourinho may vehement... http://t.co/5Wbqc3Q3dV", :followers=>6123, :user_id=>1247341705, :retweet=>0}

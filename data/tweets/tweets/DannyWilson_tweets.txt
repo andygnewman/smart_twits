@@ -1,0 +1,100 @@
+{:name=>"@ryansmith1984", :text=>"Danny Wilson is now trending in UK Ranking 8", :followers=>274, :user_id=>420649851, :retweet=>0}
+{:name=>"@russfeed", :text=>"Barnsley sack Danny Wilson and assistant Chris Hutchings http://t.co/ZC2m2vYcCX #LikeAGirl", :followers=>1954, :user_id=>16205823, :retweet=>0}
+{:name=>"@SUFC_Calum", :text=>"RT @football_league: Danny Wilson has been sacked as manager of @bfc_official &gt;&gt; http://t.co/7cVKb9czPv. #BarnsleyFC http://t.co/qPZST32SBi", :followers=>18, :user_id=>2962953406, :retweet=>33}
+{:name=>"@hirstclass", :text=>"Barnsley announce interim manager following the sacking of Danny Wilson #jokes http://t.co/d5YnbQc1e9", :followers=>6590, :user_id=>137719594, :retweet=>0}
+{:name=>"@loveackermann", :text=>"#WhatIsLoveIn4Words\n#ChapelHillShooting\nLord Fink\n#DarwinDay\nBestival\n#ZombieSongs\nDanny Wilson\n#unicorns\n#ackermann http://t.co/S5Ihe6wg0o", :followers=>321, :user_id=>2789687930, :retweet=>0}
+{:name=>"@danjsafc", :text=>"Danny Wilson is next in the long list of managers sacked this season", :followers=>352, :user_id=>261379166, :retweet=>0}
+{:name=>"@Kirsten4Flowers", :text=>"Did anyone else see Danny Wilson trending and think it was https://t.co/gOUvxv9NAq ?", :followers=>278, :user_id=>326928547, :retweet=>0}
+{:name=>"@Joe_Zindani", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>411, :user_id=>43738599, :retweet=>172}
+{:name=>"@MarshPatrick", :text=>"RT @BBCSport: League One side Barnsley have sacked manager Danny Wilson http://t.co/N9saq5QEfN http://t.co/GGsPXx6iAy", :followers=>11, :user_id=>294263682, :retweet=>52}
+{:name=>"@carlmelville1", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>161, :user_id=>103935533, :retweet=>132}
+{:name=>"@SparksyOnRadio", :text=>"Re: Danny Wilson at Barnsley \n\nRT @stoxblog He hasn't done anything since 'Mary's Prayer'  #referenceforthekids", :followers=>8753, :user_id=>64201717, :retweet=>0}
+{:name=>"@LeedsUnited_MAD", :text=>"RT @WYSdaily: #lufc NR on Danny Wilson sacking from Barnsley \"he's a top manager &amp; a top guy. You don't like to see anyone lose their job\"", :followers=>14751, :user_id=>40331315, :retweet=>3}
+{:name=>"@boroughboy37", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>102, :user_id=>1333932529, :retweet=>172}
+{:name=>"@TattersleyAlex", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>247, :user_id=>486931442, :retweet=>132}
+{:name=>"@EastMidlandNews", :text=>"Danny Wilson, the former Sheffield Wednesday and Bristol City . MANAGER Danny Wilson has been... http://t.co/KLSJyDvP8Q", :followers=>874, :user_id=>2291124847, :retweet=>0}
+{:name=>"@cabesdora", :text=>"Danny Wilson #MGWV Danny Wilson: Barnsley sack experienced manager - BBC News  http://t.co/WO9efmNuw3", :followers=>507, :user_id=>2824712183, :retweet=>0}
+{:name=>"@pranaystrikes", :text=>"The managers to replace Danny Wilson should either be Uwe Rosler or Mark Warburton or even Gareth Ainsworth", :followers=>155, :user_id=>1951860846, :retweet=>0}
+{:name=>"@wix_mark", :text=>"At this rate Danny Wilson will be doing the 92 but in sackings", :followers=>248, :user_id=>2834176732, :retweet=>0}
+{:name=>"@Flynnneil", :text=>"Barnsley's Danny Wilson has become bookmakers #1 favourite to take #avfc managers vacancy! @AVFCOfficial @SkyFootball @BBCSport", :followers=>93, :user_id=>51587483, :retweet=>0}
+{:name=>"@sunnylfc7", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>339, :user_id=>701068417, :retweet=>172}
+{:name=>"@Maxime_Caze", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>258, :user_id=>955645304, :retweet=>132}
+{:name=>"@Josh_pvfc", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>2354, :user_id=>26014090, :retweet=>132}
+{:name=>"@TTMobile_uk", :text=>"TT UK 11:44\n1.#WhatIsLoveIn4Words\n2.#ChapelHillShooting\n3.Lord Fink\n4.#DarwinDay\n5.Bestival\n6.#ZombieSongs\n7.Danny Wilson\n8.#unicorns", :followers=>1066, :user_id=>2645038507, :retweet=>0}
+{:name=>"@TheExiledRobin", :text=>"RT @Coral: BREAKING: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings", :followers=>2731, :user_id=>19420925, :retweet=>6}
+{:name=>"@craignorman58", :text=>"About time by bye Danny Wilson #clueless", :followers=>408, :user_id=>330941173, :retweet=>0}
+{:name=>"@pranaystrikes", :text=>"I've never been this happier to see Danny Wilson get sacked.. He's really run out of clues.. But I think it's time to go for a new manager", :followers=>155, :user_id=>1951860846, :retweet=>0}
+{:name=>"@samfltwd", :text=>"RT @Bobby_Gant: Squad full of young lads. Who better than Danny Wilson to gel them into a team over the next couple of seasons? #BarnsleyFC", :followers=>2751, :user_id=>1829411809, :retweet=>1}
+{:name=>"@LeagueOneX2", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>106, :user_id=>2914551989, :retweet=>132}
+{:name=>"@waterloore", :text=>"Danny Wilson #FOLLOWXFOLLOW BREAKING: Barnsley sack Danny Wilson - The Star  http://t.co/pk0YcTcIex", :followers=>716, :user_id=>2855853771, :retweet=>0}
+{:name=>"@BoboboboGkgke", :text=>"Danny Wilson ❤ #followme Danny Wilson: Barnsley sack experienced manager - BBC News  http://t.co/mYfuOCpgtn", :followers=>237, :user_id=>2676385687, :retweet=>0}
+{:name=>"@Thaa_knows", :text=>"I do actually like Danny Wilson, despite him being a piss poor manager.", :followers=>388, :user_id=>1568065171, :retweet=>0}
+{:name=>"@CapitanoSammy", :text=>"RT @NOWTVSport: RUMOUR: Mr '59-per-cent' Tim Sherwood in the frame as Barnsley sack Danny Wilson...", :followers=>53, :user_id=>119433430, :retweet=>2}
+{:name=>"@BoltonTerrier", :text=>"RT @SportsPeteO: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings. #barnsleyfc", :followers=>1416, :user_id=>97287557, :retweet=>5}
+{:name=>"@Laughton96", :text=>"RT @Gids1980: BREAKING: #barnsleyfc have sacked manager Danny Wilson...", :followers=>225, :user_id=>548584683, :retweet=>39}
+{:name=>"@CDivertidisimo", :text=>"Barnsley sacks Wilson: League One side Barnsley has sacked manager Danny Wilson, with the club seven points ad... http://t.co/poI65S5Vg6", :followers=>472, :user_id=>842885863, :retweet=>0}
+{:name=>"@Dah_kogi_boi", :text=>"Barnsley sacks Wilson: League One side Barnsley has sacked manager Danny Wilson, with the club seven points ad... http://t.co/jmP0wUiq2P", :followers=>1536, :user_id=>187831989, :retweet=>0}
+{:name=>"@Foot_Plus_T", :text=>"[Daily Mail] Danny Wilson sacked by Barnsley with League One club struggling in 17th place       http://t.co/pJZnuoH1gD,", :followers=>658, :user_id=>2328488472, :retweet=>0}
+{:name=>"@LeonardLurdz", :text=>"RT @BBCSport: League One side Barnsley have sacked manager Danny Wilson http://t.co/N9saq5QEfN http://t.co/GGsPXx6iAy", :followers=>225, :user_id=>309026103, :retweet=>52}
+{:name=>"@antclare78", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>51, :user_id=>858228618, :retweet=>132}
+{:name=>"@StolenSweeties", :text=>"RT @BBCSport: League One side Barnsley have sacked manager Danny Wilson http://t.co/N9saq5QEfN http://t.co/GGsPXx6iAy", :followers=>1318, :user_id=>856894412, :retweet=>52}
+{:name=>"@ArabianPages", :text=>"Manager Wilson sacked by Barnsley: League One side Barnsley sack manager Danny Wilson and assistant bos... http://t.co/rPBC7BE79g #sport", :followers=>39152, :user_id=>1325709318, :retweet=>0}
+{:name=>"@CTFCMITCH", :text=>"“@SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ”\n\nOh for fuck sake", :followers=>1066, :user_id=>90460500, :retweet=>0}
+{:name=>"@RossTalks", :text=>"RT @thegrilldubai: League One side #Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings. @RossTalks", :followers=>6102, :user_id=>38450092, :retweet=>1}
+{:name=>"@BolaJawa", :text=>"Manager Wilson sacked by Barnsley: League One side Barnsley sack manager Danny Wilson and assistant boss Chris... http://t.co/iyJGG6WkHk", :followers=>89, :user_id=>1534452272, :retweet=>0}
+{:name=>"@trendinaliaGB", :text=>"6. #ZombieSongs\n7. Danny Wilson\n8. #bookblinddate\n9. Paul Lambert\n10. Ivanovic\n\n2015/2/12 11:35 GMT #trndnl2015 http://t.co/do7Hdxwcnc", :followers=>5675, :user_id=>1266803563, :retweet=>0}
+{:name=>"@jehamp1968", :text=>"RT @BBCSport: League One side Barnsley have sacked manager Danny Wilson http://t.co/N9saq5QEfN http://t.co/GGsPXx6iAy", :followers=>15, :user_id=>402225969, :retweet=>52}
+{:name=>"@1862magpie", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>254, :user_id=>171799504, :retweet=>132}
+{:name=>"@chrisjdownes", :text=>"@billhowell68 Is Danny Wilson a shoe in for the job?", :followers=>804, :user_id=>246853897, :retweet=>0}
+{:name=>"@kura_muhammad", :text=>"RT @BBCSport: League One side Barnsley have sacked manager Danny Wilson http://t.co/N9saq5QEfN http://t.co/GGsPXx6iAy", :followers=>16, :user_id=>2875355822, :retweet=>52}
+{:name=>"@dmcmajestic", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>338, :user_id=>1581667172, :retweet=>132}
+{:name=>"@DavidDavidjh14", :text=>"RT @SportsPeteO: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings. #barnsleyfc", :followers=>94, :user_id=>2322535013, :retweet=>5}
+{:name=>"@BBCFtbl", :text=>"Manager Wilson sacked by Barnsley: League One side Barnsley sack manager Danny Wilson and assistant boss Chris... http://t.co/AV7V8SsoyA", :followers=>18215, :user_id=>123068546, :retweet=>0}
+{:name=>"@edwbdinh", :text=>"Danny Wilson ❤ #RT Danny Wilson sacked by Barnsley with League One club struggling in 17th place - Daily Mail  http://t.co/3aNWJBn7ob", :followers=>600, :user_id=>1686481032, :retweet=>0}
+{:name=>"@UKdavidrooney", :text=>"Barnsley sack manager Danny Wilson. Are you sack proof?\nhttp://t.co/8kKh9gixRO @bfc_official", :followers=>139, :user_id=>2923006570, :retweet=>0}
+{:name=>"@goldmanmercedes", :text=>"Manager Wilson sacked by Barnsley: League One side Barnsley sack manager Danny Wilson and assistant boss Chris Hutchings.", :followers=>84, :user_id=>1039357020, :retweet=>0}
+{:name=>"@TERRANesbitt", :text=>"Manager Wilson sacked by Barnsley: League One side Barnsley sack manager Danny Wilson and assistant boss Chris Hutchings.", :followers=>238, :user_id=>867301861, :retweet=>0}
+{:name=>"@walkertyke1989", :text=>"RT @jonathanbuchan: Danny Wilson sacked by #barnsleyfc", :followers=>270, :user_id=>65133672, :retweet=>10}
+{:name=>"@ExIrons", :text=>"Danny Wilson, who made six appearances for the Iron in 1983 and scored three goals, has been sacked as manager of League One #Barnsley.", :followers=>414, :user_id=>2673229908, :retweet=>0}
+{:name=>"@olandru2", :text=>"RT @WestStandBogs: There's only one Danny Wilson.", :followers=>38, :user_id=>281198899, :retweet=>21}
+{:name=>"@Mr_DHammond", :text=>"RT @itvcalendar: Barnsley sacks manager Danny Wilson and assistant Chris Hutchings\nhttp://t.co/4dlhD1V7kW", :followers=>213, :user_id=>622281309, :retweet=>2}
+{:name=>"@Joeydennerly_", :text=>"“@SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ” tim sherwood favourite", :followers=>490, :user_id=>85438096, :retweet=>0}
+{:name=>"@RacingPlusPaper", :text=>"Barnsley are searching for a new manager after sacking Danny Wilson. Assistant boss Chris Hutchings has also gone.", :followers=>3788, :user_id=>497995302, :retweet=>0}
+{:name=>"@vodka_lovin_gem", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>774, :user_id=>55345127, :retweet=>172}
+{:name=>"@LiamK2292", :text=>"RT @bfc_official: CLUB STATEMENT: Danny Wilson and Chris Hutchings Leave Oakwell http://t.co/1CnLz20nNJ", :followers=>1564, :user_id=>341648501, :retweet=>132}
+{:name=>"@markdw1966", :text=>"#lufc Redfearn will inevitably be linked with Barnsley after Danny Wilson sacking but said he's got job to do at club he supported as a boy", :followers=>17, :user_id=>943954466, :retweet=>0}
+{:name=>"@karl_chris", :text=>"RT @indykaila: Barnsley sack manager Danny WIlson.", :followers=>353, :user_id=>471823553, :retweet=>10}
+{:name=>"@ellecaps", :text=>"Danny Wilson sacked by Barnsley?!? #madness #AgentWilson", :followers=>755, :user_id=>41830967, :retweet=>0}
+{:name=>"@ShimShimminy", :text=>"@darylwoolley Danny Wilson apparently!!", :followers=>38, :user_id=>87768687, :retweet=>0}
+{:name=>"@alan_howarth", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>1019, :user_id=>36262777, :retweet=>172}
+{:name=>"@beckyy_cameron", :text=>"\"Barnsley Football Club has today terminated the employment of Manager Danny Wilson and Assistant Chris Hutchings\" @bradplows @R_Cameron91", :followers=>101, :user_id=>415843275, :retweet=>0}
+{:name=>"@UVEliteFC", :text=>"Barnsley sack Danny Wilson http://t.co/IbiOGWHvD7", :followers=>271, :user_id=>2355879524, :retweet=>0}
+{:name=>"@juanmuriango", :text=>"Danny Wilson sacked by Barnsley with League One club struggling in 17th place http://t.co/ehHZrWOWbQ", :followers=>9870, :user_id=>160930875, :retweet=>0}
+{:name=>"@JohnBocking", :text=>"RT @AlanBiggs1: Stunned by Danny Wilson sacking at #Bsrnsley FC. Really thought he had a season's grace to restructure squad. And should ha…", :followers=>40, :user_id=>340220243, :retweet=>8}
+{:name=>"@fivshit", :text=>"Danny Wilson #CNN Danny Wilson sacked by Barnsley with League One club struggling in 17th place - Daily Mail  http://t.co/owovJU00F0", :followers=>469, :user_id=>2909801126, :retweet=>0}
+{:name=>"@Rikoafriann", :text=>"Danny Wilson sacked by Barnsley with League One club struggling in 17th place http://t.co/QGYhfU8EFQ", :followers=>2051, :user_id=>1415624174, :retweet=>0}
+{:name=>"@ohis_", :text=>"Danny Wilson sacked by Barnsley with League One club struggling in 17th place http://t.co/OYQiMnloom http://t.co/qQ4P2hVHXn", :followers=>4214, :user_id=>1663434144, :retweet=>0}
+{:name=>"@legoyed", :text=>"RT @Paul_Dodd_BCF: WHELAN WILL SAY WE NEED A WIGAN MAN TO RUN A WIGAN TEAM, AND THEN APPOINT DANNY WILSON AND THE RAPED SCHOLES POSTBOX AS …", :followers=>153, :user_id=>2924670364, :retweet=>1}
+{:name=>"@MilitantMonkeyy", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>2574, :user_id=>446110806, :retweet=>172}
+{:name=>"@MarkCF83THFC", :text=>"Villa yesterday,Barnsley today. The managerial merry go round is clearly in operation. Danny Wilson sacked by the Tykes.", :followers=>260, :user_id=>111457731, :retweet=>0}
+{:name=>"@Sousa_Murillo", :text=>"RT @BBCSport: League One side Barnsley have sacked manager Danny Wilson http://t.co/N9saq5QEfN http://t.co/GGsPXx6iAy", :followers=>977, :user_id=>170273762, :retweet=>52}
+{:name=>"@SkyBet", :text=>"Mark Burton is the early 3/1 favourite to be the next Barnsley boss following Danny Wilson's sacking today &gt; http://t.co/qxXHNfGhPC", :followers=>248344, :user_id=>17290098, :retweet=>0}
+{:name=>"@charrlala_", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>1265, :user_id=>380262208, :retweet=>172}
+{:name=>"@TrendieUK", :text=>"\"Trending UK:11:35 AM GMT\"\n7. #unicorns\n8. Danny Wilson\n9. Paul Lambert\n10. Ivanovic", :followers=>4552, :user_id=>2797973256, :retweet=>0}
+{:name=>"@Lissssas", :text=>"Danny Wilson #follow Danny Wilson sacked by Barnsley with League One club struggling in 17th place - Daily Mail  http://t.co/hlmlYRAinu", :followers=>824, :user_id=>2869572173, :retweet=>0}
+{:name=>"@sdarbyspireite", :text=>"RT @SportsPeteO: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings. #barnsleyfc", :followers=>1099, :user_id=>200276201, :retweet=>5}
+{:name=>"@Kobina_cfc", :text=>"RT @SportsPeteO: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings. #barnsleyfc", :followers=>173, :user_id=>300090949, :retweet=>5}
+{:name=>"@Scott_race", :text=>"RT @WestStandBogs: There's only one Danny Wilson.", :followers=>83, :user_id=>543786600, :retweet=>21}
+{:name=>"@AdamG_97", :text=>"RT @SkySportsNewsHQ: BREAKING NEWS: Barnsley sack manager Danny WIlson More on #SSNHQ", :followers=>193, :user_id=>1531383379, :retweet=>172}
+{:name=>"@empowerurview", :text=>"Barnsley sack Danny Wilson http://t.co/8IGtBVMLED", :followers=>360, :user_id=>2729681561, :retweet=>0}
+{:name=>"@AlexTackie", :text=>"Barnsley sack Danny Wilson http://t.co/EAALafPazK", :followers=>2712, :user_id=>563871969, :retweet=>0}
+{:name=>"@Wpromoter", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chr... http://t.co/EBpXwVHGMF #football #soccer", :followers=>33, :user_id=>892392919, :retweet=>0}
+{:name=>"@ball_news_2013", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings w... http://t.co/TMXSh6rGrI #RT", :followers=>3095, :user_id=>857925914, :retweet=>0}
+{:name=>"@Naaj1992", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings with ... http://t.co/h4oHfzpGhk", :followers=>1354, :user_id=>207530922, :retweet=>0}
+{:name=>"@Goalnp", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings with ... http://t.co/KiKqaeRDi8", :followers=>269, :user_id=>2566754983, :retweet=>0}
+{:name=>"@WorIdCupNews", :text=>"SKY SPORTS: Barnsley sack Danny Wilson http://t.co/1FwXEWEuOp #WorldCup", :followers=>200, :user_id=>2505637644, :retweet=>0}
+{:name=>"@Sports_eNews", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings with ... http://t.co/DBVwEhmhIP", :followers=>952, :user_id=>2513966875, :retweet=>0}
+{:name=>"@Plac3bo23", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings with ... http://t.co/HFkicIYx5k", :followers=>403, :user_id=>1430078288, :retweet=>0}
+{:name=>"@SportsNextNL", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings with ... http://t.co/llEJRCaPMA", :followers=>84, :user_id=>2441642359, :retweet=>0}
+{:name=>"@shemo4real", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings with ... http://t.co/ndp8FjMz8a", :followers=>445, :user_id=>180161128, :retweet=>0}
+{:name=>"@fballDays", :text=>"Barnsley sack Danny Wilson: Barnsley have sacked manager Danny Wilson and assistant boss Chris Hutchings with ... http://t.co/MTdkhnNQMe", :followers=>251, :user_id=>2392104368, :retweet=>0}

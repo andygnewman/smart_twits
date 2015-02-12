@@ -1,0 +1,5 @@
+{:name=>"@newprosvet2", :text=>"🇫🇴🇱🇱🇴🇼🇪🇷🇸\n╚►http://t.co/phVFzojNmR\n\nEurovision\n#cookies\n#unicorns\nValentine's Day\n#kittens", :followers=>15679, :user_id=>96769810, :retweet=>0}
+{:name=>"@el_menolrd", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>7279, :user_id=>1858149529, :retweet=>141}
+{:name=>"@trendinaliaMY", :text=>"6. #cookies\n7. May Allah\n8. Smalling\n9. Rooney\n10. Valentine's Day\n\n2015/2/12 19:39 MYT #trndnl2015 http://t.co/3ZpGNCIaQz", :followers=>5900, :user_id=>1372563925, :retweet=>0}
+{:name=>"@ItsValeGarcia94", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>5427, :user_id=>259920547, :retweet=>141}
+{:name=>"@gokuforgod", :text=>"RT @viral_galleries: 💄 #cookies  🎱 Yoga has never looked better http://t.co/NEQuyZ4ADY http://t.co/RjhFWZrmVM", :followers=>3140, :user_id=>1687604828, :retweet=>141}

@@ -1,0 +1,5 @@
+{:name=>"@Paytm", :text=>"@gnaveen451 Nice one Naveen, smile buddy, we're sending you a nice surprise on Twitter this #ValentinesDay :) #RechargeLove", :followers=>25621, :user_id=>144792607, :retweet=>0}
+{:name=>"@aothitis", :text=>"RT @tamluvstowrite: Vote for me love story on #ValentinesDay .\nhttp://t.co/ijjDfFVjgI\n#T4US \n#love\n#shortstory http://t.co/U0WCqVo2FF", :followers=>16628, :user_id=>636318753, :retweet=>33}
+{:name=>"@aothitis", :text=>"RT @colorsandjoy: 14 Most Perfect DIY Gifts For Valentine’s Day. Plz RT http://t.co/0zBv8gZ72R #ValentinesDay #ValentinesDayGiftIdeas http:…", :followers=>16628, :user_id=>636318753, :retweet=>36}
+{:name=>"@njhzone", :text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :followers=>14181, :user_id=>1423801574, :retweet=>32880}
+{:name=>"@majidalfuttaim", :text=>"A nice meal, thoughtful gift, or @Voxcinemas movie? You’ll find all your #ValentinesDay presents &amp; #GreatMoments at our malls across #MENA", :followers=>10174, :user_id=>2483305190, :retweet=>0}

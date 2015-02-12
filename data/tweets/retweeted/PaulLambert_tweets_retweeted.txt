@@ -1,5 +1,0 @@
-{:text=>"RT @AVFCOfficial: CLUB STATEMENT: Paul Lambert. Full details are here: http://t.co/wHxOakzW24 #AVFC http://t.co/kxfetqcm48", :retweet=>2836}
-{:text=>"RT @paddypower: Aston Villa replacing Paul Lambert with a more attack-minded manager.\nThis inanimate carbon rod currently favourite. http:/…", :retweet=>325}
-{:text=>"RT @premierleague: Aston Villa parted company with manager Paul Lambert on Wednesday. More: http://t.co/tbhL5GJ4kS http://t.co/7I6TtQlgxs", :retweet=>163}
-{:text=>"RT @paddypower: This Villa fan is delighted at the Paul Lambert news: https://t.co/zJYgQ3ghAW", :retweet=>91}
-{:text=>"RT @SkySportsNewsHQ: Here is how the points and goals have dried up for #AVFC under Paul Lambert #SSNHQ http://t.co/DjIgeh4sRC", :retweet=>53}
