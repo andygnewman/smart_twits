@@ -1,0 +1,100 @@
+{:name=>"@CaptainCazorla", :text=>"RT @samuelJayC: Wait, Mourinho walked out of the interview and came back? Always the star of the show. #motd", :followers=>106, :user_id=>2847641227, :retweet=>21}
+{:name=>"@ingridcalder701", :text=>"RT @arcashmore: Great watching @WBAFCofficial win on #MOTD last night. Brought back fab memories of Regis &amp; Cunningham many years ago!", :followers=>937, :user_id=>2952739252, :retweet=>1}
+{:name=>"@m_____whitehead", :text=>"RT @GaryLineker: Rotation folks, rotation. #MOTD", :followers=>95, :user_id=>3005195807, :retweet=>93}
+{:name=>"@Matsmad", :text=>"Watching #MOTD and when are the @FA going to get the balls to stop players surrounding the ref? Rules were put in place to stop it!", :followers=>335, :user_id=>26600024, :retweet=>0}
+{:name=>"@TaruqHussain", :text=>"Just watched #MOTD Ivanovic grabs McCarthy around throat and then attempts a head butt. But not enough evidence. Lol", :followers=>380, :user_id=>414740194, :retweet=>0}
+{:name=>"@WorldOffer", :text=>"Join #BetClic Now Sign Up &gt;&gt; http://t.co/9MW9F9E7Gc 100€ Bonus #bonusbet #freebet #talksport #motd  #bookies http://t.co/atQ7d0uQPO", :followers=>25013, :user_id=>2609390197, :retweet=>0}
+{:name=>"@13maxyj", :text=>"@BBCMOTD just isn't the same without @GaryLineker still good but not the same #missed #nightoff #MOTD", :followers=>316, :user_id=>1242076506, :retweet=>0}
+{:name=>"@ChopperPhillips", :text=>"Caught the end of #Motd last night. Who are Mihrez and Schlopp? Danny Murphy sounded very impressed with them. #LCFC", :followers=>1107, :user_id=>27681373, :retweet=>0}
+{:name=>"@strevss", :text=>"RT @mrdanwalker: What is Burnley's away kit made of? #Foil #MOTD", :followers=>158, :user_id=>97260837, :retweet=>151}
+{:name=>"@RahmanShakira", :text=>"Thanks for coming out last night 💋 #selfie #birthdaygirl #party #wiwt #lookbook #motd #wiwt… http://t.co/stW6RAMujb", :followers=>379, :user_id=>224288928, :retweet=>0}
+{:name=>"@qw_156", :text=>"RT @BBCMOTD: In case you missed Tuesday's games, catch up now on #motd http://t.co/y0ysTRGHzL", :followers=>132, :user_id=>1855307683, :retweet=>11}
+{:name=>"@Yersiiin", :text=>"RT @BBCMOTD: Since August 2013 Kieran Trippier has provided more assists than any other defender in the top four tiers (17) #MOTD http://t.…", :followers=>867, :user_id=>2220810824, :retweet=>87}
+{:name=>"@DeigoSteve", :text=>"RT @ColinCooperc1: #MOTD burnley got their kit from Blackburn owners once match is over you can roast a chicken with it.", :followers=>28, :user_id=>987566107, :retweet=>69}
+{:name=>"@Madara_Roy", :text=>"#GreatDJ #MOTD http://t.co/90G92Gw5Wm", :followers=>363, :user_id=>984161954, :retweet=>0}
+{:name=>"@arcashmore", :text=>"Great watching @WBAFCofficial win on #MOTD last night. Brought back fab memories of Regis &amp; Cunningham many years ago!", :followers=>218, :user_id=>902447118, :retweet=>1}
+{:name=>"@houseofglamdoll", :text=>"Doll of the Day #houseofglamdolls #makeup #mua #motd #makeupartist #bbloggers #beauty #cosmetics #glamdoll #glamour http://t.co/T645LcYNnV", :followers=>270, :user_id=>2560516347, :retweet=>0}
+{:name=>"@Salterrific", :text=>"Match of the Day before college is a good way to start the day. #MOTD", :followers=>295, :user_id=>467473820, :retweet=>0}
+{:name=>"@Tokunbo2811", :text=>"Pushing the ball with your shoulder is handball nowadays? #MOTD", :followers=>68, :user_id=>472174239, :retweet=>0}
+{:name=>"@AlanFraserYMCA", :text=>"RT @TimEvans1503: Massive 3 points and very good performance by West Brom, @AlanFraserYMCA will be well chuffed #MOTD", :followers=>182, :user_id=>71563133, :retweet=>1}
+{:name=>"@jonathanhearsey", :text=>"Surely, that's you sorted as the next #MOTD  pundit, @stueyosborne. Insightful. To the point. Perfect.", :followers=>824, :user_id=>142670646, :retweet=>0}
+{:name=>"@JesseYates1996", :text=>"Watching Match of the Day, and Green was untouchable! #MOTD", :followers=>182, :user_id=>1652322090, :retweet=>0}
+{:name=>"@Jord_Winchester", :text=>"Loving my naked 3 palette again recently!!! #me #selfie #motd #fotd #makeup #naked3 #urbandecay… http://t.co/ik1irD7rff", :followers=>257, :user_id=>30907919, :retweet=>0}
+{:name=>"@DrAndyChilds", :text=>"Misleading editing by #MOTD or Gary Richardson's typically sensationalist reporting?", :followers=>448, :user_id=>167057702, :retweet=>0}
+{:name=>"@DrAndyChilds", :text=>"Gary Richardson on #r4today claiming Mourinho storming out ended the interview, but #MOTD showed further questions and said he'd returned.", :followers=>448, :user_id=>167057702, :retweet=>0}
+{:name=>"@IaaanFred_15", :text=>"RT @Samski_: They look like little burritos wrapped in tin foil running around the pitch # burnley #motd", :followers=>221, :user_id=>250253513, :retweet=>1}
+{:name=>"@kevinulyatt", :text=>"RT @ColinCooperc1: #MOTD burnley got their kit from Blackburn owners once match is over you can roast a chicken with it.", :followers=>23, :user_id=>629508342, :retweet=>69}
+{:name=>"@the_borb", :text=>"RT @BBCMOTD: Everton have now won just one of their last nine Premier League games http://t.co/o1awTVdbtl #MOTD http://t.co/lyGaOkHk6V", :followers=>148, :user_id=>42283216, :retweet=>31}
+{:name=>"@TomReek17", :text=>"Bit of #MOTD before work ⚽️", :followers=>796, :user_id=>269056773, :retweet=>0}
+{:name=>"@irishpete67", :text=>"what are they doing handing out coins at Palace?\nIt's not Maundy Thursday #MoTD", :followers=>673, :user_id=>455257910, :retweet=>0}
+{:name=>"@irishpete67", :text=>"Just catching up on #MoTD \nCrosses are underrated in football, but there were two gorgeous ones for Stoke and Burnley goals. Gorgeous", :followers=>673, :user_id=>455257910, :retweet=>0}
+{:name=>"@mr_beason", :text=>"RT @BBCMOTD: Palace have come from behind to take 15 points this season http://t.co/IO0ttieTwJ #MOTD http://t.co/gxhcQouubb", :followers=>107, :user_id=>702646933, :retweet=>41}
+{:name=>"@stubbsy1993", :text=>"RT @mrdanwalker: What is Burnley's away kit made of? #Foil #MOTD", :followers=>166, :user_id=>802555524, :retweet=>151}
+{:name=>"@_TashCoops_", :text=>"RT @ColinCooperc1: #MOTD burnley got their kit from Blackburn owners once match is over you can roast a chicken with it.", :followers=>304, :user_id=>234112752, :retweet=>69}
+{:name=>"@Premiertalk2015", :text=>"RT @BBCMOTD: Papiss Cisse became the sixth PL player this season to reach double figures for goals http://t.co/jqnsCJaluH #motd http://t.co…", :followers=>80, :user_id=>2722844635, :retweet=>25}
+{:name=>"@TomPreece97", :text=>"RT @mrdanwalker: What is Burnley's away kit made of? #Foil #MOTD", :followers=>19, :user_id=>2294386731, :retweet=>151}
+{:name=>"@LouisCorrigan_3", :text=>"RT @BBCMOTD: Since August 2013 Kieran Trippier has provided more assists than any other defender in the top four tiers (17) #MOTD http://t.…", :followers=>596, :user_id=>234727461, :retweet=>87}
+{:name=>"@prinzgbemi", :text=>"RT @samuelJayC: Wait, Mourinho walked out of the interview and came back? Always the star of the show. #motd", :followers=>6161, :user_id=>180585051, :retweet=>21}
+{:name=>"@MuA15MuA", :text=>"Dock palace points #MOTD", :followers=>107, :user_id=>179068432, :retweet=>0}
+{:name=>"@HajiIshak1", :text=>"RT@Dansoar4:RT @mrdanwalker: What is Burnley's away kit made of? #Foil #MOTD... \n RT@Stupid_Learner:see&gt;http://t.co/YxVHWSztm2", :followers=>948, :user_id=>1013404638, :retweet=>0}
+{:name=>"@uchmoni", :text=>"RT @JibzCharlie: Lol&gt;\"@samuelJayC: Even 2 goals can't make Smalling defend properly. #motd\"", :followers=>1308, :user_id=>121265140, :retweet=>1}
+{:name=>"@JibzCharlie", :text=>"Lol&gt;\"@samuelJayC: Even 2 goals can't make Smalling defend properly. #motd\"", :followers=>1585, :user_id=>1347884312, :retweet=>1}
+{:name=>"@MuA15MuA", :text=>"What a fucking ignorant prick jose is #MOTD", :followers=>107, :user_id=>179068432, :retweet=>0}
+{:name=>"@Dansoar4", :text=>"RT @mrdanwalker: What is Burnley's away kit made of? #Foil #MOTD", :followers=>86, :user_id=>2649886349, :retweet=>151}
+{:name=>"@MuA15MuA", :text=>"4 month suspension for Ivanovic #MOTD", :followers=>107, :user_id=>179068432, :retweet=>0}
+{:name=>"@Thomash1964", :text=>"@jdpoc Who would we have to host #MOTD?", :followers=>73, :user_id=>82065729, :retweet=>0}
+{:name=>"@StrongforVJ", :text=>"RT @MakeupByLusine: #anastasiabeverlyhills #vegas_nay #makeupbylilit #makeup #motd #mua #hudabeauty #smokeyeye… http://t.co/M6whyHpE9q", :followers=>1501, :user_id=>2956793135, :retweet=>2}
+{:name=>"@rhondaberglas", :text=>"The usual situation with my hair in its natural state.\n#makeupjunkie #beautyjunkie #beautyblog #motd #fotd #mua #ma… http://t.co/brMDtxoJ8Q", :followers=>594, :user_id=>2882317778, :retweet=>0}
+{:name=>"@Liza_Victorian", :text=>"RT @MakeupByLusine: #anastasiabeverlyhills #vegas_nay #makeupbylilit #makeup #motd #mua #hudabeauty #smokeyeye… http://t.co/M6whyHpE9q", :followers=>3068, :user_id=>2721604732, :retweet=>2}
+{:name=>"@lwilkil", :text=>"RT @Saladabap: Fucking Phil Neville has absolutely stolen a living as a shite footballer &amp; continues to steal our license money as a piss p…", :followers=>30, :user_id=>2437422578, :retweet=>12}
+{:name=>"@JobbinsMj", :text=>"RT @ColinCooperc1: #MOTD burnley got their kit from Blackburn owners once match is over you can roast a chicken with it.", :followers=>9, :user_id=>2626710466, :retweet=>69}
+{:name=>"@KurtJacob", :text=>"RT @ColinCooperc1: #MOTD burnley got their kit from Blackburn owners once match is over you can roast a chicken with it.", :followers=>55, :user_id=>24038223, :retweet=>69}
+{:name=>"@MakeupByLusine", :text=>"#anastasiabeverlyhills #vegas_nay #makeupbylilit #makeup #motd #mua #hudabeauty #smokeyeye… http://t.co/M6whyHpE9q", :followers=>8454, :user_id=>23212356, :retweet=>2}
+{:name=>"@MementoMoriBlog", :text=>"Los geht's in die Schule! Wünsche euch allen einen angenehmen Tag. ✏️📓 #fotd #faceoftheday #motd… http://t.co/M3qMqr4WDz", :followers=>37, :user_id=>413264353, :retweet=>0}
+{:name=>"@MuA15MuA", :text=>"What a brilliant header from ings #MOTD", :followers=>107, :user_id=>179068432, :retweet=>0}
+{:name=>"@Tim_A_Roberts", :text=>"Great shot on #MOTD of Big Sam and Ronald Koeman taking the piss out of the deranged Man U manager - \"long ball\" gate", :followers=>2712, :user_id=>22677215, :retweet=>0}
+{:name=>"@kathurrleen", :text=>"Face by becalouise_ #byterry #meccamaxima #fotd #eotd #motd #potd #igdaily #mua #terryblymecca2015… http://t.co/AMsNhjMGZc", :followers=>171, :user_id=>33188426, :retweet=>0}
+{:name=>"@Mitchiecakes", :text=>"Loved my makeup today 💕 #makeup #motd http://t.co/thIhpxAclC", :followers=>254, :user_id=>136817218, :retweet=>0}
+{:name=>"@UnicornPimp007", :text=>"RT @MakeupByVeeTilt: Do you love #Makeup ? Have a #facebook?  Love taking a #selfie ? \nLet's talk! #motd #potd #freemakeup… http://t.co/ygV…", :followers=>8777, :user_id=>924948834, :retweet=>1}
+{:name=>"@Tokunbo2811", :text=>"Dzeko, if you are going to be selfish, score. Waste of a chance and proof again that he is a colossal waste of money. #MOTD", :followers=>68, :user_id=>472174239, :retweet=>0}
+{:name=>"@bensnape87", :text=>"RT @BBCMOTD: Since August 2013 Kieran Trippier has provided more assists than any other defender in the top four tiers (17) #MOTD http://t.…", :followers=>78, :user_id=>1573031185, :retweet=>87}
+{:name=>"@Beccastanley_", :text=>"RT @Ian__Love: @Beccastanley_ no chance with that love! #lad #MOTD xx", :followers=>377, :user_id=>2424270271, :retweet=>1}
+{:name=>"@LeeDavi03078499", :text=>"\"@Telly_Totty: Gabby Logan in for Gary Lineker for midweek Match of the Day. 👍😍 #LovelyLegs👌 #MOTD http://t.co/A59tI15wgO\"", :followers=>733, :user_id=>2412412604, :retweet=>0}
+{:name=>"@AJKasonde", :text=>"@BBCMOTD will midweek #MOTD be on iplayer??", :followers=>240, :user_id=>393103870, :retweet=>0}
+{:name=>"@jlup1980", :text=>"\"@mrdanwalker: What is Burnley's away kit made of? #Foil #MOTD\" apparently the players have said they hate it and it won't be worn again!", :followers=>73, :user_id=>314391842, :retweet=>0}
+{:name=>"@IllogicalTwist", :text=>"RT @VietnamLFC: #MOTD #LFC v #THFC 8m 720p #LIVTOT #Spurs\nhttp://t.co/6YlwHCfNFT\n@TheTotalLFC @briankettle @MostarLFC @MrBoywunder @BassTun…", :followers=>140, :user_id=>1574710369, :retweet=>13}
+{:name=>"@dial2karthik", :text=>"RT @VietnamLFC: #MOTD #LFC v #THFC 8m 720p #LIVTOT #Spurs\nhttp://t.co/6YlwHCfNFT\n@TheTotalLFC @briankettle @MostarLFC @MrBoywunder @BassTun…", :followers=>87, :user_id=>794482370, :retweet=>13}
+{:name=>"@jayjay46100", :text=>"RT @BBCMOTD: Willian has scored one and assisted another in his last two Premier League games  \nhttp://t.co/jqnsCJaluH #MOTD http://t.co/nC…", :followers=>1413, :user_id=>217404173, :retweet=>38}
+{:name=>"@luvblacktights", :text=>"RT @Telly_Totty: Gabby Logan in for Gary Lineker for midweek Match of the Day. 👍😍 #LovelyLegs👌 #MOTD http://t.co/k5mLrpRHjZ", :followers=>58, :user_id=>2342866496, :retweet=>3}
+{:name=>"@EileenWrighton", :text=>"Valentine's Day Look. ❤️links are in my bio. #valentinesmakeup #makeup #bbloggers #beauty #motd #vday http://t.co/EszxXO0vCv", :followers=>106, :user_id=>48646786, :retweet=>0}
+{:name=>"@hawkslfc", :text=>"Looking forward to watching #MOTD that I V + last night :-)) ⚽⬇ 3 shots on target in 3 hours,  you know who you are", :followers=>607, :user_id=>214916683, :retweet=>0}
+{:name=>"@MrNicoMole", :text=>"Catching up on #MOTD before bed... So erm yea, Burnley's kit 👀😳", :followers=>365, :user_id=>482366336, :retweet=>0}
+{:name=>"@rhondaberglas", :text=>"Other pics from today, I'm loving my new hair color 😍. #motd #makeup #selfie #mua #makeupfanatic1 #wakeupandmakeup … http://t.co/ZiWaSreV9f", :followers=>594, :user_id=>2882317778, :retweet=>0}
+{:name=>"@Sajedaa_F9T", :text=>"RT @BBCMOTD: Willian has scored one and assisted another in his last two Premier League games  \nhttp://t.co/jqnsCJaluH #MOTD http://t.co/nC…", :followers=>7121, :user_id=>490746388, :retweet=>38}
+{:name=>"@lanisuc", :text=>"RT @VietnamLFC: #MOTD #LFC v #THFC 8m 720p #LIVTOT #Spurs\nhttp://t.co/6YlwHCfNFT\n@TheTotalLFC @briankettle @MostarLFC @MrBoywunder @BassTun…", :followers=>148, :user_id=>14720754, :retweet=>13}
+{:name=>"@BassTunedToRed", :text=>"RT @VietnamLFC: #MOTD #LFC v #THFC 8m 720p #LIVTOT #Spurs\nhttp://t.co/6YlwHCfNFT\n@TheTotalLFC @briankettle @MostarLFC @MrBoywunder @BassTun…", :followers=>11243, :user_id=>235631290, :retweet=>13}
+{:name=>"@AshiqueNasar", :text=>"RT @nikpostinger: #LFC v #THFC one of the best Premier League games I've seen in years and that set of #motd highlights couldn't have done …", :followers=>485, :user_id=>297407294, :retweet=>4}
+{:name=>"@IfatRajaMUA", :text=>"#nyxcosmetics #anastasiabeverlyhills #anastasiabrows #morphburshes #hudabeauty #lenalashes #ootd #motd… http://t.co/QpJlpqmgDU", :followers=>138, :user_id=>1464193315, :retweet=>0}
+{:name=>"@simonalloyd", :text=>"RT @dpowell248: What a wanker Mourinho is\n#MoTD", :followers=>849, :user_id=>215201866, :retweet=>2}
+{:name=>"@gie_dazzling", :text=>"Now's time for mommy to do the #selfie 😁 #gamaukalah #momandme #makeup #motd #fotd #lots… http://t.co/pDv5I8M5d8", :followers=>237, :user_id=>84238303, :retweet=>0}
+{:name=>"@StrongforVJ", :text=>"RT @MakeupByLusine: #anastasiabeverlyhills #vegas_nay #makeupbylilit #makeup #motd #mua #hudabeauty #smokeyeye… http://t.co/u1am0IfcX1", :followers=>1501, :user_id=>2956793135, :retweet=>1}
+{:name=>"@SSDerbies", :text=>"#Leicester boss #NigelPearson in heated exchange with former #England striker and #MOTD anchor #garylinekar http://t.co/Vh2C7cini3", :followers=>31, :user_id=>1362658638, :retweet=>0}
+{:name=>"@Marie_Chesnais", :text=>"On my lips today #lipstick #nude #Chanel #RougeCoco #Secret #love #lips #today #MOTD \r\rVous pouvez le… http://t.co/Hsboao8Iev", :followers=>96, :user_id=>1638019909, :retweet=>0}
+{:name=>"@tttaniaaa", :text=>"Barbie is so dizzy.... \n\n#selfie #VacayJay #USJ #vsco #vscocam #instadaily #instatrip #MOTD… http://t.co/0fFsbxuiFy", :followers=>441, :user_id=>30668781, :retweet=>0}
+{:name=>"@3alma_90", :text=>"RT @deviliove: Rotation folks, rotation. #MOTD\"", :followers=>116, :user_id=>2999511244, :retweet=>1}
+{:name=>"@deviliove", :text=>"Rotation folks, rotation. #MOTD\"", :followers=>2412, :user_id=>3010869858, :retweet=>1}
+{:name=>"@MatchaDrinkers", :text=>"RT @Fraggle05: Early morning #greentea with #motd before work http://t.co/loMoV2oOv0", :followers=>2301, :user_id=>2339270658, :retweet=>2}
+{:name=>"@shrimantk", :text=>"BBC MOTD presenters are all shite, aren't they! Very biased! #MOTD", :followers=>60, :user_id=>76336649, :retweet=>0}
+{:name=>"@gooner_wardy", :text=>"RT @PascalZidane: Ivanovic will escape another ban as usual. #motd", :followers=>71, :user_id=>255192184, :retweet=>5}
+{:name=>"@Blades1108", :text=>"Was it just me or on last night's #MOTD Neville and Keown were just disagreeing and contradicting each other on everything.", :followers=>5, :user_id=>3015588425, :retweet=>0}
+{:name=>"@Fraggle05", :text=>"Early morning #greentea with #motd before work http://t.co/loMoV2oOv0", :followers=>459, :user_id=>2320952453, :retweet=>2}
+{:name=>"@MakeupByLusine", :text=>"#anastasiabeverlyhills #vegas_nay #makeupbylilit #makeup #motd #mua #hudabeauty #smokeyeye… http://t.co/u1am0IfcX1", :followers=>8454, :user_id=>23212356, :retweet=>1}
+{:name=>"@daddy_das", :text=>"RT @PascalZidane: Ivanovic will escape another ban as usual. #motd", :followers=>1037, :user_id=>247256735, :retweet=>5}
+{:name=>"@RabzJasat", :text=>"RT @GaryLineker: Rotation folks, rotation. #MOTD", :followers=>21, :user_id=>1006692216, :retweet=>93}
+{:name=>"@6ftAmazon", :text=>"RT @TheRealGlamBoss: Get these brows... Watch my #Turorial https://t.co/XfLBMlTACC #BigWomenBigLove #MOTD #glambossbeatmyface http://t.co/3…", :followers=>83, :user_id=>169192664, :retweet=>1}
+{:name=>"@Esswara", :text=>"Beauty! #esswara #jewellery #instabracelet #bracelet #braceletslovers #motd #cool #style #instadubai… http://t.co/RopIwOsSQa", :followers=>110, :user_id=>1494713520, :retweet=>0}
+{:name=>"@Ditzy28", :text=>"#motd time loving @IngsDanny movement  works his socks off. Burnley not the greatest set of players but they don't half have a go", :followers=>75, :user_id=>275616055, :retweet=>0}
+{:name=>"@TheRealGlamBoss", :text=>"Get these brows... Watch my #Turorial https://t.co/XfLBMlTACC #BigWomenBigLove #MOTD #glambossbeatmyface http://t.co/32NrfdspSO", :followers=>1354, :user_id=>127198053, :retweet=>1}
+{:name=>"@leeluu_mxo", :text=>"FOTD 💁😊 I used the shaaanxo  @colourpopco  eyeshadows today! They are amazing! 😀#fotd #motd #mua… http://t.co/mxFeU1L0nY", :followers=>50, :user_id=>2842730616, :retweet=>0}
+{:name=>"@DaniexpertMUA", :text=>"🍊🍊Orange Creamcicle🍊🍊 With @sugarpillmakeup Pro palette and @MeltCosmetics Bang Bang 🔫🔫 #Love #MOTD #Latina http://t.co/FJFIjCSPlN", :followers=>788, :user_id=>28236197, :retweet=>0}
+{:name=>"@Starbucksgurl25", :text=>"#lovethem #beautyblogger #motd #monday #instalook #faceoftheday #instabeauty #igers #makeupblogger… http://t.co/L1HrTzQmkl", :followers=>8, :user_id=>242081839, :retweet=>0}

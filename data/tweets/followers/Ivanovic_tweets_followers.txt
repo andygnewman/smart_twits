@@ -1,5 +1,5 @@
-{:name=>"@bepe20s", :text=>"--&gt; http://t.co/qzCPLUO04Z | #SportSatu Chelsea menang atas Everton, Ivanovic tak terpuji", :followers=>4966298, :user_id=>23167514, :retweet=>1}
-{:name=>"@TheSunFootball", :text=>"Should Branislav Ivanovic have seen red for alleged headbutt? Watch it here http://t.co/4Qn1TjcZWt http://t.co/R5M2IHeB8f", :followers=>262025, :user_id=>20689749, :retweet=>4}
-{:name=>"@Sport_Satu", :text=>"http://t.co/ca3fafTqob | Chelsea menang atas Everton, Ivanovic tak terpuji", :followers=>116882, :user_id=>1257565308, :retweet=>0}
-{:name=>"@CFC_ChelseaFC", :text=>"RT @FootballFanCast: #CFC can't seem to catch a break from the #FA! http://t.co/Es4fyBPAtN http://t.co/AVK8Ww7Vb3", :followers=>103441, :user_id=>621102084, :retweet=>6}
-{:name=>"@FaktanyaBOLA", :text=>"Jurnalis Tanyakan Soal Insiden Tandukan Ivanovic, Mourinho Berang http://t.co/dvkbEBv8dJ", :followers=>100636, :user_id=>345476559, :retweet=>0}
+{:name=>"@ManUnited_FFC", :text=>"RT @FootballFanCast: Mourinho sulked and refused to discuss Ivanovic's actions from last night http://t.co/eeBbS1bvxu", :followers=>29913, :user_id=>119047602, :retweet=>19}
+{:name=>"@tech_pearce", :text=>"RT @World_News_N1: Jose Mourinho threatens to walk out of press conference over Branislav Ivanovic headbutt claims: Chelsea manag... http:/…", :followers=>27411, :user_id=>2842243485, :retweet=>1}
+{:name=>"@NegoSwag", :text=>"RT @futmais: Ivanovic está sendo acusado de morder McCarthy no jogo de hoje https://t.co/0W2hqA4DNE", :followers=>18114, :user_id=>284836146, :retweet=>14}
+{:name=>"@WestHam_News", :text=>"RT @FootballFanCast: Mourinho sulked and refused to discuss Ivanovic's actions from last night http://t.co/eeBbS1bvxu", :followers=>18021, :user_id=>119049238, :retweet=>19}
+{:name=>"@ManCity_FFC", :text=>"RT @FootballFanCast: Mourinho sulked and refused to discuss Ivanovic's actions from last night http://t.co/eeBbS1bvxu", :followers=>14179, :user_id=>119047083, :retweet=>19}

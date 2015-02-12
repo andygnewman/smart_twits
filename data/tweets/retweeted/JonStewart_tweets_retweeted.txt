@@ -1,5 +1,5 @@
-{:text=>"RT @billclinton: Jon Stewart's departure raises 2 Qs: 1) Where will I get my news each night? 2) Does this mean he's doing a sequel to Deat…", :retweet=>10254}
-{:text=>"RT @elizabethforma: Washington is rigged for the big guys - and no person has more consistently called them out for it than Jon Stewart. Go…", :retweet=>3874}
-{:text=>"RT @jk_rowling: Jon Stewart is leaving @theDailyShow, one of my favourite TV programmes ever. That's major news to get over your morning te…", :retweet=>1942}
-{:text=>"RT @pattonoswalt: Wait, the only people who can possibly replace Jon Stewart are Hal Jordan or Guy Gardener SORRY NERD JOKE IT WAS FUCKING …", :retweet=>1931}
-{:text=>"RT @BBCBreaking: Jon Stewart - host of Comedy Central's The Daily Show - to step down later this year, network president confirms http://t.…", :retweet=>1080}
+{:text=>"RT @billclinton: Jon Stewart's departure raises 2 Qs: 1) Where will I get my news each night? 2) Does this mean he's doing a sequel to Deat…", :retweet=>10266}
+{:text=>"RT @jk_rowling: Jon Stewart is leaving @theDailyShow, one of my favourite TV programmes ever. That's major news to get over your morning te…", :retweet=>1944}
+{:text=>"RT @bhaviklathia: RT if you think Jessica Williams should be given Jon Stewart's job after he leaves! #TheDailyShowWithJessicaWilliams http…", :retweet=>1171}
+{:text=>"RT @mishacollins: John Stuart you'll be missed on @TheDailyShow. You've proven that comedy &amp; satire can provide the most reliable news. htt…", :retweet=>916}
+{:text=>"RT @CNN: After more than 15 years on @TheDailyShow, Jon Stewart will be signing off later this year: http://t.co/LjLGzdGuy8 http://t.co/Wu6…", :retweet=>603}

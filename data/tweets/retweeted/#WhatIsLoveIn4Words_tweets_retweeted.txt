@@ -1,5 +1,5 @@
-{:text=>"RT @BigBang_CBS: Sheldon And Amy Forever #WhatIsLoveIn4Words #BigBangTheory http://t.co/tl8cVDluc2 http://t.co/U4mwO21P5D", :retweet=>502}
-{:text=>"RT @30SECONDSTOMARS: #WhatIsLoveIn4Words: Love. Lust. Faith. Dreams. → http://t.co/GNv749Capg http://t.co/RP0FDFzxEd", :retweet=>264}
-{:text=>"RT @NBCTheVoice: Adam + Blake + Christina + Pharrell #WhatIsLoveIn4Words", :retweet=>220}
-{:text=>"RT @DisneysBigHero6: #WhatIsLoveIn4Words Tadashi is always here... #BigHero6 http://t.co/YGLslz45sH", :retweet=>194}
-{:text=>"RT @SpaceCatPics: #WhatIsLoveIn4Words Meow meow meow meow", :retweet=>191}
+{:text=>"RT @30SECONDSTOMARS: #WhatIsLoveIn4Words: Love. Lust. Faith. Dreams. → http://t.co/GNv749Capg http://t.co/RP0FDFzxEd", :retweet=>269}
+{:text=>"RT @SpaceCatPics: #WhatIsLoveIn4Words Meow meow meow meow", :retweet=>208}
+{:text=>"RT @DisneysBigHero6: #WhatIsLoveIn4Words Tadashi is always here... #BigHero6 http://t.co/YGLslz45sH", :retweet=>200}
+{:text=>"RT @niallwhoababy: #WhatIsLoveIn4Words \"we deliver 24 hours\"", :retweet=>109}
+{:text=>"RT @MatthewKoma: Netflix In A Onesie #WhatIsLoveIn4Words", :retweet=>108}

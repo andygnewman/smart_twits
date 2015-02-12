@@ -1,5 +1,5 @@
-{:name=>"@BBCWorld", :text=>"Local residents react as #ChapelHillShooting stuns neighbourhood http://t.co/XX3b2GqDpq http://t.co/8SOs05mdUz", :followers=>8842920, :user_id=>742143, :retweet=>4}
-{:name=>"@mo9hll", :text=>"RT @qqpp125: #إنقطاع_الكهرباء_بالكويت #ChapelHillShooting \n\nتويتر اطلق  خدمه حذف غير المتابعين لك\n\nhttp://t.co/JvLrNBgdxz\n\nريتويت  http://t…", :followers=>144555, :user_id=>2539602319, :retweet=>246}
-{:name=>"@AlertTrade", :text=>"RT @cnnbrk: Police investigating #ChapelHillShooting trying to determine if it was a hate crime. http://t.co/De1XiNjz6e http://t.co/hVJNHJ8…", :followers=>40185, :user_id=>121158213, :retweet=>164}
-{:name=>"@tjiktao", :text=>"#ChapelHillShooting  #ChapelHillShooting #ChapelHillShooting #ChapelHillShooting  #ChapelHillShooting  #ChapelHillShooting", :followers=>35294, :user_id=>224969303, :retweet=>0}
-{:name=>"@RTE_Siirt", :text=>"RT @m_eminyildirim: #ChapelHillKatliamı\n#ChapelHillShooting \nBütün bir dünya sussada\nHamdolsun ahiret var!\nZalimler için yaşasın Cehennem!", :followers=>15674, :user_id=>769582861, :retweet=>191}
+{:name=>"@FSN2000", :text=>"RT @FalahAlhajeri: الكافر لو مُسّت له شعرة لانتفض له الشرق والغرب!\n\nأما المسلم فهو إرهابي سواء كان قاتلاً أو مقتولاً!\n\n#ChapelHillShooting …", :followers=>642348, :user_id=>495259086, :retweet=>40}
+{:name=>"@DRKAMALAYOUB", :text=>"RT @Yourafacts: #CNN #FOX \n\nضحايا غير مسلمين .. تعني عملاً إرهابياً ..\n\nضحايا مسلمين ..( قتل رجلٌ ٣ مسلمين )\n\n#ChapelHillShooting http://t.…", :followers=>12247, :user_id=>452065417, :retweet=>629}
+{:name=>"@ThePreEminent", :text=>"Dr. Suzanne Barakat spoke to CNN's Anderson Cooper ...\nHard to hold tears ...\nhttps://t.co/6Sqnb0OcHE\n#ChapelHillShooting", :followers=>7076, :user_id=>887111004, :retweet=>0}
+{:name=>"@salehalshamrani", :text=>"#ChapelHillShooting", :followers=>6220, :user_id=>407130864, :retweet=>0}
+{:name=>"@SlimaneMUFC", :text=>"RT @Nasrawi7eeeL: This crime proves that terrorism does not mean Islam\nTerrorism does not belong to any religion\n\n#ChapelHillShooting\n. htt…", :followers=>4454, :user_id=>533317891, :retweet=>4}

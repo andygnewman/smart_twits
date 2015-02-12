@@ -1,5 +1,0 @@
-{:name=>"@Ward21Music", :text=>"A so Martin Keown did dunce? Rass! 😂 How Wenger, as an educated man, did deal wid him? 😂 no sah.", :followers=>17447, :user_id=>28772390, :retweet=>0}
-{:name=>"@AngryMoyesHD", :text=>"Martin keown talks utter shit 😂 he gets paid to talk shit then basically tell you what's happening in a video and call it \"analysis\"", :followers=>16481, :user_id=>2588266015, :retweet=>1}
-{:name=>"@Footysays", :text=>"Martin Keown on LVG  \"you've got Smalling on the bench who has won you the game, you've gotta start your best players\" #MUFC #Knowledge", :followers=>13445, :user_id=>259981663, :retweet=>1}
-{:name=>"@TheHashtagGame", :text=>"RT @trendinaliaGB: 1. #ChapelHillShooting\n2. #WhatIsLoveIn4Words\n3. #MuslimLivesMatter\n4. Martin Keown\n5. Smalling\n\n2015/2/11 23:52 GMT htt…", :followers=>13249, :user_id=>483389407, :retweet=>2}
-{:name=>"@RealNikB", :text=>"RT @DoronSalomon: Martin Keown says van Gaal should pick his \"best players first\" because Smalling came off the bench to score twice. Haha,…", :followers=>12568, :user_id=>86107034, :retweet=>71}

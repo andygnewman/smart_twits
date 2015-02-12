@@ -1,0 +1,100 @@
+{:name=>"@DanielBrinkman", :text=>"That Balor/Neville match was great! #NXTTakeoverRival", :followers=>316, :user_id=>23261727, :retweet=>0}
+{:name=>"@MichaelDB92", :text=>"Main event time ! I love the behind the curtain shot before the wrestlers entrance #NXTTakeoverRival", :followers=>6, :user_id=>2692559379, :retweet=>0}
+{:name=>"@thomasthfc", :text=>"KO winning by TKO. What a way to become champion. #NXTTakeoverRival", :followers=>45, :user_id=>109388702, :retweet=>0}
+{:name=>"@EnEngin14", :text=>"RT @AgentM: Just. Wow. Zayn and Owens told a helluva story. Match made me anxious, uncomfortable, surprised, delighted. Well done! #NXTTake…", :followers=>818, :user_id=>442289156, :retweet=>59}
+{:name=>"@RyanNeuman9", :text=>"RT @AgentM: Just. Wow. Zayn and Owens told a helluva story. Match made me anxious, uncomfortable, surprised, delighted. Well done! #NXTTake…", :followers=>263, :user_id=>549008403, :retweet=>59}
+{:name=>"@AlexxMartin_", :text=>"Big congratulations to @SashaBanksWWE what a match. She is quickly approaching Manami Toyota/Kana/Del Rey levels of great. #NXTTakeoverRival", :followers=>60, :user_id=>354602773, :retweet=>0}
+{:name=>"@RyanNeuman9", :text=>"RT @NoelleFoley: FINN IS GONNA KILL YOU\n#NXTTakeoverRival http://t.co/RvFDYWEVwS", :followers=>263, :user_id=>549008403, :retweet=>141}
+{:name=>"@RyanNeuman9", :text=>"RT @LanceStorm: #NXT delivers more often than Dominos. Another GREAT SHOW #NXTTakeoverRival", :followers=>263, :user_id=>549008403, :retweet=>158}
+{:name=>"@RyanNeuman9", :text=>"RT @NoelleFoley: I must say that NXT crowd was INSANE!!! So crazy and energetic!!! Definitely the best wrestling crowd I've been part of 👍#…", :followers=>263, :user_id=>549008403, :retweet=>64}
+{:name=>"@xFiggy", :text=>"RT @AgentM: Just. Wow. Zayn and Owens told a helluva story. Match made me anxious, uncomfortable, surprised, delighted. Well done! #NXTTake…", :followers=>575, :user_id=>1583760248, :retweet=>59}
+{:name=>"@RyanNeuman9", :text=>"RT @SmackNetwork: The women of NXT never fail to impress! What a match! #ThisIsWrestling #NXTTakeoverRival", :followers=>263, :user_id=>549008403, :retweet=>31}
+{:name=>"@ScottVito", :text=>"Gosh I love @FightOwensFight .  I'm never changing my profile picture.  #NXTTakeoverRival", :followers=>143, :user_id=>36020412, :retweet=>0}
+{:name=>"@RyanNeuman9", :text=>"RT @H2Owens: @WWENXT never ceases to amaze me. Amazing show from top to bottom. #ThisIsWrestling #NXTTakeoverRival", :followers=>263, :user_id=>549008403, :retweet=>1}
+{:name=>"@dark_muradin", :text=>"Nie no, muszę powiedzieć, że mimo słabo wykorzystanego potencjału NODQ matchu Dempseya z Corbinem #NXTTakeoverRival było świetne", :followers=>199, :user_id=>144562555, :retweet=>0}
+{:name=>"@mlski86", :text=>"RT @RoFloESPN: That Finn Balor/ Adrian Neville match was tremendous. Great combo of Story telling and athleticism #NXTRival #NXTTakeoverRiv…", :followers=>64, :user_id=>136407031, :retweet=>149}
+{:name=>"@WWESPAINGAME", :text=>"NEXT WEEK.... #NXTTakeoverRival", :followers=>1299, :user_id=>868847005, :retweet=>0}
+{:name=>"@RyanNeuman9", :text=>"@wwebalor impresses me more and more every time I watch him, @WWENeville once again killed it as well #ThisIsWrestling #NXTTakeoverRival", :followers=>263, :user_id=>549008403, :retweet=>0}
+{:name=>"@RenownedAlex", :text=>"Loved #NXTTakeoverRival. Easily the best wrestling show around. Can't wait to see what the future holds!", :followers=>57, :user_id=>2669158819, :retweet=>0}
+{:name=>"@MichaelDB92", :text=>"Congratulates to Sasha Banks , awesome fatal 4 way . #NXTTakeoverRival", :followers=>6, :user_id=>2692559379, :retweet=>0}
+{:name=>"@ahmadobey", :text=>"RT @ProWrestlingMag: NXT! NXT! NXT! #NXTTakeoverRival", :followers=>807, :user_id=>1585364982, :retweet=>12}
+{:name=>"@ItsJAtkinson", :text=>"#NXTTakeoverRival made me even more excited for what's to come!! Congrats @SashaBanksWWE and @FightOwensFight on the new championships!", :followers=>429, :user_id=>23269752, :retweet=>0}
+{:name=>"@Tracy_WWEFan", :text=>"Just got home from work, so now I get to finally watch #NXTTakeoverRival!", :followers=>601, :user_id=>428936308, :retweet=>0}
+{:name=>"@shivyomak", :text=>"RT @Chaos_Theory420: @shivyomak if only #WWEFastLane was gonna be as good as #NXTTakeoverRival !!!! Wooooooooo", :followers=>536, :user_id=>237835752, :retweet=>1}
+{:name=>"@RyanNeuman9", :text=>"RT @koeppsDE: That pic says everything about #NXTTakeoverRival! @FightOwensFight has destroyed @iLikeSamiZayn... #FightOwensFight http://t.…", :followers=>263, :user_id=>549008403, :retweet=>2}
+{:name=>"@jjdion2", :text=>"RT @RonFunches: It's a beautiful sight watching @FightOwensFight vs @iLikeSamiZayn in a WWE title match. Awesome humans #NXTTakeoverRival", :followers=>40, :user_id=>1968485576, :retweet=>6}
+{:name=>"@RyanNeuman9", :text=>"RT @MarkinOut: Your NEW #WWENXT Champion @FightOwensFight! Congratulations! #NXTTakeoverRival #NXTTakeOver #FightOwensFight #KO http://t.co…", :followers=>263, :user_id=>549008403, :retweet=>10}
+{:name=>"@xilio_respawn", :text=>"Everytime @HideoItami pulling a fireman's carry, his opponent quickly escapes =)) #NXTTakeoverRival", :followers=>392, :user_id=>56397500, :retweet=>0}
+{:name=>"@JayJCruz", :text=>"Adrian Neville really is the man that gravity forgot.  Sick match #BalorvsNeville #NXTTakeoverRival #WWENetwork #wwe", :followers=>21, :user_id=>770640445, :retweet=>0}
+{:name=>"@JoshO567", :text=>"Finn Balor's entrance is amazing. #NXTTakeoverRival", :followers=>1108, :user_id=>226835834, :retweet=>0}
+{:name=>"@JoshO567", :text=>"NXT has better wrestlers than most of the main roster. #NXTTakeoverRival", :followers=>1108, :user_id=>226835834, :retweet=>0}
+{:name=>"@BadNewsBeardo", :text=>"Managed to get NXT ruined for me within minutes of being awake.... #thanksinternetthanks #fightowensfight #NXTTakeoverRival", :followers=>232, :user_id=>78268900, :retweet=>0}
+{:name=>"@Wezmeister17", :text=>"Soon as I get in im watching #NXTTakeoverRival better than #RAW or #SmackDown these days", :followers=>204, :user_id=>112283341, :retweet=>0}
+{:name=>"@jammmmmey", :text=>"This tag match.... Bit botchy #NXTTakeoverRival", :followers=>47, :user_id=>609291785, :retweet=>0}
+{:name=>"@SuperStarcomedy", :text=>"No wonder @WWE Main Roster are upset at @WWENXT, everything about tonight's #NXTTakeoverRival was incredible @iLikeSamiZayn vs K.O  wow!!!", :followers=>1048, :user_id=>29169389, :retweet=>0}
+{:name=>"@LA2Charlie", :text=>"@FightOwensFight takes the Gold at #NXTTakeoverRival! I'm stoked! Definitely one of my inspirations. #ZaynvsOwens @WWE", :followers=>109, :user_id=>104084073, :retweet=>0}
+{:name=>"@lilrock023", :text=>"Itami and Breeze killed it. Balor and Neville were solid. Zayn and Owens was great in-ring storytelling. #NXTTakeoverRival", :followers=>107, :user_id=>25100845, :retweet=>0}
+{:name=>"@RoughHouseRosie", :text=>"RT @bodyguy_: As a fan, do you really need to post pictures of what happened? What purpose does that serve to your life? Does any1 care? #N…", :followers=>1642, :user_id=>171968483, :retweet=>1}
+{:name=>"@BSAB_Presents", :text=>"RT @RonFunches: It's a beautiful sight watching @FightOwensFight vs @iLikeSamiZayn in a WWE title match. Awesome humans #NXTTakeoverRival", :followers=>293, :user_id=>605136962, :retweet=>6}
+{:name=>"@ThePaulyKover", :text=>"Now that I'm home &amp; relaxed, time to enjoy @WWE @WWENXT #NXTTakeoverRival on @WWENetwork.", :followers=>1744, :user_id=>30471414, :retweet=>0}
+{:name=>"@DensonDan", :text=>"OMG. @wwebalor v @WWENeville was incredible. @TripleH Brass rings are in their luggage i believe. #NXTTakeoverRival", :followers=>98, :user_id=>140919981, :retweet=>0}
+{:name=>"@LadyKaianne", :text=>"RT @RonFunches: Those boys went out there and taught a master class. Amazing #ZaynvsOwens #NXTTakeoverRival", :followers=>546, :user_id=>466265269, :retweet=>1}
+{:name=>"@JustBerglund", :text=>"@FightOwensFight is the new NXT Champion! Not the greatest match, but damn was that exciting! Plenty more of them please! #NXTTakeoverRival", :followers=>5656, :user_id=>167828742, :retweet=>0}
+{:name=>"@CthulhuTheDead", :text=>"@WWBalor &amp; @WWENeville, well done lads, absolutely outstanding match on #NXTTakeoverRival.", :followers=>1080, :user_id=>353568238, :retweet=>0}
+{:name=>"@IAustin_Hope", :text=>"@WWETensai sounds just like @GovJVentura on commentary, and it's fantastic. #NXTTakeoverRival", :followers=>184, :user_id=>1112560946, :retweet=>0}
+{:name=>"@MFitnessProject", :text=>"RT @LanceStorm: Great great match Neville vs. Balor #NXTTakeoverRival", :followers=>32, :user_id=>1086134257, :retweet=>134}
+{:name=>"@AJLeeisBITW", :text=>"Amazing! Match of the night between @MsCharlotteWWE @SashaBanksWWE @BeckyLynchWWE and @itsBayleyWWE at #NXTTakeoverRival", :followers=>7306, :user_id=>217879220, :retweet=>0}
+{:name=>"@RealShowSmith", :text=>"Surely I'm not the only one that would rather see @FightOwensFight vs. @BrockLesnar at #WrestleMania #NXTTakeoverRival #OwensVsZayn", :followers=>0, :user_id=>1583005212, :retweet=>0}
+{:name=>"@WWESPAINGAME", :text=>"Evento #NXTTakeoverRival bastante flojo, espero que empiece ya lo bueno.", :followers=>1299, :user_id=>868847005, :retweet=>0}
+{:name=>"@WWESPAINGAME", :text=>"Bull vs. Corbin ha sido meh 👎 #NXTTakeoverRival", :followers=>1299, :user_id=>868847005, :retweet=>0}
+{:name=>"@holgerheringa", :text=>"I dont care that its the same , @wwebalor ´s face paint is still amazing #NXTTakeoverRival", :followers=>153, :user_id=>180291340, :retweet=>0}
+{:name=>"@aspnoza", :text=>"Sami Zayn the underdog from underground! Oleeee! #NXTTakeoverRival", :followers=>602, :user_id=>188604755, :retweet=>0}
+{:name=>"@captainn00dles", :text=>"@RonFunches @FightOwensFight @iLikeSamiZayn   That match was pure awesome #NXTTakeoverRival", :followers=>12, :user_id=>1930518992, :retweet=>0}
+{:name=>"@THE_Ribbit", :text=>"After watching #NXT #NXTTakeoverRival the raw divas need to be worried about their spots", :followers=>23, :user_id=>944776513, :retweet=>0}
+{:name=>"@BREEZY_FLASH", :text=>"RT @MikeIStheHat: Blake and Murphy sounds like a law firm not a wrestling tag team #NXTTakeoverRival", :followers=>1311, :user_id=>543899793, :retweet=>1}
+{:name=>"@KamKamaron", :text=>"@SashaBanksWWE is my hero\n#NXTTakeoverRival #ShesNotRachet", :followers=>88, :user_id=>263000021, :retweet=>0}
+{:name=>"@martinlmnt", :text=>"So this guy fell asleep before #NXTTakeoverRival started so watching it now. #WWENetwork", :followers=>1668, :user_id=>31378661, :retweet=>0}
+{:name=>"@OMG_Its_Benj", :text=>"#NXT is literally the greatest show on earth, 2nd to Wresltemania. #NXTTakeoverRival #KevinOwens #SamiZayn", :followers=>720, :user_id=>425924378, :retweet=>0}
+{:name=>"@wrestlingfan97", :text=>"RT @LanceStorm: . @MsCharlotteWWE @SashaBanksWWE @itsBayleyWWE @BeckyLynchWWE  \n\nYou have my respect and admiration. #NXTTakeoverRival", :followers=>1425, :user_id=>2156813291, :retweet=>286}
+{:name=>"@TheDaveyPeters", :text=>"RT @RoFloESPN: That Finn Balor/ Adrian Neville match was tremendous. Great combo of Story telling and athleticism #NXTRival #NXTTakeoverRiv…", :followers=>608, :user_id=>86168724, :retweet=>149}
+{:name=>"@unstapamelvz", :text=>"Lol i forget the Z-Pack chants. #NXTTakeoverRival", :followers=>1368, :user_id=>356025725, :retweet=>0}
+{:name=>"@TheDaveyPeters", :text=>"RT @LanceStorm: . @MsCharlotteWWE @SashaBanksWWE @itsBayleyWWE @BeckyLynchWWE  \n\nYou have my respect and admiration. #NXTTakeoverRival", :followers=>608, :user_id=>86168724, :retweet=>286}
+{:name=>"@JayJCruz", :text=>"Is it me or is everyone at NXT best friends? Great matches all around but no depth in the storylines #wwenetwork #NXTTakeoverRival #wwe", :followers=>21, :user_id=>770640445, :retweet=>0}
+{:name=>"@banter_shane", :text=>"RT @RoFloESPN: That Finn Balor/ Adrian Neville match was tremendous. Great combo of Story telling and athleticism #NXTRival #NXTTakeoverRiv…", :followers=>71, :user_id=>2941064517, :retweet=>149}
+{:name=>"@Lucralized", :text=>"RT @WrestlingInc: RT if you give #NXTTakeoverRival a THUMBS UP!", :followers=>178, :user_id=>2163709010, :retweet=>190}
+{:name=>"@andrewdeyoe", :text=>"RT @RonFunches: It's a beautiful sight watching @FightOwensFight vs @iLikeSamiZayn in a WWE title match. Awesome humans #NXTTakeoverRival", :followers=>488, :user_id=>32827269, :retweet=>6}
+{:name=>"@ClobberCast", :text=>"Just finished #NXTTakeoverRival and am seriously considering watching again immediately. Best women's match I've seen in WWE and KO is mean!", :followers=>71, :user_id=>1892163259, :retweet=>0}
+{:name=>"@MikeIStheHat", :text=>"Blake and Murphy sounds like a law firm not a wrestling tag team #NXTTakeoverRival", :followers=>275, :user_id=>35053984, :retweet=>1}
+{:name=>"@RonFunches", :text=>"Those boys went out there and taught a master class. Amazing #ZaynvsOwens #NXTTakeoverRival", :followers=>84292, :user_id=>60520655, :retweet=>1}
+{:name=>"@Antho_Bevis", :text=>"#NW #NXTTakeoverRival", :followers=>409, :user_id=>399438240, :retweet=>0}
+{:name=>"@Mr_Deal86", :text=>"Eat Sleep Powerbomb Repeat #NXTTakeoverRival #KevinOwens", :followers=>102, :user_id=>20859634, :retweet=>0}
+{:name=>"@XenoVC", :text=>"I'm just bummed Sami isn't getting a long run with the belt now. Hope he isn't being taken out of NXT soon either. #NXTTakeoverRival", :followers=>91, :user_id=>59626670, :retweet=>0}
+{:name=>"@Laura_220107", :text=>"RT @LanceStorm: Okay Balor may have dethroned The Undertaker for best ring entrances #NXTTakeoverRival", :followers=>267, :user_id=>38414859, :retweet=>200}
+{:name=>"@MichaelDB92", :text=>"Balor vs Neville was insanely good #NXTTakeoverRival", :followers=>6, :user_id=>2692559379, :retweet=>0}
+{:name=>"@josh081388", :text=>"@TripleH I was wondering if I can get your feedback as to how you thought #NXTTakeoverRival went down #wwe #nxt", :followers=>19, :user_id=>2944647836, :retweet=>0}
+{:name=>"@JForde88", :text=>"Loved the German Suplex @itsBayleyWWE #EatSleepSuplexRepeat #HugLife #NXTTakeoverRival", :followers=>23, :user_id=>1170385358, :retweet=>0}
+{:name=>"@espo2032", :text=>"Amazing talent in nxt Finn baller is awesome #NXTTakeoverRival", :followers=>55, :user_id=>525745485, :retweet=>0}
+{:name=>"@Noeldaddy1", :text=>"#NXTTakeoverRival  BEST W OMENS MATCH I HAVE SEEN.", :followers=>5, :user_id=>2954148951, :retweet=>0}
+{:name=>"@salmanuv", :text=>"#NXTTakeoverRival Get Fast Cash 4 Homes!! http://t.co/Z7y2Oey5I4", :followers=>354, :user_id=>33896029, :retweet=>0}
+{:name=>"@josh081388", :text=>"@RealPaigeWWE can I get your feedback on what you thought of #NXTTakeoverRival and @SashaBanksWWE winning the #NXTWomensChampionship? #nxt", :followers=>19, :user_id=>2944647836, :retweet=>0}
+{:name=>"@23kujoxxxl", :text=>"#NXTTakeoverRival Divas fatal 4way match was awsome", :followers=>82, :user_id=>1027963166, :retweet=>0}
+{:name=>"@Mr_Deal86", :text=>"Fight Owens Fight #NXTTakeoverRival #KevinOwens way to build your monster heel!", :followers=>102, :user_id=>20859634, :retweet=>0}
+{:name=>"@HiImVicHolland", :text=>"RT @LanceStorm: . @MsCharlotteWWE @SashaBanksWWE @itsBayleyWWE @BeckyLynchWWE  \n\nYou have my respect and admiration. #NXTTakeoverRival", :followers=>52, :user_id=>2207915034, :retweet=>286}
+{:name=>"@OMG_Its_Benj", :text=>"Congratulations to @SashaBanksWWE on wining the @WWENXT Women's title! Keep up the hard work! #NXTTakeoverRival #Boss", :followers=>720, :user_id=>425924378, :retweet=>0}
+{:name=>"@ChrisisaTaylor", :text=>"RT @RonFunches: You deserve it @SashaBanksWWE  further proof that the women need more love from @WWE  great match by all. #NXTTakeoverRival", :followers=>146, :user_id=>396997718, :retweet=>3}
+{:name=>"@ChrisisaTaylor", :text=>"RT @RonFunches: It's a beautiful sight watching @FightOwensFight vs @iLikeSamiZayn in a WWE title match. Awesome humans #NXTTakeoverRival", :followers=>146, :user_id=>396997718, :retweet=>6}
+{:name=>"@DensonDan", :text=>"Sin cara almost got the pin with a 'Rollins - package'#NXTTakeoverRival", :followers=>98, :user_id=>140919981, :retweet=>0}
+{:name=>"@JDKennedy6", :text=>"#NXTTakeoverRival was one hell of a show so happy for @SashaBanksWWE the new NXT women's champion !", :followers=>36, :user_id=>2994936320, :retweet=>0}
+{:name=>"@DensonDan", :text=>"Blake and murphy double team press into a neckbreaker. Wow. Calisto is impressive as always. #NXTTakeoverRival", :followers=>98, :user_id=>140919981, :retweet=>0}
+{:name=>"@AjayYadav_", :text=>"OMG!! Finn Balor vs Adrian Neville was awesome. #NXTTakeoverRival", :followers=>517, :user_id=>430535739, :retweet=>0}
+{:name=>"@uudeist", :text=>"@BaronCorbinWWE shows his aggressive side! If we keep seeing this intensity, he'll be taking over Raw before long! #NXTTakeoverRival", :followers=>58, :user_id=>379538276, :retweet=>0}
+{:name=>"@JpOuterHaven", :text=>"RT @RonFunches: It's a beautiful sight watching @FightOwensFight vs @iLikeSamiZayn in a WWE title match. Awesome humans #NXTTakeoverRival", :followers=>405, :user_id=>94193981, :retweet=>6}
+{:name=>"@RockNRoller2014", :text=>"RT @LanceStorm: Unconventional ending to Zayn vs Owens. I liked it, Owens dominates but Zayn not technically beaten. #NXTTakeoverRival Deli…", :followers=>15, :user_id=>2709336344, :retweet=>153}
+{:name=>"@KazzaY17_MUFC", :text=>"Once again the divas showing that give them time, and they will perform #NXTTakeoverRival", :followers=>2734, :user_id=>182846146, :retweet=>0}
+{:name=>"@LadyKaianne", :text=>"RT @RonFunches: It's a beautiful sight watching @FightOwensFight vs @iLikeSamiZayn in a WWE title match. Awesome humans #NXTTakeoverRival", :followers=>546, :user_id=>466265269, :retweet=>6}
+{:name=>"@KyleMSMFC", :text=>"The Women's match from #NXTTakeoverRival was incredible! All 4 of those woman could have won!", :followers=>156, :user_id=>63981688, :retweet=>0}
+{:name=>"@RockNRoller2014", :text=>"RT @IPWUK: Jason Albert sounds like a mix of HHH and Jesse Ventura! #OwensVsZayn #NXTTakeoverRival", :followers=>15, :user_id=>2709336344, :retweet=>7}
+{:name=>"@ScottVito", :text=>"I love that @SashaBanksWWE channels her inner @takam777 by doing a Just Facelock.  That move rules. #NXTTakeoverRival", :followers=>143, :user_id=>36020412, :retweet=>0}
+{:name=>"@TheTrueHman", :text=>"For me @wwebalor v @WWENeville was match of the night. It had a great pace and those two owned it. #NXTTakeoverRival", :followers=>1028, :user_id=>17581586, :retweet=>0}
+{:name=>"@SeanFewster", :text=>"Finally! The work day's over - time to watch #NXTTakeoverRival on the @WWENetwork! #wrestling #FamilyTime", :followers=>1417, :user_id=>775632937, :retweet=>0}
+{:name=>"@Dark_Cthulhu", :text=>"Queda todo dicho #NXTTakeoverRival #NXTTakeOver #NXTRival #NXT http://t.co/0frM2LDzgC", :followers=>114, :user_id=>2250657380, :retweet=>0}

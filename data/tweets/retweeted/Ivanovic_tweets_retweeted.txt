@@ -1,5 +1,5 @@
-{:text=>"RT @ChelseaFC: Chelsea team v Everton: Cech; Ivanovic, Zouma, Terry (c), Azpilicueta; Ramires, Matic; Cuadrado, Willian, Hazard; Remy. #CFC", :retweet=>4464}
-{:text=>"RT @BBCSporf: QUALITY: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/etoDC5bqJq", :retweet=>2916}
-{:text=>"RT @FootNews_Fr: Quand Barkley ne respecte pas Ivanovic https://t.co/bV56OKxGZh", :retweet=>1090}
-{:text=>"RT @Vine_Football: Ivanovic has been mugged here. http://t.co/FDBVTxhiQB", :retweet=>1084}
-{:text=>"RT @TransferRelated: Ross Barkley mugs off Branislav Ivanovic. This is class. https://t.co/L2pFa3xpTW", :retweet=>821}
+{:text=>"RT @BBCSporf: QUALITY: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/etoDC5bqJq", :retweet=>2922}
+{:text=>"RT @FootNews_Fr: Quand Barkley ne respecte pas Ivanovic https://t.co/bV56OKxGZh", :retweet=>1097}
+{:text=>"RT @TransferRelated: Ross Barkley mugs off Branislav Ivanovic. This is class. https://t.co/L2pFa3xpTW", :retweet=>823}
+{:text=>"RT @JustFutball: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/0HBINPXoaB", :retweet=>443}
+{:text=>"RT @FootbalIStuff: Ross Barkley mugs off Branislav Ivanovic.  https://t.co/jRvn5S38ZY", :retweet=>315}

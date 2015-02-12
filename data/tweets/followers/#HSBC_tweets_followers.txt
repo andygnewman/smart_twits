@@ -1,5 +1,5 @@
-{:name=>"@BBCNews", :text=>"UK government should have known of #HSBC scandal in 2010, whistleblower at the centre of story says http://t.co/mugphfVv8y", :followers=>3711066, :user_id=>612473, :retweet=>15}
-{:name=>"@Mundo24_ve", :text=>"Aumenta presión para pedir explicaciones a Maduro por el dinero del #HSBC http://t.co/WVwyeUFZDz", :followers=>34378, :user_id=>2678263322, :retweet=>0}
-{:name=>"@edwardlucas", :text=>"RT @alexwilks: Stop Putin by blocking Russian dirty money and the 'pinstripe army' of bankers who shift it, says @edwardlucas #r4today #HSBC", :followers=>29961, :user_id=>22369602, :retweet=>14}
-{:name=>"@prospect_uk", :text=>"Time to get serious about bank reform http://t.co/voB3QlYYoh #HSBC", :followers=>26587, :user_id=>21417687, :retweet=>2}
-{:name=>"@BenPBradshaw", :text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :followers=>25724, :user_id=>24211594, :retweet=>168}
+{:name=>"@FRANCE24", :text=>"RT @F24Debate: #SwissLeaks - Did #HSBC funnel fonds to Al-Qaeda? @FrancoisF24 asks @F_Obermaier on @FRANCE24 http://t.co/nfNhpCLjPL http://…", :followers=>1364004, :user_id=>1994321, :retweet=>14}
+{:name=>"@France24_en", :text=>"RT @F24Debate: #SwissLeaks - Did #HSBC funnel fonds to Al-Qaeda? @FrancoisF24 asks @F_Obermaier on @FRANCE24 http://t.co/nfNhpCLjPL http://…", :followers=>88823, :user_id=>25049056, :retweet=>14}
+{:name=>"@PaulTMRetail", :text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :followers=>26544, :user_id=>326076833, :retweet=>178}
+{:name=>"@F24Debate", :text=>"#SwissLeaks - Did #HSBC funnel fonds to Al-Qaeda? @FrancoisF24 asks @F_Obermaier on @FRANCE24 http://t.co/nfNhpCLjPL http://t.co/f8laSMIGWy", :followers=>11026, :user_id=>2196023400, :retweet=>14}
+{:name=>"@jolofal", :text=>"#SwissLeaks \n-Did #HSBC funnel fonds to Al-#Qaeda? http://t.co/qlPJzJ0GNn", :followers=>6529, :user_id=>164684900, :retweet=>0}

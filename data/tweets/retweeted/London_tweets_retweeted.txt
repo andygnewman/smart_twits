@@ -1,5 +1,5 @@
-{:text=>"RT @Alexis_Sanchez: Going to sleep! Tomorrow those 3 points are coming to London!!! #GUNNERS http://t.co/qmX2hnbhQw", :retweet=>10952}
-{:text=>"RT @Alexis_Sanchez: Beautiful sunny day in London! Thanks for all your messages , see you tomorrow at The Emirates! 😋🐶🐶🏡 http://t.co/xVXvhK…", :retweet=>5359}
-{:text=>"RT @BrooksBeau: This filter makes me look LONDON white and is making me excited for our wembley show:) http://t.co/1GyoYVmjXE", :retweet=>2137}
-{:text=>"RT @tuwithambar: Tunggu iklan TV3, sempat aku makan, mandi, baca satu buku, carik penawar utk penyakit kanser dan gali lubang sampai London.", :retweet=>1996}
-{:text=>"RT @davidguetta: At my favorite studio in london metropolis with martingarrix HIT HIT HIT HIT!!!!! http://t.co/UnIQcAih2g", :retweet=>1200}
+{:text=>"RT @MileyCyrus: da #bangerztour DVD is comingggggggg March 24!!! http://t.co/arUehYTggw", :retweet=>7048}
+{:text=>"RT @WorldDutyFree: Win the perfect gift she'll LOVE this Valentine's. RT &amp; follow @WorldDutyFree to #win this lovely @Radley_London set htt…", :retweet=>1562}
+{:text=>"RT @BBCEngland: More 999 calls expected from #50ShadesOfGrey fans trapped by handcuffs, says @LondonFire http://t.co/1QumNcCdBy http://t.co…", :retweet=>327}
+{:text=>"RT @TheEconomist: London’s population is the same size as it was in 1939, but looks very different http://t.co/zwxaKpFr2V http://t.co/qsyZ7…", :retweet=>179}
+{:text=>"RT @LondonFire: A man was stuck with 2 penis rings on for 3 days. If the ring doesn’t fit, don’t force it on #FiftyShadesofRed http://t.co/…", :retweet=>102}

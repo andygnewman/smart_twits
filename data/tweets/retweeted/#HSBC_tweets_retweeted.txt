@@ -1,5 +1,5 @@
-{:text=>"RT @arusbridger: Some of the warm letters of encouragement we (and doubtless BBC) received while researching #HSBC http://t.co/btblBHLNG1", :retweet=>2109}
-{:text=>"RT @Ian_Fraser: So, David Cameron, why is #HSBC facing criminal investigations in the US, France, Belgium &amp; Argentina but not the UK? http:…", :retweet=>1407}
-{:text=>"RT @GuillaumeTC: Bonjour ! \nJe laisse ça là, juste comme ça... ;)\n#HSBC #CroisonsLes http://t.co/TNpIlUcOTK", :retweet=>979}
-{:text=>"RT @BBCPanorama: Stephen Green earned £3m a year as the boss at #HSBC, then was appointed a minister in the House of Lords. http://t.co/eJc…", :retweet=>686}
-{:text=>"RT @RealBobMortimer: Fucking snivelling spineless piece of shit #HSBC", :retweet=>391}
+{:text=>"RT @arusbridger: Some of the warm letters of encouragement we (and doubtless BBC) received while researching #HSBC http://t.co/btblBHLNG1", :retweet=>2110}
+{:text=>"RT @NaeFear: Another crooked bank uncovered. Q why are criminal bankers not in jail? #HSBC", :retweet=>201}
+{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>178}
+{:text=>"RT @Channel4News: .@paulmasonnews tries to track down the ex trade minister and  former #HSBC chairman.\nhttp://t.co/r158uWynS3\n#c4news http…", :retweet=>147}
+{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>136}

@@ -1,5 +1,5 @@
-{:text=>"RT @piersmorgan: If a Muslim executed 3 Christian students in U.S., it would get a LOT more media coverage than I'm seeing right now. \n\n#Ch…", :retweet=>24772}
-{:text=>"RT @Furqan_Naeem: This couldn't be more true... #ChapelHillShooting http://t.co/JqPAXFmDbS", :retweet=>11903}
-{:text=>"RT @mohammedzismail: These 3 young college students were murdered execution style and not a whisper from the media. #ChapelHillShooting htt…", :retweet=>10581}
-{:text=>"RT @sallykohn: UPDATED re #ChapelHillShooting — \n\nMuslim shooter = terrorist\n\nBlack shooter = thug\n\nWhite shooter = just a tiff about a par…", :retweet=>10016}
-{:text=>"RT @ozchrisrock: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be nonstop. \n#ChapelHillShooting http…", :retweet=>9333}
+{:text=>"RT @piersmorgan: If a Muslim executed 3 Christian students in U.S., it would get a LOT more media coverage than I'm seeing right now. \n\n#Ch…", :retweet=>24855}
+{:text=>"RT @SaudiNews50: أمريكي يقتل 3 طلاب مسلمين عرب يدرسون في جامعة \"نورث كارولينا\" والإعلام الأمريكي يتجاهل القضية.\n\n #ChapelHillShooting http:…", :retweet=>4431}
+{:text=>"RT @ozchrisrock: boy what a different news day in America would it be if this is what the killer looked like #ChapelHillShooting http://t.c…", :retweet=>3064}
+{:text=>"RT @Bipartisanism: 87% of U.S. mass shooting are committed by caucasians 13-56 but are never called 'Terrorists'. #ChapelHillShooting http:…", :retweet=>3052}
+{:text=>"RT @jabertoon: لا شيء يذكر \n\n #ChapelHillShooting\n #MuslimLivesMatter http://t.co/BA9SNkkILr", :retweet=>2934}
