@@ -50,7 +50,7 @@ class APITwitter
       config.access_token        = hash_with_keys["Access_Token"]
       config.access_token_secret = hash_with_keys["Access_Token_Secret"]
     end
-  end  
+  end
 
   def refresh_all_twitter_data
     save_trends
@@ -82,7 +82,7 @@ class APITwitter
     tweets = []
     @client_streaming.filter(:track => subject) do |tweet|
       tweets << tweet
-    end  
+    end
   end
 
   def get_tweets(hash_tag_g,query_number = 10)
@@ -138,5 +138,3 @@ end
 
 twitter = APITwitter.new
 twitter.refresh_all_twitter_data
-
-

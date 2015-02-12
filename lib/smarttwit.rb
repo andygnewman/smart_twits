@@ -1,6 +1,7 @@
 require 'sinatra/base'
 require 'json'
 require_relative 'tweets'
+require 'byebug'
 
 class SmartTwit < Sinatra::Base
 
@@ -14,14 +15,25 @@ class SmartTwit < Sinatra::Base
     erb :trends
   end
 
-  get '/index' do
+  get '/index?' do
     @trends_list = tweets.find_trends('./data/trends/toptrends.txt')
-    @retweets = tweets.find_retweets("./data/tweets/retweeted/Tory_tweets_retweeted.txt")
-    @followers = tweets.find_followers("./data/tweets/followers/Tory_tweets_followers.txt")
-    @mentions = tweets.find_mentions(5, "./data/tweets/tweets/Tory_tweets.txt")
-    @words = tweets.find_words(10, "./data/tweets/tweets/Tory_tweets.txt")
+    trend_ref = params[:trend] || @trends_list[0][1]
+    @retweets = tweets.find_retweets("./data/tweets/retweeted/#{trend_ref}_tweets_retweeted.txt")
+    @followers = tweets.find_followers("./data/tweets/followers/#{trend_ref}_tweets_followers.txt")
+    @mentions = tweets.find_mentions(5, "./data/tweets/tweets/#{trend_ref}_tweets.txt")
+    @words = tweets.find_words(10, "./data/tweets/tweets/#{trend_ref}_tweets.txt")
     erb :layout
   end
+
+  # get '/index/:trend' do
+  #   @trends_list = tweets.find_trends('./data/trends/toptrends.txt')
+  #   trend_ref = params[:trend]
+  #   @retweets = tweets.find_retweets("./data/tweets/retweeted/#{trend_ref}_tweets_retweeted.txt")
+  #   @followers = tweets.find_followers("./data/tweets/followers/#{trend_ref}_tweets_followers.txt")
+  #   @mentions = tweets.find_mentions(5, "./data/tweets/tweets/#{trend_ref}_tweets.txt")
+  #   @words = tweets.find_words(10, "./data/tweets/tweets/#{trend_ref}_tweets.txt")
+  #   erb :layout
+  # end
 
   get '/trends?:trend' do
     @words = tweets.find_words("./data/tweets/tweets/#{params[:trend]}_tweets.txt")

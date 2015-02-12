@@ -1,6 +1,6 @@
 
 <ul>
   <% @trends_list.each do |trend| %>
-    <li><a href="/trends<%= trend[1] %>"><%= trend[0] %></a></li>
+    <li><a href="/index?trend=<%= trend[1] %>"><%= trend[0] %></a></li>
   <% end %>
 </ul>

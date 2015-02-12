@@ -5,7 +5,7 @@ class Tweets
   include Helper
 
   REJECT_WORDS = ['rt', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now"]
-  
+
   def find_trends(file_path)
     trends = read_file(file_path)
     array = []
@@ -71,5 +71,3 @@ class Tweets
   end
 
 end
-
-
