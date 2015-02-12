@@ -1,5 +1,5 @@
 <ul>
 	<% @followers.each do |el| %>
-    <li><%= "#{el[0]}: '#{el[1]}' Followers: #{el[2]}" %></li>
+    <li><%= "<span>#{el[0]}:</span> '#{el[1]}' <span>Followers: #{el[2]}</span>" %></li>
   <% end %>
 </ul>

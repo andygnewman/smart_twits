@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'json'
 require_relative 'tweets'
 
 class SmartTwit < Sinatra::Base
@@ -18,6 +19,7 @@ class SmartTwit < Sinatra::Base
     @retweets = tweets.find_retweets("./data/tweets/retweeted/Tory_tweets_retweeted.txt")
     @followers = tweets.find_followers("./data/tweets/followers/Tory_tweets_followers.txt")
     @mentions = tweets.find_mentions(5, "./data/tweets/tweets/Tory_tweets.txt")
+    @words = tweets.find_words(10, "./data/tweets/tweets/Tory_tweets.txt")
     erb :layout
   end
 
