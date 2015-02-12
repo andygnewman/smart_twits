@@ -51,9 +51,10 @@ class APITwitter
   def save_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
     @response.attrs[:trends].each do |el|
-      @trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub(' ','')}
+      @trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub('#','')}
     end
     delete_files_from_directory(PATH_TRENDS)
+
     save_data(PATH_TRENDS+'toptrends.txt', @trends)
   end
 

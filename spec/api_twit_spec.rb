@@ -112,4 +112,9 @@ describe 'API' do
     expect(Dir.glob("./data/trends/**/*").count).to eq(0)    
   end
 
+  it 'should be no hashes in trends file name' do
+    expect(twitter.trends.select{|el| el.include?('#')}.count).to eq(0)
+
+  end
+
 end
