@@ -1,0 +1,100 @@
+{:name=>"@popyanjasia", :text=>"RT @SEBHEUPDATE: Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/6jQ4VqqZrD #SEBHEUPDATE", :followers=>42, :user_id=>993313789, :retweet=>0}
+{:name=>"@Dzarotsoekamti", :text=>"RT @SEBHEUPDATE: Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/t3hb1wFRIP #SEBHEUPDATE", :followers=>18, :user_id=>930216295, :retweet=>0}
+{:name=>"@fahmirizald", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas huk... http://t.co/egzi2CwMHj #FollowMe", :followers=>1491, :user_id=>1384636009, :retweet=>0}
+{:name=>"@taehyungxbts", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/smXbTDugkm", :followers=>163, :user_id=>2532617433, :retweet=>0}
+{:name=>"@KeluargaPKS", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/JiGmKnBTxT", :followers=>1686, :user_id=>2893432991, :retweet=>0}
+{:name=>"@FalherLe", :text=>"RT @allantweston: In fairness to the ref maybe he was unsighted and didn't see ivanovic's red card offence on McCarthy!! #EFC #CHEvEFC http…", :followers=>345, :user_id=>464217048, :retweet=>81}
+{:name=>"@Zhanu05", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/N7BC3pdQWr", :followers=>161, :user_id=>2374819620, :retweet=>0}
+{:name=>"@M_adriansyahg3", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/v7okX6Byqj", :followers=>235, :user_id=>1448743915, :retweet=>0}
+{:name=>"@roykimmie", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/bdlVZcgmvR", :followers=>157, :user_id=>893301908, :retweet=>0}
+{:name=>"@IndioNegriazul", :text=>"Uhhhh, ya me los imagino a todos hinchando las bolas de aquí a fin de año con la FIFA y con Ivanovic", :followers=>811, :user_id=>275339451, :retweet=>0}
+{:name=>"@Tylerhartshorn2", :text=>"RT @TFBible_: QUALITY: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/LONSOi3z7T", :followers=>56, :user_id=>1104616326, :retweet=>51}
+{:name=>"@RJMSinc", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/AI4DONQniW", :followers=>1934, :user_id=>539685410, :retweet=>0}
+{:name=>"@fxbarbe", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/WTzfLYSg76", :followers=>38, :user_id=>2503195214, :retweet=>0}
+{:name=>"@kwonbarbe", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/mkImfZ1Hex", :followers=>15, :user_id=>2175897523, :retweet=>0}
+{:name=>"@jiewnnie", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/tbHZCrAAew", :followers=>206, :user_id=>826421953, :retweet=>0}
+{:name=>"@BAC0NT", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/sjIER3CO1m", :followers=>119, :user_id=>2335859390, :retweet=>0}
+{:name=>"@yubi190", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/SZUK3clMVv", :followers=>23, :user_id=>2243291526, :retweet=>0}
+{:name=>"@Tukang_Update", :text=>"#News: Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hu... http://t.co/CZZ2sIPiKT #TU", :followers=>2022, :user_id=>116155386, :retweet=>0}
+{:name=>"@RidhwaanOnline", :text=>"RT @nikpostinger: Suarez bites Ivanovic. Then Ivanovic bites McCarthy. And that is how the #Zombie Apocalypse began... http://t.co/nkXEHjCB…", :followers=>777, :user_id=>250268088, :retweet=>54}
+{:name=>"@raz2fast", :text=>"RT @Tiramisouness: Has David Cameron commented on the Ivanovic bite yet? Or is it only a 'bad example for children' when Liverpool players …", :followers=>312, :user_id=>325692816, :retweet=>4}
+{:name=>"@SoccerDaddyBlog", :text=>"Chelsea and Everton charged, Ivanovic cleared http://t.co/aQQUrSnSEn", :followers=>315, :user_id=>2712990332, :retweet=>0}
+{:name=>"@cfctweetsfeed", :text=>"RT @ChelseaMail: Branislav Ivanovic will NOT face FA action after Chelsea star's 'bite' altercation with James McCarthy http://t.co/NifyZcP…", :followers=>442, :user_id=>2892379018, :retweet=>2}
+{:name=>"@chandraxaselole", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/OhQKVJz3AI", :followers=>191, :user_id=>2187305413, :retweet=>0}
+{:name=>"@zy_michele", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/fk65HLS6UD", :followers=>17, :user_id=>2373668420, :retweet=>0}
+{:name=>"@duisaf2cubed", :text=>"Hey.. It's Duisaf Plus: Chelsea'S Ivanovic \"suarezes\" Everton Midfielder &amp;... http://t.co/iersr66XxC", :followers=>6324, :user_id=>2230128662, :retweet=>0}
+{:name=>"@alfahridho", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/QkOzfT4GCI", :followers=>584, :user_id=>417998549, :retweet=>0}
+{:name=>"@DinoPrastian", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/56qgAoa8t4", :followers=>4113, :user_id=>1909974853, :retweet=>0}
+{:name=>"@f_kost", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/J3mTgkfj2l", :followers=>525, :user_id=>417995640, :retweet=>0}
+{:name=>"@marshetero", :text=>"@wheresfer vi não,olha aqui n fala do ivanovic", :followers=>2819, :user_id=>1616238246, :retweet=>0}
+{:name=>"@williamdipa", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/ECMuKIPZcX", :followers=>4779, :user_id=>1962822487, :retweet=>0}
+{:name=>"@prensadelfcb", :text=>"RT @sport: Mourinho se ríe de la pelea de Ivanovic... y amenaza a los periodistas\nhttp://t.co/zRFk396Muh", :followers=>107, :user_id=>2676361626, :retweet=>7}
+{:name=>"@DaRosvi", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/RyZedw5Gtb", :followers=>337, :user_id=>2258505338, :retweet=>0}
+{:name=>"@Heathy1785", :text=>"RT @TFBible_: QUALITY: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/LONSOi3z7T", :followers=>134, :user_id=>192653768, :retweet=>51}
+{:name=>"@MediaNetID", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA #newsID #beritadetik #beritaindonesia #followme #jualan… http://t.co/ii86Eaemgx", :followers=>368, :user_id=>2409238940, :retweet=>0}
+{:name=>"@BlogKite", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/6jWVxELgDF", :followers=>3097, :user_id=>1962157729, :retweet=>0}
+{:name=>"@IndoBerita__", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/MgTPnqtblb http://t.co/cf8xO5BapM", :followers=>3329, :user_id=>1639586539, :retweet=>0}
+{:name=>"@ggorjes", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/oCLwgYIAK2", :followers=>8, :user_id=>1721432168, :retweet=>0}
+{:name=>"@Travelonesia", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/erp867gASQ", :followers=>504, :user_id=>2540908519, :retweet=>0}
+{:name=>"@WartaTerupdate", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA", :followers=>280, :user_id=>1448991361, :retweet=>0}
+{:name=>"@ShamMoriggan", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA", :followers=>307, :user_id=>524311285, :retweet=>0}
+{:name=>"@klaarreezz_", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/Gm5PhSjW3f", :followers=>16, :user_id=>2532693259, :retweet=>0}
+{:name=>"@hvbarbe", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/XAwpih49gj", :followers=>27, :user_id=>2316593707, :retweet=>0}
+{:name=>"@DiTaufikAkbar", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/6svL80PcAc http://t.co/aD74P4RiIn", :followers=>121, :user_id=>398970164, :retweet=>0}
+{:name=>"@seoribu", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/24eBjTLXzu", :followers=>11, :user_id=>2284558626, :retweet=>0}
+{:name=>"@imJinri94", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/4Tj9arOKCx", :followers=>81, :user_id=>635831295, :retweet=>0}
+{:name=>"@patriciaaline12", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/ZjOUszImf3", :followers=>15, :user_id=>2373645726, :retweet=>0}
+{:name=>"@NatasyaaStefany", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/wvX8JTVRe0", :followers=>13, :user_id=>2373660338, :retweet=>0}
+{:name=>"@TeguhMTF", :text=>"#newsMTF Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas huku... http://t.co/FjI516mCRm", :followers=>219, :user_id=>306088050, :retweet=>0}
+{:name=>"@Sumsel_KITO", :text=>"#newsMTF Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas huku... http://t.co/R8xF9qfn5H", :followers=>1140, :user_id=>1377078822, :retweet=>0}
+{:name=>"@Decacaz", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/BFAGHYy38h", :followers=>157, :user_id=>2388531318, :retweet=>0}
+{:name=>"@ekaprastiikadwi", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/1FaFbTUnDg", :followers=>1562, :user_id=>1104917610, :retweet=>0}
+{:name=>"@CodingMotor", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/TTqh4s9GQ7", :followers=>20, :user_id=>2940423800, :retweet=>0}
+{:name=>"@KlayRule", :text=>"RT @sundownmotel: Chelsea are in a 'BUTT STORM' according to the English press http://t.co/g7nvT19jfS http://t.co/9Wsj3NedTR", :followers=>155, :user_id=>43268052, :retweet=>2}
+{:name=>"@IanMcWeenie", :text=>"RT @SBNationSoccer: Let's go to Chelsea where BUTT STORM. #butt #butts (pic: @NoItsRebecca) http://t.co/YPnk2LNQUZ http://t.co/OcNkDXnLUK", :followers=>84, :user_id=>603056599, :retweet=>3}
+{:name=>"@DanielHezartP", :text=>"null Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/YYqBrxQyHn", :followers=>1850, :user_id=>1368762624, :retweet=>0}
+{:name=>"@ssandywahyu", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/jnrvaJr8LL via #ssandywahyu", :followers=>7824, :user_id=>237999478, :retweet=>0}
+{:name=>"@joepg_85", :text=>"RT @FootyMemes: Ross Barkley&gt;Branislav Ivanovic. 👏 https://t.co/iVmt9NZ8xA", :followers=>223, :user_id=>301640301, :retweet=>349}
+{:name=>"@MWhelan21", :text=>"RT @TFBible_: QUALITY: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/LONSOi3z7T", :followers=>34, :user_id=>299566496, :retweet=>51}
+{:name=>"@48rupiah", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/ZidJKRndt0", :followers=>11, :user_id=>2463106526, :retweet=>0}
+{:name=>"@RubenZiliwu", :text=>"#detikcom Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas huk... http://t.co/NUCJQIPel1", :followers=>11262, :user_id=>1316816732, :retweet=>0}
+{:name=>"@fadeyiolayinka", :text=>"RT @Soccerfanbase: Branislav Ivanovic to face no further action from the FA. Decision went to three man panel who did not deem it a sending…", :followers=>1837, :user_id=>753815040, :retweet=>2}
+{:name=>"@OluwaDimples", :text=>"RT @nikpostinger: Suarez bites Ivanovic. Then Ivanovic bites McCarthy. And that is how the #Zombie Apocalypse began... http://t.co/nkXEHjCB…", :followers=>896, :user_id=>712831086, :retweet=>54}
+{:name=>"@portalmvd", :text=>"Ivanovic no será sancionado por la FA después de haber mordido aparentemente a un rival. http://t.co/2IYdzC3DHN http://t.co/9NqG2V0ztq", :followers=>119051, :user_id=>87751887, :retweet=>0}
+{:name=>"@Salih4_", :text=>"“@MrFootyNewss: Looks like Suarez has passed on a biting disease to Ivanovic... https://t.co/ErXFDvKy4L” did McCarthy say he got bit?", :followers=>442, :user_id=>60193271, :retweet=>0}
+{:name=>"@Codedtosin", :text=>"RT @Kingkeir: #CampaignAgainstChelsea no charge for Stone despite him assaulting Ivanovic http://t.co/5ARylQo9Kt", :followers=>1756, :user_id=>413217980, :retweet=>2}
+{:name=>"@HammFulNews", :text=>"Chelsea charged but Ivanovic escapes sanction after Everton fracas #HammersmithAndFulham http://t.co/C4CykMe6gO", :followers=>81, :user_id=>2976007155, :retweet=>0}
+{:name=>"@ydnzzsybn", :text=>"detikcom &gt;&gt; Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/SwmUj5B0Si", :followers=>1353, :user_id=>1306292012, :retweet=>0}
+{:name=>"@DUNIA_ONLINE", :text=>"#teamfolloback Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan beba...  http://t.co/hJc0BrLhBq", :followers=>430, :user_id=>366486824, :retweet=>0}
+{:name=>"@kevob215", :text=>"RT @prenno: Nothing to see here apparently. Ivanovic did not try to throttle @JMcCarthy_16 &amp; did not adopt an aggressive posture http://t.c…", :followers=>101, :user_id=>170634103, :retweet=>124}
+{:name=>"@luh_gawuls", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/ADt1GEuZ9n", :followers=>304, :user_id=>1196635747, :retweet=>0}
+{:name=>"@TantraHaditia", :text=>"RT @lfnisme: #BPL No FA charge for Ivanovic: Chelsea’s Branislav Ivanovic will not face any further action ... http://t.co/ESffKN2pSi #team…", :followers=>40352, :user_id=>1434390421, :retweet=>1}
+{:name=>"@iUtkarshJoshi", :text=>"RT @nikpostinger: Suarez bites Ivanovic. Then Ivanovic bites McCarthy. And that is how the #Zombie Apocalypse began... http://t.co/nkXEHjCB…", :followers=>654, :user_id=>352402788, :retweet=>54}
+{:name=>"@luh_gawuls", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/ADt1GEdnKN", :followers=>304, :user_id=>1196635747, :retweet=>0}
+{:name=>"@titiwulansarii", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/i9mi67ya6Z", :followers=>156, :user_id=>1128179156, :retweet=>0}
+{:name=>"@officialGeafa", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA", :followers=>404, :user_id=>1100706906, :retweet=>0}
+{:name=>"@ciaranmagill51", :text=>"RT @TFBible_: QUALITY: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/LONSOi3z7T", :followers=>37, :user_id=>218250996, :retweet=>51}
+{:name=>"@greysonchanceri", :text=>"Branislav Ivanovic dipastikan bebas hukuman terkait insiden perselisihan dengan James McCarthy. Meski begitu, FA menjatuhkan dakwaan ...", :followers=>155, :user_id=>362375624, :retweet=>0}
+{:name=>"@eddo75", :text=>"Ivanovic getting away with murder again. It was exactly the same when he shoved his arm into Suarez's mouth. Despicable player.", :followers=>3247, :user_id=>211089432, :retweet=>0}
+{:name=>"@tyas_heureux", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/uWDHtJGK2n", :followers=>954, :user_id=>213107890, :retweet=>0}
+{:name=>"@EnglishPLRR", :text=>"Branislav Ivanovic will not face further action by FA charge Chelsea and Everton http://t.co/ptTtWtpwVq", :followers=>2538, :user_id=>2857853880, :retweet=>0}
+{:name=>"@LiamDoel", :text=>"How hasn't Ivanovic been charged by the FA, he had Mcarthy in a fucking headlock #ChelseaFC #DirtyCunts", :followers=>879, :user_id=>240325628, :retweet=>0}
+{:name=>"@Charmalia", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/mhoyV350be", :followers=>537, :user_id=>225709599, :retweet=>0}
+{:name=>"@ngemil_choco", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/k7R2WjyAF9", :followers=>158, :user_id=>225711360, :retweet=>0}
+{:name=>"@liasarlia", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/jvtCPGWx47", :followers=>1629, :user_id=>185517988, :retweet=>0}
+{:name=>"@AyoMediaIna", :text=>"[detik] Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/vuhJXgYlOJ #ayomedia", :followers=>2867, :user_id=>742903801, :retweet=>0}
+{:name=>"@AyoMediaJakarta", :text=>"[detik] Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA http://t.co/b8vBUsEf6o #ayomedia", :followers=>291, :user_id=>822798630, :retweet=>0}
+{:name=>"@Official_echo", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/asjeKW88cj", :followers=>263, :user_id=>611502134, :retweet=>0}
+{:name=>"@dovsn", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/bDD5FTVYhD", :followers=>55, :user_id=>124949661, :retweet=>0}
+{:name=>"@MrOzy85", :text=>"RT @Tom_97_LFC: Should Ivanovic be banned? RT for yes Fav for yes", :followers=>334, :user_id=>586578016, :retweet=>8}
+{:name=>"@NewsFo0tball", :text=>"Ivanovic escapes punishment after McCarthy clash - See: http://t.co/IGJBQ9AqSD", :followers=>282, :user_id=>1071954836, :retweet=>0}
+{:name=>"@HanivRifki", :text=>"Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas hukuman terka... http://t.co/mislEpKQOQ", :followers=>1600, :user_id=>374876626, :retweet=>0}
+{:name=>"@BreakingNewsRI", :text=>"Breaking News: Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic... http://t.co/tBmuT5mxoS #TeamFollowBack", :followers=>1567, :user_id=>458099763, :retweet=>0}
+{:name=>"@lakesiide", :text=>"Chelsea’s Branislav Ivanovic will not face any further action in relation to an incident involving Everton’s J... http://t.co/h3CxZOaLpN", :followers=>1283, :user_id=>347952248, :retweet=>0}
+{:name=>"@Daniell_MUFC", :text=>"No FA charge for Ivanovic: Chelsea’s Branislav Ivanovic will not face any further action in relation to an inc... http://t.co/ciqCwsmlGL", :followers=>680, :user_id=>570722541, :retweet=>0}
+{:name=>"@mildo69", :text=>"RT @evertonfcpics: Moss booked Howard for doing this to Costa, yet does nothing to Ivanovic after doing this. Consistent refereeing @FA htt…", :followers=>185, :user_id=>472974345, :retweet=>86}
+{:name=>"@iMhartyz", :text=>"#IG:imhartyz No FA charge for Ivanovic: Chelsea’s Branislav Ivanovic will not face any further action in relat... http://t.co/BOGWqBlQnZ", :followers=>3483, :user_id=>195714277, :retweet=>0}
+{:name=>"@lfnisme", :text=>"#BPL No FA charge for Ivanovic: Chelsea’s Branislav Ivanovic will not face any further action ... http://t.co/ESffKN2pSi #teamfollowback", :followers=>852, :user_id=>104091481, :retweet=>1}
+{:name=>"@TaintlessRed", :text=>"RT @nikpostinger: Suarez bites Ivanovic. Then Ivanovic bites McCarthy. And that is how the #Zombie Apocalypse began... http://t.co/nkXEHjCB…", :followers=>6355, :user_id=>2431772863, :retweet=>54}
+{:name=>"@edgarresendiz07", :text=>"RT @TFBible_: QUALITY: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/LONSOi3z7T", :followers=>231, :user_id=>1862747928, :retweet=>51}
+{:name=>"@fress_fm1013", :text=>"@BreakingNews\" : Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic di... http://t.co/aL6UcP1iAJ #CyberNews", :followers=>141, :user_id=>286431992, :retweet=>0}

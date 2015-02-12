@@ -1,0 +1,3 @@
+{:name=>"@portalmvd", :text=>"Ivanovic no será sancionado por la FA después de haber mordido aparentemente a un rival. http://t.co/2IYdzC3DHN http://t.co/9NqG2V0ztq", :followers=>119051, :user_id=>87751887, :retweet=>0}
+{:name=>"@TantraHaditia", :text=>"RT @lfnisme: #BPL No FA charge for Ivanovic: Chelsea’s Branislav Ivanovic will not face any further action ... http://t.co/ESffKN2pSi #team…", :followers=>40352, :user_id=>1434390421, :retweet=>1}
+{:name=>"@RubenZiliwu", :text=>"#detikcom Ivanovic Lolos dari Hukuman, Chelsea dan Everton Didakwa FA: Branislav Ivanovic dipastikan bebas huk... http://t.co/NUCJQIPel1", :followers=>11262, :user_id=>1316816732, :retweet=>0}

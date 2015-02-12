@@ -1,0 +1,100 @@
+{:name=>"@3Livi", :text=>"RT @Samkingftw: Picking the winner sooooooooon!\n\n#Samkingyoutube", :followers=>125, :user_id=>1578073250, :retweet=>109}
+{:name=>"@trendingtopicuk", :text=>"samkingyoutube is nr.9 trending hashtag in UK in last 4 hours. http://t.co/Whd3rX4H67 #samkingyoutube", :followers=>120, :user_id=>2949502149, :retweet=>0}
+{:name=>"@JakeSimss_baae", :text=>"RT @Samkingftw: 5 Minutes until I announce the winner of the top! #SamKingYouTube", :followers=>1221, :user_id=>2220277667, :retweet=>74}
+{:name=>"@tamibates", :text=>"RT @Samkingftw: Spam #SamKingYouTube and I'll be picking one of you to win my @SoccerSix T-shirt!\n\nGO GO GO http://t.co/DDWMu9LXxW", :followers=>1313, :user_id=>22302539, :retweet=>246}
+{:name=>"@Crazy_Chilly", :text=>"RT @Janobeth_: @Samkingftw #SamKingYouTube - Sam, please pick me🙋🙋 I'll be sO happy omg. Ly lots xxx\n\n10", :followers=>1052, :user_id=>363733973, :retweet=>1}
+{:name=>"@hogesuguvoje", :text=>"RT @Sqwalzy: Listen to all bout doe by sqwale Dee #np on #SoundCloud #samkingyoutube #addicting #kanye #west #eminem #drake #blow https://t…", :followers=>90, :user_id=>2736875363, :retweet=>1}
+{:name=>"@ahadridge", :text=>"RT @Samkingftw: 5 Minutes until I announce the winner of the top! #SamKingYouTube", :followers=>1103, :user_id=>2151182417, :retweet=>74}
+{:name=>"@Gracestewart30", :text=>"RT @Samkingftw: Spam #SamKingYouTube and I'll be picking one of you to win my @SoccerSix T-shirt!\n\nGO GO GO http://t.co/DDWMu9LXxW", :followers=>143, :user_id=>583963295, :retweet=>246}
+{:name=>"@sarahrabbitts11", :text=>"RT @Samkingftw: #SamKingYoutube picking someone in here to win my @SoccerSix top! 🍋", :followers=>1183, :user_id=>770964565, :retweet=>121}
+{:name=>"@Gracestewart30", :text=>"RT @Samkingftw: 20 MINUTES TIL I PICK THE WINNNNNERRRRRRRR! \nIf you wanna win my Soccer Six top, post in #SamKingYouTube", :followers=>143, :user_id=>583963295, :retweet=>94}
+{:name=>"@sarftw", :text=>"RT @lipstickzoella: #SamKingYouTube love you sam :) twinkies? 😂😂💗 http://t.co/H6hhQFAxPH", :followers=>8, :user_id=>3023329547, :retweet=>2}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X9", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@ChrissiHughes", :text=>"WHO THE HECK IS SAM KING? #SamKingYouTube", :followers=>5, :user_id=>491459537, :retweet=>0}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X10", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X11", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@lukesmjle_", :text=>"#SamKingYouTube", :followers=>4594, :user_id=>458261815, :retweet=>0}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X12", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@TTMobile_uk", :text=>"TT UK 18:44\n1.#S0NA2015\n2.#WhatIsLoveIn4Words\n3.#ChapelHillShooting\n4.Lord Fink\n5.#SamKingYouTube\n6.#taylorcaniffatdigi\n7.Zuma\n8.DA and EFF", :followers=>1066, :user_id=>2645038507, :retweet=>0}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X13", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@itsonlytradley", :text=>"RT @ElineVaagan: @Samkingftw @Samkingwys #SamKingYoutube i have never met you and it would make me so happy🙈 I love you http://t.co/q930HpC…", :followers=>1368, :user_id=>1141120788, :retweet=>2}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X14", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@HB_mutungi", :text=>"RT @asotoyre: #SamKingYouTube #follow Shooting the messenger: Abbott slams HRC report - Brisbane Times  http://t.co/CBFcRfJwNp", :followers=>7201, :user_id=>2648145426, :retweet=>1}
+{:name=>"@trendinaliaGB", :text=>"1. #S0NA2015\n2. #WhatIsLoveIn4Words\n3. #ChapelHillShooting\n4. Lord Fink\n5. #SamKingYouTube\n\n2015/2/12 18:34 GMT http://t.co/do7Hdxwcnc", :followers=>5675, :user_id=>1266803563, :retweet=>0}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl THANKSS ❤️❤️❤️🐽🐽🐽🐽", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl THANKSS ❤️❤️❤️✌️✌️✌️✌️✌️…", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl THANKSS ❤️☀️☀️☀️", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl THANKSS ❤️❤️❤️❤️❤️❤️", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl THANKSS ❤️❤️❤️", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X15", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl THANKSS ❤️❤️❤️🌚🌚🌚", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@jessicamarshamx", :text=>"#SamKingYoutube @Samkingftw PLEASE OMG😍😍😷😷", :followers=>1013, :user_id=>2740704652, :retweet=>0}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl THANKSS ❤️❤️❤️😘😘", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@jessicamarshamx", :text=>"#SamKingYoutube @Samkingftw PLEASE OMG😍😍", :followers=>1013, :user_id=>2740704652, :retweet=>0}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl @thatcalmgirl @thatcalmgirl @thatcalmgirl SHES MY BESTFRIEND AND L…", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@jessicamarshamx", :text=>"#SamKingYoutube @Samkingftw PLEASE OMG😬💛👑", :followers=>1013, :user_id=>2740704652, :retweet=>0}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl SHES MY BESTFRIEND &amp; SHE LOVES YOU &amp; SHES REALLY ILL ATM 😪❤️❤️❤️", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl SHES MY BESTFRIEND &amp; SHE LOVES YOU &amp; SHES REALLY ILL ATM 😪❤️😘😘", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl SHES MY BESTFRIEND &amp; SHE LOVES YOU &amp; SHES REALLY ILL ATM 😪❤️❤️☀️☀️…", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@thatcalmgirl", :text=>"RT @fangirl_abbie: @Samkingftw #SamKingYouTube PLEASE PICK @thatcalmgirl SHES MY BESTFRIEND &amp; SHE LOVES YOU &amp; SHES REALLY ILL ATM 😪❤️👭👭", :followers=>1057, :user_id=>2878762685, :retweet=>1}
+{:name=>"@BlaineDaiki", :text=>"RT @Samkingftw: Spam #SamKingYouTube and I'll be picking one of you to win my @SoccerSix T-shirt!\n\nGO GO GO http://t.co/DDWMu9LXxW", :followers=>171, :user_id=>1900109713, :retweet=>246}
+{:name=>"@amyecb", :text=>"RT @lipstickzoella: #SamKingYouTube love you sam :) twinkies? 😂😂💗 http://t.co/H6hhQFAxPH", :followers=>1492, :user_id=>615361003, :retweet=>2}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X16", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@ZayyaanAdams", :text=>"@Samkingftw #SamKingYoutube #SamKingYoutube #SamKingYoutube #SamKingYoutube #SamKingYoutube #SamKingYoutube #SamKingYoutube ❌❌❌❌❌❌❌❌❌❌❌❌❌", :followers=>558, :user_id=>999564049, :retweet=>0}
+{:name=>"@retweetbday", :text=>"RT @Jess__Burn: #samkingyoutube it's my birthday tomorrow and we all know you still haven't bought me anything 😉 so.... X17", :followers=>607, :user_id=>2944540344, :retweet=>1}
+{:name=>"@BeccaLongDotCom", :text=>"RT @Samkingftw: 5 Minutes until I announce the winner of the top! #SamKingYouTube", :followers=>150, :user_id=>1965346736, :retweet=>74}
+{:name=>"@Aye_its_lucyxo", :text=>"I haven't won but I still feel like tweeting in the hashtag and I have no idea why but eh #SamKingYouTube", :followers=>238, :user_id=>548937927, :retweet=>0}
+{:name=>"@flowerfollows24", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>4, :user_id=>2841442187, :retweet=>0}
+{:name=>"@flowerfollows8", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>55, :user_id=>2752736639, :retweet=>0}
+{:name=>"@flowerfollows9", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>63, :user_id=>2752715427, :retweet=>0}
+{:name=>"@flowerfollows4", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>57, :user_id=>2774249893, :retweet=>0}
+{:name=>"@flowerfollows5", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>51, :user_id=>2752759714, :retweet=>0}
+{:name=>"@flowerfollows6", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>51, :user_id=>2752760866, :retweet=>0}
+{:name=>"@flowerfollows7", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>55, :user_id=>2752762282, :retweet=>0}
+{:name=>"@flowerfollows17", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>7, :user_id=>2841452554, :retweet=>0}
+{:name=>"@flowerfollows23", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>4, :user_id=>2841462088, :retweet=>0}
+{:name=>"@flowerfollows18", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>4, :user_id=>2841425687, :retweet=>0}
+{:name=>"@flowerfollows22", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>5, :user_id=>2841459244, :retweet=>0}
+{:name=>"@flowerfollows15", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>51, :user_id=>2752741895, :retweet=>0}
+{:name=>"@flowerfollows3", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>54, :user_id=>2774205782, :retweet=>0}
+{:name=>"@flowerfollows14", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>51, :user_id=>2752766278, :retweet=>0}
+{:name=>"@flowerfollows2", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>68, :user_id=>2774235763, :retweet=>0}
+{:name=>"@flowerfollows20", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>5, :user_id=>2841428045, :retweet=>0}
+{:name=>"@flowerfollows21", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>4, :user_id=>2841459502, :retweet=>0}
+{:name=>"@flowerfollows16", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>4, :user_id=>2841394299, :retweet=>0}
+{:name=>"@ffsfowler", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>120, :user_id=>2891398629, :retweet=>0}
+{:name=>"@DailyDaleyTweet", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>1736, :user_id=>522406723, :retweet=>0}
+{:name=>"@TheMarlanders", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>299, :user_id=>595553360, :retweet=>0}
+{:name=>"@CalumInAHood", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>27136, :user_id=>423706656, :retweet=>0}
+{:name=>"@ATorkingtonX2", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>13, :user_id=>2704554732, :retweet=>0}
+{:name=>"@BumCheekBecky", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>16, :user_id=>2743534633, :retweet=>0}
+{:name=>"@flowerfollows24", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>4, :user_id=>2841442187, :retweet=>0}
+{:name=>"@flowerfollows8", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>55, :user_id=>2752736639, :retweet=>0}
+{:name=>"@flowerfollows9", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>63, :user_id=>2752715427, :retweet=>0}
+{:name=>"@flowerfollows4", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>57, :user_id=>2774249893, :retweet=>0}
+{:name=>"@flowerfollows5", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>51, :user_id=>2752759714, :retweet=>0}
+{:name=>"@flowerfollows6", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>51, :user_id=>2752760866, :retweet=>0}
+{:name=>"@flowerfollows7", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>55, :user_id=>2752762282, :retweet=>0}
+{:name=>"@flowerfollows17", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>7, :user_id=>2841452554, :retweet=>0}
+{:name=>"@flowerfollows18", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>4, :user_id=>2841425687, :retweet=>0}
+{:name=>"@flowerfollows23", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>4, :user_id=>2841462088, :retweet=>0}
+{:name=>"@flowerfollows22", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>5, :user_id=>2841459244, :retweet=>0}
+{:name=>"@flowerfollows15", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>51, :user_id=>2752741895, :retweet=>0}
+{:name=>"@flowerfollows2", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>68, :user_id=>2774235763, :retweet=>0}
+{:name=>"@flowerfollows3", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>54, :user_id=>2774205782, :retweet=>0}
+{:name=>"@flowerfollows14", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>51, :user_id=>2752766278, :retweet=>0}
+{:name=>"@flowerfollows20", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>5, :user_id=>2841428045, :retweet=>0}
+{:name=>"@flowerfollows21", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>4, :user_id=>2841459502, :retweet=>0}
+{:name=>"@flowerfollows16", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>4, :user_id=>2841394299, :retweet=>0}
+{:name=>"@ffsfowler", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>120, :user_id=>2891398629, :retweet=>0}
+{:name=>"@BumCheekBecky", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>16, :user_id=>2743534633, :retweet=>0}
+{:name=>"@TheMarlanders", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>299, :user_id=>595553360, :retweet=>0}
+{:name=>"@CalumInAHood", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>27136, :user_id=>423706656, :retweet=>0}
+{:name=>"@DailyDaleyTweet", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>1736, :user_id=>522406723, :retweet=>0}
+{:name=>"@ATorkingtonX2", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>13, :user_id=>2704554732, :retweet=>0}
+{:name=>"@harrysrainbowsx", :text=>"💏💏if sam even sees this tweet I will be really hapoy💏💏 #SamKingYouTube", :followers=>358, :user_id=>2896573168, :retweet=>0}
+{:name=>"@BeccaLongDotCom", :text=>"RT @Samkingftw: Picking the winner sooooooooon!\n\n#Samkingyoutube", :followers=>150, :user_id=>1965346736, :retweet=>109}
+{:name=>"@BlaineDaiki", :text=>"RT @Samkingftw: #SamKingYoutube picking someone in here to win my @SoccerSix top! 🍋", :followers=>171, :user_id=>1900109713, :retweet=>121}
+{:name=>"@fangirlellen", :text=>"@Samkingftw #SamKingYoutube It would mean so much to me to win your t-shirt. I gave you the fanbook at soccersix 255", :followers=>556, :user_id=>2786217334, :retweet=>0}
+{:name=>"@Aye_its_lucyxo", :text=>"I'm still going but it's 25 to oh #SamKingYouTube", :followers=>238, :user_id=>548937927, :retweet=>0}
+{:name=>"@fangirlellen", :text=>"@Samkingftw #SamKingYoutube It would mean so much to me to win your t-shirt. I gave you the fanbook at soccersix 254", :followers=>556, :user_id=>2786217334, :retweet=>0}

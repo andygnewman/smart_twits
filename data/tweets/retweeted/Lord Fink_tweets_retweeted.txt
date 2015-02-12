@@ -1,0 +1,3 @@
+{:text=>"RT @OwenJones84: The problem for Lord Fink and the like is the British people are losing patience with being ruled over by a mean and greed…", :retweet=>324}
+{:text=>"RT @UKLabour: Tory donor Lord Fink says “Everyone does tax avoidance”\n*Fav* if you do\n*Retweet* if you don’t http://t.co/rhFrcd5RWG", :retweet=>309}
+{:text=>"RT @davidschneider: Tax avoidance is basically diverting money away from schools/hospitals so it's no wonder Lord Fink says it's OK as that…", :retweet=>267}

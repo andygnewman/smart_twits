@@ -1,0 +1,20 @@
+{:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words", :filename=>"WhatIsLoveIn4Words"}
+{:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting", :filename=>"ChapelHillShooting"}
+{:name=>"Lord Fink", :query=>"%22Lord+Fink%22", :filename=>"Lord Fink"}
+{:name=>"#HSBC", :query=>"%23HSBC", :filename=>"HSBC"}
+{:name=>"#SamKingYoutube", :query=>"%23SamKingYoutube", :filename=>"SamKingYoutube"}
+{:name=>"Ivanovic", :query=>"Ivanovic", :filename=>"Ivanovic"}
+{:name=>"#ValentinesDay", :query=>"%23ValentinesDay", :filename=>"ValentinesDay"}
+{:name=>"London", :query=>"London", :filename=>"London"}
+{:name=>"Better Call Saul", :query=>"%22Better+Call+Saul%22", :filename=>"Better Call Saul"}
+{:name=>"Lucy", :query=>"Lucy", :filename=>"Lucy"}
+{:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words", :filename=>"WhatIsLoveIn4Words"}
+{:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting", :filename=>"ChapelHillShooting"}
+{:name=>"Lord Fink", :query=>"%22Lord+Fink%22", :filename=>"Lord Fink"}
+{:name=>"#HSBC", :query=>"%23HSBC", :filename=>"HSBC"}
+{:name=>"#SamKingYoutube", :query=>"%23SamKingYoutube", :filename=>"SamKingYoutube"}
+{:name=>"Ivanovic", :query=>"Ivanovic", :filename=>"Ivanovic"}
+{:name=>"#ValentinesDay", :query=>"%23ValentinesDay", :filename=>"ValentinesDay"}
+{:name=>"London", :query=>"London", :filename=>"London"}
+{:name=>"Better Call Saul", :query=>"%22Better+Call+Saul%22", :filename=>"Better Call Saul"}
+{:name=>"Lucy", :query=>"Lucy", :filename=>"Lucy"}

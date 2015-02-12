@@ -16,6 +16,16 @@
     return array_of_hashes
   end
 
+  def get_tweet_text_from_file (filename)
+    array = []
+    file = File.open(filename, 'r')
+    file.readlines.each do |el| 
+      array << (el.chomp)
+    end
+    file.close()
+    return array
+  end
+
   def delete_files_from_directory(dirname)
     FileUtils.rm Dir.glob("#{dirname}/*")
   end

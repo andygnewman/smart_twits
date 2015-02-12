@@ -1,0 +1,3 @@
+{:name=>"@actionjaxon666", :text=>"@Lucy__Vixen I'll come say hello one day, would be fab to meet us even just for a moment. But you're never oop north! 😃", :followers=>9744, :user_id=>31486360, :retweet=>0}
+{:name=>"@actionjaxon666", :text=>"@Lucy__Vixen And I'm not talking Manchester, north-er! But not at far as Newcastle. Come to Cumbria :)", :followers=>9744, :user_id=>31486360, :retweet=>0}
+{:name=>"@robbieanthony87", :text=>"when lucy first died was like gotta wait ages to find out who killed her and now we are gonna no NEXT WEEK #eastenders @bbceastenders", :followers=>4348, :user_id=>61775554, :retweet=>0}

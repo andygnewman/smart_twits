@@ -122,7 +122,13 @@ describe 'API' do
     expect(tweets.count).not_to eq(0)
   end
 
-  it 'should be able to be consumed file every five minutes' do
+  xit 'should be able to be consumed file every five minutes' do
     twitter.refresh_all_twitter_data
+  end
+
+  it 'should be able to find media news and save it to a file' do 
+    twitter.save_trends
+    twitter.refresh_all_twitter_data
+    expect(Dir.glob("./data/tweets/media/**/*").count).to eq(10)
   end
 end  

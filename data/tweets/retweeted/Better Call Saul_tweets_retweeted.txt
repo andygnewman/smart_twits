@@ -1,0 +1,3 @@
+{:text=>"RT @BetterCallSaul: Raymond Cruz tells us what it's like to play Tuco in #BetterCallSaul: http://t.co/c7cg93Pd7P http://t.co/7seWmmRDC8", :retweet=>172}
+{:text=>"RT @SaveTheDatePC: So stoked that @kelleydixon is back! If you love @BetterCallSaul + #Podcasts then LET'S DO THIS! https://t.co/cYfJjIA0yu", :retweet=>79}
+{:text=>"RT @Estrofalario: Casual, aquí esperando nuevos episodios de Better Call Saul: http://t.co/IEbHvjcUKE", :retweet=>51}

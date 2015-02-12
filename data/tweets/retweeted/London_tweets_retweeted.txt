@@ -1,0 +1,3 @@
+{:text=>"RT @Coco_Lamela: The London derby is ours ... we fought and played to get it! Very happy ... enjoy this beautiful day! COYS http://t.co/aHC…", :retweet=>1684}
+{:text=>"RT @PointlessBlog: On my way to london for a fun day of shooting tomorrow", :retweet=>700}
+{:text=>"RT @andy_hop: London bars know how to attract singles. http://t.co/HDzo2cZhcT", :retweet=>655}

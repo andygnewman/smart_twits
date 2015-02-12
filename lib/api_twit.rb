@@ -15,6 +15,11 @@ PATH_TWEETS = './data/tweets/tweets/'
 PATH_TWEETS_TEXT = './data/tweets/text/'
 PATH_TWEETS_FOLLOWERS = './data/tweets/followers/'
 PATH_TWEETS_RETWEETED = './data/tweets/retweeted/'
+MEDIA_GROUP = ['@BBCBreaking','@BBCSport','@BBCNews',
+         '@guardian','@guardian_sport','@guardiannews','@BBC',
+        '@MailOnline','@Independent','@HuffPostUK','@SkyNews']
+
+PATH_TWEETS_MEDIA = './data/tweets/media/'
 
 class APITwitter
 
@@ -43,21 +48,13 @@ class APITwitter
     end
   end
 
-  def init_twit_streaming(hash_with_keys)
-    Twitter::Streaming::Client.new do |config|
-      config.consumer_key        = hash_with_keys["Consumer_Key(API_Key)"]
-      config.consumer_secret     = hash_with_keys["Consumer_Secret(API_Secret)"]
-      config.access_token        = hash_with_keys["Access_Token"]
-      config.access_token_secret = hash_with_keys["Access_Token_Secret"]
-    end
-  end  
-
   def refresh_all_twitter_data
     save_trends
     save_tweets_per_trend
     save_tweet_text_per_trend
     save_tweets_most_followers_per_trend
     save_tweets_most_retweeted_per_trend
+    save_media_in_tweets_trend
   end
 
   def save_trends(id_g = LONDON)
@@ -76,13 +73,6 @@ class APITwitter
       tweets = get_tweets(trend[:query],query_number)
       save_data(PATH_TWEETS+trend[:filename]+'_tweets.txt',tweets)
     end
-  end
-
-  def get_tweets_streaming(subject)
-    tweets = []
-    @client_streaming.filter(:track => subject) do |tweet|
-      tweets << tweet
-    end  
   end
 
   def get_tweets(hash_tag_g,query_number = 10)
@@ -114,7 +104,7 @@ class APITwitter
     save_tweets_per_trend_utility(@trends,method(:top_followers_tweets),PATH_TWEETS_FOLLOWERS,'_tweets_followers.txt')
   end
 
-  def top_followers_tweets(array_of_hashes, number = 5)
+  def top_followers_tweets(array_of_hashes, number = 3)
     array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..(number-1)]
   end
 
@@ -122,21 +112,52 @@ class APITwitter
     save_tweets_per_trend_utility(@trends,method(:top_retweeted_tweets),PATH_TWEETS_RETWEETED,'_tweets_retweeted.txt')
   end
 
-  def top_retweeted_tweets(array_of_hashes, number = 5)
+  def top_retweeted_tweets(array_of_hashes, number = 3)
     top_retweeted = []
     array_of_hashes.each { |el| top_retweeted << {:text => el[:text], :retweet => el[:retweet]} }
     top_retweeted_deduped = top_retweeted.uniq.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
     return top_retweeted_deduped
   end
 
+  def save_media_in_tweets_trend(media = MEDIA_GROUP,trends=@trends) 
+
+    delete_files_from_directory(PATH_TWEETS_MEDIA)
+
+    trends.each do |trend|
+      tweets = get_tweet_text_from_file(PATH_TWEETS_TEXT+trend[:filename]+'_tweets_text.txt')
+      media_tweets = []
+      tweets.each do |tweet|
+        intersection = tweet.split(' ') & media
+        media_tweets << "#{intersection[0]}:#{tweet}" if intersection.count != 0
+      end
+      save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',media_tweets)
+    end  
+  end  
+
 # possible for new feature
   def getlocation
      html = open('https://twitter.com/trends?id=44418').read
   end
 
+  def get_tweets_streaming(subject)
+    tweets = []
+    @client_streaming.filter(:track => subject) do |tweet|
+      tweets << tweet
+    end  
+  end
+
+  def init_twit_streaming(hash_with_keys)
+    Twitter::Streaming::Client.new do |config|
+      config.consumer_key        = hash_with_keys["Consumer_Key(API_Key)"]
+      config.consumer_secret     = hash_with_keys["Consumer_Secret(API_Secret)"]
+      config.access_token        = hash_with_keys["Access_Token"]
+      config.access_token_secret = hash_with_keys["Access_Token_Secret"]
+    end
+  end   
+
 end
 
-twitter = APITwitter.new
-twitter.refresh_all_twitter_data
+# twitter = APITwitter.new
+# twitter.refresh_all_twitter_data
 
 

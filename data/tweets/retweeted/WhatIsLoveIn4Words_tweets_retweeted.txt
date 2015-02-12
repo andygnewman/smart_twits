@@ -1,0 +1,3 @@
+{:text=>"RT @FiftyShades: Fifty Shades of Grey #WhatIsLoveIn4Words http://t.co/y4RjM2W3UG", :retweet=>808}
+{:text=>"RT @WordsOf_Emotion: #WhatIsLoveIn4Words I Brought You Donuts http://t.co/k0DGNmp91q", :retweet=>439}
+{:text=>"RT @awesomenesstv: #WhatIsLoveIn4Words? Finally hugging your idol.", :retweet=>113}

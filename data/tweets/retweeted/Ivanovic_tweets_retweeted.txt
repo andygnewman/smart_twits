@@ -1,0 +1,3 @@
+{:text=>"RT @FootyMemes: Ross Barkley&gt;Branislav Ivanovic. 👏 https://t.co/iVmt9NZ8xA", :retweet=>349}
+{:text=>"RT @prenno: Nothing to see here apparently. Ivanovic did not try to throttle @JMcCarthy_16 &amp; did not adopt an aggressive posture http://t.c…", :retweet=>124}
+{:text=>"RT @evertonfcpics: Moss booked Howard for doing this to Costa, yet does nothing to Ivanovic after doing this. Consistent refereeing @FA htt…", :retweet=>86}

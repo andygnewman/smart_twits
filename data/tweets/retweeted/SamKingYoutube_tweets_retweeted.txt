@@ -1,0 +1,3 @@
+{:text=>"RT @Samkingftw: Spam #SamKingYouTube and I'll be picking one of you to win my @SoccerSix T-shirt!\n\nGO GO GO http://t.co/DDWMu9LXxW", :retweet=>246}
+{:text=>"RT @Samkingftw: #SamKingYoutube picking someone in here to win my @SoccerSix top! 🍋", :retweet=>121}
+{:text=>"RT @Samkingftw: Picking the winner sooooooooon!\n\n#Samkingyoutube", :retweet=>109}
