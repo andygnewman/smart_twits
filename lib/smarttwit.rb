@@ -8,14 +8,11 @@ class SmartTwit < Sinatra::Base
 
   set :views, Proc.new { File.join(root, "..", "views") }
   
+  freq = WordFrequency.new
+
   get '/' do
-    file = File.open('./data/trends/toptrends.txt','r')
-    array = []
-    file.readlines.each do |el| 
-      array << eval(el.chomp)
-    end
-    file.close()
-    @trends_list = array.map{|el| el[:name]}.compact
+    trends = freq.read_file('./data/trends/toptrends.txt')
+    @trends_list = trends.map{|el| el[:name]}
     erb :index
   end
 
@@ -24,32 +21,15 @@ class SmartTwit < Sinatra::Base
   end
   
   get '/trends?:trend' do
-    'hi I am here'
-    freq = WordFrequency.new
-    file = File.open("./data/tweets/#{params[:trend]}_tweets.txt",'r')
-    array = []
-    file.readlines.each do |el| 
-      array << eval(el.chomp)
-    end
-    file.close()
-    words = array.map{|el| el[:text]}
+    words_array = freq.read_file("./data/tweets/tweets/#{params[:trend]}_tweets.txt")
+    words = words_array.map{|el| el[:text]}
     @words = freq.find_top_results(20, words)
     erb :trends
   end
 
-
-  
   # start the server if ruby file executed directly
   run! if app_file == $0
 end
-
-file = File.open("./data/tweets/Eurovision_tweets.txt",'r')
-    array = []
-    file.readlines.each do |el| 
-      array << eval(el.chomp)
-    end
-    file.close()
-    words = array.map{|el| el[:text]}
 
 
 
