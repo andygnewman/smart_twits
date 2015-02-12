@@ -7,7 +7,7 @@ class Tweets
   REJECT_WORDS = ['rt', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now"]
   
   def find_trends(file_path)
-    trends = read_file('./data/trends/toptrends.txt')
+    trends = read_file(file_path)
     array = []
     trends.map{|el| array << [el[:name], el[:filename]]}
     array
