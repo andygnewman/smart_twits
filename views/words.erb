@@ -1,6 +1,8 @@
 <section id="words">
-  Words <br>
-  <%= @words %>
+	<% array = [] %>
+	<% @words.each {|word| array << word[0]} %>
+	<% words = array.first(3).join(" ") %>
+  <a href="http://google.com/?q=<%=words%>">Google This</a>
 </section><br>
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>

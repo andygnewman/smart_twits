@@ -13,10 +13,6 @@ class SmartTwit < Sinatra::Base
     @trends_list = trends.map{|el| el[:name]}
     erb :trends
   end
-
-  get '/trends/' do
-    'hello'
-  end
   
   get '/trends?:trend' do
     words_array = freq.read_file("./data/tweets/tweets/#{params[:trend]}_tweets.txt")
@@ -31,7 +27,7 @@ class SmartTwit < Sinatra::Base
     @followers = []
     followers_array.map{|el| @followers << [el[:name], el[:text], el[:followers]]}
 
-    erb :retweets
+    erb :words
   end
 
   # start the server if ruby file executed directly
