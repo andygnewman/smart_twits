@@ -1,0 +1,5 @@
+{:text=>"RT @ozchrisrock: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be nonstop. \n#ChapelHillShooting http…", :retweet=>9646}
+{:text=>"RT @Bipartisanism: 87% of U.S. mass shooting are committed by caucasians 13-56 but are never called 'Terrorists'. #ChapelHillShooting http:…", :retweet=>4150}
+{:text=>"RT @CherguiaMbark: RIP Deah Barakat, Yusor Abu-Salha, and Razan Abu-Salha. Murdered in North Carolina earlier today \n#ChapelHillShooting ht…", :retweet=>3339}
+{:text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :retweet=>2335}
+{:text=>"RT @ZKhanOfficial: 87% of U.S. mass shooting are committed by caucasians 13-56. We never declared them 'Terrorists'. #ChapelHillShooting ht…", :retweet=>2327}

@@ -1,0 +1,5 @@
+{:text=>"RT @ozchrisrock: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be nonstop. \n#ChapelHillShooting http…", :retweet=>9646}
+{:text=>"RT @Remroum: A Muslim commits a crime = 1.6 billion must collectively apologize. White guy executes 3 Muslims = People can't even admit it'…", :retweet=>2795}
+{:text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :retweet=>2335}
+{:text=>"RT @JamalDajani: If you kill 3 Muslims for parking space, how many Muslims would you kill for oil fields?", :retweet=>1071}
+{:text=>"RT @CitizenRadio: #ChapelHillShooting: man guns down three young Muslims, and our culture of #Islamophobia http://t.co/3o7YtG7XNT #CitizenR…", :retweet=>849}

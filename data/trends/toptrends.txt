@@ -1,10 +1,10 @@
-{:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting", :filename=>"#ChapelHillShooting"}
-{:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words", :filename=>"#WhatIsLoveIn4Words"}
-{:name=>"#NXTTakeoverRival", :query=>"%23NXTTakeoverRival", :filename=>"#NXTTakeoverRival"}
-{:name=>"Ivanovic", :query=>"Ivanovic", :filename=>"Ivanovic"}
-{:name=>"#HSBC", :query=>"%23HSBC", :filename=>"#HSBC"}
-{:name=>"#MOTD", :query=>"%23MOTD", :filename=>"#MOTD"}
-{:name=>"Smalling", :query=>"Smalling", :filename=>"Smalling"}
-{:name=>"Jon Stewart", :query=>"%22Jon+Stewart%22", :filename=>"JonStewart"}
+{:name=>"#WhatIsLoveIn4Words", :query=>"%23WhatIsLoveIn4Words", :filename=>"WhatIsLoveIn4Words"}
+{:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting", :filename=>"ChapelHillShooting"}
+{:name=>"Lord Fink", :query=>"%22Lord+Fink%22", :filename=>"Lord Fink"}
+{:name=>"#HSBC", :query=>"%23HSBC", :filename=>"HSBC"}
+{:name=>"#unicorns", :query=>"%23unicorns", :filename=>"unicorns"}
+{:name=>"#ValentinesDay", :query=>"%23ValentinesDay", :filename=>"ValentinesDay"}
 {:name=>"London", :query=>"London", :filename=>"London"}
-{:name=>"Paul Lambert", :query=>"%22Paul+Lambert%22", :filename=>"PaulLambert"}
+{:name=>"Ed Miliband", :query=>"%22Ed+Miliband%22", :filename=>"Ed Miliband"}
+{:name=>"Tim Sherwood", :query=>"%22Tim+Sherwood%22", :filename=>"Tim Sherwood"}
+{:name=>"Muslims", :query=>"Muslims", :filename=>"Muslims"}

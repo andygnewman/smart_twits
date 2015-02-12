@@ -1,0 +1,5 @@
+{:name=>"@georgegalloway", :text=>"RT @TeamGeorgeG: @Herdy79 @RoyalMaiI @georgegalloway does @Ed_Miliband and @UKLabour speak like you ? You guys have no manners", :followers=>236000, :user_id=>15484198, :retweet=>1}
+{:name=>"@NewsHitter", :text=>"Miliband accuses Fink of U-turn: Ed Miliband accuses Lord Fink of an \"extraordinary U-turn\" after the Tory don... http://t.co/ctlHzVxKoZ", :followers=>40221, :user_id=>87728784, :retweet=>0}
+{:name=>"@legalaware", :text=>"Had a great time listening to @Ed_Miliband today at Haverstock Hill with @Keir_Starmer and @TristramHuntMP present. http://t.co/mNHnbrew7W", :followers=>13787, :user_id=>261711452, :retweet=>1}
+{:name=>"@jimpknight", :text=>"Ed Miliband’s critics hate him for his success » The Spectator http://t.co/WFeIAwJX5Z", :followers=>9971, :user_id=>21528045, :retweet=>1}
+{:name=>"@CllrRenataJones", :text=>"RT MeltonBlue \"#NoIdea Ed Miliband to pledge \"we will outlaw shoplifting even though legislation is in place\"\"", :followers=>9014, :user_id=>2386774701, :retweet=>0}

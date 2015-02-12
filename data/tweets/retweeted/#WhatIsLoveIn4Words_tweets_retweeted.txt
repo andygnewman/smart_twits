@@ -1,5 +1,0 @@
-{:text=>"RT @30SECONDSTOMARS: #WhatIsLoveIn4Words: Love. Lust. Faith. Dreams. → http://t.co/GNv749Capg http://t.co/RP0FDFzxEd", :retweet=>269}
-{:text=>"RT @SpaceCatPics: #WhatIsLoveIn4Words Meow meow meow meow", :retweet=>208}
-{:text=>"RT @DisneysBigHero6: #WhatIsLoveIn4Words Tadashi is always here... #BigHero6 http://t.co/YGLslz45sH", :retweet=>200}
-{:text=>"RT @niallwhoababy: #WhatIsLoveIn4Words \"we deliver 24 hours\"", :retweet=>109}
-{:text=>"RT @MatthewKoma: Netflix In A Onesie #WhatIsLoveIn4Words", :retweet=>108}

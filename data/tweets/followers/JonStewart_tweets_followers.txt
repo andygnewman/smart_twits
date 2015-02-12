@@ -1,5 +1,0 @@
-{:name=>"@PhxKen", :text=>"Leftists getting suicidal over Jon Stewart leaving http://t.co/45WvLns0WI", :followers=>33732, :user_id=>561654065, :retweet=>0}
-{:name=>"@boq545", :text=>"RT @CNN: After more than 15 years on @TheDailyShow, Jon Stewart will be signing off later this year: http://t.co/LjLGzdGuy8 http://t.co/Wu6…", :followers=>22780, :user_id=>132797686, :retweet=>603}
-{:name=>"@InlawsOutlaws", :text=>"RT @GuyKawasaki: Jon Stewart visits the Daily Show before taking it over [video] http://t.co/gwiOxl6Bjw http://t.co/Fy0KDSll00", :followers=>18904, :user_id=>77329593, :retweet=>11}
-{:name=>"@GodlessLiberals", :text=>"RT @TheGoodGodAbove: I can make Jon Stewart not retire if you all  agree to deport Kim and Kanye.\n\nDeal?", :followers=>9220, :user_id=>87383875, :retweet=>212}
-{:name=>"@TheHustleEmpire", :text=>"Share “Jon Stewart's exit as a phony newsman is a...” - http://t.co/NOdUOBA4qZ: The New YorkerShare “Jon Stewar... http://t.co/c0UMgTRWVM", :followers=>9060, :user_id=>137486677, :retweet=>0}

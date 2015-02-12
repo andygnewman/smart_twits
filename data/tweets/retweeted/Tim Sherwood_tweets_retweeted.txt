@@ -1,0 +1,5 @@
+{:text=>"RT @Carra23: Tim Sherwood will now be linked with Aston Villa he's becoming the new Alan Curbishley.", :retweet=>829}
+{:text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :retweet=>431}
+{:text=>"RT @RorySmithTimes: Looking forward to Tim Sherwood being favourite for the Villa job but then pulling out at the last minute. The Sherwood…", :retweet=>344}
+{:text=>"RT @SkySportsNewsHQ: There have been five managerial changes this season. Tim Sherwood is the favourite to take over at Villa Park #SSNHQ h…", :retweet=>115}
+{:text=>"RT @br_uk: Tim Sherwood installed as odds-on favourite to replace Paul Lambert as Aston Villa manager http://t.co/uuOxd3zdzM http://t.co/sM…", :retweet=>50}

@@ -1,0 +1,5 @@
+{:name=>"@mrjamesob", :text=>"RT @labourpress: Presumably Lord Fink objected to the word \"activities\". http://t.co/38LsZLkN9p", :followers=>54311, :user_id=>152656121, :retweet=>120}
+{:name=>"@NewsHitter", :text=>"Miliband accuses Fink of U-turn: Ed Miliband accuses Lord Fink of an \"extraordinary U-turn\" after the Tory don... http://t.co/ctlHzVxKoZ", :followers=>40221, :user_id=>87728784, :retweet=>0}
+{:name=>"@Reality_Party", :text=>"RT @EtonOldBoys: Lord Fink on tax avoidance: \"everyone does it\".  I dont Fink so, especially if you are a pleb on PAYE", :followers=>4694, :user_id=>2459311625, :retweet=>47}
+{:name=>"@DrNostromo", :text=>"Tory supporters on here equating what Lord Fink has been up to as equitable to ISA frankly laughable.", :followers=>4117, :user_id=>317936494, :retweet=>0}
+{:name=>"@Mancman10", :text=>"If anyTories out there trying to say it's Miliband who's backed down&amp;not Fink,where is the word dodgy in this http://t.co/cOPDsGfHKd FAIL!", :followers=>3073, :user_id=>118736440, :retweet=>1}

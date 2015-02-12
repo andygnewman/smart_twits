@@ -1,5 +1,0 @@
-{:name=>"@bet2indo", :text=>"Taruhan Bola – 2 Pemain Cedera, MU Tertolong 2 Gol Smalling: Taruhan Bola – 2 Pemain Cedera, MU Tertolong 2 Gol… http://t.co/6TS4sZwSmC", :followers=>105922, :user_id=>1937446710, :retweet=>0}
-{:name=>"@TimesSport", :text=>"Rare Smalling goals paper over cracks in United strategy, says @DuckerTheTimes\nhttp://t.co/fR0bIsDwWN (Action Images) http://t.co/TrnKYMaIUj", :followers=>53990, :user_id=>10933912, :retweet=>0}
-{:name=>"@elfarian_v", :text=>"Jadi Pahlawan Dua Gol Untuk MU, Ini Kata Smalling http://t.co/XvVrw1KlqG", :followers=>3565, :user_id=>2440681994, :retweet=>0}
-{:name=>"@strettynewstv", :text=>"RT @JonathanShrager: Insipidness of #MUFC display encapsulated by fact that #Smalling breakaway surge forward in 2nd half proved our most d…", :followers=>3368, :user_id=>2375169271, :retweet=>1}
-{:name=>"@JonathanShrager", :text=>"Insipidness of #MUFC display encapsulated by fact that #Smalling breakaway surge forward in 2nd half proved our most dynamic piece of play", :followers=>2588, :user_id=>81134107, :retweet=>1}
