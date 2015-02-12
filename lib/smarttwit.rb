@@ -26,18 +26,11 @@ class SmartTwit < Sinatra::Base
     retwit_array = freq.read_file("./data/tweets/retweeted/#{params[:trend]}_tweets_retweeted.txt")
     @retweet = retwit_array.map{|el| el[:text]}
 
-    followers_array = freq.read_file("./data/tweets/followers/#{params[:trend]}_tweets_followers.txt")
-    @followers = followers_array.map{|el| el[:text]}
-
-    erb :words
-  end
-
-  get '/followers' do
     followers_array = freq.read_file("./data/tweets/followers/London_tweets_followers.txt")
     @followers = []
     followers_array.map{|el| @followers << [el[:name], el[:text], el[:followers]]}
 
-    erb :followers
+    erb :words
   end
 
   # start the server if ruby file executed directly
