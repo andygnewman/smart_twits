@@ -5,6 +5,6 @@
 {:name=>"#ValentinesDay", :query=>"%23ValentinesDay", :filename=>"ValentinesDay"}
 {:name=>"#unicorns", :query=>"%23unicorns", :filename=>"unicorns"}
 {:name=>"London", :query=>"London", :filename=>"London"}
-{:name=>"Tim Sherwood", :query=>"%22Tim+Sherwood%22", :filename=>"Tim Sherwood"}
 {:name=>"Ivanovic", :query=>"Ivanovic", :filename=>"Ivanovic"}
+{:name=>"Tim Sherwood", :query=>"%22Tim+Sherwood%22", :filename=>"Tim Sherwood"}
 {:name=>"Muslims", :query=>"Muslims", :filename=>"Muslims"}

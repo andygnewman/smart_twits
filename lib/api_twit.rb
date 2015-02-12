@@ -26,7 +26,7 @@ class APITwitter
   def initialize
     hash_with_passes = load_passes
     @client = init_twit(hash_with_passes)
-    @client_streaming = init_twit_streaming(hash_with_passes)
+    # @client_streaming = init_twit_streaming(hash_with_passes)
     @trends = []
   end
 
