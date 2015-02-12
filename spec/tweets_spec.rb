@@ -30,6 +30,10 @@ describe 'Tweets' do
       expect(tweets.reject_words(["and", "it", "", "was", "stupendous"])).to eq(["stupendous"])
     end
 
+    it 'can count the frequency with which the words appear' do
+      expect(tweets.count_freq(["hello", "how", "hello", "you", "how"])).to eq({"hello"=>2, "how"=>2, "you"=>1})
+    end
+
   end
 
 end
