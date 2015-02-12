@@ -26,6 +26,10 @@ describe 'Tweets' do
       expect(tweets.extract_words(["hello &*", "HOW are ! you"])).to eq(["hello", "", "how", "are", "", "you"])
     end
 
+    it 'can take an array of words and reject unwanted words' do
+      expect(tweets.reject_words(["and", "it", "", "was", "stupendous"])).to eq(["stupendous"])
+    end
+
   end
 
 end
