@@ -1,5 +1,5 @@
-{:text=>"RT @NusibaB: \"You don’t need to be a Muslim to feel the tragedy of those murdered in cold blood. You just need to be human.\" #ChapelHillSho…", :followers=>79291, :user_id=>264501955, :retweet=>55}
-{:text=>"RT @lettywho1: #ChapelHillShooting victims' father, a psychiatrist: based on victims' fears and complaints, it is a hate crime. #CNN &amp; Hick…", :followers=>18854, :user_id=>2371036584, :retweet=>1}
-{:text=>"RT @BlvckConscious: I haven't heard a thing about the #ChapelHillShooting at all today, and when I brought it up no one cared. http://t.co/…", :followers=>5218, :user_id=>594100982, :retweet=>642}
-{:text=>"RT @MSM2witter: 3 Muslim UNC students shot to death\nWhere are the news coverage? Where are the marches?\n\n#ChapelHillShooting http://t.co/zD…", :followers=>5137, :user_id=>169670184, :retweet=>2}
-{:text=>"RT @sallykohn: UPDATED re #ChapelHillShooting — \n\nMuslim shooter = terrorist\n\nBlack shooter = thug\n\nWhite shooter = just a tiff about a par…", :followers=>2837, :user_id=>14529776, :retweet=>5556}
+{:name=>"@FSN2000", :text=>"RT @FalahAlhajeri: الكافر لو مُسّت له شعرة لانتفض له الشرق والغرب!\n\nأما المسلم فهو إرهابي سواء كان قاتلاً أو مقتولاً!\n\n#ChapelHillShooting …", :followers=>642348, :user_id=>495259086, :retweet=>40}
+{:name=>"@DRKAMALAYOUB", :text=>"RT @Yourafacts: #CNN #FOX \n\nضحايا غير مسلمين .. تعني عملاً إرهابياً ..\n\nضحايا مسلمين ..( قتل رجلٌ ٣ مسلمين )\n\n#ChapelHillShooting http://t.…", :followers=>12247, :user_id=>452065417, :retweet=>629}
+{:name=>"@ThePreEminent", :text=>"Dr. Suzanne Barakat spoke to CNN's Anderson Cooper ...\nHard to hold tears ...\nhttps://t.co/6Sqnb0OcHE\n#ChapelHillShooting", :followers=>7076, :user_id=>887111004, :retweet=>0}
+{:name=>"@salehalshamrani", :text=>"#ChapelHillShooting", :followers=>6220, :user_id=>407130864, :retweet=>0}
+{:name=>"@SlimaneMUFC", :text=>"RT @Nasrawi7eeeL: This crime proves that terrorism does not mean Islam\nTerrorism does not belong to any religion\n\n#ChapelHillShooting\n. htt…", :followers=>4454, :user_id=>533317891, :retweet=>4}

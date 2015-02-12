@@ -1,5 +1,0 @@
-{:text=>"#ComicReliefBakeOff Jennifer will win", :followers=>4941, :user_id=>137511965, :retweet=>0}
-{:text=>"Love the way they are all in fits laughing #boldgirls #ComicReliefBakeOff", :followers=>3864, :user_id=>1262401206, :retweet=>0}
-{:text=>"@linmarmul @daly_anna @BritishBakeOff love these ladies #ComicReliefBakeOff", :followers=>3864, :user_id=>1262401206, :retweet=>0}
-{:text=>"@linmarmul I'm a genius in the kitchen ! #ComicReliefBakeOff", :followers=>3864, :user_id=>1262401206, :retweet=>0}
-{:text=>"RT @DarrenMcMahon54: I can see myself being hungover in 10 years time, and looking this up on YouTube to cheer myself up. #ComicReliefBakeO…", :followers=>3236, :user_id=>1209941, :retweet=>2}

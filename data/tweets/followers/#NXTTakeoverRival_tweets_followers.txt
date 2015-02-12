@@ -1,0 +1,5 @@
+{:name=>"@RonFunches", :text=>"Those boys went out there and taught a master class. Amazing #ZaynvsOwens #NXTTakeoverRival", :followers=>84292, :user_id=>60520655, :retweet=>1}
+{:name=>"@AJLeeisBITW", :text=>"Amazing! Match of the night between @MsCharlotteWWE @SashaBanksWWE @BeckyLynchWWE and @itsBayleyWWE at #NXTTakeoverRival", :followers=>7306, :user_id=>217879220, :retweet=>0}
+{:name=>"@JustBerglund", :text=>"@FightOwensFight is the new NXT Champion! Not the greatest match, but damn was that exciting! Plenty more of them please! #NXTTakeoverRival", :followers=>5656, :user_id=>167828742, :retweet=>0}
+{:name=>"@KazzaY17_MUFC", :text=>"Once again the divas showing that give them time, and they will perform #NXTTakeoverRival", :followers=>2734, :user_id=>182846146, :retweet=>0}
+{:name=>"@ThePaulyKover", :text=>"Now that I'm home &amp; relaxed, time to enjoy @WWE @WWENXT #NXTTakeoverRival on @WWENetwork.", :followers=>1744, :user_id=>30471414, :retweet=>0}

@@ -1,5 +1,5 @@
-{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :followers=>17, :user_id=>3020175946, :retweet=>14002}
-{:text=>"RT @KeeganNYC: 87% of U.S. mass shooting are committed by caucasians 13-56. Why don't we spy on this community? #ChapelHillShooting http://…", :followers=>170, :user_id=>17955491, :retweet=>6418}
-{:text=>"RT @sallykohn: UPDATED re #ChapelHillShooting — \n\nMuslim shooter = terrorist\n\nBlack shooter = thug\n\nWhite shooter = just a tiff about a par…", :followers=>2837, :user_id=>14529776, :retweet=>5556}
-{:text=>"RT @KhaledBeydoun: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be prolific\n\n#ChapelHillShooting ht…", :followers=>374, :user_id=>326556792, :retweet=>5006}
-{:text=>"RT @KhaledBeydoun: The victims have names and faces:\n\n- Deah Barakat, \n- Yusor Abu-Salha \n- Razan Abu-Salha\n\nRIP.  #ChapelHillShooting http…", :followers=>1537, :user_id=>614608744, :retweet=>3723}
+{:text=>"RT @piersmorgan: If a Muslim executed 3 Christian students in U.S., it would get a LOT more media coverage than I'm seeing right now. \n\n#Ch…", :retweet=>24855}
+{:text=>"RT @SaudiNews50: أمريكي يقتل 3 طلاب مسلمين عرب يدرسون في جامعة \"نورث كارولينا\" والإعلام الأمريكي يتجاهل القضية.\n\n #ChapelHillShooting http:…", :retweet=>4431}
+{:text=>"RT @ozchrisrock: boy what a different news day in America would it be if this is what the killer looked like #ChapelHillShooting http://t.c…", :retweet=>3064}
+{:text=>"RT @Bipartisanism: 87% of U.S. mass shooting are committed by caucasians 13-56 but are never called 'Terrorists'. #ChapelHillShooting http:…", :retweet=>3052}
+{:text=>"RT @jabertoon: لا شيء يذكر \n\n #ChapelHillShooting\n #MuslimLivesMatter http://t.co/BA9SNkkILr", :retweet=>2934}

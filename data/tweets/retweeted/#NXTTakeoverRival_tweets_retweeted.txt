@@ -1,0 +1,5 @@
+{:text=>"RT @LanceStorm: . @MsCharlotteWWE @SashaBanksWWE @itsBayleyWWE @BeckyLynchWWE  \n\nYou have my respect and admiration. #NXTTakeoverRival", :retweet=>286}
+{:text=>"RT @LanceStorm: Okay Balor may have dethroned The Undertaker for best ring entrances #NXTTakeoverRival", :retweet=>200}
+{:text=>"RT @WrestlingInc: RT if you give #NXTTakeoverRival a THUMBS UP!", :retweet=>190}
+{:text=>"RT @LanceStorm: #NXT delivers more often than Dominos. Another GREAT SHOW #NXTTakeoverRival", :retweet=>158}
+{:text=>"RT @LanceStorm: Unconventional ending to Zayn vs Owens. I liked it, Owens dominates but Zayn not technically beaten. #NXTTakeoverRival Deli…", :retweet=>153}

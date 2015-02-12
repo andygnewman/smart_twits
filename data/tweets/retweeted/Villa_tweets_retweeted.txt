@@ -1,5 +1,0 @@
-{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>1231, :user_id=>42503480, :retweet=>1492}
-{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>15468, :user_id=>1687108614, :retweet=>1492}
-{:text=>"RT @ays_1881: Yemişim siyasetini,aşkını\n#ÇOCUK DİYORUZ #Can DİYORUZ daha ne diyelim!\n#ACİL #Kan \n#HasanWarsan \n#ŞişliEtfal A rh+ \n#Trombosi…", :followers=>75, :user_id=>295936263, :retweet=>1430}
-{:text=>"RT @BBCSport: Aston Villa have parted company with manager Paul Lambert. More to follow", :followers=>13, :user_id=>1044465787, :retweet=>903}
-{:text=>"RT @Carra23: Tim Sherwood will now be linked with Aston Villa he's becoming the new Alan Curbishley.", :followers=>211, :user_id=>1703173951, :retweet=>671}

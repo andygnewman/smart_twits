@@ -1,0 +1,5 @@
+{:text=>"RT @arusbridger: Some of the warm letters of encouragement we (and doubtless BBC) received while researching #HSBC http://t.co/btblBHLNG1", :retweet=>2110}
+{:text=>"RT @NaeFear: Another crooked bank uncovered. Q why are criminal bankers not in jail? #HSBC", :retweet=>201}
+{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>178}
+{:text=>"RT @Channel4News: .@paulmasonnews tries to track down the ex trade minister and  former #HSBC chairman.\nhttp://t.co/r158uWynS3\n#c4news http…", :retweet=>147}
+{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>136}

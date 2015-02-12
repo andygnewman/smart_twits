@@ -1,0 +1,5 @@
+{:text=>"RT @ManUtd: Congratulations to goalscorer Chris Smalling after he was voted #mufc’s Man of the Match vs Burnley. http://t.co/snlZXVsLNw", :retweet=>2246}
+{:text=>"RT @ManUtd: Smalling's first-half double and van Persie's penalty after the break send the Reds back to third in the table. #mufclive", :retweet=>1054}
+{:text=>"RT @Troll__Football: Smalling for the Ballon d'Or...", :retweet=>639}
+{:text=>"RT @ManUtd: Chris Smalling felt “unreal” to score 22 seconds after coming on. On his second goal he told #MUTV: “It was important. It helpe…", :retweet=>578}
+{:text=>"RT @premierleague: Smalling got two goals for @ManUtd to seal the 3-1 win against Burnley. Report: http://t.co/B8UWJVtwbW http://t.co/hZqGA…", :retweet=>378}

@@ -1,5 +1,5 @@
-{:text=>"RT @AVFCOfficial: CLUB STATEMENT: Paul Lambert. Full details are here: http://t.co/wHxOakzW24 #AVFC http://t.co/kxfetqcm48", :followers=>12, :user_id=>2980766628, :retweet=>2463}
-{:text=>"RT @AVFCOfficial: CLUB STATEMENT: Paul Lambert. Full details are here: http://t.co/wHxOakzW24 #AVFC http://t.co/kxfetqcm48", :followers=>1495, :user_id=>62838514, :retweet=>2463}
-{:text=>"RT @AVFCOfficial: Breaking news: We can confirm that manager Paul Lambert's contract has been extended to June 2018. #AVFC http://t.co/PMJi…", :followers=>1660, :user_id=>125362385, :retweet=>1558}
-{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>1231, :user_id=>42503480, :retweet=>1492}
-{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>15468, :user_id=>1687108614, :retweet=>1492}
+{:text=>"RT @AVFCOfficial: CLUB STATEMENT: Paul Lambert. Full details are here: http://t.co/wHxOakzW24 #AVFC http://t.co/kxfetqcm48", :retweet=>2836}
+{:text=>"RT @paddypower: Aston Villa replacing Paul Lambert with a more attack-minded manager.\nThis inanimate carbon rod currently favourite. http:/…", :retweet=>325}
+{:text=>"RT @premierleague: Aston Villa parted company with manager Paul Lambert on Wednesday. More: http://t.co/tbhL5GJ4kS http://t.co/7I6TtQlgxs", :retweet=>163}
+{:text=>"RT @paddypower: This Villa fan is delighted at the Paul Lambert news: https://t.co/zJYgQ3ghAW", :retweet=>91}
+{:text=>"RT @SkySportsNewsHQ: Here is how the points and goals have dried up for #AVFC under Paul Lambert #SSNHQ http://t.co/DjIgeh4sRC", :retweet=>53}

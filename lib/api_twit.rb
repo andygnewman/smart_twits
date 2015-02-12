@@ -50,16 +50,16 @@ class APITwitter
 
   def save_trends(id_g = LONDON)
     @response = @client.trends(id=id_g)
-    @response.attrs[:trends].each do |el| 
+    @response.attrs[:trends].each do |el|
       @trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub(' ','')}
     end
     delete_files_from_directory(PATH_TRENDS)
-    save_data(PATH_TRENDS+'toptrends.txt', @trends) 
+    save_data(PATH_TRENDS+'toptrends.txt', @trends)
   end
 
   def save_tweets_per_trend(query_number = 100,trends = @trends)
-    delete_files_from_directory(PATH_TWEETS)    
-    trends.each do |trend| 
+    delete_files_from_directory(PATH_TWEETS)
+    trends.each do |trend|
       tweets = get_tweets(trend[:query],query_number)
       save_data(PATH_TWEETS+trend[:filename]+'_tweets.txt',tweets)
     end
@@ -69,8 +69,9 @@ class APITwitter
     tweets = @client.search(hash_tag_g).take(query_number)
     result=[]
     tweets.each do |el|
-      result << {:text => el.text, :followers => el.user.followers_count,
-                 :user_id => el.user.id, :retweet => el.retweet_count}
+      result << {:name => "@"+el.user.screen_name, :text => el.text,
+                  :followers => el.user.followers_count,
+                  :user_id => el.user.id, :retweet => el.retweet_count}
     end
     return result
   end
@@ -84,7 +85,7 @@ class APITwitter
   # end
 
   # def save_tweet_utility(method, path, extension)
-  #   trends.each do |trend| 
+  #   trends.each do |trend|
   #     tweets = get_tweet_from_file(PATH_TRENDS+trend[:name]+'_tweets.txt')
   #     tweet_extraction = self.send(method)
   #     save_data(path+trend[:name]+extension, tweet_extraction)
@@ -92,8 +93,8 @@ class APITwitter
   # end
 
   def save_tweet_text_per_trend(trends = @trends)
-    delete_files_from_directory(PATH_TWEETS_TEXT)  
-    trends.each do |trend| 
+    delete_files_from_directory(PATH_TWEETS_TEXT)
+    trends.each do |trend|
       tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       tweet_text = merge_tweets(tweets)
       save_data(PATH_TWEETS_TEXT+trend[:filename]+'_tweets_text.txt', tweet_text)
@@ -102,32 +103,35 @@ class APITwitter
 
   def merge_tweets(array_of_hash)
     array_of_hash.reduce('') {|sum, el| sum += el[:text]}
-  end 
+  end
 
   def save_tweets_most_followers_per_trend(trends = @trends)
     delete_files_from_directory(PATH_TWEETS_FOLLOWERS)
-    trends.each do |trend| 
+    trends.each do |trend|
       tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       tweets_most_followers = top_followers_tweets(tweets)
       save_data(PATH_TWEETS_FOLLOWERS+trend[:filename]+'_tweets_followers.txt', tweets_most_followers)
     end
-  end  
+  end
 
   def top_followers_tweets(array_of_hashes, number = 5)
     array_of_hashes.sort { |x, y| x[:followers] <=> y[:followers] }.reverse[0..(number-1)]
   end
 
   def save_tweets_most_retweeted_per_trend(trends = @trends)
-    delete_files_from_directory(PATH_TWEETS_RETWEETED)    
-    trends.each do |trend| 
+    delete_files_from_directory(PATH_TWEETS_RETWEETED)
+    trends.each do |trend|
       tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       tweets_most_retweeted = top_retweeted_tweets(tweets)
       save_data(PATH_TWEETS_RETWEETED+trend[:filename]+'_tweets_retweeted.txt', tweets_most_retweeted)
     end
-  end  
+  end
 
   def top_retweeted_tweets(array_of_hashes, number = 5)
-    array_of_hashes.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
+    top_retweeted = []
+    array_of_hashes.each { |el| top_retweeted << {:text => el[:text], :retweet => el[:retweet]} }
+    top_retweeted_deduped = top_retweeted.uniq.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
+    return top_retweeted_deduped
   end
 
 # possible for new feature
@@ -136,7 +140,3 @@ class APITwitter
   end
 
 end
-
-
-
-

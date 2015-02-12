@@ -1,0 +1,5 @@
+{:name=>"@WorldOffer", :text=>"Join #BetClic Now Sign Up &gt;&gt; http://t.co/9MW9F9E7Gc 100€ Bonus #bonusbet #freebet #talksport #motd  #bookies http://t.co/atQ7d0uQPO", :followers=>25013, :user_id=>2609390197, :retweet=>0}
+{:name=>"@BassTunedToRed", :text=>"RT @VietnamLFC: #MOTD #LFC v #THFC 8m 720p #LIVTOT #Spurs\nhttp://t.co/6YlwHCfNFT\n@TheTotalLFC @briankettle @MostarLFC @MrBoywunder @BassTun…", :followers=>11243, :user_id=>235631290, :retweet=>13}
+{:name=>"@UnicornPimp007", :text=>"RT @MakeupByVeeTilt: Do you love #Makeup ? Have a #facebook?  Love taking a #selfie ? \nLet's talk! #motd #potd #freemakeup… http://t.co/ygV…", :followers=>8777, :user_id=>924948834, :retweet=>1}
+{:name=>"@MakeupByLusine", :text=>"#anastasiabeverlyhills #vegas_nay #makeupbylilit #makeup #motd #mua #hudabeauty #smokeyeye… http://t.co/M6whyHpE9q", :followers=>8454, :user_id=>23212356, :retweet=>2}
+{:name=>"@MakeupByLusine", :text=>"#anastasiabeverlyhills #vegas_nay #makeupbylilit #makeup #motd #mua #hudabeauty #smokeyeye… http://t.co/u1am0IfcX1", :followers=>8454, :user_id=>23212356, :retweet=>1}

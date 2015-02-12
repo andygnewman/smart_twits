@@ -1,0 +1,5 @@
+{:text=>"RT @MileyCyrus: da #bangerztour DVD is comingggggggg March 24!!! http://t.co/arUehYTggw", :retweet=>7048}
+{:text=>"RT @WorldDutyFree: Win the perfect gift she'll LOVE this Valentine's. RT &amp; follow @WorldDutyFree to #win this lovely @Radley_London set htt…", :retweet=>1562}
+{:text=>"RT @BBCEngland: More 999 calls expected from #50ShadesOfGrey fans trapped by handcuffs, says @LondonFire http://t.co/1QumNcCdBy http://t.co…", :retweet=>327}
+{:text=>"RT @TheEconomist: London’s population is the same size as it was in 1939, but looks very different http://t.co/zwxaKpFr2V http://t.co/qsyZ7…", :retweet=>179}
+{:text=>"RT @LondonFire: A man was stuck with 2 penis rings on for 3 days. If the ring doesn’t fit, don’t force it on #FiftyShadesofRed http://t.co/…", :retweet=>102}
