@@ -1,5 +1,5 @@
-{:name=>"@nialler_james16", :text=>"RT @NarryMyDream: Niall and Harry together #WhatIsLoveIn4Words http://t.co/PsorMl99ud", :followers=>15721, :user_id=>2445317961, :retweet=>103}
-{:name=>"@nialler_james16", :text=>"RT @NarryMyDream: It's in their eyes #WhatIsLoveIn4Words http://t.co/UCmJgk5UXb", :followers=>15721, :user_id=>2445317961, :retweet=>155}
-{:name=>"@IranianMermaid", :text=>"Comfortable silence (I only needed 2 words) #WhatIsLoveIn4Words", :followers=>13222, :user_id=>32691725, :retweet=>0}
-{:name=>"@SmileforVic", :text=>"wanna share my food? #whatislovein4words", :followers=>9451, :user_id=>396241210, :retweet=>0}
-{:name=>"@theluxcrystal", :text=>"#WhatIsLoveIn4Words Putting others before yourself.", :followers=>5197, :user_id=>430375389, :retweet=>0}
+{:name=>"@WoodfordReserve", :text=>"Woodford on the Rocks. #WhatIsLoveIn4Words http://t.co/Ug2RCTA0x6", :followers=>37407, :user_id=>20262053, :retweet=>0}
+{:name=>"@MyBeautyMatches", :text=>"#WhatIsLoveIn4Words 'Brand. New. Makeup. Collection!' 💄 http://t.co/d65WQ6akdW #BeautyJunkie", :followers=>24546, :user_id=>457768083, :retweet=>0}
+{:name=>"@PBCC", :text=>"#WhatIsLoveIn4Words  Fayette County #breastcancer survivor Jaynette shares her brave story in next week's PinkLink http://t.co/L4kQOjs6pT", :followers=>17447, :user_id=>21228716, :retweet=>0}
+{:name=>"@HananyaNaftali", :text=>"Crucifixion of Jesus Christ. #WhatIsLoveIn4Words", :followers=>12901, :user_id=>619400667, :retweet=>0}
+{:name=>"@SKTV_", :text=>"#WhatIsLoveIn4Words I appreciate your butt", :followers=>12617, :user_id=>279156307, :retweet=>2}

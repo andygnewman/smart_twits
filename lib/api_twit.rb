@@ -83,7 +83,6 @@ class APITwitter
     @client_streaming.filter(:track => subject) do |tweet|
       tweets << tweet
     end  
-    byebug
   end
 
   def get_tweets(hash_tag_g,query_number = 10)

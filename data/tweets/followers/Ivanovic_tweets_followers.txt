@@ -1,0 +1,5 @@
+{:name=>"@Squawka", :text=>"RT @gregianjohnson: Forget Ivanovic's strangle: refs get 95% of their decision right! @A_Hess for @Squawka: http://t.co/2IstspV0rw http://t…", :followers=>390159, :user_id=>385473825, :retweet=>1}
+{:name=>"@PoojaBlog", :text=>"After this incident &amp; a case of a 'bite' - Ivanovic will not face any further action over James McCarthy's incident. http://t.co/nG30ITZslf", :followers=>17762, :user_id=>461888257, :retweet=>0}
+{:name=>"@NourAgha", :text=>"RT @DannyDoes: FA realised Azpilicueta at RB, Luis at LB over Ivanovic… headbutt? He was just saying hello in Serbian.", :followers=>13432, :user_id=>51043990, :retweet=>2}
+{:name=>"@Becky_EFC", :text=>"RT @bbbbbbbassline: @Becky_EFC @FA standard procedure when a team picks up 5 bookings, not banning ivanovic is a joke though, and I'm a Che…", :followers=>4143, :user_id=>293615680, :retweet=>1}
+{:name=>"@gregianjohnson", :text=>"Forget Ivanovic's strangle: refs get 95% of their decision right! @A_Hess for @Squawka: http://t.co/2IstspV0rw http://t.co/mtDw30tbLm", :followers=>3986, :user_id=>303456746, :retweet=>1}

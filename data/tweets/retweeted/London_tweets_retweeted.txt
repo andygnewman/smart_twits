@@ -1,5 +1,5 @@
-{:text=>"RT @charli_xcx: omg just hearing doing it on the radio for the first time in london !!! 💖❤️💕💜", :retweet=>387}
-{:text=>"RT @JoshUJWorld: London Town 👍 http://t.co/HEnegA3VaE", :retweet=>333}
-{:text=>"RT @eveescort1: forever http://t.co/dGcXzbSwzw http://t.co/E16d4Yy910", :retweet=>102}
-{:text=>"RT @ShaunKing: Adjusted w/ race in mind, an African American is nearly 500X more likely to be shot/killed by police in the USA than a citiz…", :retweet=>52}
-{:text=>"RT @JamieDornanJPN: Prep has nearly completed for London premiere . #fiftyshades http://t.co/E3eIqsxEUi", :retweet=>34}
+{:text=>"RT @GemmaAnneStyles: Ellooooo London you look tired (me too) http://t.co/9gFlVG3r0m", :retweet=>3864}
+{:text=>"RT @TheEconomist: London’s population is the same size as it was in 1939, but looks very different http://t.co/zwxaKpFr2V http://t.co/qsyZ7…", :retweet=>544}
+{:text=>"RT @Australia: Even a stormy day can't hide the beauty of the London Bridge in Victoria. Photo: @StoneographyAU (via IG) http://t.co/2mBZSh…", :retweet=>106}
+{:text=>"RT @eveescort1: the best so far http://t.co/hCVPGfgcYh http://t.co/bqxfNCok2X", :retweet=>73}
+{:text=>"RT @business: It's \"very unlikely\" for the U.K. to leave the European Union, London's mayor says http://t.co/TUv3ZD3e7U http://t.co/IMMPOWF…", :retweet=>60}

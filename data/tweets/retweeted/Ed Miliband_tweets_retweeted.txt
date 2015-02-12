@@ -1,5 +1,0 @@
-{:text=>"RT @OddMiliband: Ed Miliband trying to make friends with someone http://t.co/V1PSXlVCxj", :retweet=>185}
-{:text=>"RT @spectator: Ed Miliband’s critics don’t hate him for how he’s failed. They hate him for how he’s succeeded, says Peter Oborne: http://t.…", :retweet=>136}
-{:text=>"RT @faisalislam: Now Lord Fink says everyone does \"Vanilla tax avoidance\": the sounds of a backfiring, backfiring on itself:\nhttp://t.co/43…", :retweet=>131}
-{:text=>"RT @montie: Ed Miliband standing up to wealthy Tory donor. Whatever the merits of the case, Ed Miliband wins the politics.", :retweet=>114}
-{:text=>"RT @LabourEoin: Lord Fink takes back his threat to sue Ed Miliband. Tory attempts to paint Ed Miliband as \"weak\" are looking more silly by …", :retweet=>90}

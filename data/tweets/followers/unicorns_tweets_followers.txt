@@ -1,5 +1,5 @@
-{:name=>"@findmeagift", :text=>"RT @TracyLSteel: @findmeagift here's some inspiration; everyone knows #unicorns puke chocolate and poop rainbows! ;) http://t.co/yxPftAyaDF", :followers=>17271, :user_id=>18815068, :retweet=>1}
-{:name=>"@nattylara", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>13682, :user_id=>45013334, :retweet=>67}
-{:name=>"@BESSBAD", :text=>"Save me from the #kittens mouth:\nfor thou hast heard me\nfrom the horns of the #unicorns:", :followers=>9980, :user_id=>24597658, :retweet=>0}
-{:name=>"@Africanalyst", :text=>"RT @RachelSLyon: Apparently #Unicorns are trending on Twitter. My Mucky would be pleased! http://t.co/sgJzeLCMDI", :followers=>8833, :user_id=>1410327247, :retweet=>1}
-{:name=>"@borisovrealtyRu", :text=>"#unicorns Минске #kittens #cookies Порошенко Савченко Путина \n\nОккупанты драпали из котла под видом мирного населения http://t.co/MmhvwfgUIc", :followers=>5579, :user_id=>2443803060, :retweet=>0}
+{:name=>"@MetroUK", :text=>"This is why #unicorns are trending + 13 things you never knew about them http://t.co/NPiWeGvgF9 http://t.co/sDQCRwQ1mh", :followers=>179907, :user_id=>138749160, :retweet=>1}
+{:name=>"@larrykim", :text=>"RT @Abuckalew: Make your own luck, and then raise a happy unicorn farm. #ContentHacks #unicorns", :followers=>47036, :user_id=>17850785, :retweet=>2}
+{:name=>"@M4ttr1987", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>35234, :user_id=>592222488, :retweet=>74}
+{:name=>"@fllllh1", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>9554, :user_id=>2528776465, :retweet=>74}
+{:name=>"@wasbornaunicorn", :text=>"RT @heather_c3: I’m confused about the #unicorns. http://t.co/7BABT1aKhv", :followers=>8024, :user_id=>2528776985, :retweet=>10}

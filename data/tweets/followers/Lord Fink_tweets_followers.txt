@@ -1,5 +1,5 @@
-{:name=>"@mrjamesob", :text=>"RT @labourpress: Presumably Lord Fink objected to the word \"activities\". http://t.co/38LsZLkN9p", :followers=>54311, :user_id=>152656121, :retweet=>120}
-{:name=>"@NewsHitter", :text=>"Miliband accuses Fink of U-turn: Ed Miliband accuses Lord Fink of an \"extraordinary U-turn\" after the Tory don... http://t.co/ctlHzVxKoZ", :followers=>40221, :user_id=>87728784, :retweet=>0}
-{:name=>"@Reality_Party", :text=>"RT @EtonOldBoys: Lord Fink on tax avoidance: \"everyone does it\".  I dont Fink so, especially if you are a pleb on PAYE", :followers=>4694, :user_id=>2459311625, :retweet=>47}
-{:name=>"@DrNostromo", :text=>"Tory supporters on here equating what Lord Fink has been up to as equitable to ISA frankly laughable.", :followers=>4117, :user_id=>317936494, :retweet=>0}
-{:name=>"@Mancman10", :text=>"If anyTories out there trying to say it's Miliband who's backed down&amp;not Fink,where is the word dodgy in this http://t.co/cOPDsGfHKd FAIL!", :followers=>3073, :user_id=>118736440, :retweet=>1}
+{:name=>"@longsight9a", :text=>"RT @SkyNews: The ex-Tory treasurer Lord Fink has admitted he did take \"vanilla\" tax avoidance measures http://t.co/8uIzPdjy30 http://t.co/B…", :followers=>28332, :user_id=>191383270, :retweet=>56}
+{:name=>"@michaelhogan", :text=>"Weirdly, Lord Fink is my porn name", :followers=>9415, :user_id=>20167427, :retweet=>0}
+{:name=>"@Maverickaizer", :text=>"Tory donor says he does 'vanilla' tax avoidance - but so does 'everyone' http://t.co/TNGrgLmlbM EVERYONE? CERTAINLY NOT THE POOR MAJORITY!", :followers=>7915, :user_id=>148680960, :retweet=>0}
+{:name=>"@Maverickaizer", :text=>"Video: Ed Miliband repeats Lord Fink tax claims outside Parliament but refuses to say he was 'dodgy' | via @Telegraph http://t.co/KVsWfvNlzZ", :followers=>7915, :user_id=>148680960, :retweet=>0}
+{:name=>"@ipasho", :text=>"RT @OwenJones84: The problem for Lord Fink and the like is the British people are losing patience with being ruled over by a mean and greed…", :followers=>5451, :user_id=>388798786, :retweet=>195}

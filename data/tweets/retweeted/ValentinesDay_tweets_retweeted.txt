@@ -1,5 +1,5 @@
-{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>36709}
-{:text=>"RT @NewgateClocks: &lt;3 Time for our #ValentinesDay #giveaway #competition!\n#RT #Follow &amp; #tweet us your fav #clock to enter! #win on14/02 ht…", :retweet=>852}
-{:text=>"RT @FentimansLtd: COMPETITION RT &amp; FOLLOW to enter.Win an iPod shuffle and a case of Rose Lemonade #SayitWithaRose #Day3 #ValentinesDay htt…", :retweet=>651}
-{:text=>"RT @Minicabster: #Win a trip for 2 to The Shard by #ValentinesDay! Follow, Share &amp; RT to be in with a chance! http://t.co/qFfVnCpbxv http:/…", :retweet=>387}
-{:text=>"RT @ladybirdbooks: RT to enter our #ValentinesDay giveaway to #win all these books. Ends 5pm today. http://t.co/9CofkBJqT8", :retweet=>267}
+{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>37040}
+{:text=>"RT @StubHub: Nothing is better than concert tickets for #ValentinesDay! RT for a chance to win a $50 gift cert. http://t.co/xtNsg8hzjK", :retweet=>1413}
+{:text=>"RT @SilverlineTools: We'll be announcing the winner of our #ValentinesDay competition today! FOLLOW &amp; RT by 4pm to enter! #WIN http://t.co/…", :retweet=>485}
+{:text=>"RT @ShujaRabbani: Weekend is about to start &amp; I can't wait to have some fun! #relaxromantic #ValentinesDay #ValentinesDayExcuses #LOVEISON …", :retweet=>477}
+{:text=>"RT @Minicabster: #Win a trip for 2 to The Shard by #ValentinesDay! Follow, Share &amp; RT to be in with a chance! http://t.co/qFfVnCpbxv http:/…", :retweet=>388}

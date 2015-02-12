@@ -1,5 +1,5 @@
-{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>232}
-{:text=>"RT @Channel4News: .@paulmasonnews tries to track down the ex trade minister and  former #HSBC chairman.\nhttp://t.co/r158uWynS3\n#c4news http…", :retweet=>176}
-{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>151}
-{:text=>"RT @billybragg: Prosecute the #HSBC tax dodgers - sign the petition:\nhttps://t.co/n7i4HNR3t5", :retweet=>103}
-{:text=>"RT @LabourEoin: Lord Fink takes back his threat to sue Ed Miliband. Tory attempts to paint Ed Miliband as \"weak\" are looking more silly by …", :retweet=>90}
+{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>239}
+{:text=>"RT @charlesfrith: In the UK it's illegal to grow 1 cannabis plant in your house but its legal for #HSBC to launder £65 billion for drug car…", :retweet=>189}
+{:text=>"RT @Harryslaststand: The next time the media put a banker on tv to tell us how the economy should  be run remember #HSBC's #taxavoidance ad…", :retweet=>157}
+{:text=>"RT @nw_nicholas: Whilst the taxpayer was bailing out the banks #HSBC was quietly defrauding the poorest in society. http://t.co/kzQJeAv6MD", :retweet=>136}
+{:text=>"RT @LabourEoin: Retweet if your opinion of Ed Miliband has improved in recent days. #HSBC", :retweet=>101}
