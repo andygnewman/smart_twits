@@ -24,6 +24,7 @@ class APITwitter
   def initialize
     hash_with_passes = load_passes
     @client = init_twit(hash_with_passes)
+    @client_streaming = init_twit_streaming(hash_with_passes)
     @trends = []
   end
 
@@ -39,6 +40,15 @@ class APITwitter
       config.access_token_secret = hash_with_keys["Access_Token_Secret"]
     end
   end
+
+  def init_twit_streaming(hash_with_keys)
+    Twitter::Streaming::Client.new do |config|
+      config.consumer_key        = hash_with_keys["Consumer_Key(API_Key)"]
+      config.consumer_secret     = hash_with_keys["Consumer_Secret(API_Secret)"]
+      config.access_token        = hash_with_keys["Access_Token"]
+      config.access_token_secret = hash_with_keys["Access_Token_Secret"]
+    end
+  end  
 
   def refresh_all_twitter_data
     save_trends
@@ -64,6 +74,14 @@ class APITwitter
       tweets = get_tweets(trend[:query],query_number)
       save_data(PATH_TWEETS+trend[:filename]+'_tweets.txt',tweets)
     end
+  end
+
+  def get_tweets_streaming(subject)
+    tweets = []
+    @client_streaming.filter(:track => subject) do |tweet|
+      tweets << tweet
+    end  
+    byebug
   end
 
   def get_tweets(hash_tag_g,query_number = 10)
