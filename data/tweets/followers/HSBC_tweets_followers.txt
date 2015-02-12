@@ -1,5 +1,0 @@
-{:name=>"@lord_witchking", :text=>"RT @nonjob1: Tax avoiders, evaders, &amp; loophole abusers, I salute you.\n\nThe more money that can be kept away from the state, the better.\n\n#H…", :followers=>17989, :user_id=>802357507, :retweet=>8}
-{:name=>"@derekrootboy", :text=>"RT @joyinthenewworl: Prosecute the #HSBC tax dodgers - sign the petition:\nhttps://t.co/xGUCSuW3V0", :followers=>13892, :user_id=>35585695, :retweet=>1}
-{:name=>"@CollRoosevelt", :text=>"RT @bizimugi: Les militants de @bizimugi saisissent le matériel de #HSBC http://t.co/lY0Oo660zT #swissleaks #évasionfiscale http://t.co/fBZ…", :followers=>11090, :user_id=>476947480, :retweet=>37}
-{:name=>"@Daisybelll", :text=>"RT @LabourEoin: Retweet if your opinion of Ed Miliband has improved in recent days. #HSBC", :followers=>9716, :user_id=>43061572, :retweet=>110}
-{:name=>"@ButchJocson", :text=>"RT @larryelder: HSBC Leaker Says Filed 'Tip Of The Iceberg  \n--Sharpton owes millions taxes--call him! \nhttp://t.co/19hxip6NnJ \n#HSBC", :followers=>5222, :user_id=>83701522, :retweet=>13}

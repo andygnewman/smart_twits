@@ -1,5 +1,0 @@
-{:text=>"RT @Independent: Three young Muslims have been shot dead in their home #ChapelHillShooting http://t.co/ue46iUMdvC http://t.co/Jb2P1NaD4R", :retweet=>5890}
-{:text=>"RT @DrGilbert: 3 young people died in USA, No march's No Protests, Oh never mind, they're Muslims http://t.co/qYrZeWDDkR", :retweet=>4413}
-{:text=>"RT @Independent: These are the victims of the #ChapelHillShooting... #MuslimLivesMatter http://t.co/ue46iUMdvC http://t.co/LyLN4FgwOD", :retweet=>3979}
-{:text=>"RT @Remroum: A Muslim commits a crime = 1.6 billion must collectively apologize. White guy executes 3 Muslims = People can't even admit it'…", :retweet=>2843}
-{:text=>"RT @LebaneseProblem: Three Muslims murdered tonight in Chapel Hill, NC by a man because they were Muslim. \n\nWhat a sad night in America. ht…", :retweet=>2715}

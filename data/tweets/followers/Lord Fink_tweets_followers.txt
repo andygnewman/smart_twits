@@ -1,5 +1,0 @@
-{:name=>"@CityAM", :text=>"Lord Fink's “vanilla” tax avoidance: What does it mean? http://t.co/L9TohJhwmo", :followers=>21893, :user_id=>45840503, :retweet=>0}
-{:name=>"@PeterDombi", :text=>"@Cornishpasty3 Well clearly not if, as Lord Fink says, Tax Avoidance is completely normal!", :followers=>13711, :user_id=>301523650, :retweet=>0}
-{:name=>"@Daisybelll", :text=>"RT @chunkymark: \"David Cameron must explain why he employs someone like Lord Fink who boasts about Tax Avoidance and think it's something e…", :followers=>9716, :user_id=>43061572, :retweet=>42}
-{:name=>"@Daisybelll", :text=>"RT @OwenJones84: The problem for Lord Fink and the like is the British people are losing patience with being ruled over by a mean and greed…", :followers=>9716, :user_id=>43061572, :retweet=>240}
-{:name=>"@andrewfeinstein", :text=>"RT @ICIJorg: I stand by tax avoidance comments about Lord Fink, says Ed Miliband http://t.co/HPB9s6ZD0z #SwissLeaks", :followers=>6783, :user_id=>43317553, :retweet=>3}

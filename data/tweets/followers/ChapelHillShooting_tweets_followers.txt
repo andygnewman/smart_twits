@@ -1,5 +1,0 @@
-{:name=>"@GOOLDMAAN1", :text=>"RT @Hamed_Alali: تغطية كبيرة بالمحطات الأمريكية لقتل ثلاثة طلبة عرب بسبب نشاط المغردين بتويتر \n@ArabVoicesSpeak\n#ChapelHillShooting http://…", :followers=>172218, :user_id=>978778159, :retweet=>142}
-{:name=>"@khalidalbaih", :text=>"New #Khartoon - parking dispute - #ChapelHillShooting  #islam #Islamophobe #illustration http://t.co/EKBXSA5RdH", :followers=>7849, :user_id=>26192631, :retweet=>0}
-{:name=>"@RisingRedStorm", :text=>"@leilafinew @GlobalPost people aren't afraid of #Islam. They R afraid of radical &amp; political Islam. #Islamophobia #ChapelHillShooting", :followers=>5672, :user_id=>48389713, :retweet=>0}
-{:name=>"@Yeni_TC", :text=>"RT @asilbayburtlu: AMERİKANIN KUCAĞINDASINIZ DİYE\nSAM AMCANIZDAN BU KADAR KORKMAYIN \n\n #ChapelHillShooting \n\nhttp://t.co/VITYkRg4PA\n\n,.,.,", :followers=>5508, :user_id=>1140358195, :retweet=>68}
-{:name=>"@Viejis39", :text=>"RT @hernankl: @rinconet Diferencias... #ChapelHillShooting http://t.co/PeSR544Z8t", :followers=>4839, :user_id=>357742193, :retweet=>1}

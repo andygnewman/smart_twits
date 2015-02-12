@@ -1,5 +1,0 @@
-{:text=>"RT @bombblackgirlss: Lauren London 😍👌 http://t.co/mpXs0fOAgB", :retweet=>1145}
-{:text=>"RT @charli_xcx: omg just hearing doing it on the radio for the first time in london !!! 💖❤️💕💜", :retweet=>442}
-{:text=>"RT @JoshUJWorld: London Town 👍 http://t.co/HEnegA3VaE", :retweet=>432}
-{:text=>"RT @jessicaelgot: South London mosque’s statement on Cathy Newman's apology, &amp; turmoil they have been through http://t.co/Q4MxEWO4eB http:/…", :retweet=>284}
-{:text=>"RT @Axwell: Mind the gap London…we’re coming back! Alexandra Palace. June 6. Pre Sale 9AM Monday http://t.co/PoRbo0Xv6I http://t.co/MT8chdG…", :retweet=>197}

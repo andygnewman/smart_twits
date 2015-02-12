@@ -1,5 +1,0 @@
-{:text=>"RT @GerryHassan: Labour pink battle bus spotted north of the border. @scottishlabour @jimmurphymp Via @celticghirl6719 http://t.co/GiLhlcRG…", :retweet=>94}
-{:text=>"RT @LiarMPs: Labour accept donations from PWC who hand out advice on how 2 avoid tax 'on an industrial scale' while vowing 2crack down on t…", :retweet=>64}
-{:text=>"RT @bernerlap: Remember Mandelson &amp; Blair.\nDon't fall for the same old #Labour spin http://t.co/yeyAXtBVs9", :retweet=>33}
-{:text=>"RT @WomenForIndy: Don't know about Labour, but WFI are getting mileage out of the magenta battle bus.", :retweet=>31}
-{:text=>"RT @JohnRentoul: Good figures for Labour in ComRes poll for ITVNews http://t.co/v1dWvyBrM8", :retweet=>30}

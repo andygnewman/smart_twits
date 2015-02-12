@@ -1,5 +1,0 @@
-{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>240}
-{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>166}
-{:text=>"RT @Ian_Fraser: Ex HMRC boss Dave Hartnett signed off #HSBCFiles \"dirty deal\" months before joining #HSBC to advise it on honesty http://t.…", :retweet=>164}
-{:text=>"RT @JamesMelville: The 1% are literally laughing all the way to the bank. \nThe 99% continue to foot the bill.\n#HSBC http://t.co/lf16uw65QN", :retweet=>162}
-{:text=>"RT @peterjukes: If Lord Green refuses to be held accountable to the public for his directorship of #HSBC why should we be accountable to hi…", :retweet=>157}

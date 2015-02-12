@@ -1,5 +1,0 @@
-{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>37663}
-{:text=>"RT @BLVBrands: 💖 RT for a chance to win our #ValentinesDay giveaway from http://t.co/kyiyanu0Ht 🙌 ❤️\n\n#BLVGiveaway 💕 😍 http://t.co/xb4WRKpH…", :retweet=>4184}
-{:text=>"RT @fenvirantiviral: #Breaking 72-Hour HERPES/SHINGLES Treatment -amazing results! promo TW15  http://t.co/lJaZ2r6GSa #ValentinesDay #news …", :retweet=>298}
-{:text=>"RT @LGUK: RT &amp; Follow @LGUK and U could WIN 6 months free of @SpotifyUK premium for #ValentinesDay! http://t.co/CKMjzJa2vO http://t.co/VG5n…", :retweet=>245}
-{:text=>"RT @NutzAudio: ENDS TONIGHT 10PM #ValentinesDay #competition @nutzaudio for RED Bluetooth Speaker.RT &amp; Follow 2 enter #VAVABOOM http://t.co…", :retweet=>166}

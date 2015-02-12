@@ -1,5 +1,0 @@
-{:name=>"@TRobinsonNewEra", :text=>"Muslims are raping non muslim children across our country, yet all they want to moan and protest about is cartoons or islamophobia", :followers=>101120, :user_id=>374712154, :retweet=>7}
-{:name=>"@LessaT", :text=>"RT @DineshDSouza: The Crusaders recaptured Jerusalem from Muslim conquest--so Muslims are responsible both for ISIS &amp; the Crusades! http://…", :followers=>40191, :user_id=>20651510, :retweet=>1375}
-{:name=>"@avonsjourney", :text=>"RT @ALLCAPSLYRICS: RIP to the 3 Muslims that died 😔💓 #ChapeHillShooting http://t.co/DzSeF171XQ", :followers=>6903, :user_id=>600842222, :retweet=>1942}
-{:name=>"@HOT1071", :text=>"Possible Hate Crime Leaves 3 Muslims in Chapel Hill Dead http://t.co/IIBRIYKUpM", :followers=>6031, :user_id=>23762680, :retweet=>0}
-{:name=>"@Head4uarters", :text=>"@kgborland Why? Considering Muslims kill non Muslims all the damn time, it's quite cheap to make such a useless hashtag. More #VictimHood", :followers=>5406, :user_id=>2300289704, :retweet=>0}

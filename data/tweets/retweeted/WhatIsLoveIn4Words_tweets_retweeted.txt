@@ -1,5 +1,0 @@
-{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>430}
-{:text=>"RT @HogwartsLogic: #WhatIsLoveIn4Words \n\nHarry James Potter Always", :retweet=>270}
-{:text=>"RT @GoT_Tyrion: Game of Thrones Returns #WhatIsLoveIn4Words http://t.co/NpPW8A2QIQ", :retweet=>207}
-{:text=>"RT @EvanEdinger: #WhatIsLoveIn4Words baby don't hurt me", :retweet=>182}
-{:text=>"RT @YouTube: Don’t drop the ring. http://t.co/rQoZ5CaGHP #WhatIsLoveIn4Words http://t.co/luHcA0UxPl", :retweet=>160}

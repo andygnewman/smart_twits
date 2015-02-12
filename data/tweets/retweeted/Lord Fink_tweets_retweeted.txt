@@ -1,5 +1,0 @@
-{:text=>"RT @OwenJones84: The problem for Lord Fink and the like is the British people are losing patience with being ruled over by a mean and greed…", :retweet=>240}
-{:text=>"RT @labourpress: Presumably Lord Fink objected to the word \"activities\". http://t.co/38LsZLkN9p", :retweet=>178}
-{:text=>"RT @OwenJones84: Tax avoidance is something the rich pay to do, whatever Lord Fink says. Life is cheaper for the rich", :retweet=>172}
-{:text=>"RT @UKLabour: David Cameron’s donor Lord Fink says “Everyone does tax avoidance”. Does that sound right to you? http://t.co/qCCsSYoLIL", :retweet=>157}
-{:text=>"RT @faisalislam: Now Lord Fink says everyone does \"Vanilla tax avoidance\": the sounds of a backfiring, backfiring on itself:\nhttp://t.co/43…", :retweet=>138}
