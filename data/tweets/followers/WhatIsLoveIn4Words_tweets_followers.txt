@@ -1,5 +1,5 @@
-{:name=>"@gchahal", :text=>"RT @Gravity4: \"High-Frequency Marketing OS” \n\n#WhatIsLoveIn4Words", :followers=>137740, :user_id=>14372104, :retweet=>2}
-{:name=>"@NowThatsCollege", :text=>"The final is optional. #WhatIsLoveIn4Words", :followers=>30037, :user_id=>230889304, :retweet=>1}
-{:name=>"@ThePEAK", :text=>"#WhatIsLoveIn4Words\n\n@Sonia_Sidhu says \"No Makeup And Sweats\"\n\nJoin the conversation. 604.280.1027", :followers=>25298, :user_id=>17237095, :retweet=>0}
-{:name=>"@Toblerone", :text=>"Saved you a triangle #WhatIsLovein4Words http://t.co/Nw6wcmYN47", :followers=>18351, :user_id=>26101062, :retweet=>1}
-{:name=>"@Shayne_afc", :text=>"\"@peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/KuAkldlUNF\"\n\nAnd in 4 letters... Amen.", :followers=>3778, :user_id=>351581708, :retweet=>0}
+{:name=>"@FreeLanceJoe", :text=>"RT @alijunephillips: @twitter @Support @twittermedia @FreeLanceJoe @TeamBossyGals @FollowTeamUSA #WhatIsLoveIn4Words #TEAMBOSSYGALS HELP!! …", :followers=>257786, :user_id=>172314205, :retweet=>8}
+{:name=>"@TeamBossyGals", :text=>"RT @alijunephillips: @twitter @Support @twittermedia @FreeLanceJoe @TeamBossyGals @FollowTeamUSA #WhatIsLoveIn4Words #TEAMBOSSYGALS HELP!! …", :followers=>148862, :user_id=>278033589, :retweet=>8}
+{:name=>"@RougeJB", :text=>"#WhatIsLoveIn4Words A long healthy life.", :followers=>40504, :user_id=>305838500, :retweet=>0}
+{:name=>"@Carole_Kay", :text=>"RT @alijunephillips: @twitter @Support @twittermedia @FreeLanceJoe @TeamBossyGals @FollowTeamUSA #WhatIsLoveIn4Words #TEAMBOSSYGALS HELP!! …", :followers=>39862, :user_id=>174350413, :retweet=>8}
+{:name=>"@JonP9", :text=>"RT @alijunephillips: @twitter @Support @twittermedia @FreeLanceJoe @TeamBossyGals @FollowTeamUSA #WhatIsLoveIn4Words #TEAMBOSSYGALS HELP!! …", :followers=>32175, :user_id=>307424496, :retweet=>8}

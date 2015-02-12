@@ -1,0 +1,5 @@
+{:name=>"@SportingRT", :text=>"Boost for Chelsea as Ivanovic avoids FA charge:  http://t.co/twDH8NX3px", :followers=>38289, :user_id=>2317976654, :retweet=>0}
+{:name=>"@SportsYapper", :text=>"Good news day for #CFC. No action for the Ivanovic \"incident\" + Eden Hazard signs a new deal: http://t.co/PpWfYbGyvr http://t.co/UECFHMJde1", :followers=>31346, :user_id=>312674068, :retweet=>0}
+{:name=>"@ESPNFC_ID", :text=>"Pantaskah aksi kasar ivanovic mendapat kartu merah?", :followers=>11605, :user_id=>2527217443, :retweet=>0}
+{:name=>"@JoeDrinkhall", :text=>"Media must be gutted they failed at getting Ivanovic banned. Absolute twats", :followers=>8102, :user_id=>283449334, :retweet=>0}
+{:name=>"@Bot_Football", :text=>"Branislav Ivanovic cleared of butting Everton’s James McCarthy: • Chelsea defender’s actions ‘not worthy of a… http://t.co/KKxlh2qEIt", :followers=>7508, :user_id=>830926230, :retweet=>0}

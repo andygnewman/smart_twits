@@ -1,5 +1,5 @@
-{:name=>"@mrgsjkay", :text=>"RT @Jennifer0693: Cute shots of @KerryKatona7 and @mrgsjkay in London &lt;3 http://t.co/PIu3kwNs7a", :followers=>103988, :user_id=>1037518146, :retweet=>5}
-{:name=>"@RugbyBenCohen", :text=>"RT @StandUpFdn: Comedy Night to benefit StandUp Foundation in London 15 April tickets available here https://t.co/2cqQvDRfXt See you there …", :followers=>91646, :user_id=>72955085, :retweet=>1}
-{:name=>"@MollyAnnLouise", :text=>"Going London lmao bye http://t.co/4VZWBdNjtD", :followers=>25111, :user_id=>792538074, :retweet=>0}
-{:name=>"@recruitzonejobs", :text=>"Bee Recruitment London Ltd: General Manager in Training (Hampshire, ) http://t.co/ihv7rRDRmv #Jobs #CV #hiring #career", :followers=>20109, :user_id=>927645446, :retweet=>0}
-{:name=>"@hkTjee", :text=>"\"Muslims\" is in list of London trends yet still don't know is it good or bad.", :followers=>19979, :user_id=>486288760, :retweet=>0}
+{:name=>"@visitlondon", :text=>"Looking for a warm London welcome? Meet #Waggers, @Staybridge London Vauxhall's newest recruit http://t.co/4Gnv1hZ5Rz http://t.co/I26OD6kIYE", :followers=>299730, :user_id=>36054262, :retweet=>0}
+{:name=>"@Kickstartsucces", :text=>"RT penniesmart: #news revolution soon #london #NewYork #Europe get early #kickstarter invite here … http://t.co/rAvxfW4iqk", :followers=>243605, :user_id=>2895455096, :retweet=>0}
+{:name=>"@jennyeclair", :text=>"@EvaWiseman my partner is best check http://t.co/bvXJ2SkyAD - but because he's so busy he only really works in South London", :followers=>141478, :user_id=>191768822, :retweet=>0}
+{:name=>"@solalexasch", :text=>"RT @105photography: Photo: London @solalexasch @andyvenom @riserecords @wearedangerkids @EBallroomCamden http://t.co/gbpSooHpSR", :followers=>25408, :user_id=>2522126634, :retweet=>1}
+{:name=>"@penniesmart", :text=>"#news revolution soon #london #NewYork #Europe get early #kickstarter invite here http://t.co/AHiIUVDcPC    #ayudos", :followers=>19389, :user_id=>2899628997, :retweet=>0}

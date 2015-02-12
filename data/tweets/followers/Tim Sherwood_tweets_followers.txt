@@ -1,5 +1,5 @@
+{:name=>"@BarclaysLeague", :text=>".@AVFCOfficial Legend Warns Club The Manager They Must Avoid http://t.co/8oyhszKU3G", :followers=>207249, :user_id=>136964211, :retweet=>1}
 {:name=>"@EmmyMabs", :text=>"The 21 contenders to replace Paul Lambert as Aston Villa’s new manager: Could Tim Sherwood replace Paul Lamber... http://t.co/6vPRrd8sub", :followers=>94776, :user_id=>24590262, :retweet=>0}
-{:name=>"@andy_beard", :text=>"@paddypower if Tim Sherwood gets villa job will I get a refund on my bet for him to be next landlord of the Queen Vic. #linkedtoeverything", :followers=>21675, :user_id=>336621066, :retweet=>0}
-{:name=>"@HonestFrank", :text=>"Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>19328, :user_id=>19964983, :retweet=>10}
-{:name=>"@footyzone", :text=>"Ex-Tottenham boss Tim Sherwood 4/6 to be next Aston Villa manager http://t.co/g0OmhDRI8T", :followers=>11080, :user_id=>88975522, :retweet=>0}
-{:name=>"@dantracey1983", :text=>"Tim Sherwood is in talks to Murder Lucy Beale #Eastenders", :followers=>5540, :user_id=>601907830, :retweet=>3}
+{:name=>"@SpankTheBookies", :text=>"Tim Sherwood is currently 1/3 to be the next Aston Villa manager. He's also the same price to be the next manager down my local pub.", :followers=>41324, :user_id=>856983210, :retweet=>6}
+{:name=>"@connorjbyrne", :text=>"RT @MartinDaubney: Why can't Tim Sherwood come to Forest? At least there'd be a good headline in it. #SherwoodForest #nffc", :followers=>14302, :user_id=>398243102, :retweet=>1}
+{:name=>"@EPL_Spain", :text=>"El Aston Villa ya busca nuevo entrenador. Los principales candidatos son; Eddie Howe, Steve McLaren, Tim Sherwood y Jürgen Klinsmann.", :followers=>10218, :user_id=>1488229208, :retweet=>0}

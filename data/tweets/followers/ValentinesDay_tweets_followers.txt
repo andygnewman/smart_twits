@@ -1,5 +1,5 @@
-{:name=>"@gardenofliferaw", :text=>"@King__Lou I just melted!!! :) #ValentinesDay", :followers=>259668, :user_id=>15235948, :retweet=>0}
-{:name=>"@GhaflaKenya", :text=>"#WordIs Comedian @ErickOmondi is Torn Between #ValentinesDay with #HuddahMonroe or This #SexyPrettyMammy #untamed\nhttp://t.co/rtovZ8y7j5", :followers=>115947, :user_id=>93619360, :retweet=>0}
-{:name=>"@GhaflaKenya", :text=>"Get Your Tickets Now_Crazy Weekend With @KlintTheDrunk  Live #ValentinesDay @NOTL_Ke #NiteOfRoses \nhttp://t.co/f9vGQh7XxO\n@tomisothedeejay", :followers=>115947, :user_id=>93619360, :retweet=>0}
-{:name=>"@Tearoze", :text=>"RT @CNJohansens: Are you in #Bali for #ValentinesDay? Head to @fc_bali for a wonderful romance package including Balinese tasting menu http…", :followers=>77858, :user_id=>34722352, :retweet=>2}
-{:name=>"@Tearoze", :text=>"RT @CNJohansens: Pamper yourself in Nha Trang for #ValentinesDay. Detox with a 3-step relaxation package feat. massage, facial &amp; scrub http…", :followers=>77858, :user_id=>34722352, :retweet=>2}
+{:name=>"@BeautiqueInNYC", :text=>"RT @BeautiqueDining: PSA: #ValentinesDay is in 2 days. Make sure you have reservations with us or deal with an angry #Valentine. #VIP", :followers=>66011, :user_id=>2495008712, :retweet=>1}
+{:name=>"@Safeway", :text=>"To dip, or not to dip? Strawberries on sale $1.99 per lb package. (excl AK/HI) #ValentinesDay http://t.co/B2B0q95tYM http://t.co/xBrEzvgxJt", :followers=>63292, :user_id=>29286254, :retweet=>0}
+{:name=>"@LaSenza", :text=>"@roxiic2 Thanks for the retweet, Roxi! Are you RED-y for #ValentinesDay? ;) x, La Senza http://t.co/1drAyqpJS2", :followers=>30430, :user_id=>37744840, :retweet=>0}
+{:name=>"@eaglesforjack", :text=>"Check out the #ValentinesDay Gift Guide from @marvelgoddess24 &amp; @JoyceDuboise! #TwoBlogsFunGuides http://t.co/sgQ2mv6I0z", :followers=>24859, :user_id=>26408155, :retweet=>0}
+{:name=>"@freeboostpromo", :text=>"RT @Gregwilsoerotic: http://t.co/uZkmvSPRKf\n\n5*#Erotica for #ValentinesDay more #sexy than #FiftyShades\n\n#NYC #Florida #Chicago #BookBoost …", :followers=>16356, :user_id=>2300238246, :retweet=>5}

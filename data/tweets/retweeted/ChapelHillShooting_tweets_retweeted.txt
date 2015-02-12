@@ -1,5 +1,5 @@
-{:text=>"RT @piersmorgan: And let's not call him an 'atheist', actually. Let's call him what he is: a Muslim-murdering American terrorist. \n\n#Chapel…", :retweet=>9439}
-{:text=>"RT @ArranArmitage: chapel hill right now #ChapelHillShooting #ChapelHill http://t.co/yw067xE3so", :retweet=>5313}
-{:text=>"RT @piersmorgan: Nobody seriously believes this atheist maniac shot dead 3 Muslim students over a car parking argument, right? \n\n#ChapelHil…", :retweet=>4573}
-{:text=>"RT @Bipartisanism: 87% of U.S. mass shooting are committed by caucasians 13-56 but are never called 'Terrorists'. #ChapelHillShooting http:…", :retweet=>4206}
-{:text=>"RT @MrPooni: The Top 10 differences between White Terrorists and Others #ChapelHillShooting http://t.co/F8HImGcSld", :retweet=>2315}
+{:text=>"RT @lunarnomad: 3 Muslim college students killed in cold blood. No media attention or outrage #MuslimLivesMatter #ChapelHillShooting http:/…", :retweet=>15873}
+{:text=>"RT @Furqan_Naeem: This couldn't be more true... #ChapelHillShooting http://t.co/JqPAXFmDbS", :retweet=>12529}
+{:text=>"RT @Bipartisanism: 87% of U.S. mass shooting are committed by caucasians 13-56 but are never called 'Terrorists'. #ChapelHillShooting http:…", :retweet=>4321}
+{:text=>"RT @Independent: The media ignored the #ChapelHillShooting because the victims were Muslim http://t.co/yspw1P8Hwx http://t.co/NAwL5u3vED", :retweet=>2662}
+{:text=>"RT @aeimal: 2 aylık evli Müslüman çiftin öldürülmesine de ses çıkarılmalı. Heyhat,bi Paris etmiyor değil mi? #ChapelHillShooting http://t.c…", :retweet=>1437}

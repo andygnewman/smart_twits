@@ -1,0 +1,5 @@
+{:text=>"RT @SkySportsNewsHQ: BREAKING: Chelsea's Branislav Ivanovic will not face any further action over incident with James McCarthy. #SSNHQ", :retweet=>464}
+{:text=>"RT @LBDFootball: Ross Barkley est un gamin... #Ivanovic  https://t.co/aBdXQXh68X", :retweet=>157}
+{:text=>"RT @ESPNFC: BREAKING NEWS: Branislav Ivanovic will face no further action from the FA for his altercation with James McCarthy. http://t.co/…", :retweet=>100}
+{:text=>"RT @Mourinholic: Why is no one talking about Stones grabbing Ivanovic by his neck? http://t.co/Z0xEi0V0s5", :retweet=>99}
+{:text=>"RT @__arsenal_news_: Luis Suarez bites Ivanovic = 12 game ban\n\nIvanovic bites and wrestles McCarthy = No ban\n\n#Logic #CampaignAgainstChelsea", :retweet=>89}

@@ -1,5 +1,0 @@
-{:name=>"@Peter_Dickerson", :text=>"I am a unicorn. #unicorns\n“@StreetArtBuzz: Ewelina Koszykowska, https://t.co/SVBIB4KLMj #art #urbanart #streetart http://t.co/FKeslc5qvB”", :followers=>136464, :user_id=>27800134, :retweet=>1}
-{:name=>"@Peter_Dickerson", :text=>"RT @oxygenboutique: #unicorns is trending, we're not sure why but we love unicorns!", :followers=>136464, :user_id=>27800134, :retweet=>7}
-{:name=>"@Peter_Dickerson", :text=>"RT @cath_fletcher: #unicorns are trending! Here's a wonderful Renaissance tapestry example. Made in Flanders to French design c. 1500. http…", :followers=>136464, :user_id=>27800134, :retweet=>4}
-{:name=>"@Lilo_Abernathy", :text=>"RT @Peter_Dickerson: I am a unicorn. #unicorns\n“@StreetArtBuzz: Ewelina Koszykowska, https://t.co/SVBIB4KLMj #art #urbanart #streetart http…", :followers=>15564, :user_id=>1562367001, :retweet=>1}
-{:name=>"@needaphone", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>6217, :user_id=>216646577, :retweet=>71}

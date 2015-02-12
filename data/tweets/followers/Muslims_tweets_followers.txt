@@ -1,5 +1,5 @@
-{:name=>"@hxhassan", :text=>"Muslims, Marriage and Bigotry http://t.co/nCRw5ofBmQ", :followers=>21310, :user_id=>23330998, :retweet=>0}
-{:name=>"@hkTjee", :text=>"\"Muslims\" is in list of London trends yet still don't know is it good or bad.", :followers=>19979, :user_id=>486288760, :retweet=>0}
-{:name=>"@caseyttha", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>19078, :user_id=>2653468754, :retweet=>41}
-{:name=>"@marac00per", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>18817, :user_id=>2798748398, :retweet=>41}
-{:name=>"@anissira", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>18384, :user_id=>2778043482, :retweet=>41}
+{:name=>"@TRobinsonNewEra", :text=>"Muslims are raping non muslim children across our country, yet all they want to moan and protest about is cartoons or islamophobia", :followers=>101120, :user_id=>374712154, :retweet=>10}
+{:name=>"@greybeard411", :text=>"RT @redostoneage: Bangladesh: Muslims Call For Killing Of All Non-Muslims... http://t.co/chfm7Amo1H #chicago #illinois #wgn #cltv #pbs #npr", :followers=>7917, :user_id=>138459524, :retweet=>1}
+{:name=>"@avonsjourney", :text=>"RT @ALLCAPSLYRICS: RIP to the 3 Muslims that died 😔💓 #ChapeHillShooting http://t.co/DzSeF171XQ", :followers=>6903, :user_id=>600842222, :retweet=>1942}
+{:name=>"@CieeeeeI", :text=>"RT @GLITCHEDPIXELS: Why is the whole tl abt people hating Muslims. Those people are so fucked up. Why would you even hate someone for relig…", :followers=>6526, :user_id=>2392438743, :retweet=>2}
+{:name=>"@Head4uarters", :text=>"@kgborland Why? Considering Muslims kill non Muslims all the damn time, it's quite cheap to make such a useless hashtag. More #VictimHood", :followers=>5406, :user_id=>2300289704, :retweet=>0}

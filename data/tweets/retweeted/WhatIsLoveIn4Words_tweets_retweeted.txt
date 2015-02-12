@@ -1,5 +1,5 @@
-{:text=>"RT @LouboutinWorld: Any pair. You pick. #WhatIsLoveIn4Words http://t.co/EwcHlBVu5a", :retweet=>744}
-{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>322}
-{:text=>"RT @iExistStyles: Fangirling with no regrets \n\n#WhatIsLoveIn4Words http://t.co/r2ECIzg1ZG", :retweet=>194}
-{:text=>"RT @ReesesPBCups: Chocolate and Peanut Butter. #WhatIsLoveIn4Words http://t.co/EW1g9VoyGC", :retweet=>190}
-{:text=>"RT @Applebees: These Mozzarella Cheese Sticks.\n\n#WhatIsLoveIn4Words http://t.co/L42zVurAOr", :retweet=>180}
+{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>430}
+{:text=>"RT @HogwartsLogic: #WhatIsLoveIn4Words \n\nHarry James Potter Always", :retweet=>270}
+{:text=>"RT @GoT_Tyrion: Game of Thrones Returns #WhatIsLoveIn4Words http://t.co/NpPW8A2QIQ", :retweet=>207}
+{:text=>"RT @EvanEdinger: #WhatIsLoveIn4Words baby don't hurt me", :retweet=>183}
+{:text=>"RT @YouTube: Don’t drop the ring. http://t.co/rQoZ5CaGHP #WhatIsLoveIn4Words http://t.co/luHcA0UxPl", :retweet=>160}

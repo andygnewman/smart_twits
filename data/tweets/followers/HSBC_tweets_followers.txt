@@ -1,5 +1,5 @@
-{:name=>"@HaywoodsVoice", :text=>"RT @jolly_angelina: .@HaywoodsVoice \"I Fink, Therefore I Scam\" Any #Tax avoidance in tax abuse in my book #HSBC #HMRC", :followers=>69103, :user_id=>420665617, :retweet=>4}
-{:name=>"@MundoFOXinforma", :text=>"Falciani asegura haber recibido ayuda de la CIA para obtener los archivos de #HSBC Suiza http://t.co/GGUqba2ExI", :followers=>29240, :user_id=>129917609, :retweet=>0}
-{:name=>"@longsight9a", :text=>"RT @pgo1980: Petition: Enough is enough! Time these crooked bankers faced jail time! http://t.co/l1Tk9ANgVP #HSBC http://t.co/vfDQHjwYBH", :followers=>28331, :user_id=>191383270, :retweet=>8}
-{:name=>"@telemaco31", :text=>"RT @GHOSTPROTOCOLS: #HSBC BANK * ARREST WARRANTS * CARROLL*TRUST * Buckingham Palace City of London Police News!! http://t.co/i96j1DgDs6", :followers=>13525, :user_id=>230696135, :retweet=>2}
-{:name=>"@Revista_EyN", :text=>"Oposición acusa a gobierno británico de connivencia con #HSBC. http://t.co/bKows1UEs0  #ReinoUnido", :followers=>13373, :user_id=>83960701, :retweet=>0}
+{:name=>"@lord_witchking", :text=>"RT @nonjob1: Tax avoiders, evaders, &amp; loophole abusers, I salute you.\n\nThe more money that can be kept away from the state, the better.\n\n#H…", :followers=>17989, :user_id=>802357507, :retweet=>8}
+{:name=>"@derekrootboy", :text=>"RT @joyinthenewworl: Prosecute the #HSBC tax dodgers - sign the petition:\nhttps://t.co/xGUCSuW3V0", :followers=>13892, :user_id=>35585695, :retweet=>1}
+{:name=>"@CollRoosevelt", :text=>"RT @bizimugi: Les militants de @bizimugi saisissent le matériel de #HSBC http://t.co/lY0Oo660zT #swissleaks #évasionfiscale http://t.co/fBZ…", :followers=>11090, :user_id=>476947480, :retweet=>37}
+{:name=>"@Daisybelll", :text=>"RT @LabourEoin: Retweet if your opinion of Ed Miliband has improved in recent days. #HSBC", :followers=>9716, :user_id=>43061572, :retweet=>110}
+{:name=>"@ButchJocson", :text=>"RT @larryelder: HSBC Leaker Says Filed 'Tip Of The Iceberg  \n--Sharpton owes millions taxes--call him! \nhttp://t.co/19hxip6NnJ \n#HSBC", :followers=>5222, :user_id=>83701522, :retweet=>13}

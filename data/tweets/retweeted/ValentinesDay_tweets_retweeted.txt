@@ -1,5 +1,5 @@
-{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>36902}
-{:text=>"RT @podlondon: We want to share the love this #ValentinesDay and are giving away a @Fortnums hamper to one lucky winner. RT to #win http://…", :retweet=>1154}
-{:text=>"RT @PurdysChocolate: In celebration of #ValentinesDay Follow @PurdysChocolate &amp; RT to WIN a SWEET selection from our 2015 collection! http:…", :retweet=>687}
-{:text=>"RT @ShujaRabbani: Weekend is about to start &amp; I can't wait to have some fun! #relaxromantic #ValentinesDay #ValentinesDayExcuses #LOVEISON …", :retweet=>458}
-{:text=>"RT @kojiharunyan: ラジオ前のおぎやはぎさんの楽屋におじゃましました💛ちょっと早いけどハッピーバレンタイン😋💋#valentinesDay http://t.co/uom5PaLWao", :retweet=>320}
+{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>37667}
+{:text=>"RT @BLVBrands: 💖 RT for a chance to win our #ValentinesDay giveaway from http://t.co/kyiyanu0Ht 🙌 ❤️\n\n#BLVGiveaway 💕 😍 http://t.co/xb4WRKpH…", :retweet=>4184}
+{:text=>"RT @fenvirantiviral: #Breaking 72-Hour HERPES/SHINGLES Treatment -amazing results! promo TW15  http://t.co/lJaZ2r6GSa #ValentinesDay #news …", :retweet=>298}
+{:text=>"RT @QDOS_Sound: We're giving away a pink Q-BOPZ for our #ValentinesDay #competition! Retweet to enter! Competition ends 5pm Thurs. http://t…", :retweet=>156}
+{:text=>"RT @EuropiannChick: My sisters the real MVP 😍💃 #ValentinesDay http://t.co/yEEIt8rTZ0", :retweet=>133}
