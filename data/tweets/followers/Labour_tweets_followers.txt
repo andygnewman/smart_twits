@@ -1,0 +1,5 @@
+{:name=>"@RedHotSquirrel", :text=>"Farage Turns on ‘Big Business’ as He Woos Labour Voters for UKIP http://t.co/lVmkSNeLLR via @business", :followers=>5596, :user_id=>555370896, :retweet=>0}
+{:name=>"@UK_Affiliates", :text=>"What can the 1930s tell us about public spending?: Labour argue that Tory plans will take government spending ... http://t.co/nROOL6UIZl", :followers=>4551, :user_id=>45346960, :retweet=>0}
+{:name=>"@fromrussia_", :text=>"What can the 1930s tell us about public spending?: Labour argue that Tory plans will take government spending ... http://t.co/yiGORrNGmB", :followers=>4265, :user_id=>247104309, :retweet=>0}
+{:name=>"@maggiebeauchamp", :text=>"RT @LiarMPs: Labour accept donations from PWC who hand out advice on how 2 avoid tax 'on an industrial scale' while vowing 2crack down on t…", :followers=>4206, :user_id=>372875229, :retweet=>64}
+{:name=>"@NewsElk", :text=>"What can the 1930s tell us about public spending?: Labour argue that Tory plans will take governme... http://t.co/KKHnuIQZ7y - @BBCWorld", :followers=>4043, :user_id=>1707606230, :retweet=>0}

@@ -1,5 +1,5 @@
-{:name=>"@mehmetgunay34", :text=>"RT @2kafadar1beyin: 3 müslümanı Kafir batı medyası görmez zaten ama sözde''islami''gazetenin bakış açısı çok farklı??\n#ChapelHillShooting h…", :followers=>24652, :user_id=>586877182, :retweet=>303}
-{:name=>"@TanveerNaseer", :text=>"RT @kateschapira: I stand #withmuslims today, as I did yesterday, against Islamophobia, violence and ignorance. #ChapelHillShooting", :followers=>16652, :user_id=>19988765, :retweet=>11}
-{:name=>"@Coondawg68", :text=>"RT @LizardStomp: Libtards are blaming the #ChapelHillShooting on Chris Kyle. @green_footballs is just that stupid.", :followers=>9532, :user_id=>67293615, :retweet=>1}
-{:name=>"@EconomicCycles", :text=>"RT @ForexsAcademy: 99 فائدة نفيسة http://t.co/MyzmHkBTXf\n\np462\n#ChapelHillShooting", :followers=>4880, :user_id=>2308771278, :retweet=>11}
-{:name=>"@MRSPEKAR", :text=>"RT @5Rukoo: http://t.co/4hziRpprNc أرخص أسعار المتابعين\n1193\n #الاتحاد_الفيصلي سيف سلمان #ChapelHillShooting #هل_ترضى_تتزوج_طبيبة", :followers=>4194, :user_id=>1510168261, :retweet=>31}
+{:name=>"@GOOLDMAAN1", :text=>"RT @Hamed_Alali: تغطية كبيرة بالمحطات الأمريكية لقتل ثلاثة طلبة عرب بسبب نشاط المغردين بتويتر \n@ArabVoicesSpeak\n#ChapelHillShooting http://…", :followers=>172218, :user_id=>978778159, :retweet=>142}
+{:name=>"@khalidalbaih", :text=>"New #Khartoon - parking dispute - #ChapelHillShooting  #islam #Islamophobe #illustration http://t.co/EKBXSA5RdH", :followers=>7849, :user_id=>26192631, :retweet=>0}
+{:name=>"@RisingRedStorm", :text=>"@leilafinew @GlobalPost people aren't afraid of #Islam. They R afraid of radical &amp; political Islam. #Islamophobia #ChapelHillShooting", :followers=>5672, :user_id=>48389713, :retweet=>0}
+{:name=>"@Yeni_TC", :text=>"RT @asilbayburtlu: AMERİKANIN KUCAĞINDASINIZ DİYE\nSAM AMCANIZDAN BU KADAR KORKMAYIN \n\n #ChapelHillShooting \n\nhttp://t.co/VITYkRg4PA\n\n,.,.,", :followers=>5508, :user_id=>1140358195, :retweet=>68}
+{:name=>"@Viejis39", :text=>"RT @hernankl: @rinconet Diferencias... #ChapelHillShooting http://t.co/PeSR544Z8t", :followers=>4839, :user_id=>357742193, :retweet=>1}

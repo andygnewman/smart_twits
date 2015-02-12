@@ -1,5 +1,5 @@
-{:name=>"@RobHarris", :text=>"RT @martynziegler: Three-man panel of former refs  studied Ivanovic's clash with McCarthy + decided it was not worthy of a dismissal so no …", :followers=>104673, :user_id=>21754872, :retweet=>3}
-{:name=>"@Copa90", :text=>"No punishment for Ivanovic. http://t.co/x2C8oa5Fgb", :followers=>73634, :user_id=>558706051, :retweet=>3}
-{:name=>"@TheVujanic", :text=>"No further action on Ivanovic, to be fair it was just a Serbian hug, good decision.", :followers=>54653, :user_id=>91454381, :retweet=>2}
-{:name=>"@martynziegler", :text=>"Three-man panel of former refs  studied Ivanovic's clash with McCarthy + decided it was not worthy of a dismissal so no action.", :followers=>22501, :user_id=>28311576, :retweet=>3}
-{:name=>"@provenquality", :text=>"#CampaignAgainstChelsea MT \"@IndyFootball: Branislav Ivanovic faces no further action http://t.co/dQDu0v4UFK http://t.co/97wjH0WeXg\"", :followers=>7327, :user_id=>1130952331, :retweet=>0}
+{:name=>"@TeleFootball", :text=>"FA charges Chelsea and Everton for failing to control players but takes no action re Ivanovic http://t.co/mkkGPeTRoK http://t.co/ukP4tncU3a", :followers=>90016, :user_id=>2219897472, :retweet=>1}
+{:name=>"@SportingRT", :text=>"Boost for Chelsea as Ivanovic avoids FA charge:  http://t.co/twDH8NX3px", :followers=>38289, :user_id=>2317976654, :retweet=>0}
+{:name=>"@SportsYapper", :text=>"Good news day for #CFC. No action for the Ivanovic \"incident\" + Eden Hazard signs a new deal: http://t.co/PpWfYbGyvr http://t.co/UECFHMJde1", :followers=>31347, :user_id=>312674068, :retweet=>0}
+{:name=>"@Itz_Konani", :text=>"RT @tweetlawunmi: Dat nut frm barkley to ivanovic ehn 😂", :followers=>24927, :user_id=>1329521959, :retweet=>1}
+{:name=>"@ESPNFC_ID", :text=>"Pantaskah aksi kasar ivanovic mendapat kartu merah?", :followers=>11605, :user_id=>2527217443, :retweet=>0}

@@ -1,5 +1,5 @@
-{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>375}
-{:text=>"RT @Cinnabon: Center of the Roll. #WhatIsLoveIn4Words http://t.co/VQpS6GRIAq", :retweet=>279}
-{:text=>"RT @DisneysBigHero6: #WhatIsLoveIn4Words Tadashi is always here... #BigHero6 http://t.co/YGLslz45sH", :retweet=>272}
-{:text=>"RT @GoT_Tyrion: Game of Thrones Returns #WhatIsLoveIn4Words http://t.co/NpPW8A2QIQ", :retweet=>203}
-{:text=>"RT @ReesesPBCups: Chocolate and Peanut Butter. #WhatIsLoveIn4Words http://t.co/EW1g9VoyGC", :retweet=>191}
+{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>430}
+{:text=>"RT @HogwartsLogic: #WhatIsLoveIn4Words \n\nHarry James Potter Always", :retweet=>270}
+{:text=>"RT @GoT_Tyrion: Game of Thrones Returns #WhatIsLoveIn4Words http://t.co/NpPW8A2QIQ", :retweet=>207}
+{:text=>"RT @EvanEdinger: #WhatIsLoveIn4Words baby don't hurt me", :retweet=>182}
+{:text=>"RT @YouTube: Don’t drop the ring. http://t.co/rQoZ5CaGHP #WhatIsLoveIn4Words http://t.co/luHcA0UxPl", :retweet=>160}

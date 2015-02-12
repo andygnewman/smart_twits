@@ -1,5 +1,5 @@
-{:name=>"@HussainAnwarr", :text=>"Unfortunately the counter terrorism bill has been passed in the UK. Life for even the \"moderate\" Muslims is going to get really difficult.", :followers=>46551, :user_id=>251151863, :retweet=>3}
-{:name=>"@habarizakwetu", :text=>"Israel: Jewish And Muslims historical and spirtual claims over Jerusalem - ON ---&gt; KENYA UGANDA TZ &amp; RWANDA WEBNEWS http://t.co/o9b2OtyJEV", :followers=>34627, :user_id=>1498147087, :retweet=>0}
-{:name=>"@MuslimsArt", :text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :followers=>10127, :user_id=>379343390, :retweet=>2359}
-{:name=>"@3212Brandy", :text=>"Muslims Planned to Stab Blondes in the Kidneys in Foiled Aussie Jihad Plot via Pamela Geller, ... http://t.co/7rUx6TYb22", :followers=>8515, :user_id=>142592735, :retweet=>0}
-{:name=>"@JC_Christian", :text=>"RT @bassem_masri: There are people who are idolizing #CraigHicks #ChapelHill shooter praising him saying more Muslims should die...smfh htt…", :followers=>8236, :user_id=>14782782, :retweet=>112}
+{:name=>"@TRobinsonNewEra", :text=>"Muslims are raping non muslim children across our country, yet all they want to moan and protest about is cartoons or islamophobia", :followers=>101120, :user_id=>374712154, :retweet=>7}
+{:name=>"@LessaT", :text=>"RT @DineshDSouza: The Crusaders recaptured Jerusalem from Muslim conquest--so Muslims are responsible both for ISIS &amp; the Crusades! http://…", :followers=>40191, :user_id=>20651510, :retweet=>1375}
+{:name=>"@avonsjourney", :text=>"RT @ALLCAPSLYRICS: RIP to the 3 Muslims that died 😔💓 #ChapeHillShooting http://t.co/DzSeF171XQ", :followers=>6903, :user_id=>600842222, :retweet=>1942}
+{:name=>"@HOT1071", :text=>"Possible Hate Crime Leaves 3 Muslims in Chapel Hill Dead http://t.co/IIBRIYKUpM", :followers=>6031, :user_id=>23762680, :retweet=>0}
+{:name=>"@Head4uarters", :text=>"@kgborland Why? Considering Muslims kill non Muslims all the damn time, it's quite cheap to make such a useless hashtag. More #VictimHood", :followers=>5406, :user_id=>2300289704, :retweet=>0}

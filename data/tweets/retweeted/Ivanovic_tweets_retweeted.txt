@@ -1,5 +1,5 @@
-{:text=>"RT @JustFutball: Ross Barkley mugs off Branislav Ivanovic.\nhttps://t.co/0HBINPXoaB", :retweet=>447}
-{:text=>"RT @SkySportsNewsHQ: BREAKING: Chelsea's Branislav Ivanovic will not face any further action over incident with James McCarthy. #SSNHQ", :retweet=>338}
-{:text=>"RT @GregOK: Remarkable that the FA won't charge Ivanovic for his actions last night yet #Everton will face a charge for failing to control …", :retweet=>96}
-{:text=>"RT @NOT_MOTD: Ross Barkley mugs off Branislav Ivanovic. https://t.co/DPxhF4qpss", :retweet=>93}
-{:text=>"RT @Mourinholic: Why is no one talking about Stones grabbing Ivanovic by his neck? http://t.co/Z0xEi0V0s5", :retweet=>91}
+{:text=>"RT @SkySportsNewsHQ: BREAKING: Chelsea's Branislav Ivanovic will not face any further action over incident with James McCarthy. #SSNHQ", :retweet=>464}
+{:text=>"RT @LBDFootball: Ross Barkley est un gamin... #Ivanovic  https://t.co/aBdXQXh68X", :retweet=>157}
+{:text=>"RT @Squawka: The FA will not take any action against Branislav Ivanovic over last night's incident with James McCarthy. #CFC http://t.co/sv…", :retweet=>120}
+{:text=>"RT @ESPNFC: BREAKING NEWS: Branislav Ivanovic will face no further action from the FA for his altercation with James McCarthy. http://t.co/…", :retweet=>100}
+{:text=>"RT @NOT_MOTD: Ross Barkley mugs off Branislav Ivanovic. https://t.co/DPxhF4qpss", :retweet=>97}

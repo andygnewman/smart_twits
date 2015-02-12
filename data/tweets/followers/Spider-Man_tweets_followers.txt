@@ -1,5 +1,0 @@
-{:name=>"@teen", :text=>"@dailylilyc Can you picture lily as Gwen Stacy in #SpiderMan? 'Cause it almost happened!! http://t.co/Roc2zAVUf7", :followers=>116075, :user_id=>18916212, :retweet=>0}
-{:name=>"@teen", :text=>"@lilycollinsorg Can you picture lily as Gwen Stacy in #SpiderMan? 'Cause it almost happened!! http://t.co/Roc2zAVUf7", :followers=>116075, :user_id=>18916212, :retweet=>0}
-{:name=>"@teen", :text=>"@LilyCollinsFans Can you picture lily as Gwen Stacy in #SpiderMan? 'Cause it almost happened!! http://t.co/Roc2zAVUf7", :followers=>116075, :user_id=>18916212, :retweet=>0}
-{:name=>"@teen", :text=>"@AnnaKendrickBsf Can you picture Anna as Gwen Stacy in #SpiderMan? 'Cause it almost happened!! http://t.co/Roc2zAVUf7", :followers=>116075, :user_id=>18916212, :retweet=>0}
-{:name=>"@teen", :text=>"@annakendrickV Can you picture Anna as Gwen Stacy in #SpiderMan? 'Cause it almost happened!! http://t.co/Roc2zAVUf7", :followers=>116075, :user_id=>18916212, :retweet=>0}

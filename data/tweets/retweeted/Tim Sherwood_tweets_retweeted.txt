@@ -1,5 +1,5 @@
 {:text=>"RT @Carra23: Tim Sherwood will now be linked with Aston Villa he's becoming the new Alan Curbishley.", :retweet=>834}
-{:text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :retweet=>469}
+{:text=>"RT @paddypower: Don't get carried away with Tim Sherwood being fav for the #AVFC job - he's also fav to be next James Bond, and to have kil…", :retweet=>693}
+{:text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :retweet=>471}
 {:text=>"RT @p1bet: Tim Sherwood is currently fav for the Villa, QPR and Leicester jobs, the Gold Cup, the Grand National and Strictly Come Dancing.", :retweet=>229}
-{:text=>"RT @SkySportsNewsHQ: There have been five managerial changes this season. Tim Sherwood is the favourite to take over at Villa Park #SSNHQ h…", :retweet=>116}
-{:text=>"RT @indykaila: Unconfirmed: Tim Sherwood wanted to be released if #QPR got relegated and a payoff as well...", :retweet=>19}
+{:text=>"RT @SkySportsNewsHQ: There have been five managerial changes this season. Tim Sherwood is the favourite to take over at Villa Park #SSNHQ h…", :retweet=>117}

@@ -1,5 +1,5 @@
-{:text=>"RT @abelardo_diaz: Negada investigación en Com Contraloria AN sobre depósitos nacionales en Banco HSBC de Suiza, alegan \"No hay Delito\" htt…", :retweet=>720}
-{:text=>"RT @AliasMalula: Hay 1.138 venezolanos en  la cuenta del HSBC de Suiza y el volumen de los depósitos  supera al de cualquier otro país en A…", :retweet=>642}
-{:text=>"RT @Ed_Miliband: David Cameron took the money, gave a job to the head of HSBC, and time and again he has let the tax avoiders get away with…", :retweet=>598}
-{:text=>"RT @myteks: Sistema Marginal de Divisas\n#SIMADI\nSuiza\n#VzlaSinBachaqueo\nSicad\nHSBC\n#NoAlIntervencionismoYankee\n#YoSalgoPor http://t.co/jfCW…", :retweet=>188}
-{:text=>"RT @realbritainros: Hmm. Who to punish? HSBC tax-dodgers? Or man with a learning disabillity 4 mins late for the job centre?  http://t.co/r…", :retweet=>165}
+{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>240}
+{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>166}
+{:text=>"RT @Ian_Fraser: Ex HMRC boss Dave Hartnett signed off #HSBCFiles \"dirty deal\" months before joining #HSBC to advise it on honesty http://t.…", :retweet=>164}
+{:text=>"RT @JamesMelville: The 1% are literally laughing all the way to the bank. \nThe 99% continue to foot the bill.\n#HSBC http://t.co/lf16uw65QN", :retweet=>162}
+{:text=>"RT @peterjukes: If Lord Green refuses to be held accountable to the public for his directorship of #HSBC why should we be accountable to hi…", :retweet=>157}

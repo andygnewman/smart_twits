@@ -1,5 +1,5 @@
-{:text=>"RT @piersmorgan: And let's not call him an 'atheist', actually. Let's call him what he is: a Muslim-murdering American terrorist. \n\n#Chapel…", :retweet=>9471}
-{:text=>"RT @ozchrisrock: I LOVE how the media portrays killings!!! Can you spot the difference? #ChapelHillShooting http://t.co/r9G05xTRIe", :retweet=>9350}
-{:text=>"RT @MariaAliaa: This is absolutely disgusting and honestly makes me so scared. #ChapelHillShooting http://t.co/kNJH7evRR7", :retweet=>5065}
-{:text=>"RT @piersmorgan: Nobody seriously believes this atheist maniac shot dead 3 Muslim students over a car parking argument, right? \n\n#ChapelHil…", :retweet=>4594}
-{:text=>"RT @random_ukht: Sorry your dream was so brutally snatched from you. #ChapelHillShooting http://t.co/2zFa1oNCVc", :retweet=>4445}
+{:text=>"RT @piersmorgan: If a Muslim executed 3 Christian students in U.S., it would get a LOT more media coverage than I'm seeing right now. \n\n#Ch…", :retweet=>26776}
+{:text=>"RT @Furqan_Naeem: This couldn't be more true... #ChapelHillShooting http://t.co/JqPAXFmDbS", :retweet=>12529}
+{:text=>"RT @sallykohn: UPDATED re #ChapelHillShooting — \n\nMuslim shooter = terrorist\n\nBlack shooter = thug\n\nWhite shooter = just a tiff about a par…", :retweet=>11706}
+{:text=>"RT @KeeganNYC: 87% of U.S. mass shooting are committed by caucasians 13-56. Why don't we spy on this community? #ChapelHillShooting http://…", :retweet=>8575}
+{:text=>"RT @MariaAliaa: This is absolutely disgusting and honestly makes me so scared. #ChapelHillShooting http://t.co/kNJH7evRR7", :retweet=>5170}
