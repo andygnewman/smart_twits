@@ -1,5 +1,5 @@
-{:name=>"@Bipartisanism", :text=>"The only difference between these two is skin color. They are both terrorists. #ChapelHillShooting http://t.co/AcF9af2JtA", :followers=>102318, :user_id=>487600344, :retweet=>0}
-{:name=>"@Almogaz", :text=>"آخرتغريدة لمسلم من المقتولين بأمريكا:محزن أن يدعوأحد لقتل اليهود\nhttp://t.co/U3tFTtHZPi\n#ChapelHillShooting #شابيل_هل http://t.co/wI4S0K7vOA", :followers=>93504, :user_id=>241694977, :retweet=>0}
-{:name=>"@Atlgreekpicnic", :text=>"RT @Bipartisanism: 87% of U.S. mass shooting are committed by caucasians 13-56 but are never called 'Terrorists'. #ChapelHillShooting http:…", :followers=>16583, :user_id=>17183689, :retweet=>76}
-{:name=>"@peggyarnol", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>10386, :user_id=>2496645174, :retweet=>41}
-{:name=>"@Talal_awad009", :text=>"20 صوره اغرب لحيه فى العالم يحولها صاحبها الى تحف فنية http://t.co/l7Y7fqJGEM\n\npd40\n#ChapelHillShooting", :followers=>9938, :user_id=>2197062422, :retweet=>0}
+{:name=>"@mehmetgunay34", :text=>"RT @2kafadar1beyin: 3 müslümanı Kafir batı medyası görmez zaten ama sözde''islami''gazetenin bakış açısı çok farklı??\n#ChapelHillShooting h…", :followers=>24652, :user_id=>586877182, :retweet=>303}
+{:name=>"@TanveerNaseer", :text=>"RT @kateschapira: I stand #withmuslims today, as I did yesterday, against Islamophobia, violence and ignorance. #ChapelHillShooting", :followers=>16652, :user_id=>19988765, :retweet=>11}
+{:name=>"@Coondawg68", :text=>"RT @LizardStomp: Libtards are blaming the #ChapelHillShooting on Chris Kyle. @green_footballs is just that stupid.", :followers=>9532, :user_id=>67293615, :retweet=>1}
+{:name=>"@EconomicCycles", :text=>"RT @ForexsAcademy: 99 فائدة نفيسة http://t.co/MyzmHkBTXf\n\np462\n#ChapelHillShooting", :followers=>4880, :user_id=>2308771278, :retweet=>11}
+{:name=>"@MRSPEKAR", :text=>"RT @5Rukoo: http://t.co/4hziRpprNc أرخص أسعار المتابعين\n1193\n #الاتحاد_الفيصلي سيف سلمان #ChapelHillShooting #هل_ترضى_تتزوج_طبيبة", :followers=>4194, :user_id=>1510168261, :retweet=>31}

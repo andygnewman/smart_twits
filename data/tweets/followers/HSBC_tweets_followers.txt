@@ -1,5 +1,5 @@
-{:name=>"@HaywoodsVoice", :text=>"RT @jolly_angelina: .@HaywoodsVoice \"I Fink, Therefore I Scam\" Any #Tax avoidance in tax abuse in my book #HSBC #HMRC", :followers=>69103, :user_id=>420665617, :retweet=>4}
-{:name=>"@MundoFOXinforma", :text=>"Falciani asegura haber recibido ayuda de la CIA para obtener los archivos de #HSBC Suiza http://t.co/GGUqba2ExI", :followers=>29240, :user_id=>129917609, :retweet=>0}
-{:name=>"@longsight9a", :text=>"RT @pgo1980: Petition: Enough is enough! Time these crooked bankers faced jail time! http://t.co/l1Tk9ANgVP #HSBC http://t.co/vfDQHjwYBH", :followers=>28331, :user_id=>191383270, :retweet=>8}
-{:name=>"@telemaco31", :text=>"RT @GHOSTPROTOCOLS: #HSBC BANK * ARREST WARRANTS * CARROLL*TRUST * Buckingham Palace City of London Police News!! http://t.co/i96j1DgDs6", :followers=>13525, :user_id=>230696135, :retweet=>2}
-{:name=>"@Revista_EyN", :text=>"Oposición acusa a gobierno británico de connivencia con #HSBC. http://t.co/bKows1UEs0  #ReinoUnido", :followers=>13373, :user_id=>83960701, :retweet=>0}
+{:name=>"@Notisistema", :text=>"Hervé Falciani afirma que recibió ayuda de la CIA para obtener los ficheros de HSBC - http://t.co/rJVM4gYdeN http://t.co/us21ZhZOlV", :followers=>90320, :user_id=>39809785, :retweet=>0}
+{:name=>"@HaywoodsVoice", :text=>"#HSBC part of the UK tax Haven set up", :followers=>69103, :user_id=>420665617, :retweet=>1}
+{:name=>"@HaywoodsVoice", :text=>"#HSBC helping rob the #NHS", :followers=>69103, :user_id=>420665617, :retweet=>1}
+{:name=>"@keunecke", :text=>"RT @marisascruz: RECADINHO!\nRT @Ca_Moredi: SUGIRO A PF QUE DÊ UMA BOA VASCULHADA NO HSBC URGENTE. http://t.co/kwDZmwvpW4 http://t.co/V2lafv…", :followers=>31205, :user_id=>25890687, :retweet=>6}
+{:name=>"@rogerguerra00", :text=>"RT @Colectivo5M: CAMARADAS YA BASTA DE ENGAÑOS!!! SE LLEVARON TODO AL HSBC DE SUIZA #ContactoConMaduroNro19 #VzlaSinBachaqueo #NoAlInterven…", :followers=>8617, :user_id=>1375224228, :retweet=>93}

@@ -1,5 +1,5 @@
-{:name=>"@gchahal", :text=>"RT @Gravity4: \"High-Frequency Marketing OS” \n\n#WhatIsLoveIn4Words", :followers=>137740, :user_id=>14372104, :retweet=>2}
-{:name=>"@NowThatsCollege", :text=>"The final is optional. #WhatIsLoveIn4Words", :followers=>30037, :user_id=>230889304, :retweet=>1}
-{:name=>"@ThePEAK", :text=>"#WhatIsLoveIn4Words\n\n@Sonia_Sidhu says \"No Makeup And Sweats\"\n\nJoin the conversation. 604.280.1027", :followers=>25298, :user_id=>17237095, :retweet=>0}
-{:name=>"@Toblerone", :text=>"Saved you a triangle #WhatIsLovein4Words http://t.co/Nw6wcmYN47", :followers=>18351, :user_id=>26101062, :retweet=>1}
-{:name=>"@Shayne_afc", :text=>"\"@peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/KuAkldlUNF\"\n\nAnd in 4 letters... Amen.", :followers=>3778, :user_id=>351581708, :retweet=>0}
+{:name=>"@ThePEAK", :text=>"#WhatIsLoveIn4Words\n\n@KevinLimOnAir said \"Sushi platter to myself\"\n\n-#PEAKMornings", :followers=>25299, :user_id=>17237095, :retweet=>0}
+{:name=>"@thejalopedics", :text=>"#WhatIsLoveIn4Words pictures* http://t.co/ddI55oAkP4", :followers=>16577, :user_id=>1382794003, :retweet=>0}
+{:name=>"@moonIitlou", :text=>"RT @Ioumieredarling: #WhatIsLoveIn4Words harry looking at louis", :followers=>3823, :user_id=>519810701, :retweet=>5}
+{:name=>"@ceci_sarai99", :text=>"RT @EvanEdinger: #WhatIsLoveIn4Words baby don't hurt me", :followers=>3357, :user_id=>377104987, :retweet=>161}
+{:name=>"@HashtagShenani", :text=>"RT @ReesesPBCups: Chocolate and Peanut Butter. #WhatIsLoveIn4Words http://t.co/EW1g9VoyGC", :followers=>2457, :user_id=>2897821123, :retweet=>191}

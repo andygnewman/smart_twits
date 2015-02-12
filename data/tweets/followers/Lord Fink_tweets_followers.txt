@@ -1,5 +1,5 @@
-{:name=>"@Maverickaizer", :text=>"Everyone avoids tax, says Lord Fink after being named by Ed Miliband in Commons row http://t.co/ESDNCU2jla", :followers=>7915, :user_id=>148680960, :retweet=>0}
-{:name=>"@suebeesley", :text=>"@suzirooo Was being tongue in cheek, of course - Lord Fink seems to think everyone routinely uses international tax loopholes. As if.", :followers=>5527, :user_id=>54863138, :retweet=>0}
-{:name=>"@DavidGWrigley", :text=>"RT @OwenJones84: The problem for Lord Fink and the like is the British people are losing patience with being ruled over by a mean and greed…", :followers=>5411, :user_id=>18831694, :retweet=>163}
-{:name=>"@twitmericks", :text=>"A rich tax-avoider, Lord Fink\nDeclared with a nod and a wink:\nMy schemes are vanilla,\nThere's not a scintilla\nOf any unsavoury stink!", :followers=>5156, :user_id=>297333518, :retweet=>1}
-{:name=>"@KrustyAllslopp", :text=>"RT @monkey_wrangler: Say what you like about Lord Fink, i think he's a kind of hero... #edmilliband #LordFink #hmrc #taxavoidance http://t.…", :followers=>4346, :user_id=>213038249, :retweet=>2}
+{:name=>"@longsight9a", :text=>"RT @SkyNews: The ex-Tory treasurer Lord Fink has admitted he did take \"vanilla\" tax avoidance measures http://t.co/8uIzPdjy30 http://t.co/B…", :followers=>28333, :user_id=>191383270, :retweet=>57}
+{:name=>"@mraidenrussell", :text=>"I'll sue Ed if he repeats dodgy slur, says Tory donor\nhttp://t.co/nzIA2IXpXh via @MailOnline", :followers=>19152, :user_id=>396126980, :retweet=>0}
+{:name=>"@raunaksays", :text=>"RT @OwenJones84: Tax avoidance is something the rich pay to do, whatever Lord Fink says. Life is cheaper for the rich", :followers=>6341, :user_id=>598487349, :retweet=>153}
+{:name=>"@UKPoliticsRR", :text=>"Lord Fink climbs down in clash with Ed Miliband over tax avoidance http://t.co/gVZfLwGDVT", :followers=>5327, :user_id=>2857907670, :retweet=>0}
+{:name=>"@mygibbo", :text=>"RT @dimayray: Ed M: \"The difference between today and yesterday is that Lord Fink is saying what I said about Lord Fink\"   Nice one Ed :)", :followers=>4433, :user_id=>229500113, :retweet=>36}

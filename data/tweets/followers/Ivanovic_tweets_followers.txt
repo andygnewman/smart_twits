@@ -1,0 +1,5 @@
+{:name=>"@RobHarris", :text=>"RT @martynziegler: Three-man panel of former refs  studied Ivanovic's clash with McCarthy + decided it was not worthy of a dismissal so no …", :followers=>104673, :user_id=>21754872, :retweet=>3}
+{:name=>"@Copa90", :text=>"No punishment for Ivanovic. http://t.co/x2C8oa5Fgb", :followers=>73634, :user_id=>558706051, :retweet=>3}
+{:name=>"@TheVujanic", :text=>"No further action on Ivanovic, to be fair it was just a Serbian hug, good decision.", :followers=>54653, :user_id=>91454381, :retweet=>2}
+{:name=>"@martynziegler", :text=>"Three-man panel of former refs  studied Ivanovic's clash with McCarthy + decided it was not worthy of a dismissal so no action.", :followers=>22501, :user_id=>28311576, :retweet=>3}
+{:name=>"@provenquality", :text=>"#CampaignAgainstChelsea MT \"@IndyFootball: Branislav Ivanovic faces no further action http://t.co/dQDu0v4UFK http://t.co/97wjH0WeXg\"", :followers=>7327, :user_id=>1130952331, :retweet=>0}

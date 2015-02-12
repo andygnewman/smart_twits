@@ -1,5 +1,0 @@
-{:text=>"RT @tyleroakley: @danisnotonfire #kittens #unicorns #cookies", :retweet=>1489}
-{:text=>"RT @R1Breakfast: We've just set @danisnotonfire the challenge to get #kittens 🐈 #unicorns &amp; #cookies 🍪 trending this morning cos he's super…", :retweet=>277}
-{:text=>"RT @BBCNewsbeat: #Unicorns trends because of @danisnotonfire and @R1Breakfast Did you know unicorn's the national animal of Scotland? http:…", :retweet=>238}
-{:text=>"RT @britishmuseum: Apparently #unicorns is trending... They have a fantastic emotional range http://t.co/232XzIaOMK http://t.co/5fA93e5XYn", :retweet=>189}
-{:text=>"RT @R1Breakfast: Thanks to @danisnotonfire for coming in this morning to get #unicorns trending and make the internet a nicer place 💻👍 http…", :retweet=>106}

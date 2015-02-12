@@ -1,5 +1,5 @@
-{:text=>"RT @LouboutinWorld: Any pair. You pick. #WhatIsLoveIn4Words http://t.co/EwcHlBVu5a", :retweet=>744}
-{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>322}
-{:text=>"RT @iExistStyles: Fangirling with no regrets \n\n#WhatIsLoveIn4Words http://t.co/r2ECIzg1ZG", :retweet=>194}
-{:text=>"RT @ReesesPBCups: Chocolate and Peanut Butter. #WhatIsLoveIn4Words http://t.co/EW1g9VoyGC", :retweet=>190}
-{:text=>"RT @Applebees: These Mozzarella Cheese Sticks.\n\n#WhatIsLoveIn4Words http://t.co/L42zVurAOr", :retweet=>180}
+{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>375}
+{:text=>"RT @Cinnabon: Center of the Roll. #WhatIsLoveIn4Words http://t.co/VQpS6GRIAq", :retweet=>279}
+{:text=>"RT @DisneysBigHero6: #WhatIsLoveIn4Words Tadashi is always here... #BigHero6 http://t.co/YGLslz45sH", :retweet=>272}
+{:text=>"RT @GoT_Tyrion: Game of Thrones Returns #WhatIsLoveIn4Words http://t.co/NpPW8A2QIQ", :retweet=>203}
+{:text=>"RT @ReesesPBCups: Chocolate and Peanut Butter. #WhatIsLoveIn4Words http://t.co/EW1g9VoyGC", :retweet=>191}

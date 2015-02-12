@@ -1,5 +1,5 @@
-{:name=>"@hxhassan", :text=>"Muslims, Marriage and Bigotry http://t.co/nCRw5ofBmQ", :followers=>21310, :user_id=>23330998, :retweet=>0}
-{:name=>"@hkTjee", :text=>"\"Muslims\" is in list of London trends yet still don't know is it good or bad.", :followers=>19979, :user_id=>486288760, :retweet=>0}
-{:name=>"@caseyttha", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>19078, :user_id=>2653468754, :retweet=>41}
-{:name=>"@marac00per", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>18817, :user_id=>2798748398, :retweet=>41}
-{:name=>"@anissira", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>18384, :user_id=>2778043482, :retweet=>41}
+{:name=>"@HussainAnwarr", :text=>"Unfortunately the counter terrorism bill has been passed in the UK. Life for even the \"moderate\" Muslims is going to get really difficult.", :followers=>46551, :user_id=>251151863, :retweet=>3}
+{:name=>"@habarizakwetu", :text=>"Israel: Jewish And Muslims historical and spirtual claims over Jerusalem - ON ---&gt; KENYA UGANDA TZ &amp; RWANDA WEBNEWS http://t.co/o9b2OtyJEV", :followers=>34627, :user_id=>1498147087, :retweet=>0}
+{:name=>"@MuslimsArt", :text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :followers=>10127, :user_id=>379343390, :retweet=>2359}
+{:name=>"@3212Brandy", :text=>"Muslims Planned to Stab Blondes in the Kidneys in Foiled Aussie Jihad Plot via Pamela Geller, ... http://t.co/7rUx6TYb22", :followers=>8515, :user_id=>142592735, :retweet=>0}
+{:name=>"@JC_Christian", :text=>"RT @bassem_masri: There are people who are idolizing #CraigHicks #ChapelHill shooter praising him saying more Muslims should die...smfh htt…", :followers=>8236, :user_id=>14782782, :retweet=>112}
