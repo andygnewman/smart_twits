@@ -14,10 +14,11 @@ body {
 }
 
 h1 {
+  font-size: 4em;
   margin-top: auto;
   margin-bottom: auto;
   padding-top: 5%;
-  padding-left: 1%;
+  padding-left: 3%;
 }
 
 #header_right {
@@ -26,7 +27,7 @@ h1 {
 }
 
 #block_right {
-  font-size: 0.9em;
+  font-size: 0.75em;
   padding-left: 1%;
 }
 
@@ -35,13 +36,18 @@ h1 {
   padding-left: 1%;
 }
 
-#block_left p {
-  padding-top: 3%;
+#block_left li {
+  padding-top: 5%;
 }
 
 p {
   margin-top: 3px;
   margin-bottom: 3px;
+}
+
+h2 {
+  margin-top: 2%;
+  margin-bottom: 2%;
 }
 
 h3 {
