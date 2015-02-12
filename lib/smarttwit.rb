@@ -5,6 +5,7 @@ require_relative 'Wordfrequency'
 class SmartTwit < Sinatra::Base
 
   set :views, Proc.new { File.join(root, "..", "views") }
+  set :public_folder, Proc.new { File.join(root, "..", "public") }
   
   freq = WordFrequency.new
 
@@ -12,6 +13,10 @@ class SmartTwit < Sinatra::Base
     trends = freq.read_file('./data/trends/toptrends.txt')
     @trends_list = trends.map{|el| el[:name]}
     erb :index
+  end
+
+  get '/index' do
+    erb :layout
   end
 
   get '/trends/' do
