@@ -1,5 +1,5 @@
-{:name=>"@mrjamesob", :text=>"RT @labourpress: Presumably Lord Fink objected to the word \"activities\". http://t.co/38LsZLkN9p", :followers=>54311, :user_id=>152656121, :retweet=>120}
-{:name=>"@NewsHitter", :text=>"Miliband accuses Fink of U-turn: Ed Miliband accuses Lord Fink of an \"extraordinary U-turn\" after the Tory don... http://t.co/ctlHzVxKoZ", :followers=>40221, :user_id=>87728784, :retweet=>0}
-{:name=>"@Reality_Party", :text=>"RT @EtonOldBoys: Lord Fink on tax avoidance: \"everyone does it\".  I dont Fink so, especially if you are a pleb on PAYE", :followers=>4694, :user_id=>2459311625, :retweet=>47}
-{:name=>"@DrNostromo", :text=>"Tory supporters on here equating what Lord Fink has been up to as equitable to ISA frankly laughable.", :followers=>4117, :user_id=>317936494, :retweet=>0}
-{:name=>"@Mancman10", :text=>"If anyTories out there trying to say it's Miliband who's backed down&amp;not Fink,where is the word dodgy in this http://t.co/cOPDsGfHKd FAIL!", :followers=>3073, :user_id=>118736440, :retweet=>1}
+{:name=>"@Maverickaizer", :text=>"Everyone avoids tax, says Lord Fink after being named by Ed Miliband in Commons row http://t.co/ESDNCU2jla", :followers=>7915, :user_id=>148680960, :retweet=>0}
+{:name=>"@suebeesley", :text=>"@suzirooo Was being tongue in cheek, of course - Lord Fink seems to think everyone routinely uses international tax loopholes. As if.", :followers=>5527, :user_id=>54863138, :retweet=>0}
+{:name=>"@DavidGWrigley", :text=>"RT @OwenJones84: The problem for Lord Fink and the like is the British people are losing patience with being ruled over by a mean and greed…", :followers=>5411, :user_id=>18831694, :retweet=>163}
+{:name=>"@twitmericks", :text=>"A rich tax-avoider, Lord Fink\nDeclared with a nod and a wink:\nMy schemes are vanilla,\nThere's not a scintilla\nOf any unsavoury stink!", :followers=>5156, :user_id=>297333518, :retweet=>1}
+{:name=>"@KrustyAllslopp", :text=>"RT @monkey_wrangler: Say what you like about Lord Fink, i think he's a kind of hero... #edmilliband #LordFink #hmrc #taxavoidance http://t.…", :followers=>4346, :user_id=>213038249, :retweet=>2}

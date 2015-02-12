@@ -1,5 +1,5 @@
-{:name=>"@thequote", :text=>"All you need is love, love, love is all you need. - John Lennon #ValentinesDay", :followers=>280189, :user_id=>30767393, :retweet=>3}
-{:name=>"@EdibleBrooklyn", :text=>"14 Love Poems Professing Our Love for Brooklyn http://t.co/Wu0RbwFguP #ValentinesDay @Allswell_NYC @tacoselbronco @moustacheyogurt", :followers=>27888, :user_id=>22640541, :retweet=>0}
-{:name=>"@Ronald_Crone", :text=>"\"How Targeted Ads Spoil #Valentine’s Day Surprises\" by @davevr =&gt; http://t.co/4VdRGKYfPw #ValentinesDay #marketing #advertising #search", :followers=>27051, :user_id=>2460662251, :retweet=>0}
-{:name=>"@BreakingNSNews", :text=>"Looking for something to do for #ValentinesDay? Spread some love to older adults with @dosomething and @MentorUp. http://t.co/qNga6ZI4U6", :followers=>17346, :user_id=>43389213, :retweet=>0}
-{:name=>"@depeche96", :text=>"RT @terapiaoral: 💢❤💢❤💢❤💢\n💢❤\n❤💢\n❤💢\n❤💢\n💢❤💢❤💢❤💢\n💢❤❤💢❤💢❤\n💢❤\n❤💢\n💢❤\n💢❤\n#ValentinesDay @fusako001", :followers=>15512, :user_id=>1229812874, :retweet=>1}
+{:name=>"@gardenofliferaw", :text=>"@King__Lou I just melted!!! :) #ValentinesDay", :followers=>259668, :user_id=>15235948, :retweet=>0}
+{:name=>"@GhaflaKenya", :text=>"#WordIs Comedian @ErickOmondi is Torn Between #ValentinesDay with #HuddahMonroe or This #SexyPrettyMammy #untamed\nhttp://t.co/rtovZ8y7j5", :followers=>115947, :user_id=>93619360, :retweet=>0}
+{:name=>"@GhaflaKenya", :text=>"Get Your Tickets Now_Crazy Weekend With @KlintTheDrunk  Live #ValentinesDay @NOTL_Ke #NiteOfRoses \nhttp://t.co/f9vGQh7XxO\n@tomisothedeejay", :followers=>115947, :user_id=>93619360, :retweet=>0}
+{:name=>"@Tearoze", :text=>"RT @CNJohansens: Are you in #Bali for #ValentinesDay? Head to @fc_bali for a wonderful romance package including Balinese tasting menu http…", :followers=>77858, :user_id=>34722352, :retweet=>2}
+{:name=>"@Tearoze", :text=>"RT @CNJohansens: Pamper yourself in Nha Trang for #ValentinesDay. Detox with a 3-step relaxation package feat. massage, facial &amp; scrub http…", :followers=>77858, :user_id=>34722352, :retweet=>2}

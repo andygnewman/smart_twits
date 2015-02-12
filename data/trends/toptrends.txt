@@ -2,9 +2,9 @@
 {:name=>"#ChapelHillShooting", :query=>"%23ChapelHillShooting", :filename=>"ChapelHillShooting"}
 {:name=>"Lord Fink", :query=>"%22Lord+Fink%22", :filename=>"Lord Fink"}
 {:name=>"#HSBC", :query=>"%23HSBC", :filename=>"HSBC"}
-{:name=>"#unicorns", :query=>"%23unicorns", :filename=>"unicorns"}
 {:name=>"#ValentinesDay", :query=>"%23ValentinesDay", :filename=>"ValentinesDay"}
+{:name=>"#unicorns", :query=>"%23unicorns", :filename=>"unicorns"}
 {:name=>"London", :query=>"London", :filename=>"London"}
-{:name=>"Ed Miliband", :query=>"%22Ed+Miliband%22", :filename=>"Ed Miliband"}
 {:name=>"Tim Sherwood", :query=>"%22Tim+Sherwood%22", :filename=>"Tim Sherwood"}
 {:name=>"Muslims", :query=>"Muslims", :filename=>"Muslims"}
+{:name=>"Labour", :query=>"Labour", :filename=>"Labour"}

@@ -1,5 +1,5 @@
-{:text=>"RT @charli_xcx: omg just hearing doing it on the radio for the first time in london !!! 💖❤️💕💜", :retweet=>387}
-{:text=>"RT @JoshUJWorld: London Town 👍 http://t.co/HEnegA3VaE", :retweet=>333}
-{:text=>"RT @eveescort1: forever http://t.co/dGcXzbSwzw http://t.co/E16d4Yy910", :retweet=>102}
-{:text=>"RT @ShaunKing: Adjusted w/ race in mind, an African American is nearly 500X more likely to be shot/killed by police in the USA than a citiz…", :retweet=>52}
-{:text=>"RT @JamieDornanJPN: Prep has nearly completed for London premiere . #fiftyshades http://t.co/E3eIqsxEUi", :retweet=>34}
+{:text=>"RT @Gurmeetramrahim: #3DaysToMSG yesterday in London , My rock kids ,God bless you all http://t.co/ZNpGG1L2zq", :retweet=>5811}
+{:text=>"RT @BBCEngland: More 999 calls expected from #50ShadesOfGrey fans trapped by handcuffs, says @LondonFire http://t.co/1QumNcCdBy http://t.co…", :retweet=>523}
+{:text=>"RT @charli_xcx: omg just hearing doing it on the radio for the first time in london !!! 💖❤️💕💜", :retweet=>415}
+{:text=>"RT @Axwell: Mind the gap London…we’re coming back! Alexandra Palace. June 6. Pre Sale 9AM Monday http://t.co/PoRbo0Xv6I http://t.co/MT8chdG…", :retweet=>175}
+{:text=>"RT @eveescort1: forever http://t.co/dGcXzbSwzw http://t.co/E16d4Yy910", :retweet=>126}

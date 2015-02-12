@@ -1,0 +1,5 @@
+{:text=>"RT @aoifegracemoore: i really don't need a #pinkbus to vote labour and be related to \"as a woman\". i need political parties to stop treatin…", :retweet=>222}
+{:text=>"RT @guardian: Revealed: children working 15-hour days to make bricks used in aid projects in Nepal http://t.co/F09xXOCgLa http://t.co/WAFsd…", :retweet=>193}
+{:text=>"RT @KevinJPringle: Millionaire 'who was embroiled in a \"cash for honours\" scandal' to bankroll Scottish Labour: http://t.co/xvHyu81liY @the…", :retweet=>166}
+{:text=>"RT @YesBonnyrigg: Sums up Labour's attitude towards the SNP, devolution &amp; Scotland in general!\n#the45 #indyref http://t.co/YAmjrOEcdC", :retweet=>132}
+{:text=>"RT @LiarMPs: Labour's dream in action. #Cenotaph http://t.co/1sq4as8Ik8", :retweet=>106}

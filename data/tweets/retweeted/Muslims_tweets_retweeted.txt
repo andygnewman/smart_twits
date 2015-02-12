@@ -1,5 +1,5 @@
-{:text=>"RT @ozchrisrock: Victims = Muslims\n\nKiller = White\n\nIf identities were reversed, media coverage would be nonstop. \n#ChapelHillShooting http…", :retweet=>9646}
-{:text=>"RT @Remroum: A Muslim commits a crime = 1.6 billion must collectively apologize. White guy executes 3 Muslims = People can't even admit it'…", :retweet=>2795}
-{:text=>"RT @ozchrisrock: 3 American Muslims killed execution style in their home. Move along, nothing to see here... #ChapelHillShooting http://t.c…", :retweet=>2335}
-{:text=>"RT @JamalDajani: If you kill 3 Muslims for parking space, how many Muslims would you kill for oil fields?", :retweet=>1071}
-{:text=>"RT @CitizenRadio: #ChapelHillShooting: man guns down three young Muslims, and our culture of #Islamophobia http://t.co/3o7YtG7XNT #CitizenR…", :retweet=>849}
+{:text=>"RT @JFXM: 3 US Muslims were gunned down in cold, Islamophobic blood by a white terrorist. Where's the mainstream media outrage? http://t.co…", :retweet=>12680}
+{:text=>"RT @GemmaAnneStyles: I mean I'm sure this is only going to cause me more bother but just to clarify - OBVIOUSLY I don't hate Muslims. Ta. h…", :retweet=>8626}
+{:text=>"RT @WasimAhmed89: Muslims are terrorists? http://t.co/PwwpaxQjPj", :retweet=>4868}
+{:text=>"RT @DrGilbert: 3 young people died in USA, No march's No Protests, Oh never mind, they're Muslims http://t.co/qYrZeWDDkR", :retweet=>4355}
+{:text=>"RT @vampricyoda: When three people who wrote Islamophobic comics died the world marched.\n\nWhen three Muslims who do charity work died nothi…", :retweet=>3162}

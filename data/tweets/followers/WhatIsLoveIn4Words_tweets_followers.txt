@@ -1,5 +1,5 @@
-{:name=>"@nialler_james16", :text=>"RT @NarryMyDream: Niall and Harry together #WhatIsLoveIn4Words http://t.co/PsorMl99ud", :followers=>15721, :user_id=>2445317961, :retweet=>103}
-{:name=>"@nialler_james16", :text=>"RT @NarryMyDream: It's in their eyes #WhatIsLoveIn4Words http://t.co/UCmJgk5UXb", :followers=>15721, :user_id=>2445317961, :retweet=>155}
-{:name=>"@IranianMermaid", :text=>"Comfortable silence (I only needed 2 words) #WhatIsLoveIn4Words", :followers=>13222, :user_id=>32691725, :retweet=>0}
-{:name=>"@SmileforVic", :text=>"wanna share my food? #whatislovein4words", :followers=>9451, :user_id=>396241210, :retweet=>0}
-{:name=>"@theluxcrystal", :text=>"#WhatIsLoveIn4Words Putting others before yourself.", :followers=>5197, :user_id=>430375389, :retweet=>0}
+{:name=>"@gchahal", :text=>"RT @Gravity4: \"High-Frequency Marketing OS” \n\n#WhatIsLoveIn4Words", :followers=>137740, :user_id=>14372104, :retweet=>2}
+{:name=>"@NowThatsCollege", :text=>"The final is optional. #WhatIsLoveIn4Words", :followers=>30037, :user_id=>230889304, :retweet=>1}
+{:name=>"@ThePEAK", :text=>"#WhatIsLoveIn4Words\n\n@Sonia_Sidhu says \"No Makeup And Sweats\"\n\nJoin the conversation. 604.280.1027", :followers=>25298, :user_id=>17237095, :retweet=>0}
+{:name=>"@Toblerone", :text=>"Saved you a triangle #WhatIsLovein4Words http://t.co/Nw6wcmYN47", :followers=>18351, :user_id=>26101062, :retweet=>1}
+{:name=>"@Shayne_afc", :text=>"\"@peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/KuAkldlUNF\"\n\nAnd in 4 letters... Amen.", :followers=>3778, :user_id=>351581708, :retweet=>0}

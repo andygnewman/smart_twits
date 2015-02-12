@@ -1,5 +1,5 @@
-{:name=>"@findmeagift", :text=>"RT @TracyLSteel: @findmeagift here's some inspiration; everyone knows #unicorns puke chocolate and poop rainbows! ;) http://t.co/yxPftAyaDF", :followers=>17271, :user_id=>18815068, :retweet=>1}
-{:name=>"@nattylara", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>13682, :user_id=>45013334, :retweet=>67}
-{:name=>"@BESSBAD", :text=>"Save me from the #kittens mouth:\nfor thou hast heard me\nfrom the horns of the #unicorns:", :followers=>9980, :user_id=>24597658, :retweet=>0}
-{:name=>"@Africanalyst", :text=>"RT @RachelSLyon: Apparently #Unicorns are trending on Twitter. My Mucky would be pleased! http://t.co/sgJzeLCMDI", :followers=>8833, :user_id=>1410327247, :retweet=>1}
-{:name=>"@borisovrealtyRu", :text=>"#unicorns Минске #kittens #cookies Порошенко Савченко Путина \n\nОккупанты драпали из котла под видом мирного населения http://t.co/MmhvwfgUIc", :followers=>5579, :user_id=>2443803060, :retweet=>0}
+{:name=>"@Peter_Dickerson", :text=>"I am a unicorn. #unicorns\n“@StreetArtBuzz: Ewelina Koszykowska, https://t.co/SVBIB4KLMj #art #urbanart #streetart http://t.co/FKeslc5qvB”", :followers=>136464, :user_id=>27800134, :retweet=>1}
+{:name=>"@Peter_Dickerson", :text=>"RT @oxygenboutique: #unicorns is trending, we're not sure why but we love unicorns!", :followers=>136464, :user_id=>27800134, :retweet=>7}
+{:name=>"@Peter_Dickerson", :text=>"RT @cath_fletcher: #unicorns are trending! Here's a wonderful Renaissance tapestry example. Made in Flanders to French design c. 1500. http…", :followers=>136464, :user_id=>27800134, :retweet=>4}
+{:name=>"@Lilo_Abernathy", :text=>"RT @Peter_Dickerson: I am a unicorn. #unicorns\n“@StreetArtBuzz: Ewelina Koszykowska, https://t.co/SVBIB4KLMj #art #urbanart #streetart http…", :followers=>15564, :user_id=>1562367001, :retweet=>1}
+{:name=>"@needaphone", :text=>"RT @orchardbooks: #Unicorns should really trend more often: what's not to love? To celebrate, RT to win #RainbowMagic book+goodies! http://…", :followers=>6217, :user_id=>216646577, :retweet=>71}

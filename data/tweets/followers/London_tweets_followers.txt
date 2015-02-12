@@ -1,5 +1,5 @@
-{:name=>"@business", :text=>"It's \"very unlikely\" for the U.K. to leave the European Union, London's mayor says http://t.co/TUv3ZD3e7U http://t.co/IMMPOWFfzk", :followers=>2016578, :user_id=>34713362, :retweet=>3}
-{:name=>"@ventsmagazine", :text=>"Check out @neutronicuk new single Closer http://t.co/ea33AD0Mei… | For fans of The XX, Lapsely, London Grammar, minimal\ndowntempo indie pop", :followers=>125535, :user_id=>130278068, :retweet=>0}
-{:name=>"@TownFishLondon", :text=>"@thetraveltester Hi, we noticed you're a Londoner! If you need any London-related help, just give us a shout!", :followers=>36617, :user_id=>283136436, :retweet=>0}
-{:name=>"@itsMaxsta", :text=>"RT @ShaunKing: Adjusted w/ race in mind, an African American is nearly 500X more likely to be shot/killed by police in the USA than a citiz…", :followers=>36266, :user_id=>61375153, :retweet=>52}
-{:name=>"@London_Places", :text=>"Mentions for Canada Water: http://t.co/LkyKjR1Ifz - RT @JumpingJuliaUK Were looking forward to seeing you tonight! If missedout make sur...", :followers=>19096, :user_id=>97633564, :retweet=>0}
+{:name=>"@mrgsjkay", :text=>"RT @Jennifer0693: Cute shots of @KerryKatona7 and @mrgsjkay in London &lt;3 http://t.co/PIu3kwNs7a", :followers=>103988, :user_id=>1037518146, :retweet=>5}
+{:name=>"@RugbyBenCohen", :text=>"RT @StandUpFdn: Comedy Night to benefit StandUp Foundation in London 15 April tickets available here https://t.co/2cqQvDRfXt See you there …", :followers=>91646, :user_id=>72955085, :retweet=>1}
+{:name=>"@MollyAnnLouise", :text=>"Going London lmao bye http://t.co/4VZWBdNjtD", :followers=>25111, :user_id=>792538074, :retweet=>0}
+{:name=>"@recruitzonejobs", :text=>"Bee Recruitment London Ltd: General Manager in Training (Hampshire, ) http://t.co/ihv7rRDRmv #Jobs #CV #hiring #career", :followers=>20109, :user_id=>927645446, :retweet=>0}
+{:name=>"@hkTjee", :text=>"\"Muslims\" is in list of London trends yet still don't know is it good or bad.", :followers=>19979, :user_id=>486288760, :retweet=>0}

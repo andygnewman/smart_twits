@@ -1,5 +1,5 @@
-{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>249}
-{:text=>"RT @SMACKHighPA: #WhatIsLoveIn4Words\n\"Here's my Netflix password\"\n\"I made pizza rolls\"\n\"There's no school today\"\n\"We have no homework\"\n\"You…", :retweet=>174}
-{:text=>"RT @NarryMyDream: It's in their eyes #WhatIsLoveIn4Words http://t.co/UCmJgk5UXb", :retweet=>155}
-{:text=>"RT @NickTypesWords: #WhatIsLoveIn4Words \"have the last slice.\" http://t.co/7d8g9lPdFU", :retweet=>150}
-{:text=>"RT @_Food_Daily_: Oreo Ice Cream Cake #WhatIsLoveIn4Words http://t.co/x55ndZRbYZ", :retweet=>115}
+{:text=>"RT @LouboutinWorld: Any pair. You pick. #WhatIsLoveIn4Words http://t.co/EwcHlBVu5a", :retweet=>744}
+{:text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :retweet=>322}
+{:text=>"RT @iExistStyles: Fangirling with no regrets \n\n#WhatIsLoveIn4Words http://t.co/r2ECIzg1ZG", :retweet=>194}
+{:text=>"RT @ReesesPBCups: Chocolate and Peanut Butter. #WhatIsLoveIn4Words http://t.co/EW1g9VoyGC", :retweet=>190}
+{:text=>"RT @Applebees: These Mozzarella Cheese Sticks.\n\n#WhatIsLoveIn4Words http://t.co/L42zVurAOr", :retweet=>180}
