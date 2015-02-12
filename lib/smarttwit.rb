@@ -1,6 +1,4 @@
 require 'sinatra/base'
-require 'httparty'
-require 'json'
 require_relative 'api_twit'
 require_relative 'Wordfrequency'
 
@@ -24,6 +22,8 @@ class SmartTwit < Sinatra::Base
     words_array = freq.read_file("./data/tweets/tweets/#{params[:trend]}_tweets.txt")
     words = words_array.map{|el| el[:text]}
     @words = freq.find_top_results(20, words)
+    retwit_array = freq.read_file("./data/tweets/retweeted/#{params[:trend]}_tweets_retweeted.txt")
+    @retweet = retwit_array.map{|el| el[:text]}
     erb :trends
   end
 
