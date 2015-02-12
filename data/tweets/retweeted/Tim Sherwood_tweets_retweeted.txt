@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 {:text=>"RT @Carra23: Tim Sherwood will now be linked with Aston Villa he's becoming the new Alan Curbishley.", :retweet=>833}
 {:text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :retweet=>468}
 {:text=>"RT @p1bet: Tim Sherwood is currently fav for the Villa, QPR and Leicester jobs, the Gold Cup, the Grand National and Strictly Come Dancing.", :retweet=>229}
 {:text=>"RT @Betfair: Tim Sherwood will be favourite for the Grand National as well at this rate.", :retweet=>163}
 {:text=>"RT @SkySportsNewsHQ: There have been five managerial changes this season. Tim Sherwood is the favourite to take over at Villa Park #SSNHQ h…", :retweet=>116}
+=======
+{:text=>"RT @Carra23: Tim Sherwood will now be linked with Aston Villa he's becoming the new Alan Curbishley.", :retweet=>830}
+{:text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :retweet=>450}
+{:text=>"RT @RorySmithTimes: Looking forward to Tim Sherwood being favourite for the Villa job but then pulling out at the last minute. The Sherwood…", :retweet=>344}
+{:text=>"RT @Betfair: Tim Sherwood will be favourite for the Grand National as well at this rate.", :retweet=>163}
+{:text=>"RT @br_uk: Tim Sherwood installed as odds-on favourite to replace Paul Lambert as Aston Villa manager http://t.co/uuOxd3zdzM http://t.co/sM…", :retweet=>50}
+>>>>>>> 2d7e79ba0871865992a30d562b36c7cf64cb451b

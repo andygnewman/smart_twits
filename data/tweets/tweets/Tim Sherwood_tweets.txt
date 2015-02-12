@@ -1,0 +1,100 @@
+{:name=>"@EmmyMabs", :text=>"The 21 contenders to replace Paul Lambert as Aston Villa’s new manager: Could Tim Sherwood replace Paul Lamber... http://t.co/6vPRrd8sub", :followers=>94776, :user_id=>24590262, :retweet=>0}
+{:name=>"@bobinvienne", :text=>"Well at least people are talking about Tim Sherwood - he must have been worried he'd been forgotten", :followers=>2663, :user_id=>338576568, :retweet=>0}
+{:name=>"@joelhaycock", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>311, :user_id=>245751730, :retweet=>10}
+{:name=>"@ShaunN_96", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>183, :user_id=>573575601, :retweet=>450}
+{:name=>"@dylanhemel", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>127, :user_id=>232571668, :retweet=>10}
+{:name=>"@marcwhufc", :text=>"\"@HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate\" 😂 😂 😂👍🙅🔨", :followers=>2405, :user_id=>22507871, :retweet=>0}
+{:name=>"@EeeeeWald", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>216, :user_id=>124871196, :retweet=>450}
+{:name=>"@mantonracing", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>114, :user_id=>2870938876, :retweet=>10}
+{:name=>"@dustingm", :text=>"So when’s English football going to realize that, y’know, NOBODY WANTS TIM SHERWOOD as manager?", :followers=>617, :user_id=>19599231, :retweet=>0}
+{:name=>"@Top5ggs", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>406, :user_id=>2582240200, :retweet=>10}
+{:name=>"@lewminati", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>4383, :user_id=>363264247, :retweet=>450}
+{:name=>"@CS_Lane_7", :text=>"RT @gunnerblog: Is Tim Sherwood the new Alan Curbishley?", :followers=>331, :user_id=>581399718, :retweet=>8}
+{:name=>"@JackTowie", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>185, :user_id=>454251679, :retweet=>450}
+{:name=>"@IanOvermier", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>1574, :user_id=>477131861, :retweet=>450}
+{:name=>"@AdamHorsecraft", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>290, :user_id=>522591098, :retweet=>450}
+{:name=>"@kevdcfc", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>139, :user_id=>31158526, :retweet=>10}
+{:name=>"@Ryan_Blackett", :text=>"It wouldn't excite me as a Villa fan to see Tim Sherwood as odds on favourite. Has he really proved himself more than Lambert?", :followers=>334, :user_id=>222786297, :retweet=>0}
+{:name=>"@ElliottFenwick_", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>194, :user_id=>1347498950, :retweet=>450}
+{:name=>"@ChrisPedrick21", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>407, :user_id=>637453398, :retweet=>450}
+{:name=>"@TMStorkey", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>596, :user_id=>60013525, :retweet=>450}
+{:name=>"@mcoops6", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>367, :user_id=>465540567, :retweet=>10}
+{:name=>"@SamIsmail1995", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>220, :user_id=>387715504, :retweet=>450}
+{:name=>"@I_Am_A_Twit_", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>749, :user_id=>20886428, :retweet=>10}
+{:name=>"@capitalgull", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>1776, :user_id=>21913928, :retweet=>10}
+{:name=>"@lixmproud_", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>2864, :user_id=>417178018, :retweet=>450}
+{:name=>"@andy_beard", :text=>"@paddypower if Tim Sherwood gets villa job will I get a refund on my bet for him to be next landlord of the Queen Vic. #linkedtoeverything", :followers=>21675, :user_id=>336621066, :retweet=>0}
+{:name=>"@biffarujet", :text=>"As an Aston villa fan I don't want tim sherwood as villa's new manager, what's the point he's not that good. That's going backwards to me.", :followers=>671, :user_id=>42097668, :retweet=>0}
+{:name=>"@dantracey1983", :text=>"Tim Sherwood in talks to be Cupid #ValentinesDay", :followers=>5540, :user_id=>601907830, :retweet=>0}
+{:name=>"@bdotryan", :text=>"I don't think tim Sherwood would get the respect from the players. Hoddle, Klinnsman, Curbishley would I think.", :followers=>387, :user_id=>251343098, :retweet=>0}
+{:name=>"@danjohnson1999", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>107, :user_id=>2236534497, :retweet=>450}
+{:name=>"@Smithy1974Uk", :text=>"RT @redwazza1: Tim Sherwood says his talks with #avfc have gone well. http://t.co/0LcqZqB4kg", :followers=>1854, :user_id=>524734623, :retweet=>1}
+{:name=>"@DunneKen", :text=>"RT @HonestFrank: Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>291, :user_id=>450922412, :retweet=>10}
+{:name=>"@footyzone", :text=>"Ex-Tottenham boss Tim Sherwood 4/6 to be next Aston Villa manager http://t.co/g0OmhDRI8T", :followers=>11080, :user_id=>88975522, :retweet=>0}
+{:name=>"@Alex_Weston_", :text=>"RT @BenMilner90: @Alex_Weston_ @SamWarsop Tim Sherwood meeting you for a drink has better odds", :followers=>263, :user_id=>435665271, :retweet=>1}
+{:name=>"@Kstentoft", :text=>"RT @Betfair: Tim Sherwood will be favourite for the Grand National as well at this rate.", :followers=>205, :user_id=>21253606, :retweet=>163}
+{:name=>"@Lonzzzz", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>216, :user_id=>524123045, :retweet=>450}
+{:name=>"@DentroJuego", :text=>"Aston Villa Sack Paul Lambert – Tim Sherwood Up Next? http://t.co/3Q75absmhW http://t.co/tuSHO7rz59", :followers=>802, :user_id=>1251263401, :retweet=>0}
+{:name=>"@Foysol_12596", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>178, :user_id=>1365499790, :retweet=>450}
+{:name=>"@TobyGearing", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>181, :user_id=>223083643, :retweet=>450}
+{:name=>"@swerdnayrret", :text=>"Welldone to Chris Ramsey, met him the day Tim Sherwood got sacked. Cool as a cucumber!", :followers=>475, :user_id=>223930980, :retweet=>0}
+{:name=>"@HonestFrank", :text=>"Tim Sherwood will end up being favourite more times than Frankel at this rate", :followers=>19328, :user_id=>19964983, :retweet=>10}
+{:name=>"@bdotryan", :text=>"Ain't Tim Sherwood that chap off Car SOS?", :followers=>387, :user_id=>251343098, :retweet=>0}
+{:name=>"@redwazza1", :text=>"Tim Sherwood says his talks with #avfc have gone well. http://t.co/0LcqZqB4kg", :followers=>1553, :user_id=>236104617, :retweet=>1}
+{:name=>"@hotspur4eva", :text=>"RT @dantracey1983: Tim Sherwood is in talks to Murder Lucy Beale #Eastenders", :followers=>1142, :user_id=>177669968, :retweet=>3}
+{:name=>"@FootyRss", :text=>"[Squawka] Aston Villa Legend Warns Club The Manager They Must Avoid http://t.co/lub8qLR7XO", :followers=>572, :user_id=>2540433251, :retweet=>0}
+{:name=>"@WastedP0tential", :text=>"RT @dantracey1983: Tim Sherwood is in talks to Murder Lucy Beale #Eastenders", :followers=>117, :user_id=>2861104119, :retweet=>3}
+{:name=>"@AVFCLatest24", :text=>"Aston Villa Legend Warns Club The Manager They Must Avoid: Former Aston Villa striker Stan Collymore has... http://t.co/ceXC80QY4S #AVFC", :followers=>438, :user_id=>624725572, :retweet=>0}
+{:name=>"@saltervilla", :text=>"RT @dantracey1983: Tim Sherwood is in talks to Murder Lucy Beale #Eastenders", :followers=>1484, :user_id=>187179260, :retweet=>3}
+{:name=>"@SPORTSDEK", :text=>"Tim Sherwood gives his pitch for the #AVFC job. Surely its only a matter of time? https://t.co/zzLNIU7phX", :followers=>1285, :user_id=>2362467594, :retweet=>0}
+{:name=>"@dantracey1983", :text=>"Tim Sherwood is in talks to Murder Lucy Beale #Eastenders", :followers=>5540, :user_id=>601907830, :retweet=>3}
+{:name=>"@connor_stobbs", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>1060, :user_id=>104741145, :retweet=>450}
+{:name=>"@BevPilbrough", :text=>"Dear Lord, I'd quite like Tim Sherwood as the next Villa manager.  Please and thank you!!", :followers=>59, :user_id=>438308698, :retweet=>0}
+{:name=>"@DLS_34", :text=>"Tim Sherwood being linked to every manager job at the mo. He is even fav to get the store managers position at the range in Norwich", :followers=>177, :user_id=>586795725, :retweet=>0}
+{:name=>"@BrummyBoy187", :text=>"RT @Carra23: Tim Sherwood will now be linked with Aston Villa he's becoming the new Alan Curbishley.", :followers=>1291, :user_id=>273119118, :retweet=>830}
+{:name=>"@MartinDaubney", :text=>"Why can't Tim Sherwood come to Forest? At least there'd be a good headline in it. #SherwoodForest #nffc", :followers=>3110, :user_id=>568143078, :retweet=>0}
+{:name=>"@JPionzio14", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>494, :user_id=>157718295, :retweet=>450}
+{:name=>"@Frankiewl94", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>163, :user_id=>2888114117, :retweet=>450}
+{:name=>"@Harry_Hazard", :text=>"Has anyone notice Tim Sherwood is odds on favourite whenever any manager's job becomes available", :followers=>3022, :user_id=>1632377382, :retweet=>0}
+{:name=>"@KezXanderlee", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>308, :user_id=>235681666, :retweet=>450}
+{:name=>"@Luke_Jarvis_93", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>43, :user_id=>2200364894, :retweet=>450}
+{:name=>"@ConorMummery_", :text=>"timehop reminding me of the depths of despair of tim sherwood's reign. http://t.co/NYjHHdc4iG", :followers=>335, :user_id=>64175742, :retweet=>0}
+{:name=>"@mattycharlton97", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>1136, :user_id=>465763021, :retweet=>450}
+{:name=>"@LesRosbifs", :text=>"Just noticed I wrote Tm Sherwood on an earlier tweet instead of Tim Sherwood. He's a walking, talking, cockney trademark.", :followers=>3010, :user_id=>851484913, :retweet=>0}
+{:name=>"@kirstiemccrum", :text=>".@TheFiver are really spoiling us 'Tim Sherwood, who is rapidly becoming a sort of footballing kama sutra,has been linked with the position'", :followers=>2985, :user_id=>15467880, :retweet=>0}
+{:name=>"@HazzyOoo", :text=>"Lambert gone, Tim Sherwood, Dyche, or Laudrup? Or the outside chance of a Mcleish return.... #AVFC", :followers=>132, :user_id=>576531929, :retweet=>0}
+{:name=>"@SeckerMark", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>280, :user_id=>554605917, :retweet=>450}
+{:name=>"@aqeeljeraj", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>208, :user_id=>630557748, :retweet=>450}
+{:name=>"@Curt_goff", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>421, :user_id=>457699302, :retweet=>450}
+{:name=>"@lukebessell", :text=>"RT @samedwards93: Swear Tim Sherwood is favourite for every managers job 😭", :followers=>283, :user_id=>303957209, :retweet=>1}
+{:name=>"@jacktbennett", :text=>"Tim Sherwood stands by FOBTs giving people advice on what numbers coming next.", :followers=>423, :user_id=>165896875, :retweet=>0}
+{:name=>"@danwallisss", :text=>"“@UKSportBanter: Tim Sherwood will be favourite for the Grand National as well at this rate.” @MattAllen51 😏😂", :followers=>79, :user_id=>2647934727, :retweet=>0}
+{:name=>"@KyleCochrane", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>270, :user_id=>400790460, :retweet=>450}
+{:name=>"@Editor_James", :text=>"RT @RorySmithTimes: Looking forward to Tim Sherwood being favourite for the Villa job but then pulling out at the last minute. The Sherwood…", :followers=>595, :user_id=>379271639, :retweet=>344}
+{:name=>"@ElieSemaan6", :text=>"chris ramsey given the qpr job? so wanted tim sherwood to be given a chance there.", :followers=>657, :user_id=>301264219, :retweet=>0}
+{:name=>"@joshben92", :text=>"Tim Sherwood is definitely a good shout for Villa manager, did a damn good job keeping Pochettino's seat warm at Spurs last season", :followers=>107, :user_id=>214456372, :retweet=>0}
+{:name=>"@Gibbo3000", :text=>"Tim Sherwood has basically become the new Redknapp/Warnock/Curbishley, he's favourite/ linked to fucking every job going", :followers=>85, :user_id=>145670414, :retweet=>0}
+{:name=>"@DoddsyBaby", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>206, :user_id=>50317131, :retweet=>450}
+{:name=>"@armada1888", :text=>"Tim Sherwood - The new Stuart Baxter", :followers=>160, :user_id=>142796643, :retweet=>0}
+{:name=>"@jamesschoie", :text=>"RT @jordan_coofair: Bet if someone gets sacked in Tesco, Tim Sherwood would be the favourite to replace them, linked with every job!", :followers=>215, :user_id=>537474602, :retweet=>2}
+{:name=>"@Gibbo3000", :text=>"RT @br_uk: Tim Sherwood installed as odds-on favourite to replace Paul Lambert as Aston Villa manager http://t.co/uuOxd3zdzM http://t.co/sM…", :followers=>85, :user_id=>145670414, :retweet=>50}
+{:name=>"@danensor", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>489, :user_id=>229342990, :retweet=>450}
+{:name=>"@JymzC", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>162, :user_id=>534306524, :retweet=>450}
+{:name=>"@s_qaq", :text=>"RT @IndyFootball: Next Aston Villa manager: Tim Sherwood, Glenn Hoddle and Michael Laudrup linked with replacing Paul Lambert http://t.co/y…", :followers=>0, :user_id=>2941061733, :retweet=>2}
+{:name=>"@CraigHazell", :text=>"Tim Sherwood to star on the next season of The Apprentice.", :followers=>2478, :user_id=>236589961, :retweet=>0}
+{:name=>"@thejstewart", :text=>"I really don't want Tim sherwood any near villa @AVFCOfficial", :followers=>94, :user_id=>1390565197, :retweet=>0}
+{:name=>"@Richard_Cummins", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>46, :user_id=>447412018, :retweet=>450}
+{:name=>"@AlfieConn", :text=>"So no job for Tim Sherwood at QPR, despite \"his team\" being \"in place\", how is he talking himself them? #WinPercentage #ThoughActToFollow", :followers=>3918, :user_id=>20780641, :retweet=>0}
+{:name=>"@SniersMoregut", :text=>"@JohnnyTheNic http://t.co/wxCStySlbh", :followers=>2244, :user_id=>533216493, :retweet=>0}
+{:name=>"@BeansParkRanger", :text=>"“@Essex_barberCM2: Tim Sherwood is favourite for the Barnsley managerial vacancy...”\n\n😂😂", :followers=>321, :user_id=>545995471, :retweet=>0}
+{:name=>"@adamc_8", :text=>"Why does Tim Sherwood become favourite for every managers positions that becomes available in the prem?", :followers=>131, :user_id=>1022515674, :retweet=>0}
+{:name=>"@JoelWilsonAFC", :text=>"Just found out the manager is leaving my local pub. Tim Sherwood is favourite to replace him........... #thatblokegetseverywhere", :followers=>57, :user_id=>61225564, :retweet=>0}
+{:name=>"@lisayoung9g3v90", :text=>"Manajer Tottenham Tim Sherwood mengakui bahwa finish di peringkat keempat akhir musim ini memang bukan pekerja... http://t.co/zaamcQAuS6", :followers=>12, :user_id=>2991066632, :retweet=>0}
+{:name=>"@harryilott", :text=>"@RoryCormack1 Harry Kane your always gooner , not to mention  Tim sherwood , yeah I'm the thick one 😂😂😂😂😂 good luck passing your GCSEs mate", :followers=>143, :user_id=>1121948545, :retweet=>0}
+{:name=>"@PringleQPR2", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>167, :user_id=>283034526, :retweet=>450}
+{:name=>"@Malo_AFC", :text=>"Tim Sherwood says Snacks instead of Crisps", :followers=>281, :user_id=>234749198, :retweet=>0}
+{:name=>"@LifeCoachNYCe", :text=>"QPR make contact with Tim Sherwood about becoming the clubs next manager but no deal has yet been agreed.", :followers=>58, :user_id=>2804583906, :retweet=>0}
+{:name=>"@worldofquark", :text=>"RT @ChribHibble: It's Helen from Accounts' last day today. She's baked THREE different kinds of cakes. Tim Sherwood is bookies' favourite t…", :followers=>582, :user_id=>14261549, :retweet=>1}
+{:name=>"@Onemryeboah", :text=>"RT @SoccerNewsFeed: Reports are suggesting Aston Villa will appoint former Tottenham head coach Tim Sherwood as their new manager... http:/…", :followers=>555, :user_id=>196129693, :retweet=>2}
+{:name=>"@kerem_keles", :text=>"RT @paddypower: Tim Sherwood has been favourite for a lot of things this season, let's have a recap... http://t.co/mdocyNWaqZ", :followers=>504, :user_id=>290580403, :retweet=>450}
+{:name=>"@petedowny", :text=>"@GaryLineker @StanCollymore .. job goin @ ours as coach driver word is Tim Sherwood is in the runnin to get it 😊😁", :followers=>31, :user_id=>87308097, :retweet=>0}

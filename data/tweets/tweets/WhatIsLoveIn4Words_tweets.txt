@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {:name=>"@IfSamCann", :text=>"RT @EvanEdinger: #WhatIsLoveIn4Words baby don't hurt me", :followers=>157, :user_id=>521828995, :retweet=>160}
 {:name=>"@STUD6699", :text=>"L - Lousy\nO- Overreacting\nV- Volatile\nE- Emotions\n\n#WhatIsLoveIn4Words", :followers=>190, :user_id=>185230595, :retweet=>0}
 {:name=>"@PW_Fox92", :text=>"If this will happen... :D #WhatIsLoveIn4Words http://t.co/81N18vmPE8", :followers=>607, :user_id=>198112276, :retweet=>0}
@@ -98,3 +99,105 @@
 {:name=>"@Valle_munecko", :text=>"RT @bhskaylamcm: Me, you, and puppies #WhatIsLoveIn4Words", :followers=>373, :user_id=>1240677313, :retweet=>1}
 {:name=>"@PreddiieMe", :text=>"I got some food RT @Jas_O_Mine13: I brought you food* RT @SKTV_: #WhatIsLoveIn4Words I appreciate your butt", :followers=>1289, :user_id=>103474665, :retweet=>0}
 {:name=>"@hilsholts", :text=>"#WhatIsLoveIn4Words Quincy, Ivy, Gforce, FAMILY", :followers=>57, :user_id=>580122472, :retweet=>0}
+=======
+{:name=>"@itsSafyah", :text=>"@WalkingDead_AMC released new episode #WhatIsLoveIn4Words", :followers=>71, :user_id=>923908518, :retweet=>0}
+{:name=>"@amazing_hannah_", :text=>"#WhatIsLoveIn4Words panic at the disco", :followers=>124, :user_id=>1209796604, :retweet=>0}
+{:name=>"@LeVivarTrujillo", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>292, :user_id=>273806664, :retweet=>17}
+{:name=>"@Tea_HugInACup", :text=>"RT @callmesquintern: #WhatIsLoveIn4Words JISBON GETTING MARRIED, BABE(this is love bitch) ahahahhaha", :followers=>153, :user_id=>2247434528, :retweet=>1}
+{:name=>"@kayygee88", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>393, :user_id=>44461360, :retweet=>37}
+{:name=>"@ashleyxox77", :text=>"RT @MNNPets: Being their forever home. #WhatIsLoveIn4Words http://t.co/230ryQLYyx @bestfriends http://t.co/7lBvh3YlLu", :followers=>48, :user_id=>490912732, :retweet=>16}
+{:name=>"@eatmythoughtsss", :text=>"#WhatIsLoveIn4Words bullshitty ass fucking lies", :followers=>2703, :user_id=>23168363, :retweet=>0}
+{:name=>"@itsannafarida", :text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :followers=>1081, :user_id=>994918147, :retweet=>322}
+{:name=>"@bridgitftmoney", :text=>"RT @Toblerone: Saved you a triangle #WhatIsLovein4Words http://t.co/Nw6wcmYN47", :followers=>908, :user_id=>2721969163, :retweet=>1}
+{:name=>"@LukeMaunder_", :text=>"RT @carling: Weekend. Friends. Pub. Carling #WhatIsLoveIn4Words http://t.co/ebLIJseRS2", :followers=>108, :user_id=>2497151822, :retweet=>4}
+{:name=>"@JudyKnows", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>38, :user_id=>263242162, :retweet=>17}
+{:name=>"@_BasedTeuvo", :text=>"I'm a Blackhawks fan #WhatIsLoveIn4Words", :followers=>2728, :user_id=>152295819, :retweet=>0}
+{:name=>"@steffymunch", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>328, :user_id=>372953935, :retweet=>17}
+{:name=>"@WestMidlandsUTD", :text=>"RT @MUFCNewsUK: #LVG [#VanGaal] “shocked” by performance | #MUFC #Edinburgh | #ChapelHillShooting #WhatIsLoveIn4Words http://t.co/PUCtPfpvE0", :followers=>977, :user_id=>2868336800, :retweet=>4}
+{:name=>"@MUFCLancashire", :text=>"RT @MUFCNewsUK: #LVG [#VanGaal] “shocked” by performance | #MUFC #Edinburgh | #ChapelHillShooting #WhatIsLoveIn4Words http://t.co/PUCtPfpvE0", :followers=>927, :user_id=>2865281276, :retweet=>4}
+{:name=>"@LollyUnicorn", :text=>"#WhatIsLoveIn4Words I've never experienced it. #aloneforever", :followers=>27, :user_id=>2817413238, :retweet=>0}
+{:name=>"@DschuungelKind", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>357, :user_id=>1879342842, :retweet=>17}
+{:name=>"@Sweetest_Lovs", :text=>"THE GAME IS ON #WhatIsLoveIn4Words", :followers=>1770, :user_id=>1293563456, :retweet=>0}
+{:name=>"@Aeollon", :text=>"#WhatIsLoveIn4Words Baby don't hurt me.", :followers=>51, :user_id=>1227044994, :retweet=>0}
+{:name=>"@brenden_cotter", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>189, :user_id=>2298358529, :retweet=>37}
+{:name=>"@littlehagerich", :text=>"RT @ChevyLife: You can sit shotgun #WhatIsLoveIn4Words", :followers=>383, :user_id=>424687301, :retweet=>59}
+{:name=>"@MichaelJames217", :text=>"Diligence. Patience. Respect. Reciprocity. #WhatIsLoveIn4Words", :followers=>474, :user_id=>1616865230, :retweet=>0}
+{:name=>"@TheCherryMartin", :text=>"Love is finding the one 12 feet away\nhttp://t.co/OvLJ1KXlYK #WhatIsLoveIn4Words http://t.co/S8XI160ZJ7", :followers=>614, :user_id=>113667893, :retweet=>0}
+{:name=>"@cha_etc", :text=>"RT @Lillysteria: #WhatIsLoveIn4Words \nmenu\nmaxi\nbest \nof", :followers=>51, :user_id=>1392579336, :retweet=>30}
+{:name=>"@shivam120894", :text=>"Flame-grilled Peri-Peri chicken!  #WhatIsLoveIn4Words", :followers=>245, :user_id=>1116550087, :retweet=>0}
+{:name=>"@Shayne_afc", :text=>"\"@peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/KuAkldlUNF\"\n\nAnd in 4 letters... Amen.", :followers=>3778, :user_id=>351581708, :retweet=>0}
+{:name=>"@garyswine", :text=>"#CraftBeer Thursdays tonight! #WhatIsLoveIn4Words @TheAbitaBeer http://t.co/OJctr3raUr", :followers=>2925, :user_id=>17328736, :retweet=>0}
+{:name=>"@now_content", :text=>"Whaaat ?? #whatislovein4words http://t.co/SefLwnUdoH #breaktheinternet #now #trendingcontentnow #mustread #now #tcn", :followers=>384, :user_id=>2828921332, :retweet=>0}
+{:name=>"@HahaShainas", :text=>"Pizza  #WhatIsLoveIn4Words", :followers=>367, :user_id=>1569133914, :retweet=>0}
+{:name=>"@doubletreeleeds", :text=>"RT @CityCafeLeeds: Passion*Inspiration*Dedication*Hospitality #WhatIsLoveIn4Words @doubletreeleeds #doubletreets http://t.co/EqKha4sxOX", :followers=>1286, :user_id=>277001810, :retweet=>1}
+{:name=>"@NowThatsCollege", :text=>"The final is optional. #WhatIsLoveIn4Words", :followers=>30037, :user_id=>230889304, :retweet=>1}
+{:name=>"@Ignite_2_eXcite", :text=>"What's  your regular corner? #WhatIsLoveIn4Words", :followers=>576, :user_id=>2392698877, :retweet=>0}
+{:name=>"@AnnaGreer3", :text=>"Can't wait for #GOT Returning!!!  @GoT_Tyrion @GameOfThrones #WhatIsLoveIn4Words http://t.co/g6egjslU1n", :followers=>172, :user_id=>509173553, :retweet=>0}
+{:name=>"@LSChin69", :text=>"#WhatIsLoveIn4Words when you have pizzas", :followers=>156, :user_id=>521330516, :retweet=>0}
+{:name=>"@mwarrilow", :text=>"RT @BDCH: #WhatIsLoveIn4Words - rescuing a homeless animal http://t.co/SvNNifFBmy http://t.co/ET3IQRzkyt", :followers=>661, :user_id=>37643666, :retweet=>21}
+{:name=>"@Mistah_Adrian", :text=>"When people ask me what I'm doing for Valentine's Day #WhatIsLoveIn4Words http://t.co/ZDdcqYMzze", :followers=>151, :user_id=>210262349, :retweet=>0}
+{:name=>"@inXwords", :text=>"#WhatIsLoveIn4Words\nNothing could be seen.", :followers=>23, :user_id=>3001055987, :retweet=>0}
+{:name=>"@manutdeal", :text=>"RT @MUFCNewsUK: #LVG [#VanGaal] “shocked” by performance | #MUFC #Edinburgh | #ChapelHillShooting #WhatIsLoveIn4Words http://t.co/PUCtPfpvE0", :followers=>1026, :user_id=>2870256649, :retweet=>4}
+{:name=>"@realynna", :text=>"#WhatIsLoveIn4Words  = \"you know its you\" ;) lol don't asked me a stupid question :) , haha yiieehh\n\n#HAPPYSaValentines  ;)", :followers=>141, :user_id=>2500618736, :retweet=>0}
+{:name=>"@DINForums", :text=>"DIN 4 #WhatIsLoveIn4Words GO -&gt; http://t.co/F58ZpWKmb3", :followers=>24, :user_id=>2360017326, :retweet=>0}
+{:name=>"@SarahGrahamUK", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>866, :user_id=>370777134, :retweet=>17}
+{:name=>"@redEYEDmonst3r", :text=>"RT @LouboutinWorld: Any pair. You pick. #WhatIsLoveIn4Words http://t.co/EwcHlBVu5a", :followers=>472, :user_id=>22363895, :retweet=>744}
+{:name=>"@WhoDiss", :text=>"I wont pull out #WhatIsLoveIn4Words", :followers=>407, :user_id=>17663965, :retweet=>0}
+{:name=>"@Lau_HDB", :text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :followers=>250, :user_id=>2201695298, :retweet=>322}
+{:name=>"@BradsAfroHair", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>1126, :user_id=>2567335092, :retweet=>17}
+{:name=>"@giuvalentino", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>334, :user_id=>388410299, :retweet=>17}
+{:name=>"@IAmKurtacus", :text=>"#WhatisLoveIn4Words Everything For The Union", :followers=>362, :user_id=>532262107, :retweet=>0}
+{:name=>"@ThePEAK", :text=>"#WhatIsLoveIn4Words\n\n@Sonia_Sidhu says \"No Makeup And Sweats\"\n\nJoin the conversation. 604.280.1027", :followers=>25298, :user_id=>17237095, :retweet=>0}
+{:name=>"@Andrea_RiveraC", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>195, :user_id=>144702713, :retweet=>17}
+{:name=>"@angelafaithhhhh", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>472, :user_id=>185025192, :retweet=>37}
+{:name=>"@ben_dubow", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>263, :user_id=>1708832749, :retweet=>37}
+{:name=>"@KrashniyNayk", :text=>"#WhatIsLoveIn4Words Winter Soldier's toy soldier.", :followers=>86, :user_id=>2729791993, :retweet=>0}
+{:name=>"@YHACambridge", :text=>"not-for-profit-organisation  #WhatIsLoveIn4Words @YHAOfficial #ValentinesDay", :followers=>206, :user_id=>733335638, :retweet=>0}
+{:name=>"@Paradoxopus", :text=>"#WhatIsLoveIn4Words My Girlfriend's Adorable Smile &lt;3 I love you @ladybugg2599", :followers=>58, :user_id=>594799000, :retweet=>0}
+{:name=>"@ellie_38_", :text=>"Hockey. Hockey. Hockey. Hockey. #WhatIsLoveIn4Words", :followers=>367, :user_id=>179551384, :retweet=>0}
+{:name=>"@mel_domine", :text=>"#WhatIsLoveIn4Words I'm an intersectional feminist", :followers=>112, :user_id=>2493376196, :retweet=>0}
+{:name=>"@MWorobey", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>183, :user_id=>329939435, :retweet=>37}
+{:name=>"@Toblerone", :text=>"Saved you a triangle #WhatIsLovein4Words http://t.co/Nw6wcmYN47", :followers=>18351, :user_id=>26101062, :retweet=>1}
+{:name=>"@yo_mariahx", :text=>"#WhatIsLoveIn4Words Passing. My. Final. Today.", :followers=>636, :user_id=>2365238964, :retweet=>0}
+{:name=>"@crazy_milly", :text=>"RT @iExistStyles: A One Direction concert\n\n#WhatIsLoveIn4Words http://t.co/HE00BIRgsl", :followers=>964, :user_id=>2179461738, :retweet=>108}
+{:name=>"@SUCKMYSPIDERDIC", :text=>"RT @FredMonti: #WhatIsLoveIn4Words I Like Big Butts", :followers=>1442, :user_id=>2743678871, :retweet=>1}
+{:name=>"@matszucc", :text=>"I like the Rangers #WhatIsLoveIn4Words", :followers=>229, :user_id=>2327689536, :retweet=>0}
+{:name=>"@paulynbarbara", :text=>"#WhatIsLoveIn4Words just you and me ^^", :followers=>157, :user_id=>2963271107, :retweet=>0}
+{:name=>"@gchahal", :text=>"RT @Gravity4: \"High-Frequency Marketing OS” \n\n#WhatIsLoveIn4Words", :followers=>137740, :user_id=>14372104, :retweet=>2}
+{:name=>"@managernik", :text=>"RT @Gravity4: \"High-Frequency Marketing OS” \n\n#WhatIsLoveIn4Words", :followers=>3607, :user_id=>629844555, :retweet=>2}
+{:name=>"@STS_Lucky", :text=>"RT @Frozen_April: #WhatIsLoveIn4Words\nTom\nBill\nGeorg \nGustav http://t.co/mHxyaR5KLD", :followers=>210, :user_id=>277568596, :retweet=>1}
+{:name=>"@anjarosamh", :text=>"#WhatIsLoveIn4Words  \"Hey, good morning beautiful\"", :followers=>74, :user_id=>177661631, :retweet=>0}
+{:name=>"@craigcurtis87", :text=>"RT @LylesBBQCo: BBQ, Barbecue, Barbeque, Barbacoa #WhatIsLoveIn4Words http://t.co/hdmERW6PQn", :followers=>72, :user_id=>280282458, :retweet=>2}
+{:name=>"@betterxway", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>226, :user_id=>2513983843, :retweet=>37}
+{:name=>"@SandraElaineSco", :text=>"Mañana Starts Today! Today I Dare To Be The Person I Want To Be! #affirmation #WhatMattersMost #WhatILearnedToday #WhatIsLoveIn4Words", :followers=>686, :user_id=>288243443, :retweet=>0}
+{:name=>"@MSandy99", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>777, :user_id=>2357349794, :retweet=>17}
+{:name=>"@Sweetest_Lovs", :text=>"Long As Your Happy  #WhatIsLoveIn4Words", :followers=>1770, :user_id=>1293563456, :retweet=>0}
+{:name=>"@b_e_a_m_75", :text=>"RT @ALDF: Lawsuits that liberate animals! http://t.co/C7uuFgnXWD  #WhatIsLoveIn4Words", :followers=>286, :user_id=>2534685513, :retweet=>18}
+{:name=>"@Harrehstahhp", :text=>"RT @Applebees: These Mozzarella Cheese Sticks.\n\n#WhatIsLoveIn4Words http://t.co/L42zVurAOr", :followers=>801, :user_id=>1284826952, :retweet=>180}
+{:name=>"@bremcclan", :text=>"RT @relaine98: #WhatIsLoveIn4Words Jesus Christ Rose Again", :followers=>462, :user_id=>559813896, :retweet=>1}
+{:name=>"@NQureshi_", :text=>"RT @heaather_Xo: #WhatIsLoveIn4Words pizza, pizza, pizza, pizza", :followers=>174, :user_id=>404455936, :retweet=>1}
+{:name=>"@Denny0407S", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>1206, :user_id=>2522921341, :retweet=>17}
+{:name=>"@casey97a", :text=>"RT @BDCH: #WhatIsLoveIn4Words - rescuing a homeless animal http://t.co/SvNNifFBmy http://t.co/ET3IQRzkyt", :followers=>310, :user_id=>1931925044, :retweet=>21}
+{:name=>"@SKDellea", :text=>"RT @ReesesPBCups: Chocolate and Peanut Butter. #WhatIsLoveIn4Words http://t.co/EW1g9VoyGC", :followers=>5, :user_id=>2992902351, :retweet=>190}
+{:name=>"@Gravity4", :text=>"\"High-Frequency Marketing OS” \n\n#WhatIsLoveIn4Words", :followers=>445, :user_id=>2544146022, :retweet=>2}
+{:name=>"@Rumohr_hasit", :text=>"RT @ISU_CoB: You got an A! #WhatIsLoveIn4Words http://t.co/cDVcbQ5SiW", :followers=>474, :user_id=>230637190, :retweet=>2}
+{:name=>"@SortaKavan", :text=>"RT @AgnesOblige8: #WhatIsLoveIn4Words Pizza, anime, pajamas, bed. :3", :followers=>107, :user_id=>546426471, :retweet=>1}
+{:name=>"@ehitskay", :text=>"RT @McDonalds: Here, have some fries. #WhatIsLoveIn4Words http://t.co/jFEA54HLiT", :followers=>298, :user_id=>159998403, :retweet=>322}
+{:name=>"@bogi_niall", :text=>"Caspar, Jacksgap, 1D, Pizza ❤️\n\n#WhatIsLoveIn4Words", :followers=>1388, :user_id=>2283570138, :retweet=>0}
+{:name=>"@EmilieEYonan", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>273, :user_id=>380690736, :retweet=>37}
+{:name=>"@JaredMF10", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>98, :user_id=>162751074, :retweet=>37}
+{:name=>"@birchylufc", :text=>"RT @carling: Weekend. Friends. Pub. Carling #WhatIsLoveIn4Words http://t.co/ebLIJseRS2", :followers=>537, :user_id=>371907125, :retweet=>4}
+{:name=>"@CarolinaBess", :text=>"RT @peta: #WhatIsLoveIn4Words: Thanks for rescuing me ❤️ http://t.co/YDMvznDoss", :followers=>43, :user_id=>351312388, :retweet=>17}
+{:name=>"@eileenmclaren", :text=>"RT @BDCH: #WhatIsLoveIn4Words - rescuing a homeless animal http://t.co/SvNNifFBmy http://t.co/ET3IQRzkyt", :followers=>21, :user_id=>229779850, :retweet=>21}
+{:name=>"@Frozen_April", :text=>"#WhatIsLoveIn4Words\nTom\nBill\nGeorg \nGustav http://t.co/mHxyaR5KLD", :followers=>877, :user_id=>305512965, :retweet=>1}
+{:name=>"@katiewasherexox", :text=>"RT @iExistStyles: Fangirling with no regrets \n\n#WhatIsLoveIn4Words http://t.co/r2ECIzg1ZG", :followers=>369, :user_id=>2552928013, :retweet=>194}
+{:name=>"@JestemBogiem_", :text=>"RT @NarryMyDream: It's in their eyes #WhatIsLoveIn4Words http://t.co/UCmJgk5UXb", :followers=>58, :user_id=>2787879094, :retweet=>159}
+{:name=>"@asjel", :text=>"#WhatIsLoveIn4Words Love is like the... (4 words lang daw eh.)", :followers=>307, :user_id=>59110524, :retweet=>0}
+{:name=>"@faisalkhan22", :text=>"#MuslimLivesMatter #MiMejorFraseEs get computer,social media hacking tricks and news at http://t.co/WUqxtgldv1 #WhatIsLoveIn4Words", :followers=>23, :user_id=>99902188, :retweet=>0}
+{:name=>"@Baileywood88", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>237, :user_id=>46665174, :retweet=>37}
+{:name=>"@JDejuan2", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>600, :user_id=>347685889, :retweet=>37}
+{:name=>"@hoseokiee", :text=>"Jung ho seok baby #WhatIsLoveIn4Words", :followers=>2729, :user_id=>2260129878, :retweet=>0}
+{:name=>"@JestemBogiem_", :text=>"RT @JaeStyles1994: “@NarryMyDream: It's in their eyes #WhatIsLoveIn4Words http://t.co/Lrm18mznrO”", :followers=>58, :user_id=>2787879094, :retweet=>1}
+{:name=>"@PooHMema", :text=>"RT @Im_WinnieDPooH: #WhatIsLoveIn4Words\n\n1. Pizza\n2. Coke\n3. Xbox\n4. Fifa 15 \n\n😁😂😀", :followers=>130, :user_id=>2959695409, :retweet=>2}
+{:name=>"@mathmagician91", :text=>"RT @NHLonNBCSports: Hockey. Hockey. Hockey. Hockey.\n\n#WhatIsLoveIn4Words", :followers=>285, :user_id=>592817504, :retweet=>37}
+>>>>>>> 2d7e79ba0871865992a30d562b36c7cf64cb451b

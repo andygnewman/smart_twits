@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 {:name=>"@fashionising", :text=>"RT @maybebycatalfo: We're loving this hairspiration! '5 Romantic Hairstyles to Try for #ValentinesDay'! via @fashionising #fashionblog http…", :followers=>38835, :user_id=>2400581, :retweet=>1}
 {:name=>"@M4ttr1987", :text=>"RT @SilverlineTools: We'll be announcing the winner of our #ValentinesDay competition today! FOLLOW &amp; RT by 4pm to enter! #WIN http://t.co/…", :followers=>35234, :user_id=>592222488, :retweet=>485}
 {:name=>"@uofcincy", :text=>"Need a last-minute #ValentinesDay gift? Buy ceramics @UC_DAAP cafe. #UCLove http://t.co/Juy2A38aVh", :followers=>27338, :user_id=>347974719, :retweet=>0}
 {:name=>"@findsfromyester", :text=>"RT @fieldsofvintage: #vogueteam #jewelry #etsy #statweestics http://t.co/xhDMlJZiYL  #ValentinesDay #ValentinesDayGiftIdeas #Valentine http…", :followers=>23631, :user_id=>948070074, :retweet=>1}
 {:name=>"@ColumbiaUP", :text=>"Natalie Berkowitz, author of THE WINEMAKER'S HAND, gives some #ValentinesDay tips for pairing #wine and #chocolate! http://t.co/8OHtwgIZWN", :followers=>20410, :user_id=>19692478, :retweet=>1}
+=======
+{:name=>"@gardenofliferaw", :text=>"@King__Lou I just melted!!! :) #ValentinesDay", :followers=>259668, :user_id=>15235948, :retweet=>0}
+{:name=>"@GhaflaKenya", :text=>"#WordIs Comedian @ErickOmondi is Torn Between #ValentinesDay with #HuddahMonroe or This #SexyPrettyMammy #untamed\nhttp://t.co/rtovZ8y7j5", :followers=>115947, :user_id=>93619360, :retweet=>0}
+{:name=>"@GhaflaKenya", :text=>"Get Your Tickets Now_Crazy Weekend With @KlintTheDrunk  Live #ValentinesDay @NOTL_Ke #NiteOfRoses \nhttp://t.co/f9vGQh7XxO\n@tomisothedeejay", :followers=>115947, :user_id=>93619360, :retweet=>0}
+{:name=>"@Tearoze", :text=>"RT @CNJohansens: Are you in #Bali for #ValentinesDay? Head to @fc_bali for a wonderful romance package including Balinese tasting menu http…", :followers=>77858, :user_id=>34722352, :retweet=>2}
+{:name=>"@Tearoze", :text=>"RT @CNJohansens: Pamper yourself in Nha Trang for #ValentinesDay. Detox with a 3-step relaxation package feat. massage, facial &amp; scrub http…", :followers=>77858, :user_id=>34722352, :retweet=>2}
+>>>>>>> 2d7e79ba0871865992a30d562b36c7cf64cb451b

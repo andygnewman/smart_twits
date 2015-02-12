@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 {:name=>"@HumanityNews", :text=>"News:  Moscow Muslims Want To Use Trailers As 'Mobile' Mosques http://t.co/w28dKnSRE0", :followers=>25538, :user_id=>69533246, :retweet=>0}
 {:name=>"@bettywaitherero", :text=>"atheists pls pick a struggle. Either the guy was mentally ill incited by atheism and killed MUSLIMS or he was a sane and hateful atheist.", :followers=>11316, :user_id=>77959028, :retweet=>0}
 {:name=>"@ProudPatriot101", :text=>"RT @epodmedia: @citysue1 @ProudPatriot101 Muslims are experts at turning it to \"poor us\" fuck Mohammad fuck Allah. get the fuck out of out …", :followers=>8286, :user_id=>277125802, :retweet=>3}
 {:name=>"@buell003", :text=>"RT @AJENews: Opinion: #ChapelHillshooting &amp; Western media. Religion only an issue when Muslims are shooters http://t.co/72zwNxgroy http://t…", :followers=>7145, :user_id=>49157283, :retweet=>4497}
 {:name=>"@Scgator1414", :text=>"@Naveedrahman15R @jthomas309 Really? Then why the uproar against the USA by all the Muslims?", :followers=>6124, :user_id=>2773068746, :retweet=>0}
+=======
+{:name=>"@hxhassan", :text=>"Muslims, Marriage and Bigotry http://t.co/nCRw5ofBmQ", :followers=>21310, :user_id=>23330998, :retweet=>0}
+{:name=>"@hkTjee", :text=>"\"Muslims\" is in list of London trends yet still don't know is it good or bad.", :followers=>19979, :user_id=>486288760, :retweet=>0}
+{:name=>"@caseyttha", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>19078, :user_id=>2653468754, :retweet=>41}
+{:name=>"@marac00per", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>18817, :user_id=>2798748398, :retweet=>41}
+{:name=>"@anissira", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>18384, :user_id=>2778043482, :retweet=>41}
+>>>>>>> 2d7e79ba0871865992a30d562b36c7cf64cb451b
