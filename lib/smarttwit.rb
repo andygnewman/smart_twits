@@ -10,7 +10,8 @@ class SmartTwit < Sinatra::Base
 
   get '/' do
     trends = freq.read_file('./data/trends/toptrends.txt')
-    @trends_list = trends.map{|el| el[:name]}
+    @trends_list = []
+    trends.map{|el| @trends_list << [el[:name], el[:filename]]}
     erb :trends
   end
   
@@ -19,9 +20,9 @@ class SmartTwit < Sinatra::Base
     words = words_array.map{|el| el[:text]}
     @words = freq.find_top_results(20, words)
 
-    retwit_array = freq.read_file("./data/tweets/retweeted/#{params[:trend]}_tweets_retweeted.txt")
-    @retweets = []
-    retwit_array.map{|el| @retweets << [el[:text], el[:retweet]]}
+    # retwit_array = freq.read_file("./data/tweets/retweeted/#{params[:trend]}_tweets_retweeted.txt")
+    # @retweets = []
+    # retwit_array.map{|el| @retweets << [el[:text], el[:retweet]]}
 
     followers_array = freq.read_file("./data/tweets/followers/London_tweets_followers.txt")
     @followers = []

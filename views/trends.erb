@@ -6,7 +6,7 @@
   <body>
     <ul>
       <% @trends_list.each do |trend| %>
-        <li><a href="/trends<%= trend %>"><%= trend %></a></li>
+        <li><a href="/trends<%= trend[1] %>"><%= trend[0] %></a></li>
       <% end %>
     </ul>
  
