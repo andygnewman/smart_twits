@@ -1,5 +1,0 @@
-{:text=>"Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after the club dropped into the Prem... http://t.co/cabgogoKga", :followers=>40224, :user_id=>87728784, :retweet=>0}
-{:text=>"@info -  Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert", :followers=>37601, :user_id=>15503908, :retweet=>0}
-{:text=>"#OperacaoBetaLab Lambert sacked by struggling Villa: Aston Villa sack manager Paul Lambert after... http://t.co/AszE8NpCKE #SDV #TIMBETA", :followers=>21038, :user_id=>1496212820, :retweet=>0}
-{:text=>"RT @SkySportsNewsHQ: BREAKING: Aston Villa sack Paul Lambert. More here: http://t.co/7iTLOpHjBl #SSNHQ", :followers=>15468, :user_id=>1687108614, :retweet=>1492}
-{:text=>"Sulit Cetak Gol, Aston Villa Resmi Pecat Paul Lambert: Aston Villa resmi memecat sang manajer, Paul Lambert. http://t.co/5qmRw7Nkyv", :followers=>4169, :user_id=>109022466, :retweet=>0}

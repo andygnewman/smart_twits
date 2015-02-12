@@ -1,5 +1,0 @@
-{:text=>"Mary Berry: \"It's not strong of chocolate\"\nTranslation: \"Where the hell is the chocolate?! Get out of the tent NOW!\"\n#GBBOComicRelief", :followers=>651405, :user_id=>871686942, :retweet=>5}
-{:text=>"We think everyone's cakes were fabulous - whoever wins! #GBBOComicRelief", :followers=>18229, :user_id=>91190827, :retweet=>0}
-{:text=>"RT @ZozeeBo: Dame Edna 👌 #GBBOComicRelief", :followers=>8758, :user_id=>183241435, :retweet=>856}
-{:text=>"Winter Wonderland #GBBOComicRelief http://t.co/GJG6mMUIj7", :followers=>4524, :user_id=>251525720, :retweet=>0}
-{:text=>"Loving the #GBBOComicRelief. If this doesn't make you want to organise a bake sale for @rednoseday I don't know what will!", :followers=>4518, :user_id=>346014393, :retweet=>0}

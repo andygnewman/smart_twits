@@ -1,5 +1,0 @@
-{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/4NG72H0c14", :followers=>28994, :user_id=>311307959, :retweet=>0}
-{:text=>"Not sure why everyone having a go at Evans. His passing tonight has been consistent. Just consistently to a Burnley player #MUFC", :followers=>23860, :user_id=>2505732606, :retweet=>14}
-{:text=>"RT @BookieBashers_: *MASSIVE ODDS EXCLUSIVE*\n\n#MUFC To Beat #BURNLEY @ 6/1 (NORMALLY 1/4)\n\nBONUS CODE:  MUBURN\n\n&gt;&gt; http://t.co/ZlpuFju5JX h…", :followers=>22568, :user_id=>2982273674, :retweet=>7}
-{:text=>"Drama Tiga Gol Warnai Babak Pertama MU vs Burnley http://t.co/B4NF7pS2Uq", :followers=>12043, :user_id=>1001889529, :retweet=>0}
-{:text=>"\"Burnley\" is now trending at rank 4 in India", :followers=>11213, :user_id=>2789640931, :retweet=>0}

@@ -1,0 +1,5 @@
+{:text=>"RT @ManUtd: Retweet to vote for Chris Smalling as #mufc’s Man of the Match vs Burnley. http://t.co/QECalQoLyc", :retweet=>6413}
+{:text=>"RT @ManUtd: 6' - Goal! Smalling scores with his first touch - unbelievable! United 1 Burnley 0. #mufclive", :retweet=>2800}
+{:text=>"RT @ManUtd: 45+3' - Goal! Smalling scores again! United 2 Burnley 1. #mufclive", :retweet=>2267}
+{:text=>"RT @ManUtd: Congratulations to goalscorer Chris Smalling after he was voted #mufc’s Man of the Match vs Burnley. http://t.co/snlZXVsLNw", :retweet=>2237}
+{:text=>"RT @ManUtd: United subs: Valdes, Smalling, Valencia, Fellaini, Herrera, Mata, Wilson.", :retweet=>2150}

@@ -1,0 +1,5 @@
+{:text=>"RT @DoronSalomon: Martin Keown says van Gaal should pick his \"best players first\" because Smalling came off the bench to score twice. Haha,…", :retweet=>71}
+{:text=>"RT @Vine_Football: Martin Keown must bloody love Chris Smalling. http://t.co/eMyjhKIjDz", :retweet=>31}
+{:text=>"RT @SportPsychPaulR: Interesting perspective MOTDs Martin Keown on morality in sport. Luckily able to take the moral high ground @BBCSport …", :retweet=>21}
+{:text=>"Interesting perspective MOTDs Martin Keown on morality in sport. Luckily able to take the moral high ground @BBCSport http://t.co/vyB9m2nJm9", :retweet=>21}
+{:text=>"RT @theMUFCbible: Martin Keown critisicing Van Gaal for starting Smalling on the bench because then he comes on &amp; scores twice.Grow up you …", :retweet=>20}

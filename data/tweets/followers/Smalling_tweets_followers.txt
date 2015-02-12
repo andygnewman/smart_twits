@@ -1,0 +1,5 @@
+{:name=>"@ISL_Mania", :text=>"RT @SCORE__FOOTBALL: FT: Man United [3-1] Burnley || Gol: Smalling 6', 45', Van Persie pen 82' ■ Ings 12' || #BPL", :followers=>38963, :user_id=>1067637644, :retweet=>10}
+{:name=>"@beritabolaku", :text=>"bola: Jadi Pahlawan Dua Gol Untuk MU, Ini Kata Smalling: Tampil sebagai pemain pengganti Phil Jones yang ceder... http://t.co/SoGiA9HAts", :followers=>24557, :user_id=>91553685, :retweet=>0}
+{:name=>"@Emiearth", :text=>"The Morning after Chris Smalling scored a brace is this superb human birthday @K1Says . \n#PartyLikeARockStar🎂 http://t.co/bJGyYlFutG", :followers=>19410, :user_id=>83651066, :retweet=>0}
+{:name=>"@Scholesy_Giggsy", :text=>"Chris Smalling is the first player in the history of the @PremierLeague to score a first half brace as a substitute.", :followers=>12190, :user_id=>439060497, :retweet=>6}
+{:name=>"@trendinaliaKE", :text=>"1. Smalling\n2. Herrera\n3. Valentines Day\n4. Van Gaal\n5. Willian\n\n2015/2/12 11:49 EAT #trndnl2015 http://t.co/6AyDQDZQ89", :followers=>9867, :user_id=>1409839502, :retweet=>0}

@@ -1,5 +1,0 @@
-{:text=>"RT @RadioTimes: Jennifer Saunders has never baked a cake... #ComicReliefBakeOff tonight...@ferrifrump http://t.co/oWMdrDTIDD http://t.co/NR…", :followers=>419, :user_id=>48647196, :retweet=>9}
-{:text=>"RT @RadioTimes: Jennifer Saunders has never baked a cake... #ComicReliefBakeOff tonight...@ferrifrump http://t.co/oWMdrDTIDD http://t.co/NR…", :followers=>1221, :user_id=>19859318, :retweet=>9}
-{:text=>"RT @corrie_corfield: \"Post Apocalyptic Cuisine\" courtesy of Dame Edna. That's next year's Christmas Non Fiction best seller. #ComicReliefBa…", :followers=>833, :user_id=>22399123, :retweet=>3}
-{:text=>"RT @DarrenMcMahon54: I can see myself being hungover in 10 years time, and looking this up on YouTube to cheer myself up. #ComicReliefBakeO…", :followers=>3236, :user_id=>1209941, :retweet=>2}
-{:text=>"RT @petersykes_: The Sydney Opera House after a nuclear attack #ComicReliefBakeOff !", :followers=>346, :user_id=>50765280, :retweet=>2}

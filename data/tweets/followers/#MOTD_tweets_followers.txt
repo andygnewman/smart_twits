@@ -1,0 +1,5 @@
+{:name=>"@ChelseaStats", :text=>"#look #again #motd #AgainMotdDrinkingGame shots", :followers=>140065, :user_id=>139809966, :retweet=>1}
+{:name=>"@Wagershare", :text=>"Sign Up for a £25 Free Bet from #Ladbrokes -Click Here Get Yours http://t.co/IB9sxXwjnO #twitter92 #freebetclub #freebet #motd", :followers=>26642, :user_id=>1691754961, :retweet=>0}
+{:name=>"@smtmLFC", :text=>"Mourinho Walks Out Of MOTD Interview  [11.02.2015]: http://t.co/NjosIBHFmO #CFC #Chelsea #Mourinho #MOTD #Pearce", :followers=>23296, :user_id=>174702826, :retweet=>6}
+{:name=>"@BestGamezUp", :text=>"RT @Freebetnow: Great New Deal from #SkyBet Bet £5 get £20 Free Click Here&gt;&gt; http://t.co/vMvq17yezX #motd #motd2 #supersunday http://t.co/M…", :followers=>21985, :user_id=>268556198, :retweet=>1}
+{:name=>"@Freebetnow", :text=>"Great New Deal from #SkyBet Bet £5 get £20 Free Click Here&gt;&gt; http://t.co/vMvq17yezX #motd #motd2 #supersunday http://t.co/MhzhLsaNN6", :followers=>20541, :user_id=>1399846022, :retweet=>1}

@@ -1,0 +1,5 @@
+{:text=>"RT @Alexis_Sanchez: Going to sleep! Tomorrow those 3 points are coming to London!!! #GUNNERS http://t.co/qmX2hnbhQw", :retweet=>10952}
+{:text=>"RT @Alexis_Sanchez: Beautiful sunny day in London! Thanks for all your messages , see you tomorrow at The Emirates! 😋🐶🐶🏡 http://t.co/xVXvhK…", :retweet=>5359}
+{:text=>"RT @BrooksBeau: This filter makes me look LONDON white and is making me excited for our wembley show:) http://t.co/1GyoYVmjXE", :retweet=>2137}
+{:text=>"RT @tuwithambar: Tunggu iklan TV3, sempat aku makan, mandi, baca satu buku, carik penawar utk penyakit kanser dan gali lubang sampai London.", :retweet=>1996}
+{:text=>"RT @davidguetta: At my favorite studio in london metropolis with martingarrix HIT HIT HIT HIT!!!!! http://t.co/UnIQcAih2g", :retweet=>1200}

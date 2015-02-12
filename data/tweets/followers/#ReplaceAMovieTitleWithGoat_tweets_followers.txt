@@ -1,5 +1,0 @@
-{:text=>"RT @OutfieldMovie: The Goatfield #ReplaceAMovieTitleWithGoat", :followers=>5628, :user_id=>260905241, :retweet=>163}
-{:text=>"RT @joselouis4077: @TheRealElvira Now this movie would be scary! #ReplaceAMovieTitleWithGoat http://t.co/cckBy1Ft1S", :followers=>2810, :user_id=>2229646347, :retweet=>1}
-{:text=>"#ReplaceAMovieTitleWithGoat\nIf you build it, he will goat. http://t.co/if58NxWvT6", :followers=>2400, :user_id=>46745322, :retweet=>0}
-{:text=>"Why? #ReplaceAMovieTitleWithGoat http://t.co/BfjrNzm6Fs", :followers=>1999, :user_id=>2775040478, :retweet=>0}
-{:text=>"RT Nora_McManus: #ReplaceAMovieTitleWithGoat: \"Looking for Mr. Goat-bar\"", :followers=>1982, :user_id=>39609036, :retweet=>0}
