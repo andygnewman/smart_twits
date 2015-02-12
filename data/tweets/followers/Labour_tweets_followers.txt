@@ -1,0 +1,5 @@
+{:name=>"@longsight9a", :text=>"@NewStatesman @georgeeaton Labour's message is systematically blocked by\nBBC vision &amp; radio inc.local radio coupled with black out by PAPERS", :followers=>28331, :user_id=>191383270, :retweet=>0}
+{:name=>"@tesfenews", :text=>"Labour and Lib Dems pledge 16-19 funding protection - but Tories unable to match offer http://t.co/RNkT0z3aBk", :followers=>9836, :user_id=>82889940, :retweet=>0}
+{:name=>"@CllrRenataJones", :text=>"RT CCHQpress \"RT RicHolden: 100% with Conservatives on LCC &amp; call for #CouncilTaxFreeze. We must oppose Labour's p… http://t.co/C3ka4xDG33\"", :followers=>9014, :user_id=>2386774701, :retweet=>0}
+{:name=>"@ProudPatriot101", :text=>"RT @DinoFancellu: @george3612 @ProudPatriot101 No one does shameless quite like Labour. Cons try, but they have to bow to Labour's depth an…", :followers=>8286, :user_id=>277125802, :retweet=>2}
+{:name=>"@chuddles11", :text=>"RT @cmarkevich: .@PierrePoilievre's Promotion Worries Labour http://t.co/Aspp8ReWcT via @TheTyee #cdnpoli #canlab", :followers=>6495, :user_id=>513739938, :retweet=>1}

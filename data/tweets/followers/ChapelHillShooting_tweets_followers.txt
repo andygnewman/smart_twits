@@ -1,5 +1,5 @@
-{:name=>"@SMasoodPk", :text=>"RT @Miirwais: How an American Terrorist looks like \n#ChapelHillShooting http://t.co/eN6DO9f1pU", :followers=>271625, :user_id=>88481422, :retweet=>34}
-{:name=>"@cyanparade", :text=>"RT @moabuobeid: As a human being, I disapprove the killing of a fellow human, regardless of his ethnicity, religion, belief or color.\n#Chap…", :followers=>8212, :user_id=>72073299, :retweet=>14}
-{:name=>"@tarafsiizbolge", :text=>"Beren Saat Dudak Uçuklattı http://t.co/kRlG1qnJe5\n#diyoruzki\n#yerindeolsam\n#ChapelHillShooting http://t.co/dxG2BzC9z5", :followers=>8094, :user_id=>331768225, :retweet=>0}
-{:name=>"@raby_agfarly", :text=>"أجمل24 قصر فى العالم بالصور http://t.co/cQUyYs7vGH\n\na145\n#ChapelHillShooting", :followers=>6591, :user_id=>2305399326, :retweet=>0}
-{:name=>"@salwa_el3sawy", :text=>"RT @FindUsefulinfo: أغذية هامة و مفيدة و تساعد علي تدفئة الجسم في الشتاء http://t.co/aGgmteva8k\n\nhd55\n#ChapelHillShooting", :followers=>6490, :user_id=>2305337245, :retweet=>52}
+{:name=>"@Bipartisanism", :text=>"The only difference between these two is skin color. They are both terrorists. #ChapelHillShooting http://t.co/AcF9af2JtA", :followers=>102318, :user_id=>487600344, :retweet=>0}
+{:name=>"@Almogaz", :text=>"آخرتغريدة لمسلم من المقتولين بأمريكا:محزن أن يدعوأحد لقتل اليهود\nhttp://t.co/U3tFTtHZPi\n#ChapelHillShooting #شابيل_هل http://t.co/wI4S0K7vOA", :followers=>93504, :user_id=>241694977, :retweet=>0}
+{:name=>"@Atlgreekpicnic", :text=>"RT @Bipartisanism: 87% of U.S. mass shooting are committed by caucasians 13-56 but are never called 'Terrorists'. #ChapelHillShooting http:…", :followers=>16583, :user_id=>17183689, :retweet=>76}
+{:name=>"@peggyarnol", :text=>"RT @brownjenjen: » http://t.co/fj6Rbj5wLZ In Chapel Hill Killing of 3 Muslims, a Question of Motive #ChapelHillShooting Deah Shaddy Barakat…", :followers=>10386, :user_id=>2496645174, :retweet=>41}
+{:name=>"@Talal_awad009", :text=>"20 صوره اغرب لحيه فى العالم يحولها صاحبها الى تحف فنية http://t.co/l7Y7fqJGEM\n\npd40\n#ChapelHillShooting", :followers=>9938, :user_id=>2197062422, :retweet=>0}

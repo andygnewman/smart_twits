@@ -1,5 +1,5 @@
-{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>232}
-{:text=>"RT @Channel4News: .@paulmasonnews tries to track down the ex trade minister and  former #HSBC chairman.\nhttp://t.co/r158uWynS3\n#c4news http…", :retweet=>176}
-{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>151}
-{:text=>"RT @billybragg: Prosecute the #HSBC tax dodgers - sign the petition:\nhttps://t.co/n7i4HNR3t5", :retweet=>103}
-{:text=>"RT @LabourEoin: Lord Fink takes back his threat to sue Ed Miliband. Tory attempts to paint Ed Miliband as \"weak\" are looking more silly by …", :retweet=>90}
+{:text=>"RT @paulwaugh: Cameron refusing to answer whether he and Lord Green ever discussed #hsbc and tax in 3 years. Not a good look.", :retweet=>203}
+{:text=>"RT @InformadorVeraz: Hay 1.138 venezolanos con cuentas en el banco suizo #HSBC, pero la Asamblea Nacional niega investigar quienes son y po…", :retweet=>180}
+{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>161}
+{:text=>"RT @Ian_Fraser: Ex HMRC boss Dave Hartnett signed off #HSBCFiles \"dirty deal\" months before joining #HSBC to advise it on honesty http://t.…", :retweet=>161}
+{:text=>"RT @billybragg: Prosecute the #HSBC tax dodgers - sign the petition:\nhttps://t.co/n7i4HNR3t5", :retweet=>107}
