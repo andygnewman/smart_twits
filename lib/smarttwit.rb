@@ -1,12 +1,14 @@
 require 'sinatra/base'
 require_relative 'api_twit'
 require_relative 'Wordfrequency'
+require_relative 'handles'
 
 class SmartTwit < Sinatra::Base
 
   set :views, Proc.new { File.join(root, "..", "views") }
   
   freq = WordFrequency.new
+  handles = Handles.new
 
   get '/' do
     trends = freq.read_file('./data/trends/toptrends.txt')
@@ -16,19 +18,21 @@ class SmartTwit < Sinatra::Base
   end
   
   get '/trends?:trend' do
-    words_array = freq.read_file("./data/tweets/tweets/#{params[:trend]}_tweets.txt")
-    words = words_array.map{|el| el[:text]}
-    @words = freq.find_top_results(20, words)
+    # words_array = freq.read_file("./data/tweets/tweets/#{params[:trend]}_tweets.txt")
+    # words = words_array.map{|el| el[:text]}
+    # @words = freq.find_top_results(20, words)
 
-    # retwit_array = freq.read_file("./data/tweets/retweeted/#{params[:trend]}_tweets_retweeted.txt")
-    # @retweets = []
-    # retwit_array.map{|el| @retweets << [el[:text], el[:retweet]]}
+    # # retwit_array = freq.read_file("./data/tweets/retweeted/#{params[:trend]}_tweets_retweeted.txt")
+    # # @retweets = []
+    # # retwit_array.map{|el| @retweets << [el[:text], el[:retweet]]}
 
-    followers_array = freq.read_file("./data/tweets/followers/London_tweets_followers.txt")
-    @followers = []
-    followers_array.map{|el| @followers << [el[:name], el[:text], el[:followers]]}
+    # followers_array = freq.read_file("./data/tweets/followers/London_tweets_followers.txt")
+    # @followers = []
+    # followers_array.map{|el| @followers << [el[:name], el[:text], el[:followers]]}
 
-    erb :words
+    @mentions = handles.find_top_results(5, "./data/tweets/tweets/#{params[:trend]}_tweets.txt")
+
+    erb :mentions
   end
 
   # start the server if ruby file executed directly
