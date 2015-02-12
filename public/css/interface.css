@@ -2,13 +2,44 @@
 @import url('grid.css');
 
 body {
-    width: 80%;
+    width: 90%;
     height:24em;
     margin-left: auto;
     margin-right: auto;
+    font-family: Lato, Verdana;
+}
+
+.grid {
+  background-color: WhiteSmoke;
 }
 
 h1 {
   margin-top: auto;
   margin-bottom: auto;
+  padding-top: 5%;
+  padding-left: 1%;
+}
+
+#header_right {
+  text-align: right;
+  padding-right: 2%;
+}
+
+#block_right {
+  font-size: 0.45em;
+  padding-left: 1%;
+}
+
+#block_left {
+  font-size: 0.9em;
+  padding-left: 1%;
+}
+
+#block_left p {
+  padding-top: 3%;
+}
+
+p {
+  margin-top: 3px;
+  margin-bottom: 3px;
 }

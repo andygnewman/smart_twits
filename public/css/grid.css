@@ -24,20 +24,19 @@
 /*```````````*/
 [class*='col-'] {
  padding-right: 0px;
- border: 2px solid grey;
 }
 
 /*   WIDTHS   */
 /*```````````*/
-.col-4-12 {
- width: 33.33%;
+.col-2-8 {
+ width: 25%;
 }
 
-.col-8-12 {
- width: 66.66%;
+.col-6-8 {
+ width: 75%;
 }
 
-.col-4-8 {
+.col-3-6 {
  width: 50%;
 }
 
@@ -47,16 +46,15 @@
 
 .row-3-18 {
  height: 16.66%;
- border: 2px solid grey;
+ border: 2px solid white;
 }
 
 .row-5-18 {
- /*height: 27.77%;*/
- height: 6.5em;
- border: 2px solid grey;
+ height: 14.5em;
+ border: 2px solid white;
 }
 
 .row-15-18 {
   height: 83.33%;
-  border: 2px solid grey;
+  border: 2px solid white;
 }
