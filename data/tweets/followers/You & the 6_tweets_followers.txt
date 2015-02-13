@@ -1,3 +1,3 @@
-{:name=>"@DRIZZYFTGRANDE", :text=>"RT @WordOnRd: \"You &amp; The 6\" ...... Shoutout to Mama Graham!", :followers=>8705, :user_id=>1889529601, :retweet=>257}
-{:name=>"@guyjean440", :text=>"TT UK\n10 You &amp; The 6\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/knelnpBMwQ http://t.co/Jb4NFJlGRJ", :followers=>6177, :user_id=>2837580459, :retweet=>1}
-{:name=>"@babydoll_yanaaa", :text=>"you &amp; the 6 raised me right , that shit saved my life 🙌", :followers=>5853, :user_id=>134241566, :retweet=>0}
+{:name=>"@OfficialKojo", :text=>"'You &amp; The 6' by @Drake 👏👏👏👏👏", :followers=>60018, :user_id=>20169712, :retweet=>2}
+{:name=>"@DCBABY", :text=>"Drake - You &amp; The 6 | Up 5:49a #listening", :followers=>19761, :user_id=>242592926, :retweet=>0}
+{:name=>"@DCBABY", :text=>"Got @Drake - You &amp; The 6 on #repeat tho.\n🔥🎶💽💯", :followers=>19761, :user_id=>242592926, :retweet=>0}
