@@ -13,3 +13,4 @@ SmartTwits aims to provide users with information about currently trending tweet
 * trending tweets that originated from media organisations
 
 
+
