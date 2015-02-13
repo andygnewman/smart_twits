@@ -1,1 +1,0 @@
-{"@BBCBreaking"=>[], "@BBCSport"=>[], "@BBCNews"=>[], "@guardian"=>[], "@guardian_sport"=>[], "@guardiannews"=>[], "@MailOnline"=>[], "@Independent"=>[], "@HuffPostUK"=>[], "@SkyNews"=>[]}

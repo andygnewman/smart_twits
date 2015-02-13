@@ -1,3 +1,0 @@
-{:name=>"@supra1Bqteam", :text=>"Fade to Grey: New Romantic pioneer Steve Strange dies. His life in pictures: In pics: A look back at the New R... http://t.co/srMWI9CpdD", :followers=>21512, :user_id=>471342135, :retweet=>0}
-{:name=>"@BINGBINGDELIGHT", :text=>"RT @fail5347: 😔 \"Steve Strange\"  💵 Wall Splits are Impressive http://t.co/3AJpEaEx9a http://t.co/76EfSXQez2", :followers=>19127, :user_id=>2459659441, :retweet=>1486}
-{:name=>"@godisinthetv", :text=>"RIP: Steve Strange http://t.co/KAVLRQuu0g", :followers=>9079, :user_id=>15653762, :retweet=>0}

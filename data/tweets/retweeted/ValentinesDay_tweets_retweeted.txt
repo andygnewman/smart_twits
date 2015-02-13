@@ -1,3 +1,0 @@
-{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>42902}
-{:text=>"RT @ANA_travel_info: フォロー&amp;このツイートをリツイートで抽選で1組2名様に国内線航空券をプレゼント☆ #ANAバレンタイン2015\n詳細は⇒http://t.co/QQsM3QOitA\n#バレンタイン #ValentinesDay http://t.co/…", :retweet=>2232}
-{:text=>"RT @IloveHQ: It's nearly #ValentinesDay and we've got an big bundle of Duo #Love for you! RT+Follow to enter! #Win #FreebieFriday http://t.…", :retweet=>795}

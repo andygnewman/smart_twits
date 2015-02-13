@@ -1,3 +1,3 @@
-{:name=>"@nintendolife", :text=>"You'll never catch me! #SkullKid #MajorasMask3D #Nintendo3DSDay #3DS #Zelda http://t.co/giNzYtcAcs", :followers=>59281, :user_id=>26469931, :retweet=>1}
-{:name=>"@hayleyw1", :text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :followers=>9751, :user_id=>48704562, :retweet=>874}
-{:name=>"@CreativeSTAR", :text=>"RT @GavinJonesLtd: Banging the drum for #forestschools - ditch #Nintendo3DSDay for a bit and get children outdoors #OutdoorFriday http://t.…", :followers=>8795, :user_id=>15705257, :retweet=>1}
+{:name=>"@BalrogGameRoom", :text=>"RT @DaneeBound: american tears are delicious #Notsorry #New3DS #Nintendo3DSDay \n@BalrogGameRoom http://t.co/C3hFDmhTE6", :followers=>11201, :user_id=>461680635, :retweet=>2}
+{:name=>"@trendinaliaGB", :text=>"1. #BritishSexPositions\n2. #FridayThe13th\n3. #Nintendo3DSDay\n4. #scottishsexpositions\n5. #ifyourereadingthisitstoolate\n\n2015/2/13 14:18 GMT", :followers=>5678, :user_id=>1266803563, :retweet=>0}
+{:name=>"@twimmercom", :text=>"nintendo3dsday is nr.3 trending hashtag in NL in afgelopen 2 uur. http://t.co/SQiqH0LHEx #nintendo3dsday", :followers=>5457, :user_id=>194715171, :retweet=>0}

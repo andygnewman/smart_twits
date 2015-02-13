@@ -1,3 +1,3 @@
-{:name=>"@arjunbasu", :text=>"Stiff Upper Lip\n\nUpstairs Downstairs\n\nThe Cuppa\n\nCornish Pastie\n\n#BritishSexPositions", :followers=>170996, :user_id=>16910591, :retweet=>0}
-{:name=>"@garwboy", :text=>"The UKIP earthquake \n#BritishSexPositions", :followers=>20380, :user_id=>20474878, :retweet=>1}
-{:name=>"@jasonjordan", :text=>"The Crufts Dogging Show . #BritishSexPositions", :followers=>16315, :user_id=>18114168, :retweet=>0}
+{:name=>"@matthaig1", :text=>"The UKIP. #BritishSexPositions (Have really terrible sex and then blame it on a Romanian.)", :followers=>66215, :user_id=>35270579, :retweet=>3}
+{:name=>"@horanperoxide", :text=>"RT @Dagmara_Horan: #BritishSexPositions\n\n#PopChoiceAwards Pop Fandom Directioners\n#PopChoiceAwards Pop Band One Direction http://t.co/9NlaA…", :followers=>9727, :user_id=>408141923, :retweet=>33}
+{:name=>"@malinky2stoatir", :text=>"RT @Trollzous: #BritishSexPositions Teabagging", :followers=>4658, :user_id=>55967248, :retweet=>35}

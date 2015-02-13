@@ -119,9 +119,10 @@ describe 'API' do
   #   expect(twitter.get_tweets_by_user("@BBCSport","sport").count).not_to eq(0)
   # end
 
-  # it 'should load tweets from media on trends' do 
-  #   twitter.refresh_all_twitter_data
-  #   expect(Dir.glob("./data/tweets/media/**/*").count).to eq(10)
-  # end
+  it 'should load tweets from media on trends' do 
+    twitter.refresh_all_twitter_data
+    expect(Dir.glob("./data/tweets/media/**/*").count).to eq(10)
+  end
+
 
 end  

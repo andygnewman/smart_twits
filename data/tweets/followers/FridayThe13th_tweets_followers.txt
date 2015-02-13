@@ -1,3 +1,3 @@
-{:name=>"@DandADNewBlood", :text=>"Forget that it's Valentine's Day tomorrow. It's #FridayThe13th TODAY! C'mon. Scary stuff is way more fun.", :followers=>29862, :user_id=>91086769, :retweet=>0}
-{:name=>"@ElmStreetWired", :text=>"Just saw Jason walking in the woods with his mother. I wonder where they BE-HEADED? Aahahahahaha!!! #FridayThe13th", :followers=>23754, :user_id=>370472415, :retweet=>1}
-{:name=>"@ioretweet", :text=>"RT @emanuelaneri14: #buongiorno 👍😄 #GoodMorning #friends #venerdi13 #FridayThe13th @ImDisagiato @RetwittoilTop @CuocoDaTe @Bambinoboom http…", :followers=>10866, :user_id=>2836198509, :retweet=>2}
+{:name=>"@VirginRadioTO", :text=>"RT @KellaOnair: I was born on the #13th so loving today #FridayThe13th 🙌", :followers=>30874, :user_id=>23775585, :retweet=>1}
+{:name=>"@casiestewart", :text=>"I like to get tattooed on #FridayThe13th but not today. Here's one of my favs, reminds me of my Nana in NZ. http://t.co/dzImW3Ritr", :followers=>21443, :user_id=>14661313, :retweet=>0}
+{:name=>"@ChiveOnChicago", :text=>"RT @TheChiveIL: Happy #FridayThe13th http://t.co/glVGWAv1Z4", :followers=>7771, :user_id=>628470074, :retweet=>3}

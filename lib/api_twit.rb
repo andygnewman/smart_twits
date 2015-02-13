@@ -86,17 +86,18 @@ class APITwitter
     return result
   end
 
-  def get_tweets_by_user(user,subject)
-    tweets = @client.search("#{subject} from:#{user}").take(3)
-    tweets.map{|el| el.attrs[:text]}
+  def get_tweets_by_user(user,subject,how_many = 1)
+    tweets = @client.search("#{subject} from:#{user}").take(how_many)
+    tweets.map{|el| el.attrs[:text]} unless tweets == nil
   end
 
   def save_news_media_on_trends(trends=@trends,medias = MEDIA_GROUP)
+    delete_files_from_directory(PATH_TWEETS_MEDIA)
     trends.each do |trend|
       tweets = {}
       medias.each do |media|
         result = get_tweets_by_user(media,trend[:name])
-        tweets[media] = result unless result.empty? 
+        tweets[media] = result[0] unless result.count == 0
       end
       tweets['news'] = "No news" if tweets.empty?
       save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',tweets)
@@ -137,21 +138,6 @@ class APITwitter
     top_retweeted_deduped = top_retweeted.uniq.sort { |x, y| x[:retweet] <=> y[:retweet] }.reverse[0..(number-1)]
     return top_retweeted_deduped
   end
-
-  # def save_media_in_tweets_trend(media = MEDIA_GROUP,trends=@trends) 
-
-  #   delete_files_from_directory(PATH_TWEETS_MEDIA)
-
-  #   trends.each do |trend|
-  #     tweets = get_tweet_text_from_file(PATH_TWEETS_TEXT+trend[:filename]+'_tweets_text.txt')
-  #     media_tweets = []
-  #     tweets.each do |tweet|
-  #       intersection = tweet.split(' ') & media
-  #       media_tweets << "{:media=>'#{intersection.join(',')}',:tweet=>'#{tweet}'}" if intersection.count != 0
-  #     end
-  #     save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',media_tweets)
-  #   end  
-  # end  
 
 
 end

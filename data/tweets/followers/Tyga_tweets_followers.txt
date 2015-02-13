@@ -1,3 +1,3 @@
-{:name=>"@sirSLAYSalot", :text=>"RT @brookandthecity: You know Tyga a real sucka for that tweet, based on him bringing CB in it. You the type to talk shit when a nigguh alr…", :followers=>7077, :user_id=>83734029, :retweet=>3}
-{:name=>"@Shya_Lamour", :text=>"RT @416PHARAOH: Tyga deleted his tweet because he realized who’s age he acting when he posted it lmao. Tears shall flow.", :followers=>6873, :user_id=>108426630, :retweet=>20}
-{:name=>"@__tatijxo", :text=>"RT @sirSLAYSalot: 😭💀 RT @MrRedMartian: Soon as Tyga drop Kylie off at school tmr he comin for you bro @drake", :followers=>3856, :user_id=>157992943, :retweet=>6}
+{:name=>"@Awesomenezz", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/xj7EZ51iMH", :followers=>45864, :user_id=>24080811, :retweet=>0}
+{:name=>"@Ivan_splash", :text=>"RT @__allSHEwrote: “@Ivan_splash: Tyga heard Drake's diss when he was changing Kylie's diaper and he lost it” 😂😂", :followers=>11515, :user_id=>303805862, :retweet=>1}
+{:name=>"@EvilJeanyis", :text=>"Yo @tyga youza bitch", :followers=>8705, :user_id=>26612737, :retweet=>0}

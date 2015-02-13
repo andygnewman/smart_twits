@@ -1,100 +1,100 @@
-{:name=>"@iharrygurl", :text=>"RT @iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/PX20hylqfY", :followers=>2350, :user_id=>1527338052, :retweet=>340}
-{:name=>"@DrEvilfinger", :text=>"@shelikesitloud bangers &amp; mashionary #britishsexpositions", :followers=>447, :user_id=>615052329, :retweet=>0}
-{:name=>"@jasonjordan", :text=>"The Crufts Dogging Show . #BritishSexPositions", :followers=>16315, :user_id=>18114168, :retweet=>0}
-{:name=>"@allpointsnorth", :text=>"The you wait ages for one and then two come at once #BritishSexPositions", :followers=>2247, :user_id=>12277852, :retweet=>0}
-{:name=>"@watermeloniallr", :text=>"\"@iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/pS7zCjlx6A\"we know the father😂", :followers=>713, :user_id=>982280100, :retweet=>0}
-{:name=>"@IsBrokenBitch", :text=>"RT @gemmacorrell: Sorry sorry\nNo I'm sorry\nSorry\nSorry\nAfter you\nNo after you\n \n#BritishSexPositions", :followers=>1048, :user_id=>592110862, :retweet=>86}
-{:name=>"@hello_titch", :text=>"@shaunwkeaveny spaghetti junction #britishsexpositions", :followers=>186, :user_id=>31526993, :retweet=>0}
-{:name=>"@UK_Mature_Women", :text=>"Visit http://t.co/eUKc4SNeuU to shag desperate mature UK Women this Valentines #friskyfriday #britishsexpositions http://t.co/SxSBj1xjGX", :followers=>4296, :user_id=>2532720480, :retweet=>0}
-{:name=>"@chelledmoore", :text=>"The 'no sex please we're British' #BritishSexPositions", :followers=>88, :user_id=>394859990, :retweet=>0}
-{:name=>"@zaladdaze", :text=>"RT @TomRileyNews: The Wallops. Over Wallop. Nether Wallop. Middle Wallop. #BritishSexPositions", :followers=>103, :user_id=>515085837, :retweet=>3}
-{:name=>"@spike1003", :text=>"#BritishSexPositions The Allotment Shed", :followers=>728, :user_id=>167521151, :retweet=>0}
-{:name=>"@ArrenRoberts", :text=>"Cream tea #britishsexpositions", :followers=>372, :user_id=>326803177, :retweet=>0}
-{:name=>"@stevejbeck", :text=>"Up The Crackerjack!!! #BritishSexPositions", :followers=>765, :user_id=>16719058, :retweet=>0}
-{:name=>"@tyranasaurusvex", :text=>"The coloniser #BritishSexPositions", :followers=>133, :user_id=>3003668225, :retweet=>0}
-{:name=>"@AdamPaigge", :text=>"RT @billybragg: Unparliamentary conduct #britishsexpositions", :followers=>216, :user_id=>132970817, :retweet=>23}
-{:name=>"@mfwiniberg", :text=>"The Curate's Egg #BritishSexPositions", :followers=>84, :user_id=>50596084, :retweet=>0}
-{:name=>"@themsmint", :text=>"#BritishSexPositions  The James Bondage", :followers=>329, :user_id=>90468233, :retweet=>0}
-{:name=>"@EmptyNewcastle", :text=>"RT @garwboy: The UKIP earthquake \n#BritishSexPositions", :followers=>447, :user_id=>939910398, :retweet=>1}
-{:name=>"@DVS_Lee", :text=>"Open All Hours. #BritishSexPositions", :followers=>6, :user_id=>2965081625, :retweet=>0}
-{:name=>"@peediewee", :text=>"RT @MooseAllain: Remember to always signal before you pull out #BritishSexPositions", :followers=>23, :user_id=>307542934, :retweet=>26}
-{:name=>"@TTMobile_ca", :text=>"TT CANADA 09:44\n1.Friday the 13th\n2.Drake\n3.#ifyourereadingthisitstoolate\n4.Sun News Network\n5.#askpewds\n6.David Carr\n7.#BritishSexPositions", :followers=>691, :user_id=>2617512318, :retweet=>0}
-{:name=>"@sahraobsessed", :text=>"RT @Shakestweetz: The Cucumber Sandwich. #BritishSexPositions", :followers=>569, :user_id=>2519981617, :retweet=>32}
-{:name=>"@VanCharleston", :text=>"The Peter Bottomley #britishsexpositions #CSAinquiry", :followers=>43, :user_id=>2721681444, :retweet=>0}
-{:name=>"@TTMobile_uk", :text=>"TT UK 13:44\n1.#BritishSexPositions\n2.#TopValentines\n3.#FridayThe13th\n4.David Carr\n5.Valentine's Day\n6.#Nintendo3DSDay\n7.Lukaku\n8.Tyga", :followers=>1067, :user_id=>2645038507, :retweet=>0}
-{:name=>"@TheAtlanticVamp", :text=>"RT @Stand_Up_Kid: The old grey whistle test #eww #britishsexpositions", :followers=>251, :user_id=>257039606, :retweet=>1}
-{:name=>"@Felixthefemale", :text=>"RT @Gary_Bainbridge: Top deck, front seat, driver's side. #BritishSexPositions", :followers=>255, :user_id=>19643593, :retweet=>5}
-{:name=>"@MooMooMosschops", :text=>"@billybragg one lump or two? #britishsexpositions", :followers=>117, :user_id=>21144306, :retweet=>0}
-{:name=>"@iamrobhimself", :text=>"The Englishman Who Went Up A Hole And Came Down A Munter. #BritishSexPositions #sorry #reallyiam", :followers=>595, :user_id=>2151035682, :retweet=>0}
-{:name=>"@eddwilson", :text=>"#britishsexpositions\nAgainst", :followers=>373, :user_id=>54575030, :retweet=>0}
-{:name=>"@arjunbasu", :text=>"Stiff Upper Lip\n\nUpstairs Downstairs\n\nThe Cuppa\n\nCornish Pastie\n\n#BritishSexPositions", :followers=>170996, :user_id=>16910591, :retweet=>0}
-{:name=>"@aamena_", :text=>"RT @KeetPotato: #BritishSexPositions dipping the biscuits", :followers=>566, :user_id=>1236605929, :retweet=>93}
-{:name=>"@swilliams", :text=>"@forgottentowel Mary Poppins #BritishSexPositions", :followers=>402, :user_id=>8043162, :retweet=>0}
-{:name=>"@JeffGalperin", :text=>"#BritishSexPositions Allison Through With Licking Ass", :followers=>15, :user_id=>2953302838, :retweet=>0}
-{:name=>"@ellielaytonw", :text=>"RT @LawVicissitudes: The Crown against Brown #BritishSexPositions", :followers=>51, :user_id=>2874149161, :retweet=>71}
-{:name=>"@guytrumper", :text=>"Better together #britishsexpositions", :followers=>20, :user_id=>273614161, :retweet=>0}
-{:name=>"@elle_haysom", :text=>"RT @dawneywawney: 'Cashier number 2, please'. #BritishSexPositions", :followers=>5, :user_id=>2875736260, :retweet=>7}
-{:name=>"@KingWestShane", :text=>"#britishsexpositions  @normwilner Used Tea Bag", :followers=>66, :user_id=>116532419, :retweet=>0}
-{:name=>"@voiceoflouisx", :text=>"\"@iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/RaBWdvPNmI\" PTDDSDDR OFF", :followers=>1328, :user_id=>2869116683, :retweet=>0}
-{:name=>"@keeyaemmie", :text=>"RT @nesoron: The pun's definitely intended! Trust Brits not to fudge! \"@BritishLogic: The rear entrance #BritishSexPositions http://t.co/gn…", :followers=>886, :user_id=>908769422, :retweet=>18}
-{:name=>"@_Muliebrity", :text=>"RT @TazerHappy: #BritishSexPositions \"I just can't resist the joke.\" http://t.co/GCHYtmcjGk", :followers=>33, :user_id=>1927640875, :retweet=>22}
-{:name=>"@ThrupennyBit", :text=>"Mustn't grumble #BritishSexPositions", :followers=>593, :user_id=>29011916, :retweet=>0}
-{:name=>"@CraigHBruce", :text=>"Come again, Dick Whittington #britishsexpositions", :followers=>38, :user_id=>266757299, :retweet=>0}
-{:name=>"@IsBrokenBitch", :text=>"RT @danilofrp: #BritishSexPositions MELHOR TRENDING DA HISTÓRIA HAHAHAHHAHA", :followers=>1048, :user_id=>592110862, :retweet=>1}
-{:name=>"@5stringpaul", :text=>"#BritishSexPositions\nPull the other one .", :followers=>1357, :user_id=>506499295, :retweet=>0}
-{:name=>"@sahraobsessed", :text=>"RT @quicksilvre: Lay Back &amp; Think Of England #BritishSexPositions", :followers=>569, :user_id=>2519981617, :retweet=>2}
-{:name=>"@JohnpjJm", :text=>"RT @hrtbps: #BritishSexPositions\nBlocked by Keith Chegwin", :followers=>1458, :user_id=>2611105599, :retweet=>4}
-{:name=>"@sotongcili", :text=>"RT @fred42: God Save the Queen #BritishSexPositions", :followers=>898, :user_id=>181090931, :retweet=>1}
-{:name=>"@PeterLingua", :text=>"@hughbs the ready umbrella. #britishsexpositions", :followers=>717, :user_id=>49939598, :retweet=>0}
-{:name=>"@5ate5_", :text=>"#BritishSexPositions @edballsmp", :followers=>449, :user_id=>18538273, :retweet=>0}
-{:name=>"@ColourpurpleGal", :text=>"Morris Dancing #BritishSexPositions", :followers=>395, :user_id=>1663758774, :retweet=>0}
-{:name=>"@ddaaallll", :text=>"RT @iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/PX20hylqfY", :followers=>1263, :user_id=>2753243261, :retweet=>340}
-{:name=>"@zaladdaze", :text=>"RT @tinygert: The best thing about #BritishSexPositions is imagining all the non-Brits reading it and going 'what the fuuuuck?'", :followers=>103, :user_id=>515085837, :retweet=>1}
-{:name=>"@13poptones", :text=>"#BritishSexPositions Working From Home.", :followers=>47, :user_id=>2574922306, :retweet=>0}
-{:name=>"@TWSaint", :text=>"#BritishSexPositions good chucks this morning. Check it out. #NoNoYouFirstIInsist", :followers=>1178, :user_id=>20912571, :retweet=>0}
-{:name=>"@nicetrainers", :text=>"Plenty More Room On Top #BritishSexPositions", :followers=>630, :user_id=>19668314, :retweet=>0}
-{:name=>"@garwboy", :text=>"The UKIP earthquake \n#BritishSexPositions", :followers=>20380, :user_id=>20474878, :retweet=>1}
-{:name=>"@psychomotor1", :text=>"Question time #BritishSexPositions", :followers=>37, :user_id=>2954055945, :retweet=>0}
-{:name=>"@JayShantaram", :text=>"#BritishSexPositions http://t.co/cIK2jRuGkV", :followers=>28, :user_id=>2166955530, :retweet=>0}
-{:name=>"@fred42", :text=>"Sod off, Scotland #BritishSexPositions", :followers=>1655, :user_id=>13723032, :retweet=>1}
-{:name=>"@NiixelthePixel", :text=>"RT @BillBailey: put that light out #BritishSexPositions", :followers=>33, :user_id=>2285387359, :retweet=>95}
-{:name=>"@camrensputa", :text=>"RT @TheKopMagazine: The dodgy tackle from behind #BritishSexPositions #LFC http://t.co/iC641YsMHV", :followers=>3961, :user_id=>1351829598, :retweet=>284}
-{:name=>"@niallxxalmighty", :text=>"RT @iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/PX20hylqfY", :followers=>350, :user_id=>393355548, :retweet=>340}
-{:name=>"@elle_haysom", :text=>"RT @BillBailey: put that light out #BritishSexPositions", :followers=>5, :user_id=>2875736260, :retweet=>95}
-{:name=>"@TrendieWW", :text=>"\"Trending World Wide:01:42 PM GMT\"\n1. #STYLEmusicvideo\n2. #BritishSexPositions\n3. Happy Friday the 13th", :followers=>13306, :user_id=>2793605047, :retweet=>0}
-{:name=>"@VinayPatel", :text=>"The Hundred Year War\n\n#BritishSexPositions", :followers=>1245, :user_id=>21197779, :retweet=>0}
-{:name=>"@lwtoplinson", :text=>"RT @iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/PX20hylqfY", :followers=>1862, :user_id=>1916318880, :retweet=>340}
-{:name=>"@elle_haysom", :text=>"RT @gemmacorrell: Sorry sorry\nNo I'm sorry\nSorry\nSorry\nAfter you\nNo after you\n \n#BritishSexPositions", :followers=>5, :user_id=>2875736260, :retweet=>86}
-{:name=>"@writersblock08", :text=>"RT @gemmacorrell: Sorry sorry\nNo I'm sorry\nSorry\nSorry\nAfter you\nNo after you\n \n#BritishSexPositions", :followers=>163, :user_id=>82075637, :retweet=>86}
-{:name=>"@sahraobsessed", :text=>"RT @TheTobyK9: #BritishSexPositions Reverse Windsor", :followers=>569, :user_id=>2519981617, :retweet=>7}
-{:name=>"@Bright0nKath", :text=>"Nuts In May #BritishSexPositions (sorry, Aunty May)", :followers=>27, :user_id=>2284036718, :retweet=>0}
-{:name=>"@Steve_U_DS", :text=>"Stiff Up-Her-Lip #BritishSexPositions", :followers=>502, :user_id=>1489280034, :retweet=>0}
-{:name=>"@MichaelH_PhD", :text=>"The Channel Tunnel\n\n#BritishSexPositions", :followers=>243, :user_id=>2689900176, :retweet=>0}
-{:name=>"@JeffGalperin", :text=>"#BritishSexPositions Rugged Coupling", :followers=>15, :user_id=>2953302838, :retweet=>0}
-{:name=>"@MASTERCASSIUS", :text=>"RT @BillBailey: Quantitative Easing #BritishSexPositions", :followers=>168, :user_id=>197126329, :retweet=>186}
-{:name=>"@SpaghettiMonkey", :text=>"The White one sugar #BritishSexPositions", :followers=>29, :user_id=>1891257428, :retweet=>0}
-{:name=>"@c_tetz", :text=>"RT @EndhooS: #BritishSexPositions smoosh a buttered crumpet into some condoms before wearing them on your dick and hands.", :followers=>78, :user_id=>516200435, :retweet=>12}
-{:name=>"@Matthew_Who", :text=>"The independent judge-led inquiry #britishsexpositions", :followers=>239, :user_id=>308014653, :retweet=>0}
-{:name=>"@NOTHINGMAN100", :text=>"\"They don't like it up 'em\" #BritishSexPositions", :followers=>12, :user_id=>22645945, :retweet=>0}
-{:name=>"@sahraobsessed", :text=>"RT @pennyddreadful: Repressed Cowgirl #BritishSexPositions", :followers=>569, :user_id=>2519981617, :retweet=>42}
-{:name=>"@am_s546", :text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :followers=>22, :user_id=>903811676, :retweet=>369}
-{:name=>"@dricbeaver", :text=>"Some Mothers Do Fap Them #britishsexpositions", :followers=>87, :user_id=>588098481, :retweet=>0}
-{:name=>"@JoeyPakeschK", :text=>"RT @Trollzous: #BritishSexPositions Teabagging", :followers=>62, :user_id=>2249768069, :retweet=>25}
-{:name=>"@SwalehaK", :text=>"RT @Independent: Twitter is talking about #BritishSexPositions and it’s as sarcastic as you would expect http://t.co/55WKYYxTT9 http://t.co…", :followers=>557, :user_id=>28107803, :retweet=>46}
-{:name=>"@13poptones", :text=>"#BritishSexPositions Next Day Delivery", :followers=>47, :user_id=>2574922306, :retweet=>0}
-{:name=>"@TomRileyNews", :text=>"Less #BritishSexPositions, more #BritishSexLocations @MichaelVeeKay. \"I'll just leave this here...\" http://t.co/8HG2q70YiD", :followers=>1946, :user_id=>1202081053, :retweet=>0}
-{:name=>"@aamena_", :text=>"This x 187364648 \"@johnkerrison: Unidentified item in bagging area #BritishSexPositions\"", :followers=>566, :user_id=>1236605929, :retweet=>0}
-{:name=>"@watchsnapper", :text=>"The Pink In The Brown Pocket #BritishSexPositions", :followers=>50, :user_id=>249435910, :retweet=>0}
-{:name=>"@tadpoleno3", :text=>"The tricky but effective 'Arse over elbow' #BritishSexPositions", :followers=>768, :user_id=>142838995, :retweet=>0}
-{:name=>"@Michellesumer", :text=>"You know it's nearly Valentine's Day when #BritishSexPositions is trending 😬🙈😂", :followers=>61, :user_id=>1533412694, :retweet=>0}
-{:name=>"@soru_suppi", :text=>"RT @Size_Queen1123: @liamthejesuss One Erection #BritishSexPositions @midnight 😉😍😘😚😎 http://t.co/1yLLox5lTv", :followers=>461, :user_id=>2333558935, :retweet=>84}
-{:name=>"@bo_novak", :text=>"RT @stupendous223: #britishsexpositions Nipping down the Co-op.", :followers=>1480, :user_id=>329952712, :retweet=>1}
-{:name=>"@LJ_Hilton", :text=>"RT @Material_Boyz: The 'unexpected item in the bagging area'  #BritishSexPositions", :followers=>211, :user_id=>1095297511, :retweet=>7}
-{:name=>"@keeyaemmie", :text=>"RT @MooseAllain: Remember to always signal before you pull out #BritishSexPositions", :followers=>886, :user_id=>908769422, :retweet=>26}
-{:name=>"@DaLastRealOne", :text=>"RT @nesoron: The pun's definitely intended! Trust Brits not to fudge! \"@BritishLogic: The rear entrance #BritishSexPositions http://t.co/gn…", :followers=>371, :user_id=>292194493, :retweet=>18}
-{:name=>"@figuy12", :text=>"'The bus is late again' #BritishSexPositions", :followers=>3, :user_id=>791091343, :retweet=>0}
-{:name=>"@skiddlyboooo", :text=>"Rupert Murdoch  #britishsexpositions", :followers=>172, :user_id=>32871419, :retweet=>0}
-{:name=>"@RikPryme", :text=>"The Last Train To Cockfosters #BritishSexPositions", :followers=>421, :user_id=>558075555, :retweet=>0}
-{:name=>"@PulsToStabilize", :text=>"RT @OnceHadAShop: #BritishSexPositions http://t.co/qJu2PCFEtW", :followers=>492, :user_id=>588927136, :retweet=>3}
-{:name=>"@TabithaSRKing", :text=>"RT @HogwartsLogic: #BritishSexPositions \n\nThe Hogwarts Express", :followers=>335, :user_id=>195037877, :retweet=>225}
-{:name=>"@MegHan_823", :text=>"The Jammy Dodger #BritishSexPositions", :followers=>147, :user_id=>2364711649, :retweet=>0}
+{:name=>"@goodbrightdog", :text=>"@curlywurlyfi @lucyfishwife Prince of Wales #BritishSexPositions \n\n*runs, screaming*", :followers=>1230, :user_id=>239532375, :retweet=>0}
+{:name=>"@malinky2stoatir", :text=>"RT @Trollzous: #BritishSexPositions Teabagging", :followers=>4658, :user_id=>55967248, :retweet=>35}
+{:name=>"@Zain_Ilyas", :text=>"I don't even know if these #BritishSexPositions tweets I'm doing are funny, I'm dying here! 😂 We Brits are filthy buggers haha", :followers=>320, :user_id=>20450640, :retweet=>0}
+{:name=>"@Zzzoidberg_", :text=>"RT @_IanBeale_: #BritishSexPositions The 'Banksy' I creep up on them, spray all over them, then vanish into the night  #Bealed", :followers=>340, :user_id=>1704307614, :retweet=>278}
+{:name=>"@colinwelch", :text=>"RT @johnpopham: #BritishSexPositions The Botham Legover http://t.co/xyphhfHag8", :followers=>406, :user_id=>376080575, :retweet=>4}
+{:name=>"@gazgagman", :text=>"The Half-a-Daily\n\n #BritishSexPositions http://t.co/qgZVjIvriC", :followers=>115, :user_id=>979256353, :retweet=>0}
+{:name=>"@AlanLSimmons", :text=>"Tight Fisted?\n“@niall4chicken: What the fuck is this..😂\n#BritishSexPositions \n#scottishsexpositions”", :followers=>590, :user_id=>2376112395, :retweet=>0}
+{:name=>"@OscarJokes", :text=>"It's a free country so I can say whatever I want, now open up luv' #BritishSexPositions", :followers=>617, :user_id=>1204200661, :retweet=>0}
+{:name=>"@agrongaga", :text=>"RT @gemmacorrell: Sorry sorry\nNo I'm sorry\nSorry\nSorry\nAfter you\nNo after you\n \n#BritishSexPositions", :followers=>740, :user_id=>2386370181, :retweet=>147}
+{:name=>"@agrongaga", :text=>"RT @Independent: Twitter is talking about #BritishSexPositions and it’s as sarcastic as you would expect http://t.co/55WKYYxTT9 http://t.co…", :followers=>740, :user_id=>2386370181, :retweet=>92}
+{:name=>"@yieldright", :text=>"#BritishSexPositions\nBang 'er &amp; mash", :followers=>526, :user_id=>1403361253, :retweet=>0}
+{:name=>"@ChelseaaJadee_", :text=>"RT @_IanBeale_: #BritishSexPositions The 'Banksy' I creep up on them, spray all over them, then vanish into the night  #Bealed", :followers=>1251, :user_id=>58567330, :retweet=>278}
+{:name=>"@finch_forever", :text=>"RT @matthaig1: The UKIP. #BritishSexPositions (Have really terrible sex and then blame it on a Romanian.)", :followers=>289, :user_id=>488875113, :retweet=>3}
+{:name=>"@malinky2stoatir", :text=>"RT @huma_rashid: Baldrick's Cunning Plan.  #BritishSexPositions", :followers=>4658, :user_id=>55967248, :retweet=>14}
+{:name=>"@sylvietjoo", :text=>"RT @matthaig1: The Banker. #BritishSexPositions You screw anyone you want and then make them pay you.", :followers=>183, :user_id=>31395702, :retweet=>17}
+{:name=>"@Harry1884", :text=>"RT @Independent: Twitter is talking about #BritishSexPositions and it’s as sarcastic as you would expect http://t.co/55WKYYxTT9 http://t.co…", :followers=>4, :user_id=>28547956, :retweet=>92}
+{:name=>"@Bordering_crazy", :text=>"#britishsexpositions cheating on your other half is the position most use lol", :followers=>74, :user_id=>2402038525, :retweet=>0}
+{:name=>"@Olatubosun01", :text=>"RT @VanceLawrence: One Direction #BritishSexPositions", :followers=>136, :user_id=>1223686650, :retweet=>1}
+{:name=>"@docta_frederico", :text=>"#BritishSexPositions Missionary Darling, So I May View The Moss On Your Teeth.", :followers=>193, :user_id=>259790971, :retweet=>0}
+{:name=>"@pchallinor", :text=>"Beef with Gristle #BritishSexPositions", :followers=>578, :user_id=>14663837, :retweet=>0}
+{:name=>"@harumble", :text=>".limp ham sandwich #BritishSexPositions", :followers=>34, :user_id=>791414821, :retweet=>0}
+{:name=>"@mother1and", :text=>"The In-Out Referendum #BritishSexPositions", :followers=>347, :user_id=>2457522827, :retweet=>0}
+{:name=>"@MariiiStyles1D", :text=>"RT @TweetsFanGirlx: #BritishSexPositions JAJAJA NO PUDE AGUANTARME http://t.co/TG3fYmEVt8", :followers=>900, :user_id=>2408868482, :retweet=>30}
+{:name=>"@Sorley_Boy", :text=>"Keeping a Stiff Upper Lip\n\n#BritishSexPositions", :followers=>366, :user_id=>1301913847, :retweet=>0}
+{:name=>"@RouabahLamine", :text=>"RT @Nick_Holdden: #BritishSexPositions the three fishfinger clam sandwich, the jellied eel, the southern ferry, the scouser mustache, the c…", :followers=>42, :user_id=>302740757, :retweet=>1}
+{:name=>"@colinwelch", :text=>"RT @bravenewmalden: The bus replacement service.\n #BritishSexPositions", :followers=>406, :user_id=>376080575, :retweet=>2}
+{:name=>"@katiefrenche", :text=>"#britishsexpositions has been one of the funniest hashtags in a long time... kept me entertained!", :followers=>61, :user_id=>24768687, :retweet=>0}
+{:name=>"@sylvietjoo", :text=>"RT @matthaig1: The UKIP. #BritishSexPositions (Have really terrible sex and then blame it on a Romanian.)", :followers=>183, :user_id=>31395702, :retweet=>3}
+{:name=>"@Bunnethustler", :text=>"@DrSamuelJohnson The Cheeky Little Monkey #BritishSexPositions", :followers=>417, :user_id=>240231485, :retweet=>0}
+{:name=>"@TheMattWheeldon", :text=>"Getting stuck on the ring-road. #BritishSexPositions", :followers=>111, :user_id=>1524360032, :retweet=>0}
+{:name=>"@3TheOutfield", :text=>"RT @Sports_belle96: #BritishSexPositions\nThe double decker bus 😂", :followers=>1104, :user_id=>2870184295, :retweet=>2}
+{:name=>"@horanperoxide", :text=>"RT @Dagmara_Horan: #BritishSexPositions\n\n#PopChoiceAwards Pop Fandom Directioners\n#PopChoiceAwards Pop Band One Direction http://t.co/9NlaA…", :followers=>9727, :user_id=>408141923, :retweet=>33}
+{:name=>"@MellyCheadle", :text=>"RT @jeanpierre1233: TT World\n4 #BritishSexPositions\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/0VzLrIwSO1 http://t.co/JPmjva4P9k", :followers=>65, :user_id=>2978200793, :retweet=>1}
+{:name=>"@realmonkey2", :text=>"The \"take your uniform off and shut up\"\n#BritishSexPositions", :followers=>249, :user_id=>2978708686, :retweet=>0}
+{:name=>"@JakeGCUK", :text=>"The Polite Titter #BritishSexPositions", :followers=>2599, :user_id=>503768825, :retweet=>0}
+{:name=>"@ChrisTalksTV", :text=>"RT @gemmacorrell: Sorry sorry\nNo I'm sorry\nSorry\nSorry\nAfter you\nNo after you\n \n#BritishSexPositions", :followers=>3332, :user_id=>1084831579, :retweet=>147}
+{:name=>"@CharlieB732", :text=>"RT @PrimarySklProbs: \"To me to you\" #BritishSexPositions http://t.co/3Zd1f3cyaW", :followers=>30, :user_id=>858415280, :retweet=>201}
+{:name=>"@4markowen", :text=>"The Wookey hole #BritishSexPositions", :followers=>97, :user_id=>16980881, :retweet=>0}
+{:name=>"@codixgamer", :text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :followers=>57, :user_id=>275182303, :retweet=>428}
+{:name=>"@psychomotor1", :text=>"RT @garwboy: The Dunkirk Evacuation \n#BritishSexPositions", :followers=>37, :user_id=>2954055945, :retweet=>6}
+{:name=>"@jules1967", :text=>"The Severn Bridge #BritishSexPositions", :followers=>192, :user_id=>20985340, :retweet=>0}
+{:name=>"@fred42", :text=>"No Bother #BritishSexPositions", :followers=>1660, :user_id=>13723032, :retweet=>0}
+{:name=>"@gxmezalmighty", :text=>"RT @TweetsFanGirlx: #BritishSexPositions JAJAJA NO PUDE AGUANTARME http://t.co/TG3fYmEVt8", :followers=>1810, :user_id=>520778609, :retweet=>30}
+{:name=>"@mazthegerman", :text=>"RT @ndmckeown: The \"Really disappointed with the service, but I'll say everything's fine if I'm asked\".\n\n#britishsexpositions", :followers=>8, :user_id=>2837222830, :retweet=>48}
+{:name=>"@MagDods", :text=>"Lie like a flatfish. #britishsexpositions", :followers=>480, :user_id=>170448536, :retweet=>0}
+{:name=>"@ThePatrician", :text=>"#BritishSexPositions \n\nToad in the Hole.", :followers=>890, :user_id=>23424239, :retweet=>0}
+{:name=>"@blackwidow400", :text=>"#BritishSexPositions The Knotted Hankie", :followers=>182, :user_id=>255161359, :retweet=>0}
+{:name=>"@agrongaga", :text=>"okay but #BritishSexPositions is trending", :followers=>740, :user_id=>2386370181, :retweet=>0}
+{:name=>"@FEZaid", :text=>"#BritishSexPositions Under the tea spout.", :followers=>146, :user_id=>398361631, :retweet=>0}
+{:name=>"@Rdonair", :text=>"Body line AKA leg theory #BritishSexPositions", :followers=>899, :user_id=>326610928, :retweet=>0}
+{:name=>"@DanMirvish", :text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :followers=>1264, :user_id=>42970247, :retweet=>428}
+{:name=>"@iAmalK", :text=>"RT @LawVicissitudes: The Snail in the Bottle #BritishSexPositions", :followers=>179, :user_id=>46831821, :retweet=>61}
+{:name=>"@biondino", :text=>"@curlywurlyfi @lucyfishwife @goodbrightdog We are not amused #BritishSexPositions", :followers=>464, :user_id=>763477, :retweet=>0}
+{:name=>"@e_pickup", :text=>"RT @Lesonsky21: #BritishSexPositions is trending", :followers=>226, :user_id=>816332989, :retweet=>1}
+{:name=>"@sallrock", :text=>"RT @lucyfishwife: \"Shall I be Mother?\" #BritishSexPositions", :followers=>40, :user_id=>2518588741, :retweet=>7}
+{:name=>"@SenorSammy", :text=>"#BritishSexPositions http://t.co/2c4DZ8drOw", :followers=>169, :user_id=>94822076, :retweet=>0}
+{:name=>"@ruthi", :text=>"RT @billybragg: Okay, last one, promise: There is Power in a Union #britishsexpositions", :followers=>306, :user_id=>676543, :retweet=>21}
+{:name=>"@RichGordon2160", :text=>"Operation Goodison Exercise #BritishSexPositions", :followers=>389, :user_id=>315982515, :retweet=>0}
+{:name=>"@TheMadMonk19", :text=>"RT @RobinFlavell: #BritishSexPositions all of these: http://t.co/l8cCJGKxLd", :followers=>72, :user_id=>2593125085, :retweet=>6}
+{:name=>"@AlanLSimmons", :text=>"Aussie's Down Under\nPrancing Matilda\nComeron &amp; Abutt  2 Spotted Dicks\n#BritishSexPositions", :followers=>590, :user_id=>2376112395, :retweet=>0}
+{:name=>"@trisarrrahtops", :text=>"RT @matthaig1: The UKIP. #BritishSexPositions (Have really terrible sex and then blame it on a Romanian.)", :followers=>415, :user_id=>20717381, :retweet=>3}
+{:name=>"@SirSlizz", :text=>"The Sticky Wicket. #BritishSexPositions", :followers=>24, :user_id=>67378532, :retweet=>0}
+{:name=>"@JChomini21", :text=>"RT @KeetPotato: #BritishSexPositions dipping the biscuits", :followers=>552, :user_id=>446334870, :retweet=>109}
+{:name=>"@xmassmallpaqs", :text=>"RT @LondonFire: A man putting his tackle in a vacuum was just one of our #FiftyShadesofRed jobs #BritishSexPositions #prayforHenry http://t…", :followers=>4, :user_id=>2367274360, :retweet=>82}
+{:name=>"@MagDods", :text=>"Lie back and think of England. #britishsexpositions", :followers=>480, :user_id=>170448536, :retweet=>0}
+{:name=>"@WOODROWNGUS", :text=>"Marching to Pretoria \n#britishsexpositions", :followers=>134, :user_id=>57805063, :retweet=>0}
+{:name=>"@bees_wingz", :text=>"RT @kashanacauley: Bangers &amp; Mash #BritishSexPositions", :followers=>1840, :user_id=>2486334900, :retweet=>3}
+{:name=>"@catandmutton", :text=>"Loving #BritishSexPositions. Unexpected item in the bagging area.Take it off or you won't feel the benefit later.Knickers in a twist. #YAS", :followers=>2759, :user_id=>226104340, :retweet=>0}
+{:name=>"@Liam_Aidan", :text=>"Channel Tunnel, The Quango, English Muffin, The Flying Scotsman #BritishSexPositions", :followers=>322, :user_id=>90716374, :retweet=>0}
+{:name=>"@snowyhoobinoo", :text=>"#britishsexpositions The Earl Grey lip burn.", :followers=>123, :user_id=>45432346, :retweet=>0}
+{:name=>"@benald", :text=>"University Challenge #BritishSexPositions", :followers=>158, :user_id=>19361227, :retweet=>0}
+{:name=>"@NaayCipriani", :text=>"RT @TweetsFanGirlx: #BritishSexPositions JAJAJA NO PUDE AGUANTARME http://t.co/TG3fYmEVt8", :followers=>763, :user_id=>851909658, :retweet=>30}
+{:name=>"@skiddlyboooo", :text=>"Pile up on the M1 #BritishSexPositions", :followers=>172, :user_id=>32871419, :retweet=>0}
+{:name=>"@jamesbarwick3", :text=>"RT @gemmacorrell: Sorry sorry\nNo I'm sorry\nSorry\nSorry\nAfter you\nNo after you\n \n#BritishSexPositions", :followers=>81, :user_id=>1037544013, :retweet=>147}
+{:name=>"@jemtuck", :text=>"\"He's behind you!\" #BritishSexPositions", :followers=>37, :user_id=>25585017, :retweet=>0}
+{:name=>"@BardOfEarth", :text=>"Still haven't overcome #BritishSexPositions Royal Pain In The Ass", :followers=>4435, :user_id=>49725600, :retweet=>0}
+{:name=>"@jules1967", :text=>"The Bath Chaps (no, really, it does) #BritishSexPositions", :followers=>192, :user_id=>20985340, :retweet=>0}
+{:name=>"@bees_wingz", :text=>"RT @kashanacauley: Game of Thrones #BritishSexPositions", :followers=>1840, :user_id=>2486334900, :retweet=>1}
+{:name=>"@pchallinor", :text=>"Sticky Wicket with Fast Balls #BritishSexPositions", :followers=>578, :user_id=>14663837, :retweet=>0}
+{:name=>"@Lesonsky21", :text=>"#BritishSexPositions is trending", :followers=>273, :user_id=>1315710378, :retweet=>1}
+{:name=>"@madbadglad", :text=>"#BritishSexPositions Rectory Lane, Effingham", :followers=>70, :user_id=>88986134, :retweet=>0}
+{:name=>"@jeanpierre1233", :text=>"TT World\n4 #BritishSexPositions\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/0VzLrIwSO1 http://t.co/JPmjva4P9k", :followers=>1237, :user_id=>2597027190, :retweet=>1}
+{:name=>"@sandimum", :text=>"RT @Independent: Twitter is talking about #BritishSexPositions and it’s as sarcastic as you would expect http://t.co/55WKYYxTT9 http://t.co…", :followers=>53, :user_id=>150364246, :retweet=>92}
+{:name=>"@Redwoods1", :text=>"RT @Colvinius: Can't believe no-one's mentioned The Corby Trouser Press. #BritishSexPositions", :followers=>2772, :user_id=>130836664, :retweet=>6}
+{:name=>"@shawtybiebz", :text=>"#BritishSexPositions The tea cup.", :followers=>2995, :user_id=>2372901818, :retweet=>0}
+{:name=>"@ukhuman1st", :text=>"RT @gemmacorrell: Sorry sorry\nNo I'm sorry\nSorry\nSorry\nAfter you\nNo after you\n \n#BritishSexPositions", :followers=>249, :user_id=>352429489, :retweet=>147}
+{:name=>"@colinwelch", :text=>"Brighton specific one.. The Vogue Gyratory  #BritishSexPositions http://t.co/05RgIOs7oW", :followers=>406, :user_id=>376080575, :retweet=>0}
+{:name=>"@Zain_Ilyas", :text=>"#BritishSexPositions Come dine with me", :followers=>320, :user_id=>20450640, :retweet=>0}
+{:name=>"@lcamila2009", :text=>"RT @TweetsFanGirlx: #BritishSexPositions JAJAJA NO PUDE AGUANTARME http://t.co/TG3fYmEVt8", :followers=>277, :user_id=>557711620, :retweet=>30}
+{:name=>"@DailyHorniness", :text=>"RT @DrDailyRandom: 7 #BritishSexPositions Girls Lie About  http://t.co/dgwzFiMZKG #FriskyFriday", :followers=>608, :user_id=>317799099, :retweet=>1}
+{:name=>"@Harry_Houdini", :text=>".@fred42 Mind the gap. #BritishSexPositions", :followers=>336, :user_id=>216196651, :retweet=>0}
+{:name=>"@Midlands_Lion", :text=>"RT @billybragg: Ethelred the Unready #britishsexpositions", :followers=>120, :user_id=>84566906, :retweet=>9}
+{:name=>"@robinsk99", :text=>"RT @Independent: Twitter is talking about #BritishSexPositions and it’s as sarcastic as you would expect http://t.co/55WKYYxTT9 http://t.co…", :followers=>74, :user_id=>569232162, :retweet=>92}
+{:name=>"@jeep1997jeep", :text=>"RT @KafasiMantar: #BritishSexPositions http://t.co/BwjM4SzqjW", :followers=>314, :user_id=>2864000597, :retweet=>1}
+{:name=>"@rabeisqueen", :text=>"#BritishSexPositions one direction ➡️", :followers=>1150, :user_id=>2151061681, :retweet=>0}
+{:name=>"@KafasiMantar", :text=>"#BritishSexPositions http://t.co/4YTcYEhyUQ", :followers=>2995, :user_id=>2363761411, :retweet=>0}
+{:name=>"@Redwoods1", :text=>"RT @lucyfishwife: \"Shall I be Mother?\" #BritishSexPositions", :followers=>2772, :user_id=>130836664, :retweet=>7}
+{:name=>"@matthaig1", :text=>"The UKIP. #BritishSexPositions (Have really terrible sex and then blame it on a Romanian.)", :followers=>66215, :user_id=>35270579, :retweet=>3}
+{:name=>"@andysnark", :text=>"Cloudburst at Shingle Street #BritishSexPositions", :followers=>249, :user_id=>233815185, :retweet=>0}
+{:name=>"@FrostyComedy", :text=>"Sheathrow #BritishSexPositions", :followers=>565, :user_id=>320712739, :retweet=>0}
