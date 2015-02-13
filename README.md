@@ -12,6 +12,6 @@ SmartTwits aims to provide users with information about currently trending tweet
 * the trending tweets from users with the most followers
 * trending tweets that originated from media organisations
 
-
+To pull recent changes from twittter: require 'api_twit.rb', update = APITwitter.new, update.refresh_all_twitter_data
 
 
