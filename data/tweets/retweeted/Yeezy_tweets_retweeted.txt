@@ -1,3 +1,3 @@
-{:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>27996}
-{:text=>"RT @KimKardashian: ⬅️YEEZY http://t.co/FSqJNdaHz6", :retweet=>4699}
-{:text=>"RT @adidasoriginals: Yeezy Season One. #YEEZYBOOST http://t.co/jAzKAOL1TJ", :retweet=>2359}
+{:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>28097}
+{:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>28096}
+{:text=>"RT @VVORLDSTARVINES: Yeezy checking out the booty http://t.co/hCwllUJfWr", :retweet=>1873}

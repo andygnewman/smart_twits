@@ -1,3 +1,3 @@
-{:name=>"@SizweDhlomo", :text=>"RT @joaomatthews_: Text from my sister: \"What? I'm busy downloading the Drake album right now and it's already a classic!\" My family is hil…", :followers=>389261, :user_id=>36061357, :retweet=>2}
-{:name=>"@dleadbeater2011", :text=>"Drake’s team is torn apart around him in 'BLOOD VENGEANCE' ... UK~ http://t.co/XpgG6S52bT USA~ http://t.co/LUExN1bdUF #suspense #goodreads", :followers=>43743, :user_id=>434768070, :retweet=>0}
-{:name=>"@cashewespinoosa", :text=>"RT @camerondallas: Drake mixtape just dropped 🔥", :followers=>22962, :user_id=>269452119, :retweet=>5557}
+{:name=>"@TreyP0UND", :text=>"RT @jay_grant11: THIS NEW DRAKE!", :followers=>18917, :user_id=>47793888, :retweet=>1}
+{:name=>"@giustssa", :text=>"RT @brownjenjen: → http://t.co/JuMkMuI5O4 J. Prince Threatens Diddy Over Fight With Drake #JPrince  877", :followers=>9802, :user_id=>2361872202, :retweet=>29}
+{:name=>"@KieranCPhoto", :text=>"@gjcxafc any idea where i can get the new drake album?", :followers=>8252, :user_id=>1161048176, :retweet=>0}

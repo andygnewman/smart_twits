@@ -1,3 +1,3 @@
-{:text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :retweet=>132}
-{:text=>"RT @KatieWeasel: Cinema closed down for repair after showing #50ShadesOfGrey http://t.co/omyfXWfKkc", :retweet=>74}
-{:text=>"RT @HotpointUK: RT to #win a toaster! Visit http://t.co/w4kVogi9Fz &amp; use #FiftyShadesOfToast to say which you'd like #50ShadesOfGrey http:/…", :retweet=>52}
+{:text=>"RT @ENews: Babe alert: Dakota Johnson &amp; Jamie Dornan looked gorgeous at the London premiere of #50ShadesofGrey! http://t.co/SOMROny4Rb", :retweet=>718}
+{:text=>"RT @robboma3: VIP seats fitted for #50ShadesOfGrey 👌😂 http://t.co/IsL9aoEHdm", :retweet=>652}
+{:text=>"RT @ENews: Only ONE DAY left: Get ready for #50ShadesofGrey with us on E! News tonight! http://t.co/KCvIvDq5Jl", :retweet=>200}

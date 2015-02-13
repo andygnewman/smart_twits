@@ -1,100 +1,250 @@
-{:name=>"@BILD_Promis", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>108653, :user_id=>9330602, :retweet=>14}
-{:name=>"@kwheartbreakkid", :text=>"Even though i have read the 3 books. I will NOT be going to see the film. #overit #50ShadesOfGrey", :followers=>292, :user_id=>247352730, :retweet=>0}
-{:name=>"@hannagldn", :text=>"#50ShadesOfGrey be like http://t.co/RHB5taVdP0", :followers=>426, :user_id=>229664480, :retweet=>0}
-{:name=>"@LymeBayCabins", :text=>"#50ShadesOfGrey? Personally we like a bit of colour! Try @CrownPaintsProf Sadolin Superdec- https://t.co/3uVKQtbl09 http://t.co/Cyx3IXcEe8", :followers=>1150, :user_id=>569051774, :retweet=>0}
-{:name=>"@MissHelenSF", :text=>"#50shadesofgrey Ieri uscito nelle sale. Ho ricevuto improperi da mille persone che mi reputavano fortunata per... http://t.co/B3PW9Fv5Q6", :followers=>693, :user_id=>55182201, :retweet=>0}
-{:name=>"@baygui", :text=>"RT @TMZ: 7 things that will shock you about #50ShadesOfGrey (via @etnow) http://t.co/egI6vETQcB", :followers=>617, :user_id=>2156561740, :retweet=>31}
-{:name=>"@neiltich", :text=>"RT @KatieWeasel: Cinema closed down for repair after showing #50ShadesOfGrey http://t.co/omyfXWfKkc", :followers=>43, :user_id=>60318030, :retweet=>74}
-{:name=>"@nickfurnell", :text=>"Forget #50ShadesOfGrey just rewatched Sex Lives of the Potato Men http://t.co/CLNtvsS2cN &lt; This covers pretty much the same ground but funny", :followers=>619, :user_id=>317334027, :retweet=>0}
-{:name=>"@fruloppan", :text=>"RT @cissiwallin: Det handlar ju om att #50ShadesOfGrey cementerar nåt unket. Ung oskuld som blir \"upplärd\" av (romantiserat) svinig typ gub…", :followers=>197, :user_id=>52316222, :retweet=>1}
-{:name=>"@MaleStylist", :text=>"I feel this sums up my feelings about the #50ShadesOfGrey movie and i haven't even seen it! https://t.co/Oc0574d0Yo", :followers=>1499, :user_id=>326127513, :retweet=>0}
-{:name=>"@iamsuperben", :text=>"#50ShadesOfGrey for 2\n#FriDate\n\nIt's a date ❤ http://t.co/xTC2LAu3nd", :followers=>183, :user_id=>431348946, :retweet=>0}
-{:name=>"@madaraveronika", :text=>"Nu tad uz to Rīdziņ 😍❤💎 #50ShadesOfGrey", :followers=>233, :user_id=>62906864, :retweet=>0}
-{:name=>"@beautycrowd", :text=>"#50ShadesOfGrey is officially out in cinemas today! Will you be in the front row or over the #50ShadesFandom", :followers=>4411, :user_id=>249069412, :retweet=>0}
-{:name=>"@Home_Candy", :text=>"#RT &amp; share the love.  Enter code #50shadesofgrey at checkout for 15% off ALL our grey products.  #discount #homedecor #flashsale", :followers=>8096, :user_id=>329996627, :retweet=>0}
-{:name=>"@carmelsingh2", :text=>"Thank you @mnetmovies had an amazing girls night out at @sterkinekor for the premiere of #50ShadesOfGrey #ReallyImpressed by the event :)", :followers=>39, :user_id=>1281108284, :retweet=>0}
-{:name=>"@houseoffraser", :text=>"Never be underdressed. #50ShadesofGrey http://t.co/txmqcsXbsg http://t.co/2XqCgr6sPT", :followers=>215496, :user_id=>63196333, :retweet=>0}
-{:name=>"@alexcuauhtli", :text=>"RT @bueuF1: \"@Ur_an_F1_fan_if: ...these are your #50ShadesOfGrey \n#f1 http://t.co/OKuwBCAC88\"\n\nSi.\nEres un #FanF1 si estos son tus 50 tonos…", :followers=>252, :user_id=>153461314, :retweet=>19}
-{:name=>"@rachelwestrop15", :text=>"#50ShadesOfGrey tomorrow 💞", :followers=>471, :user_id=>1281470653, :retweet=>0}
-{:name=>"@LittleMoTweet", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>333, :user_id=>105181767, :retweet=>132}
-{:name=>"@amberrlina", :text=>"RT @shayheyyheyy: mixed feelings about #50ShadesOfGrey", :followers=>695, :user_id=>105004026, :retweet=>1}
-{:name=>"@zaduzoslow", :text=>"nie każdy #fotograf zrozumie i wie kto to... http://t.co/cd7H7jNgiE HT #SkaneryNiewiarygodne #50ShadesOfGrey http://t.co/WuEmbIZhvw", :followers=>230, :user_id=>2347038069, :retweet=>0}
-{:name=>"@Nawkse", :text=>"RT @helenhancock: Horses for courses and all that,but I won't be rushing to see #50ShadesOfGrey.Couldn't even finish the1st book, too predi…", :followers=>637, :user_id=>218720191, :retweet=>1}
-{:name=>"@Nawkse", :text=>"RT @IAmAffiya: Lisa Wilkinson rips #50ShadesOfGrey and names Fifty Shades of Grey \"worst movie I've ever seen\" http://t.co/NpbW3GxGpn \n\nLMA…", :followers=>637, :user_id=>218720191, :retweet=>1}
-{:name=>"@MVELiimatainen", :text=>"RT @HelmiinaS: Tänään ei rempata, vaan tätä rautakauppatavaraa hankitaan nyt makkariin. #50ShadesOfGrey #yleastudio http://t.co/5O0AFbDo6V", :followers=>1060, :user_id=>1017047755, :retweet=>1}
-{:name=>"@cissiwallin", :text=>"Det handlar ju om att #50ShadesOfGrey cementerar nåt unket. Ung oskuld som blir \"upplärd\" av (romantiserat) svinig typ gubbe.", :followers=>21071, :user_id=>25281326, :retweet=>1}
-{:name=>"@CoutureGift", :text=>"Who is ready for #valentinesday ? Who is going to watch #50shadesofgrey?? Place your order… http://t.co/c7CiOvPfuJ http://t.co/w6Zgmp5HnV", :followers=>9449, :user_id=>2521873363, :retweet=>0}
-{:name=>"@CoutureGift", :text=>"Who is ready for #valentinesday ? Who is going to watch #50shadesofgrey?? Place your order… http://t.co/c7CiOvPfuJ http://t.co/c6U7aBwq9z", :followers=>9449, :user_id=>2521873363, :retweet=>0}
-{:name=>"@handbar", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>223, :user_id=>225507830, :retweet=>132}
-{:name=>"@Roguele_beau", :text=>"#50shadesofgrey just saw the movie, pretty impressed :-) and also blushing ;-)", :followers=>39, :user_id=>26101307, :retweet=>0}
-{:name=>"@UKfilmredcarpet", :text=>"Did you camp last night for the #50ShadesOfGrey #Premiere ? Tell us about your expericence. http://t.co/ufkJ8lUC6Q http://t.co/Bm8rgaEM5v", :followers=>3322, :user_id=>2287131817, :retweet=>0}
-{:name=>"@NOMEN_naming", :text=>"Marken machen sich den „#50ShadesofGrey“-Hype zunutze: http://t.co/OEBhYPpYZA", :followers=>44, :user_id=>159100559, :retweet=>0}
-{:name=>"@notsofamous2day", :text=>"Instead of #50ShadesOfGrey why not read http://t.co/AmhjxZCrDP \"can't get better\" #TheOnlyWayIsEssex", :followers=>390323, :user_id=>1414904730, :retweet=>0}
-{:name=>"@ladyleed1", :text=>"RT @fx_mayra: 1 guy, 3 girls.... #50ShadesOfGrey @smeelllmyfeeet @eric31796 @ladyleed1 @allix_lovee", :followers=>215, :user_id=>40780181, :retweet=>3}
-{:name=>"@Elielein", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>90, :user_id=>93718985, :retweet=>14}
-{:name=>"@starsandtrends", :text=>"Here's what #MIleyCyrus and #AnastasiaSteele have in common. http://t.co/toF0se2tUu \n\n#celebritynews #50ShadesofGrey http://t.co/JSLjckOmUJ", :followers=>39, :user_id=>2866480471, :retweet=>0}
-{:name=>"@JaneyHeathly", :text=>"En route to watch #50ShadesOfGrey #Review on its way later! #NoMorningSexPleaseWereBritish #datingblogger", :followers=>239, :user_id=>2186754498, :retweet=>0}
-{:name=>"@StayAtHomeMum", :text=>"Calling A Spade, A Spade: Fifty Shades of Unacceptable Behaviour - http://t.co/9rCyO5oLnm #SAHM #50ShadesofGrey http://t.co/oqV6waZoLD", :followers=>6902, :user_id=>332553205, :retweet=>0}
-{:name=>"@victorialewis28", :text=>"RT @LiaamHall: Spot of shopping today, then #50ShadesofGrey tonight 😏🙌", :followers=>495, :user_id=>451066523, :retweet=>1}
-{:name=>"@mazpinkmusic", :text=>"#50ShadesofGrey Fifty shades of Graze! My kind of indulgence ;) http://t.co/TnfvqEKv81", :followers=>453, :user_id=>22284288, :retweet=>0}
-{:name=>"@Ardral_Kirby", :text=>"50 Shades of Grey trailer &gt;&gt; https://t.co/Buevk5ve21\n\n#50ShadesOfGrey  #50Shades #FiftyShadesOfGrey #FiftyShades #news #Entertainment #movie", :followers=>118, :user_id=>46157283, :retweet=>0}
-{:name=>"@WeAreSTV", :text=>"Planning a trip to see #50ShadesOfGrey this weekend? \n\nDon't miss @itvthismorning ..the stars will explain what the film has meant for them!", :followers=>8756, :user_id=>787028966, :retweet=>0}
-{:name=>"@amberlcarroll", :text=>"RT @HotpointUK: RT to #win a toaster! Visit http://t.co/w4kVogi9Fz &amp; use #FiftyShadesOfToast to say which you'd like #50ShadesOfGrey http:/…", :followers=>45, :user_id=>2946384412, :retweet=>52}
-{:name=>"@Nalabe15", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>21, :user_id=>2315214060, :retweet=>13}
-{:name=>"@BesantTUD", :text=>"Oh my #151shadesofgrey #50ShadesOfGrey http://t.co/4epl4H9hbW", :followers=>146, :user_id=>59814608, :retweet=>0}
-{:name=>"@RebeccaBradyy", :text=>"RT @SineadRyan52: Jamie Doran = babe!! Jasus to #50ShadesOfGrey @RebeccaBradyy @MaeveFeehan http://t.co/vCj4TyXn1W", :followers=>1005, :user_id=>416398597, :retweet=>1}
-{:name=>"@KlainesDixon", :text=>"Sooooo ... mum &amp; dad went and saw #50ShadesOfGrey .... \n\nI Just received these txt.\n\n#50ShadesOfStupid Lol http://t.co/lBjyh4VTgC", :followers=>10296, :user_id=>1243249514, :retweet=>0}
-{:name=>"@KlainesDixon", :text=>"Sooooo ... mum &amp; dad went and saw #50ShadesOfGrey .... \n\nI Just received these txt.\n\n#50ShadesOfStupid Lol http://t.co/dCEJcejP0Z", :followers=>10296, :user_id=>1243249514, :retweet=>0}
-{:name=>"@mrs_drvr", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>158, :user_id=>855082598, :retweet=>13}
-{:name=>"@Djmilktray", :text=>"Listen to Fifty Shades Of Tray Sexytime Volume3 by Milktray on #SoundCloud\nhttps://t.co/VEgCb3AtP4 #50shadesofgrey http://t.co/CuQb0esiHB", :followers=>3467, :user_id=>26866317, :retweet=>0}
-{:name=>"@BenMyers1", :text=>"I'm having flashbacks to the summer of 2012, when my instore book signings were essentially me directing furtive women to #50shadesofgrey", :followers=>2636, :user_id=>74475465, :retweet=>0}
-{:name=>"@vanicyUSA", :text=>"50shadesofgrey is nr.4 trending hashtag in USA in last 2 hours. http://t.co/t3Ano1USGx #50shadesofgrey", :followers=>77, :user_id=>2921463862, :retweet=>0}
-{:name=>"@WowPappo", :text=>"RT @jaydedonovan: THIS MOVIE IS CHEESY HORSE VOMIT AND I HATE MYSELF. #50ShadesOfGrey", :followers=>265, :user_id=>187261966, :retweet=>5}
-{:name=>"@MattCrossin", :text=>"Lmao this crowd. Middle aged women everywhere 💦💦💦 #50ShadesOfGrey", :followers=>147, :user_id=>368852931, :retweet=>0}
-{:name=>"@herrfranken", :text=>"RT @jrh73: Herrlich @1LIVE: 50 Shades of Grey zum #Karneval #50ShadesOfGrey #KoelleAlaaf http://t.co/L7T57JO78n", :followers=>1436, :user_id=>182463243, :retweet=>2}
-{:name=>"@AmoIbai", :text=>"RT @rubberdom: Apparently #50ShadesofGrey has broken Australian boxoffice record. Pretty sure this is one of the signs of the apocalypse👿😬 …", :followers=>10, :user_id=>3003604695, :retweet=>4}
-{:name=>"@horak_youtube", :text=>"RT @Maarspet: Ich muss #50ShadesOfGrey gucken! Bin ich der einzige?", :followers=>37, :user_id=>2316745451, :retweet=>32}
-{:name=>"@inesbarros_", :text=>"'Fifty Shades of Grey' film premiere, London! Anastacia http://t.co/HY0sBAD59y\n#50shades #50shadesofgrey", :followers=>35, :user_id=>2976176867, :retweet=>0}
-{:name=>"@_shewolf13", :text=>"It actually makes sense that they release #50ShadesOfGrey on #FridayThe13th \n#FiftyShadesofGrey", :followers=>299, :user_id=>2247836118, :retweet=>0}
-{:name=>"@_HiAraaa", :text=>"RT @BrandiiIsCole: #50ShadesOfGrey WAS PERFECT but now I'm #50ShadesOfFuckedUp", :followers=>663, :user_id=>1658114514, :retweet=>2}
-{:name=>"@50ftwoman", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>1206, :user_id=>9505382, :retweet=>13}
-{:name=>"@SOM4life", :text=>"RT @jaydedonovan: THIS MOVIE IS CHEESY HORSE VOMIT AND I HATE MYSELF. #50ShadesOfGrey", :followers=>199, :user_id=>2477137544, :retweet=>5}
-{:name=>"@Adsracer", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>645, :user_id=>19692223, :retweet=>13}
-{:name=>"@anna23__", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>213, :user_id=>105628205, :retweet=>13}
-{:name=>"@_princesscarina", :text=>"RT @lilmissyc: RT @ReallyRee RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection = http://t.co/OB3…", :followers=>18388, :user_id=>2721549419, :retweet=>1}
-{:name=>"@blueowl9", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>45, :user_id=>94861438, :retweet=>132}
-{:name=>"@DarioChiller", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>64, :user_id=>146980104, :retweet=>14}
-{:name=>"@LMatheeussen", :text=>"#50ShadesOfGrey was a disappointment. Important part from the book not in the movie. Also Mr. Grey was waaaaaaay better in my mind!", :followers=>154, :user_id=>577188487, :retweet=>0}
-{:name=>"@ChrisHughes91", :text=>"RT @KellyMathieson: I feel its best I watch #50shadesofgrey on my own, in the comfort of my own home.....you know, save money and that... 😶", :followers=>211, :user_id=>372783439, :retweet=>1}
-{:name=>"@SuzieQ6619", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>32, :user_id=>1433937355, :retweet=>132}
-{:name=>"@cissiwallin", :text=>"Så att påstå att man moraliserar kring #bdsm och folk som gillar den typen av sex när man kritiserar #50ShadesOfGrey = helt felriktat.", :followers=>21071, :user_id=>25281326, :retweet=>0}
-{:name=>"@reverenddg", :text=>"#50ShadesOfGrey http://t.co/8jcmp9GS3t", :followers=>1326, :user_id=>764586908, :retweet=>0}
-{:name=>"@annefinlay2", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>37, :user_id=>1320363870, :retweet=>132}
-{:name=>"@TheBookPeople", :text=>"#50ShadesOfGrey http://t.co/LCWW1zcBA6", :followers=>13444, :user_id=>20977932, :retweet=>0}
-{:name=>"@ramsaySK12", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>1120, :user_id=>572680600, :retweet=>13}
-{:name=>"@ClareDavies99", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>56, :user_id=>751093627, :retweet=>132}
-{:name=>"@OwlGirl89", :text=>"I was obsessed with #50shadesofgrey and the entire trilogy but this disney pictures made Crazy 😍😍😍… http://t.co/wPZRihAzLF", :followers=>225, :user_id=>234710766, :retweet=>0}
-{:name=>"@JO18583", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>727, :user_id=>123879023, :retweet=>132}
-{:name=>"@N7Kopper", :text=>"RT @YTM1staWu1fy: #50ShadesOfGrey is literally about a barely-legal girl being taken into an S&amp;M sex underworld by a rich white guy. All ar…", :followers=>301, :user_id=>2894555758, :retweet=>1}
-{:name=>"@laurahill130", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>87, :user_id=>23186362, :retweet=>132}
-{:name=>"@Black_Steveeee", :text=>"So the film is completely different to the books then? #50ShadesOfGrey waste of money.", :followers=>359, :user_id=>461547522, :retweet=>0}
-{:name=>"@76alan", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>74, :user_id=>210028572, :retweet=>13}
-{:name=>"@jasestyle", :text=>"RT @f1fanatic_co_uk: Going to see #50ShadesOfGrey. Am guessing it's some kind of #F1 season preview? http://t.co/K6AEJjtLVa", :followers=>1071, :user_id=>39451247, :retweet=>41}
-{:name=>"@kagome0710", :text=>"RT @Eric_the_Bold: In anticipation of us seeing #50ShadesofGrey tomorrow, my girlfriend said she went shopping at a hardware store today. #…", :followers=>891, :user_id=>2657992262, :retweet=>5}
-{:name=>"@Rach_el_c", :text=>"Going to see #50ShadesOfGrey later :-D woo hoo :-D", :followers=>137, :user_id=>241981067, :retweet=>0}
-{:name=>"@SophieDaly3", :text=>"Cheeky hostel outing to watch 50 shades of grey #50shadesofgrey #naughty #porno #nude #film… http://t.co/UWkx6t1Fy1", :followers=>226, :user_id=>723783824, :retweet=>0}
-{:name=>"@YTM1staWu1fy", :text=>"Hey, if you're going to see #50ShadesOfGrey and you're a hot chick, post selfies...also video of all the kink", :followers=>1138, :user_id=>1460549084, :retweet=>0}
-{:name=>"@mack_laura", :text=>"RT @SinbadBrookie: Anyone that goes to watch #50ShadesOfGrey , and also has a penis needs to give their head a serious wobble.", :followers=>497, :user_id=>328450725, :retweet=>5}
-{:name=>"@jrh73", :text=>"Herrlich @1LIVE: 50 Shades of Grey zum #Karneval #50ShadesOfGrey #KoelleAlaaf http://t.co/L7T57JO78n", :followers=>1496, :user_id=>263256152, :retweet=>2}
-{:name=>"@HollieFerguson", :text=>"RT @JonesBootmaker: Mr Grey will see you now. Who are you seeing #50shadesofgrey with for Valentine's weekend? Otley boot… http://t.co/ZDtN…", :followers=>385, :user_id=>172289595, :retweet=>1}
-{:name=>"@angiemary65", :text=>"@ReallyRee @qvcuk #50ShadesOfGrey", :followers=>651, :user_id=>183683297, :retweet=>0}
-{:name=>"@MattyLeppard", :text=>"RT @f1fanatic_co_uk: Going to see #50ShadesOfGrey. Am guessing it's some kind of #F1 season preview? http://t.co/K6AEJjtLVa", :followers=>202, :user_id=>46083645, :retweet=>41}
-{:name=>"@lilmissyc", :text=>"RT @ReallyRee RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection = http://t.co/OB3iNC4GU2", :followers=>532, :user_id=>2491935079, :retweet=>1}
-{:name=>"@derchaosmaxi", :text=>"50 Shades of Chaosmaxi ... #50ShadesOfGrey http://t.co/IMHjebEDUm", :followers=>184, :user_id=>820200284, :retweet=>0}
-{:name=>"@angiemary65", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>651, :user_id=>183683297, :retweet=>132}
-{:name=>"@DilekDT", :text=>"#50ShadesofGrey de neymiş😜Bir #FastAndFurious olsa da izleseydik #Cuma Cuma🙈🙋💣🎵2 Chainz, Wiz Khalifa - We Own It http://t.co/TyuSfG51sH", :followers=>2487, :user_id=>193699557, :retweet=>0}
-{:name=>"@RussellBRFC", :text=>"RT @f1fanatic_co_uk: Going to see #50ShadesOfGrey. Am guessing it's some kind of #F1 season preview? http://t.co/K6AEJjtLVa", :followers=>271, :user_id=>920611717, :retweet=>41}
-{:name=>"@MichalBryxi", :text=>"RT @HrisneSladka: Kdyby těch 50 odstínů šedi natočili o mě, mělo by to větší úspěch. \n#50ShadesOfGrey", :followers=>209, :user_id=>239260929, :retweet=>1}
-{:name=>"@mrshoneykins", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>89, :user_id=>2853067750, :retweet=>132}
-{:name=>"@vasilakosp", :text=>"We can never ever THANK YOU enough for supporting us,so here's a message from @BESTBPM http://t.co/GfsrLJSG44 #BPM #workflow #50ShadesOfGrey", :followers=>1129, :user_id=>157644616, :retweet=>0}
-{:name=>"@RinaMoskalenko", :text=>"People who think that #50ShadesOfGrey is sexy &amp; romantic need to catch fire. #50ShadesOfAbuse", :followers=>259, :user_id=>458027454, :retweet=>0}
+{:name=>"@DixieDarlingX", :text=>"#NFShades is better then #50shadesofgrey 'cuz NF has $0.69 CREAMPIES http://t.co/JXASzYRzdq @DixieDarlingX", :followers=>110, :user_id=>2907012626, :retweet=>0}
+{:name=>"@Sommarhen", :text=>"RT @ackisej: Har så många sexuellt frustrerade fotbollsmammor efter mig nu. Lätt värt! #50shadesofgrey http://t.co/MDD3JVRhaX http://t.co/U…", :followers=>570, :user_id=>275719086, :retweet=>6}
+{:name=>"@RobMaestroKing", :text=>"RT @KatieWeasel: Cinema closed down for repair after showing #50ShadesOfGrey http://t.co/omyfXWfKkc", :followers=>950, :user_id=>139574180, :retweet=>80}
+{:name=>"@ellemcthur", :text=>"RT @saturn_queen: Everybody is like #50ShadesOfGrey! And i am like NOPE!", :followers=>41, :user_id=>3030105681, :retweet=>1}
+{:name=>"@qualitopia", :text=>"RT @ZEITmagazin: Wir machen übrigens nichts zu #50ShadesofGrey - außer diesem Tweet. Versprochen.", :followers=>223, :user_id=>104959477, :retweet=>21}
+{:name=>"@patientmera", :text=>"RT @ENews: Only ONE DAY left: Get ready for #50ShadesofGrey with us on E! News tonight! http://t.co/KCvIvDq5Jl", :followers=>15, :user_id=>243088730, :retweet=>200}
+{:name=>"@PurpleandGreen_", :text=>"Still hoping I'm gonna get something for Valentine's but least I've got a date with Mr grey tonight 😃👍 #50shadesofgrey", :followers=>125, :user_id=>272853183, :retweet=>0}
+{:name=>"@swizzle361", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>482, :user_id=>838304666, :retweet=>190}
+{:name=>"@JoyAndrews1", :text=>"#50ShadesOfGrey \n\nA 21st Century woman, can't get enough money, whilst her hands are tied to an abusive relationship! True Story!", :followers=>1641, :user_id=>1624182289, :retweet=>0}
+{:name=>"@WweJardine", :text=>"Once people start watching #50ShadesofGrey they'll be no virgins left in the world.", :followers=>66, :user_id=>2935482009, :retweet=>0}
+{:name=>"@eastdevonhour", :text=>"RT @JeremyBoyden: #50ShadesOfGrey ? You really can't beat #devon #cornwall and #somerset Check this out http://t.co/ytNBrmFna6", :followers=>2616, :user_id=>2617071818, :retweet=>3}
+{:name=>"@AngharadW", :text=>"Up since 7 and feeling it. Was on the radio this morning talking about why I won’t be going to see #50ShadesOfGrey.", :followers=>1739, :user_id=>21224143, :retweet=>0}
+{:name=>"@AmyMacKinnon", :text=>"Bingo. .@JoannaWeiss on how money makes the creepy factor A-OK in #50ShadesOfGrey http://t.co/utZllkerQ8", :followers=>6100, :user_id=>16239426, :retweet=>0}
+{:name=>"@Monica1236", :text=>"Title #FiftyShades #FiftyShadesOfGrey #50ShadesofGrey http://t.co/FktJ1uprUa", :followers=>3925, :user_id=>14665687, :retweet=>0}
+{:name=>"@NASSEvents", :text=>"#50shadesofgrey #domesticabuse #film \n\nNot everyone sees Fifty Shades of Grey as empowering to women - Protesters... http://t.co/iIpfUItMmr", :followers=>10330, :user_id=>2358395971, :retweet=>0}
+{:name=>"@LuciedePaola", :text=>"#50shadesofgrey est un livre complètement débile. Pourquoi les gens s'attendaient-ils à un bon film ? HOU-HOU on se réveille les gens.", :followers=>1066, :user_id=>133372645, :retweet=>0}
+{:name=>"@hotpants1980", :text=>"Complaining that #50ShadesOfGrey is a bad film is like complaining that charts are full of shit music. It's not designed for you. Move on.", :followers=>214, :user_id=>91605805, :retweet=>0}
+{:name=>"@LaTriceCurrie3", :text=>"RT @DanOKennedy: During commercials, @jedmescon reads #50ShadesOfGrey to @LaTriceCurrie3 http://t.co/scFiesf56I", :followers=>2440, :user_id=>44116232, :retweet=>0}
+{:name=>"@scoofusandruter", :text=>"Christian Grey has zero respect for his \"sub,\" and only thinks of his own desires. That's just a rapist. #50ShadesOfGrey #50ShadesIsAbuse", :followers=>28, :user_id=>1601886289, :retweet=>0}
+{:name=>"@paulrown", :text=>"RT @IiamgaIlagher: I'm a bit jealous of all these women watching #50ShadesOfGrey.\n\nI bet they don't get Party Poker adverts popping up half…", :followers=>142, :user_id=>240374936, :retweet=>198}
+{:name=>"@coldeth", :text=>"RT @Fatima_LFC: Am I the only woman that has zero interest in #50ShadesOfGrey 🙈", :followers=>1694, :user_id=>232913886, :retweet=>2}
+{:name=>"@SimplyBeaH", :text=>"RT @SewHQ: Forget #50shadesofgrey We have 5 shades in fabrics and projects to get your heart racing this Valentine's Day! http://t.co/Pms3C…", :followers=>33, :user_id=>2698113025, :retweet=>2}
+{:name=>"@DaveHollywood1", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>352, :user_id=>480442436, :retweet=>190}
+{:name=>"@Emma_Lennon", :text=>"Can't wait to see this later!! 😜😘#50shadesofgrey #JamieDoran #ChristianGrey http://t.co/M1PLfZj8QT http://t.co/bbBEeoeJdh", :followers=>836, :user_id=>328122206, :retweet=>0}
+{:name=>"@Georgesdiab", :text=>"RT @AbeerAKK: Lool... True! #50ShadesOfGrey / #GoneGirl http://t.co/VSBqpF75wB", :followers=>1496, :user_id=>470084392, :retweet=>1}
+{:name=>"@oisoueuohenrie", :text=>"RT @AfterBrasil_: Eu acabei de assistir 50 shades of Grey e digo só uma coisa.... #50ShadesOfGrey #50TonsFilme http://t.co/6YDoiLvLeI", :followers=>53, :user_id=>2763903489, :retweet=>7}
+{:name=>"@sheikhmusicuk", :text=>"RT @Christophe_Rock: #50ShadesOfGrey http://t.co/0BerGbP8Xe", :followers=>86, :user_id=>2865858355, :retweet=>2}
+{:name=>"@carpcrusader188", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>416, :user_id=>1354538023, :retweet=>190}
+{:name=>"@EDSandEDS", :text=>"#50ShadesOfGrey #Belfast #electrical #DealOfTheDay #HappyFriday13th #NINews #electricalengineering #wholesale http://t.co/YXPQ2rYwJq", :followers=>297, :user_id=>423400564, :retweet=>0}
+{:name=>"@WelshRev", :text=>"RT @gowenmedia: i remember reading 50 shades of grey and when i'd finished i still didn't know what colour to do the bathroom #50ShadesOfGr…", :followers=>815, :user_id=>304959154, :retweet=>1}
+{:name=>"@mssafavi", :text=>"RT @cissiwallin: Det handlar ju om att #50ShadesOfGrey cementerar nåt unket. Ung oskuld som blir \"upplärd\" av (romantiserat) svinig typ gub…", :followers=>167, :user_id=>21444196, :retweet=>4}
+{:name=>"@eselpollodiablo", :text=>"RT @SebastianHbr: Wenn wer von einer perversen Fantasiewelt voller Demütigung durch einen reichen Mann redet, weiß ich nie: #50ShadesofGrey…", :followers=>71, :user_id=>524736485, :retweet=>11}
+{:name=>"@smile1981happy", :text=>"I'm sure hubbies going rugby tonight so I can't drag him to the cinema #50ShadesOfGrey", :followers=>249, :user_id=>2917435180, :retweet=>0}
+{:name=>"@RhianDrummond1", :text=>"#50ShadesOfGrey ...oh no...is that going to mean a busy treatment room on Monday morning?...careful with that fruit bowl peeps", :followers=>19, :user_id=>910878260, :retweet=>0}
+{:name=>"@AbeerAKK", :text=>"Lool... True! #50ShadesOfGrey / #GoneGirl http://t.co/VSBqpF75wB", :followers=>812, :user_id=>280132369, :retweet=>1}
+{:name=>"@Swadey1965", :text=>"RT @CarSnapped: Ive got to go to a drive in cinema to watch #50ShadesOfGrey .......\n\nMy cars well into it....... #motorhappy http://t.co/23…", :followers=>116, :user_id=>198175914, :retweet=>5}
+{:name=>"@184219", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>70, :user_id=>1165858051, :retweet=>21}
+{:name=>"@CauntJackie", :text=>"RT @RefugeCharity: Thanks so much to all those lovely people who've been donating to Refuge instead of buying tickets to #50ShadesOfGrey! #…", :followers=>220, :user_id=>479980360, :retweet=>7}
+{:name=>"@MirandreaKerr", :text=>"Christian Grey is BAE... #50ShadesOfGrey", :followers=>100, :user_id=>350290236, :retweet=>0}
+{:name=>"@Batey17Mark", :text=>"“@robboma3: VIP seats fitted for #50ShadesOfGrey 👌😂 http://t.co/agabBF9X7D”@Broon3 @cazabuzz", :followers=>49, :user_id=>2762653530, :retweet=>0}
+{:name=>"@happyhikerhilda", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>610, :user_id=>447067027, :retweet=>190}
+{:name=>"@thereal_jeremi", :text=>"Why your so Hot! UGH! Mr. Christian Grey! 󾍁󾌨󾮖󾌬\n#50shadesofgrey #MrGreywillseeyounow #hot", :followers=>238, :user_id=>1665127759, :retweet=>0}
+{:name=>"@saddlerdan", :text=>"RT @paddypower: If only #50ShadesofGrey was as provocative as this new trailer suggests...\nhttps://t.co/FeFhBtkyIT", :followers=>97, :user_id=>481152827, :retweet=>125}
+{:name=>"@HannahEBirchall", :text=>"award winning costume designer Mark Bridges talks @HanroOfficial underwear #50shadesofgrey movie http://t.co/jhfiEo4Kvn #50shades #hanro", :followers=>739, :user_id=>353599602, :retweet=>0}
+{:name=>"@IcTune", :text=>"Laters Baby 👋\n#50ShadesOfGrey", :followers=>75, :user_id=>2445806519, :retweet=>0}
+{:name=>"@canochinha_", :text=>"RT @StrangeNewWords: Awesome arguments. RT @ramblings2010: Thoughts on #50ShadesOfGrey My opinions only, I'm sorry. I could not help it. ht…", :followers=>608, :user_id=>19662313, :retweet=>1}
+{:name=>"@Martinmart84", :text=>"Gotta feel for the cinema seats tonight #drippingwet #50ShadesOfGrey", :followers=>512, :user_id=>464060907, :retweet=>0}
+{:name=>"@craiggbaldwin", :text=>"Hey babe have fun today, I've left this in the hall in case you need it...#50ShadesOfGrey @xHarrietGracex 😏 http://t.co/dh1BrgX6gw", :followers=>258, :user_id=>202238726, :retweet=>0}
+{:name=>"@healthcheckshop", :text=>"Today's weather forecast for North Wales #50ShadesOfGrey", :followers=>163, :user_id=>103647181, :retweet=>0}
+{:name=>"@WojciechBecla", :text=>"Pięćdziesiąt twarzy Greya...\n\n#50ShadesOfGrey http://t.co/OcHeorKWwu", :followers=>44, :user_id=>1156972225, :retweet=>0}
+{:name=>"@SimplySxy", :text=>"How do u know if u'll make a good #submissive http://t.co/DzWhl0jl2S #bdsm #50shades #50ShadesOfGrey #Kink", :followers=>563, :user_id=>1963746930, :retweet=>0}
+{:name=>"@MsCamillaMills", :text=>"RT @RefugeCharity: Thanks so much to all those lovely people who've been donating to Refuge instead of buying tickets to #50ShadesOfGrey! #…", :followers=>208, :user_id=>2306599784, :retweet=>7}
+{:name=>"@LaurenBrennan17", :text=>"RT @pavideo: 50 Shades of Grey: The frenzied fans in 50 seconds. http://t.co/DKGQ2EAzkz #50shadesofgrey #50shades #50shadeslondonpremiere", :followers=>358, :user_id=>29767495, :retweet=>1}
+{:name=>"@mark_snedden", :text=>"Stand outside that Cineworld tonight at about half 11, a whip in one hand and handcuffs in the other. Guaranteed your hole  #50ShadesOfGrey", :followers=>484, :user_id=>1594231616, :retweet=>0}
+{:name=>"@YowFangirl", :text=>"RT @DawnZpost: I wasn't interested in reading #50ShadesOfGrey book. And I'm still not interested in seeing the movie. Is that bad?", :followers=>81, :user_id=>347150353, :retweet=>45}
+{:name=>"@TracyShephard", :text=>"I will be so glad when we all stop talking about #50ShadesOfGrey", :followers=>363, :user_id=>2358211182, :retweet=>0}
+{:name=>"@terri_dilks87", :text=>"Gym done at @SportsDirectFit with @tonale_clipper  .. #50ShadesOfGrey later 😍 #southport #thevue #chiquitos @bottywot @JamieMDilks", :followers=>283, :user_id=>87016514, :retweet=>0}
+{:name=>"@jhc27", :text=>"Single woman Valentines day - #50ShadesOfGrey. Single men - pornhub. Gender equality at its best. #ValentinesDay", :followers=>149, :user_id=>163449188, :retweet=>0}
+{:name=>"@Wise_Catering", :text=>"In honour of a certain film being released today - our own cheeky little homage! #50ShadesOfGrey #funwithfood http://t.co/9NNSlhI1ph", :followers=>166, :user_id=>418771325, :retweet=>0}
+{:name=>"@McColl92", :text=>"RT @robboma3: VIP seats fitted for #50ShadesOfGrey 👌😂 http://t.co/IsL9aoEHdm", :followers=>312, :user_id=>515741002, :retweet=>652}
+{:name=>"@n76seary", :text=>"@purehmv  #purehmv50Shades #50ShadesOfGrey Ellie Goulding", :followers=>2366, :user_id=>184981624, :retweet=>0}
+{:name=>"@n76seary", :text=>"RT @purehmv: #WIN a #50ShadesOfGrey inspired night thanks to @IslandRecordsUK! RT &amp; answer the q below using #purehmv50Shades http://t.co/3…", :followers=>2366, :user_id=>184981624, :retweet=>54}
+{:name=>"@TheLexiCinema", :text=>"Critics @trim_obey (Telegraph) and @PeterBradshaw1 (Guardian) go head-to-head in their reviews of #50ShadesOfGrey http://t.co/4M2F4YxMrX", :followers=>5955, :user_id=>54507994, :retweet=>0}
+{:name=>"@TamaraPayne2", :text=>"@ReallyRee @qvcuk #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/D2QWQWzh6V", :followers=>738, :user_id=>427590101, :retweet=>0}
+{:name=>"@jaibee007", :text=>"RT @myntkat: Instead of seeing #50ShadesOfGrey I decided to donate to @RefugeCharity to help domestic abuse victims. http://t.co/fKiYoQKBLI", :followers=>185, :user_id=>618055731, :retweet=>9}
+{:name=>"@ScottDuthiee", :text=>"RT @paddypower: If only #50ShadesofGrey was as provocative as this new trailer suggests...\nhttps://t.co/FeFhBtkyIT", :followers=>685, :user_id=>100268157, :retweet=>125}
+{:name=>"@Maitre2706", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>5, :user_id=>1926213746, :retweet=>24}
+{:name=>"@TamaraPayne2", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>738, :user_id=>427590101, :retweet=>190}
+{:name=>"@Msanty_", :text=>":\"\"\"D RT @Gemini_Tumour: #50ShadesOfGrey #VIP lol .....say no more http://t.co/HQdp9r0FnE", :followers=>1432, :user_id=>550899895, :retweet=>0}
+{:name=>"@jennnyy94", :text=>"It was a must ! #50shadesofgrey #hellomrgrey http://t.co/kI5xbdXIJk", :followers=>354, :user_id=>329528057, :retweet=>0}
+{:name=>"@xxxxSianxxxx", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>151, :user_id=>27518543, :retweet=>190}
+{:name=>"@TammyRachel", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>406, :user_id=>199470987, :retweet=>190}
+{:name=>"@PurpleandGreen_", :text=>"RT @kimbrennand: Don't care what people think about #50ShadesOfGrey I'm buzzing to see it tonight ✌️", :followers=>125, :user_id=>272853183, :retweet=>1}
+{:name=>"@jardalukas", :text=>"RT @HrisneSladka: Kdyby těch 50 odstínů šedi natočili o mě, mělo by to větší úspěch. \n#50ShadesOfGrey", :followers=>65, :user_id=>19766936, :retweet=>2}
+{:name=>"@Yayo_F1", :text=>"RT @Ur_an_F1_fan_if: ...these are your #50ShadesOfGrey \n#f1 http://t.co/j2hyguGafP", :followers=>964, :user_id=>2286644034, :retweet=>68}
+{:name=>"@Battlefield_Pri", :text=>"Want to see our #50ShadesOfGrey :) http://t.co/NzvJ3WPQoT", :followers=>1035, :user_id=>2397880358, :retweet=>0}
+{:name=>"@LWP_online", :text=>"10% discount from anything 'Grey' on our website. Coupon code 50SHADESLWP. #50ShadesOfGrey http://t.co/iJRtEO8hbi http://t.co/kJTvCviXdd", :followers=>224, :user_id=>322619420, :retweet=>0}
+{:name=>"@MootchHull", :text=>"RT @Pixel2Print: Bored of 50 Shades of Grey?? Maybe we can help! http://t.co/IxCo9mEemd\n#50ShadesOfGrey #fullcolourprint Please RT http://t…", :followers=>378, :user_id=>455150876, :retweet=>1}
+{:name=>"@SeriBerry87", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>375, :user_id=>2288859460, :retweet=>190}
+{:name=>"@MessyYid", :text=>"RT @piggsyphil: If there isnt atleast 1 scene like this its shit #50ShadesOfGrey http://t.co/TZrcaA52bx", :followers=>1239, :user_id=>263856455, :retweet=>4}
+{:name=>"@SandyKoko223", :text=>"On a positive note, BBC Elizabeth Bennett played Anastacia's mum. #50ShadesOfGrey", :followers=>43, :user_id=>2269865773, :retweet=>0}
+{:name=>"@thowesty", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>23, :user_id=>717480812, :retweet=>24}
+{:name=>"@ItsC_Lo", :text=>"So how was #50ShadesOfGrey ?", :followers=>472, :user_id=>271562605, :retweet=>0}
+{:name=>"@kennycooper91", :text=>"RT @piggsyphil: If there isnt atleast 1 scene like this its shit #50ShadesOfGrey http://t.co/TZrcaA52bx", :followers=>222, :user_id=>1693656800, :retweet=>4}
+{:name=>"@Itsmogoo", :text=>"RT @Olivia_bpt: C'est une blague cette fin ? #50ShadesOfGrey", :followers=>22, :user_id=>3023445544, :retweet=>1}
+{:name=>"@alexpike83", :text=>"RT @StudioWaxSW3: Shellac &amp; OPI shades of grey  #sexynails #50shadesofgrey #FiftyShadesOfGreyTheMovie @FiftyShades @OPI_PRODUCTS http://t.c…", :followers=>125, :user_id=>364459781, :retweet=>1}
+{:name=>"@DanR_84", :text=>"RT @AsTallAsTheNews: #50ShadesOfGrey http://t.co/Syc5ph1a7u", :followers=>258, :user_id=>435343457, :retweet=>7}
+{:name=>"@2Porangk", :text=>"ไม่ได้อ่านหนังสือมานี่มี เงิบนะจ๊ะ จบได้ สุโค่ยยยย 😣😣 #50ShadesOfGrey", :followers=>74, :user_id=>189780171, :retweet=>0}
+{:name=>"@hattpluves", :text=>"Tomorrow night couldn't come faster #50ShadesofGrey #SugarSaturdays", :followers=>251, :user_id=>573611083, :retweet=>0}
+{:name=>"@ForrestBivens", :text=>"Lots may find #50ShadesOfGrey titillating, but 2 discount the many who've experienced its abuse is at best devaluing. At worst patriarchal.", :followers=>1370, :user_id=>16195022, :retweet=>0}
+{:name=>"@VerityOnFilm", :text=>"Valentine's Day '82 – Geoff took me to B&amp;Q – we rang the doorbells, then he bought 20 32mm rawl plugs, suggestively. #50ShadesOfGrey #heat", :followers=>88, :user_id=>2228348269, :retweet=>0}
+{:name=>"@LisaJoh38951998", :text=>"RT @goodwithwordsuk: The only #50ShadesOfGrey in my life is the contents of my wife's underwear drawer. #hereallweek", :followers=>28, :user_id=>714509358, :retweet=>1}
+{:name=>"@SpeedofThoughtM", :text=>"@ask_women Maude Lebowski: \"It's a male myth about feminists that we hate sex. It can be a natural, zesty enterprise...\" #50ShadesOfGrey ???", :followers=>766, :user_id=>1137647448, :retweet=>0}
+{:name=>"@saturn_queen", :text=>"Everybody is like #50ShadesOfGrey! And i am like NOPE!", :followers=>1655, :user_id=>312952657, :retweet=>1}
+{:name=>"@Azande_Sidyiyo", :text=>"Also watch #50ShadesOfGrey be mild AF", :followers=>144, :user_id=>861159906, :retweet=>0}
+{:name=>"@grozza3965", :text=>"RT @Global_Montreal: Groups claim @FiftyShades endorses #sexualviolence http://t.co/vxueByRTCI #50ShadesOfGrey #violenceagainstwomen http:/…", :followers=>124, :user_id=>53545005, :retweet=>3}
+{:name=>"@Ene127", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>233, :user_id=>489738973, :retweet=>190}
+{:name=>"@FazHemps", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>70, :user_id=>2956424848, :retweet=>190}
+{:name=>"@tracymcmahon71", :text=>"Think it's gonna be a bit busy @Cornerhousetv today, giggly woman everywhere 🙊 #50shadesofgrey 🙈", :followers=>1393, :user_id=>162834166, :retweet=>0}
+{:name=>"@chardawnhearts", :text=>"RT @DawnZpost: I wasn't interested in reading #50ShadesOfGrey book. And I'm still not interested in seeing the movie. Is that bad?", :followers=>28, :user_id=>2496188022, :retweet=>45}
+{:name=>"@SandyKoko223", :text=>"#50ShadesOfGrey was terrible. Just like the book. Haha. I got some laughs. Then it got incredibly boring.", :followers=>43, :user_id=>2269865773, :retweet=>0}
+{:name=>"@agoonergamble", :text=>"RT @AsTallAsTheNews: #50ShadesOfGrey http://t.co/Syc5ph1a7u", :followers=>357, :user_id=>105441419, :retweet=>7}
+{:name=>"@GavinJSpencer", :text=>"If I was single, tonight I'd be standing outside the cinema at around 11:30 with a bottle of prosecco and a smile #50shadesofgrey", :followers=>194, :user_id=>48703500, :retweet=>0}
+{:name=>"@sophie_e91", :text=>"Looking forward to tonight with the girls! #50ShadesofGrey", :followers=>263, :user_id=>432948178, :retweet=>0}
+{:name=>"@lyana8803", :text=>"@IanFSA @F1sasha @ThumperPigeon ... thumbs up #50ShadesOfGrey", :followers=>252, :user_id=>433127473, :retweet=>0}
+{:name=>"@TeriBlack12", :text=>"RT @HotpointUK: RT to #win a toaster! Visit http://t.co/w4kVogi9Fz &amp; use #FiftyShadesOfToast to say which you'd like #50ShadesOfGrey http:/…", :followers=>276, :user_id=>481392024, :retweet=>56}
+{:name=>"@butlovatx", :text=>"#50ShadesOfGrey ontem", :followers=>5206, :user_id=>981183422, :retweet=>0}
+{:name=>"@family_change", :text=>"RT @RefugeCharity: Thanks so much to all those lovely people who've been donating to Refuge instead of buying tickets to #50ShadesOfGrey! #…", :followers=>35, :user_id=>2905064493, :retweet=>7}
+{:name=>"@grohlsmyhero", :text=>"RT @paddypower: If only #50ShadesofGrey was as provocative as this new trailer suggests...\nhttps://t.co/FeFhBtkyIT", :followers=>1322, :user_id=>85151742, :retweet=>125}
+{:name=>"@MorenaInLove", :text=>"This is what I do, so I can read 50 shades of grey in public without feeling super judged ahaha 😝💁 #50ShadesOfGrey http://t.co/ajEr2KSrGa", :followers=>546, :user_id=>28429768, :retweet=>0}
+{:name=>"@Flup83", :text=>"LOL, de tenenkrommendste quotes uit #50ShadesOfGrey gevisualiseerd http://t.co/YKLqiuXD92 http://t.co/EtFPCB0bjQ", :followers=>255, :user_id=>26498296, :retweet=>0}
+{:name=>"@kenevan23", :text=>"#50ShadesOfGrey was fucking good", :followers=>250, :user_id=>1167045492, :retweet=>0}
+{:name=>"@WellingtonTC1", :text=>"RT @LuciForeman: #love #50% off #hair #beauty #50ShadesOfGrey #get rid of your grey roots#taunton#wellington#bridgwater#sheptonmallet", :followers=>241, :user_id=>1854088171, :retweet=>1}
+{:name=>"@bored2bealive", :text=>"RT @EiriniK31: μας έχουν ζαλίσει με τις #50ShadesOfGrey", :followers=>745, :user_id=>835997630, :retweet=>1}
+{:name=>"@Merlotburmese", :text=>"RT @carolynquinncq: The Fire Brigade &amp; #50ShadesOfGrey - only on @bbcpm https://t.co/Pu9f3m6bMy", :followers=>31, :user_id=>146046989, :retweet=>4}
+{:name=>"@jenny_klaus", :text=>"I wnt be surprised if the movie doesn't go the way the book is #50ShadesOfGrey", :followers=>988, :user_id=>110412932, :retweet=>0}
+{:name=>"@kozak_inna", :text=>"Трек  / #50shadesofgrey / #thegreatgatsby http://t.co/vasfCk1awI", :followers=>43, :user_id=>2209124149, :retweet=>0}
+{:name=>"@EiriniK31", :text=>"μας έχουν ζαλίσει με τις #50ShadesOfGrey", :followers=>83, :user_id=>1047925182, :retweet=>1}
+{:name=>"@HydroGardenLtd", :text=>"RT @VitaLinkEU: Ladies, you're not the only ones that need some attention this weekend, don't neglect your plants #50ShadesOfGrey #Valentin…", :followers=>126, :user_id=>2301411888, :retweet=>1}
+{:name=>"@Nenegooter", :text=>"\"I won't touch you until you sign a contract (pause) fuck the paperwork\" -one sentence Mr. Grey #50ShadesOfGrey", :followers=>1762, :user_id=>21455853, :retweet=>0}
+{:name=>"@emilyh13", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>1203, :user_id=>55544993, :retweet=>190}
+{:name=>"@ajj2431", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>39, :user_id=>2883947787, :retweet=>190}
+{:name=>"@TalentedTalkers", :text=>"RT @vauxhall: Fifty shades is a bit much, you only need one http://t.co/UTqfPgp7je\n#50ShadesOfGrey http://t.co/C16563xgce", :followers=>3108, :user_id=>948457194, :retweet=>6}
+{:name=>"@Aliwaise", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>876, :user_id=>468700875, :retweet=>24}
+{:name=>"@RHaenflein", :text=>"RT @cissiwallin: Vet fö massa feministiska kvinnor som älskar annat sex än vanilj. Men ändå kräks på hela #50ShadesOfGrey -hajpen. För att …", :followers=>44, :user_id=>2499125630, :retweet=>3}
+{:name=>"@rtodto", :text=>"RT @F1NightRace: Good one! RT @Ur_an_F1_fan_if: ...these are your #50ShadesOfGrey \n#f1 http://t.co/0IeikMIW4r", :followers=>10, :user_id=>47660576, :retweet=>9}
+{:name=>"@Vincaub", :text=>"RT @YannMerkado: #50ShadesOfGrey, ou comment un public de filles qui découvrent la sodomie à 15 ans s'identifie à une greluche encore vierg…", :followers=>96, :user_id=>234048773, :retweet=>5}
+{:name=>"@Starrruh", :text=>"ok one more thing ha #50ShadesOfGrey  wasnt that bad. still think charlie hunnam shoulda played him", :followers=>336, :user_id=>157090533, :retweet=>0}
+{:name=>"@FrostySpell", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>5733, :user_id=>2883016551, :retweet=>190}
+{:name=>"@miorchard4", :text=>"@purehmv  #purehmv50Shades #50ShadesOfGrey Ellie Goulding ❤️💜💛💚", :followers=>145, :user_id=>3023003177, :retweet=>0}
+{:name=>"@miorchard4", :text=>"RT @purehmv: #WIN a #50ShadesOfGrey inspired night thanks to @IslandRecordsUK! RT &amp; answer the q below using #purehmv50Shades http://t.co/3…", :followers=>145, :user_id=>3023003177, :retweet=>54}
+{:name=>"@_iamore", :text=>"RT @DawnZpost: “@ranjinksss: @DawnZpost High-five! 😂Was it the writing or the topic itself that held you back?” \nTopic💤 #50ShadesOfGrey #so…", :followers=>12730, :user_id=>94547360, :retweet=>27}
+{:name=>"@Pixel2Print", :text=>"Bored of 50 Shades of Grey?? Maybe we can help! http://t.co/IxCo9mEemd\n#50ShadesOfGrey #fullcolourprint Please RT http://t.co/0uDTsl5sQ4", :followers=>970, :user_id=>226203482, :retweet=>1}
+{:name=>"@TheRealRodeo", :text=>"Wow @JosephMorgan #Klaus in #TheOriginals is more #AnotherFollowTrain ChristianGrey then #ChristianGrey in #50ShadesOfGrey! You guys Rock!", :followers=>227585, :user_id=>543761086, :retweet=>0}
+{:name=>"@Elchicomara", :text=>"RT @bueuF1: \"@Ur_an_F1_fan_if: ...these are your #50ShadesOfGrey \n#f1 http://t.co/OKuwBCAC88\"\n\nSi.\nEres un #FanF1 si estos son tus 50 tonos…", :followers=>331, :user_id=>1852088341, :retweet=>28}
+{:name=>"@MIkef45", :text=>"RT @GrayInGlasgow: Fire Brigade concerned that #50ShadesOfGrey will lead to rise in people getting trapped in handcuffs. http://t.co/5jaGa2…", :followers=>7811, :user_id=>249634320, :retweet=>1}
+{:name=>"@VictoriaLane", :text=>"RT @RefugeCharity: Thanks so much to all those lovely people who've been donating to Refuge instead of buying tickets to #50ShadesOfGrey! #…", :followers=>1136, :user_id=>7733102, :retweet=>7}
+{:name=>"@OACltd", :text=>"RT @JeremyBoyden: #50ShadesOfGrey ? You really can't beat #devon #cornwall and #somerset Check this out http://t.co/ytNBrmFna6", :followers=>2878, :user_id=>344563970, :retweet=>3}
+{:name=>"@TheLondonStudio", :text=>"First there was #50ShadesOfGrey and now... #50ShadesofToast!\nA funny card range by @TheLondonStudio http://t.co/su5YsMKHfZ #LoveBreadFridays", :followers=>3291, :user_id=>128623263, :retweet=>0}
+{:name=>"@MMaroger", :text=>"RT @FigaroVox: #50ShadesOfGrey , procès du #Carlton : fantasmes et misère sexuelle.Analyse de @theresehargot \nhttp://t.co/mZXsfuEmTt http:/…", :followers=>49, :user_id=>2760587009, :retweet=>17}
+{:name=>"@bloodscreaming", :text=>"RT @sadpresidents: this rough draft of #50ShadesOfGrey looked more promising than the final product http://t.co/ONt3iKuusC", :followers=>177, :user_id=>1496312118, :retweet=>18}
+{:name=>"@charkoul", :text=>"#pestenamefate αλλα οι #50ShadesOfGrey ειναι για τις ελληνιδες οτι και οι εκπομπες του Παρλιαρου.Χασιμο 2ωρων για κατι που δεν κανουν ποτε", :followers=>231, :user_id=>266536985, :retweet=>0}
+{:name=>"@HairByMissTress", :text=>"Get The Look: Dakota Johnson #50ShadesOfGrey &gt;&gt; http://t.co/SY1WrInFZp http://t.co/HjwjvYYuhr", :followers=>1272, :user_id=>72672116, :retweet=>0}
+{:name=>"@NymanStina", :text=>"Om sexleksaks försäljningen ökade när böckerna släpptes, då kommer de spåra efter filmen förmodligen. #50ShadesOfGrey", :followers=>229, :user_id=>332449861, :retweet=>0}
+{:name=>"@_iamore", :text=>"RT @DawnZpost: I wasn't interested in reading #50ShadesOfGrey book. And I'm still not interested in seeing the movie. Is that bad?", :followers=>12730, :user_id=>94547360, :retweet=>45}
+{:name=>"@christ_sux", :text=>"It will make more money on DVD since most women prefer to masturbate at home. - lesson from #80sPorn @juliussharpe #50ShadesOfGrey", :followers=>6, :user_id=>111122722, :retweet=>0}
+{:name=>"@BonnyBigottes", :text=>"Mañana #50ShadesOfGrey  💜💜💜💜", :followers=>244, :user_id=>1715743040, :retweet=>0}
+{:name=>"@_iamore", :text=>"“@DawnZpost: I wasn't interested in reading #50ShadesOfGrey book. And I'm still not interested in seeing the movie. Is that bad?”", :followers=>12730, :user_id=>94547360, :retweet=>0}
+{:name=>"@WPCancun", :text=>"Hello Friday! #50ShadesOfGrey http://t.co/Hdxcde61FS #Wedding", :followers=>38, :user_id=>2730752808, :retweet=>0}
+{:name=>"@Lindsey___Lou", :text=>"50 shades of grey was amazing. Had me on the edge of my seat. But the ending 😭💔 #50shadesofgrey", :followers=>510, :user_id=>81678534, :retweet=>0}
+{:name=>"@sezerarantes", :text=>"RT @MacOtani: So #50ShadesOfGrey movie has been banned in Kenya but the books are okay to read ama? #SwalaNyeti", :followers=>1021, :user_id=>463770396, :retweet=>9}
+{:name=>"@katsculture", :text=>"#50ShadesOfGrey In Cinemas Now!  http://t.co/GPHHnNHazr", :followers=>115, :user_id=>195467872, :retweet=>0}
+{:name=>"@StrangeNewWords", :text=>"Awesome arguments. RT @ramblings2010: Thoughts on #50ShadesOfGrey My opinions only, I'm sorry. I could not help it. http://t.co/jx8uxCmwLO", :followers=>144, :user_id=>324344274, :retweet=>1}
+{:name=>"@dopamineque", :text=>"\"@shooting_beauty: Soooooo who is going to see #50ShadesOfGrey tomorrow?\" DAMMIT SM", :followers=>90, :user_id=>2646979736, :retweet=>0}
+{:name=>"@glerysbet", :text=>"Se los DIJE!!!!!!! Weekend intenso Por aquello del amooooollllll y #50ShadesofGrey busca el #látigo y... http://t.co/q6yjaFR7Fp", :followers=>32282, :user_id=>64840030, :retweet=>0}
+{:name=>"@XortroX", :text=>"50 Shades of Black #50Shades #50ShadesOfGrey #50nuancesdegrey #BatmanvSuperman http://t.co/SFVzIP6Kzm", :followers=>177, :user_id=>533278557, :retweet=>0}
+{:name=>"@MedienPfau", :text=>"Wie konnte #50ShadesOfGrey so erfolgreich werden? @handelsblatt über die Geschichte der Reihe. http://t.co/xLa4vkiPrT via @pubntweet", :followers=>475, :user_id=>282725098, :retweet=>0}
+{:name=>"@xjackilinex", :text=>"Love me like you do, touch me like you do #50ShadesofGrey #stuckinmyhead #tune", :followers=>180, :user_id=>80401802, :retweet=>0}
+{:name=>"@lisawingate37", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>442, :user_id=>2460307243, :retweet=>190}
+{:name=>"@maaebr", :text=>"I'm already hyperventilating at the thought of watching #50ShadesOfGrey", :followers=>130, :user_id=>19596065, :retweet=>0}
+{:name=>"@chaer3", :text=>"RT @f1fanatic_co_uk: Going to see #50ShadesOfGrey. Am guessing it's some kind of #F1 season preview? http://t.co/K6AEJjtLVa", :followers=>38, :user_id=>43081773, :retweet=>49}
+{:name=>"@mj_deleon", :text=>"Planning to watch #50ShadesOfGrey as your Valentine's movie? Here's what to expect: http://t.co/BNflGzmCk8", :followers=>12290, :user_id=>54101363, :retweet=>0}
+{:name=>"@Andrea_bitch95", :text=>"Ok so 50 shades... Half the book wasn't included but all i have to say is wow... 😶 #50ShadesOfGrey", :followers=>284, :user_id=>563609607, :retweet=>0}
+{:name=>"@schoebez", :text=>"#50ShadesOfGrey hot hot, take notes guys!!", :followers=>19, :user_id=>2427323616, :retweet=>0}
+{:name=>"@danavera987", :text=>"Today is the day peps! I'm so excited! 😄😆👏😱😭😆👏😜😆 #FiftyShades #FiftyShadesOfGreyTheMovie #FiftyShadesOfGrey #50ShadesOfGrey", :followers=>37, :user_id=>1056836785, :retweet=>0}
+{:name=>"@jocastaxo", :text=>"#50ShadesOfGrey soundtrack on thee download haha #50shadesofuckedup 😏 haha", :followers=>26, :user_id=>1243234297, :retweet=>0}
+{:name=>"@7_desii", :text=>"#schamhaartoupet \n\n#50ShadesOfGrey \n\nOb man damit Geld verdienen könnte?", :followers=>611, :user_id=>1117729742, :retweet=>0}
+{:name=>"@carranza_mayra", :text=>"😌 #50shadesofgrey", :followers=>745, :user_id=>619698187, :retweet=>0}
+{:name=>"@justsissidiana", :text=>"Well, what to say... #50shadesofgrey #fiftyshadesofgrey #movie #cinema #boxoffice #fblogger http://t.co/NwUJkmJGl4", :followers=>35, :user_id=>2790134636, :retweet=>0}
+{:name=>"@CharitySharer", :text=>"RT @NASSEvents: #valentinesday2015 #50shadesofgrey #charity \n\nAhead of valentines day and the release of 50 Shades of Grey -... http://t.co…", :followers=>3909, :user_id=>2734033902, :retweet=>2}
+{:name=>"@CharityNewsUK", :text=>"RT @NASSEvents: #valentinesday2015 #50shadesofgrey #charity \n\nAhead of valentines day and the release of 50 Shades of Grey -... http://t.co…", :followers=>4156, :user_id=>2734087717, :retweet=>2}
+{:name=>"@SJSummerside", :text=>"The only 50 Shades of Grey ill be looking at this Valentine's Day #boreoff #50shadesofgrey #valentinesday http://t.co/DhJBU73MQ2", :followers=>239, :user_id=>1613113140, :retweet=>0}
+{:name=>"@MatthewSpackman", :text=>"RT @KatieWeasel: Cinema closed down for repair after showing #50ShadesOfGrey http://t.co/omyfXWfKkc", :followers=>89, :user_id=>772238126, :retweet=>80}
+{:name=>"@TobiAnnam", :text=>"Lmaoooo..... PLANS!!! #50ShadesofGrey", :followers=>530, :user_id=>1030573130, :retweet=>1}
+{:name=>"@SirMehdiB", :text=>"Dakota Johnson is the cutest she can be. ❤ #50ShadesOfGrey", :followers=>2935, :user_id=>603514619, :retweet=>0}
+{:name=>"@StevieRRN", :text=>"RT @Auto66Racing: 50 shades of Oliver's Mount #50ShadesOfGrey #50shadesofoliversmount #omgoldcup #oliversmount #roadracing http://t.co/FAUm…", :followers=>2341, :user_id=>1972104096, :retweet=>3}
+{:name=>"@mardel501", :text=>"RT @robboma3: VIP seats fitted for #50ShadesOfGrey 👌😂 http://t.co/IsL9aoEHdm", :followers=>194, :user_id=>153758147, :retweet=>652}
+{:name=>"@Wise_Catering", :text=>"In honour of a certain film being released today - our own cheeky little homage #50shadesofgrey #funwithfood... http://t.co/zMmuc8PzCA", :followers=>166, :user_id=>418771325, :retweet=>0}
+{:name=>"@PumpkinpotByM", :text=>"RT @cissiwallin: Vet fö massa feministiska kvinnor som älskar annat sex än vanilj. Men ändå kräks på hela #50ShadesOfGrey -hajpen. För att …", :followers=>76, :user_id=>337061533, :retweet=>3}
+{:name=>"@markhyson", :text=>"I thought that in this day and age, they'd be able to make a film in colour.\n#50ShadesOfGrey", :followers=>1014, :user_id=>366724407, :retweet=>0}
+{:name=>"@shah_muh", :text=>"@Garang06 Book nsawa juu hatuoni RT @MacOtani: So #50ShadesOfGrey moviehas been banned in 254 bu the books are okay to read ama? #SwalaNyeti", :followers=>152, :user_id=>2506970240, :retweet=>0}
+{:name=>"@goodwithwordsuk", :text=>"The only #50ShadesOfGrey in my life is the contents of my wife's underwear drawer. #hereallweek", :followers=>78, :user_id=>160590278, :retweet=>1}
+{:name=>"@Stamminsky", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>42, :user_id=>735095174, :retweet=>24}
+{:name=>"@MyYummyMummy", :text=>"Might have to go see #50ShadesOfGrey Obviously to review on my blog not because Jamie Dornan is incredibly attractive...honest. #Blogger", :followers=>20, :user_id=>2998274270, :retweet=>0}
+{:name=>"@bkyeyune", :text=>"RT @MacOtani: So #50ShadesOfGrey movie has been banned in Kenya but the books are okay to read ama? #SwalaNyeti", :followers=>2142, :user_id=>37915540, :retweet=>9}
+{:name=>"@miguelRC_10", :text=>"RT @bueuF1: \"@Ur_an_F1_fan_if: ...these are your #50ShadesOfGrey \n#f1 http://t.co/OKuwBCAC88\"\n\nSi.\nEres un #FanF1 si estos son tus 50 tonos…", :followers=>161, :user_id=>436904187, :retweet=>28}
+{:name=>"@dannthemann928", :text=>"RT @baddiebackie: Let's see if the movie is as good as the book ☺️ @HipsterGabbie @dannthemann928 #Nw #50ShadesOfGrey", :followers=>218, :user_id=>2436645427, :retweet=>2}
+{:name=>"@avabubble10", :text=>"#50ShadesofGrey tonight 🙈🙉🙊 here's hoping it lives up to the book", :followers=>33, :user_id=>1407738967, :retweet=>0}
+{:name=>"@lb345", :text=>"RT @ENews: Babe alert: Dakota Johnson &amp; Jamie Dornan looked gorgeous at the London premiere of #50ShadesofGrey! http://t.co/SOMROny4Rb", :followers=>198, :user_id=>51902183, :retweet=>718}
+{:name=>"@Katherine_VD", :text=>"Лента, кто ходил на 50оттенков?\nКак вам? Ваше мнение? 🎈💃\nИнтересно знать прост‼️\n#50оттенковсерого #50ShadesOfGrey http://t.co/P3OOhuJNH3", :followers=>5024, :user_id=>824743369, :retweet=>0}
+{:name=>"@PERMorrison", :text=>"RT @AsTallAsTheNews: #50ShadesOfGrey http://t.co/Syc5ph1a7u", :followers=>143, :user_id=>1101010502, :retweet=>7}
+{:name=>"@CAROLINEPRITCH3", :text=>"@ReallyRee @qvcuk nice one #50ShadesOfGrey", :followers=>229, :user_id=>1044538970, :retweet=>0}
+{:name=>"@social_projects", :text=>"RT @wild_bikes: #50ShadesOfGrey #50Shades #shoplocal #cycling #cycling #cyclingweekly #focusbikes #Merida #ktmbike http://t.co/4Nqcbag9jV", :followers=>4758, :user_id=>293481799, :retweet=>4}
+{:name=>"@PMKLucy", :text=>"RT @Ur_an_F1_fan_if: ...these are your #50ShadesOfGrey \n#f1 http://t.co/j2hyguGafP", :followers=>271, :user_id=>51016309, :retweet=>68}
+{:name=>"@SJSummerside", :text=>"The only 50 Shades of Grey ill be looking at this Valentine's Day #boreoff #50shadesofgrey #valentinesday http://t.co/LpNCcqwuEt", :followers=>239, :user_id=>1613113140, :retweet=>0}
+{:name=>"@walk1961", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>656, :user_id=>185230701, :retweet=>190}
+{:name=>"@EdwardOmondi", :text=>"@MacOtani @SokoAnalyst  to those who watched it before the ban, do not be guilty, you didn't go against any rule. #50ShadesOfGrey", :followers=>5386, :user_id=>998408185, :retweet=>0}
+{:name=>"@gowenmedia", :text=>"i remember reading 50 shades of grey and when i'd finished i still didn't know what colour to do the bathroom #50ShadesOfGrey", :followers=>1004, :user_id=>20946294, :retweet=>1}
+{:name=>"@Monica_Movies82", :text=>"#50shadesofgrey #50nuancesdegrey http://t.co/jn4gLHN2OC", :followers=>1033, :user_id=>1245690798, :retweet=>0}
+{:name=>"@CAROLINEPRITCH3", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>229, :user_id=>1044538970, :retweet=>190}
+{:name=>"@2PointNorth", :text=>"RT @Christophe_Rock: #50ShadesOfGrey http://t.co/0BerGbP8Xe", :followers=>250, :user_id=>90681018, :retweet=>2}
+{:name=>"@Sister_4_Life", :text=>"How #50ShadesOfGrey ends in real life: graveyard.. http://t.co/NoVlt58GkA Glamorize abuse: http://t.co/rA7OsNFKVq http://t.co/BN0D5Ht78t", :followers=>1142, :user_id=>325949702, :retweet=>0}
+{:name=>"@SusanFarenden", :text=>"RT @RefugeCharity: Thanks so much to all those lovely people who've been donating to Refuge instead of buying tickets to #50ShadesOfGrey! #…", :followers=>43, :user_id=>831115962, :retweet=>7}
+{:name=>"@IAMSamNH_21", :text=>"RT @joss_mooney: 100 million book copies sold. Every girl has waited 2yrs for the #50ShadesOfGrey movie &amp; they didn't even use @DGandyOffic…", :followers=>721, :user_id=>78043716, :retweet=>1}
+{:name=>"@bangedgirls", :text=>"Floral Mini Vibe Pink: #FiftyShadesOfGrey #50ShadesOfGrey #Floral #fetish #getfucked\n available in our adult s... http://t.co/BpHVMVlsEV", :followers=>117, :user_id=>2979948837, :retweet=>0}
+{:name=>"@bangedgirls", :text=>"Floral Mini Vibe Black: #FiftyShadesOfGrey #50ShadesOfGrey #Floral #Black #anal #dildos\n available in our adul... http://t.co/fKFE7iLu7U", :followers=>117, :user_id=>2979948837, :retweet=>0}
+{:name=>"@zafar8787", :text=>"RT @AsTallAsTheNews: #50ShadesOfGrey http://t.co/Syc5ph1a7u", :followers=>384, :user_id=>104155023, :retweet=>7}
+{:name=>"@MydogvixenWt", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>249, :user_id=>844285904, :retweet=>191}
+{:name=>"@darega_es", :text=>"RT @bueuF1: \"@Ur_an_F1_fan_if: ...these are your #50ShadesOfGrey \n#f1 http://t.co/OKuwBCAC88\"\n\nSi.\nEres un #FanF1 si estos son tus 50 tonos…", :followers=>106, :user_id=>19231259, :retweet=>28}
+{:name=>"@badmothrfkr", :text=>"RT @FigaroVox: #50ShadesOfGrey , procès du #Carlton : fantasmes et misère sexuelle.Analyse de @theresehargot \nhttp://t.co/mZXsfuEmTt http:/…", :followers=>295, :user_id=>1099303734, :retweet=>17}
+{:name=>"@lizaggf", :text=>"\"I dont make  love, I fuck..\" #MrGrey  knows lol #50ShadesOfGrey #awesome", :followers=>79, :user_id=>185801923, :retweet=>0}
+{:name=>"@jacobaldridge", :text=>"So @TonyAbbottMHR got himself a new Whip. Think he misinterpreted the #50ShadesOfGrey message.", :followers=>619, :user_id=>218636864, :retweet=>0}
+{:name=>"@BBCRadioScot", :text=>"Tina Warren from burlesque club @clubnoir feels that you shouldnt take #50ShadesofGrey too seriously. Morning Call 0500929500", :followers=>27700, :user_id=>301491152, :retweet=>0}
+{:name=>"@Mr_Collett", :text=>"RT @DressLikeCelebs: Good grief 🙈 I have VIP tickets for tonight 😂 #50ShadesofGrey http://t.co/Y9dm5RXnod", :followers=>61, :user_id=>253035660, :retweet=>2}
+{:name=>"@BasileMartin", :text=>"RT @Trosaimouda: la note #IMDB de #50ShadesOfGrey  est de 3,2/10 ..il gagnerait le prix du film pourri le plus attendu de toute l'histoire …", :followers=>30, :user_id=>390639688, :retweet=>1}
+{:name=>"@scoofusandruter", :text=>"In real #BDSM, safewords, personal boundaries &amp; comfort zones are sacred. To ignore them is a cardinal sin. #50ShadesOfGrey #50ShadesIsAbuse", :followers=>28, :user_id=>1601886289, :retweet=>0}
+{:name=>"@saulochaaves", :text=>"#50ShadesOfGrey isn't the best movie of the but got me interested but I wanna see the other, so bad. BTW Beyoncé' song are wonderful.", :followers=>451, :user_id=>585144482, :retweet=>0}
+{:name=>"@RaqTEN", :text=>"RT @AlinaPanther4: Quiero,necesito que sea mañana para poder ver a mi marida @RaqTEN y por supuesto #50ShadesOfGrey QUE LLEGUE YA.", :followers=>1565, :user_id=>189083340, :retweet=>1}
+{:name=>"@MissMintyDaly", :text=>"@ReallyRee @qvcuk Oh these are fab 💕😁 Would love them, #50ShadesOfGrey  XxXx", :followers=>1469, :user_id=>430507930, :retweet=>0}
+{:name=>"@EastDeBrignac", :text=>"Just watched a classy dominant pornal with my girl #50ShadesOfGrey", :followers=>42, :user_id=>2450405539, :retweet=>0}
+{:name=>"@dreamday42", :text=>"RT @WomenRAngels: Girls night out #50ShadesOfGrey http://t.co/ifv1MX7hrK", :followers=>1742, :user_id=>2341846910, :retweet=>1}
+{:name=>"@ADx_Wales", :text=>"RT @RaimonDuran: If you are a race fan you don't need to read the book or see the movie, these are your #50ShadesOfGrey (via @bueuF1) http:…", :followers=>268, :user_id=>135466022, :retweet=>21}
+{:name=>"@wef1984", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>371, :user_id=>545373573, :retweet=>191}
+{:name=>"@alifeofacharlo", :text=>"50 shades of grey day! Check my *almost* #50ShadesOfGrey post https://t.co/nG34cFBeFR #wordpress #lblogger #fblbloggers #newpost #blogger", :followers=>117, :user_id=>2283457303, :retweet=>0}
+{:name=>"@dalennakooka", :text=>"&amp; adult toy sales sky rocket due to #50shadesofgrey", :followers=>143, :user_id=>33421933, :retweet=>0}
+{:name=>"@harry15jolly", :text=>"RT @paddypower: If only #50ShadesofGrey was as provocative as this new trailer suggests...\nhttps://t.co/FeFhBtkyIT", :followers=>481, :user_id=>78664086, :retweet=>125}
+{:name=>"@caronomesemas", :text=>"RT @BelyBasarte: Discover Crazy in Love (#50ShadesOfGrey version) on #deezer 💘 http://t.co/zMosDJkpLD", :followers=>683, :user_id=>363069130, :retweet=>1}
+{:name=>"@corinbitchesss", :text=>"I finally get what all the hype is about...😉 #50ShadesOfGrey 😍", :followers=>226, :user_id=>2438198702, :retweet=>0}
+{:name=>"@Dorinloves", :text=>"can't wait for #50ShadesOfGrey ^^", :followers=>292, :user_id=>228311766, :retweet=>0}
+{:name=>"@Julieguy1", :text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :followers=>452, :user_id=>43582453, :retweet=>191}
+{:name=>"@jomarise", :text=>"RT @HotpointUK: RT to #win a toaster! Visit http://t.co/w4kVogi9Fz &amp; use #FiftyShadesOfToast to say which you'd like #50ShadesOfGrey http:/…", :followers=>8895, :user_id=>15147882, :retweet=>56}
+{:name=>"@RYANNxYANEZ_", :text=>"Such a fun night with my cousin @Biggieebre_  ! Lazy dog &amp; #50ShadesOfGrey 💁😂😂", :followers=>298, :user_id=>35568316, :retweet=>0}
+{:name=>"@ashdong", :text=>"RT @AnilDongaonkar: VIP seats fitted for #50ShadesOfGrey 👌😂 http://t.co/R5FyRWQvAM”@ashdong @Mynameisalexio @_DickyT_ @ArunDongaonkar @Ajay…", :followers=>102, :user_id=>1422415908, :retweet=>2}
+{:name=>"@antontweedale", :text=>"RT @SethArrons: #50ShadesOfGrey http://t.co/rumEvxtIvP", :followers=>523, :user_id=>99578212, :retweet=>2}
+{:name=>"@BootCampTony", :text=>"Got a strong feeling you girls are gonna be let down by #50ShadesOfGrey it's got flop written all over it. Everything  looks better on paper", :followers=>85, :user_id=>195769100, :retweet=>0}
+{:name=>"@wifefaefife", :text=>"RT @HotpointUK: RT to #win a toaster! Visit http://t.co/w4kVogi9Fz &amp; use #FiftyShadesOfToast to say which you'd like #50ShadesOfGrey http:/…", :followers=>304, :user_id=>108723668, :retweet=>56}
+{:name=>"@joss_mooney", :text=>"100 million book copies sold. Every girl has waited 2yrs for the #50ShadesOfGrey movie &amp; they didn't even use @DGandyOfficial #nopressure 🙈", :followers=>74941, :user_id=>367830647, :retweet=>1}
+{:name=>"@cisk", :text=>"Treat your inner goddess to a Cisk! We know you want to... #50ShadesOfGrey http://t.co/DuqUwrgrM3", :followers=>345, :user_id=>1860415309, :retweet=>0}
+{:name=>"@liveitupzie", :text=>"@KarlaDemontano be my valentine, lets watch #50shadesofgrey", :followers=>1259, :user_id=>69507159, :retweet=>0}
+{:name=>"@JimmyMcNulty91", :text=>"RT @AsTallAsTheNews: #50ShadesOfGrey http://t.co/Syc5ph1a7u", :followers=>891, :user_id=>2334825617, :retweet=>7}
+{:name=>"@Chris707John", :text=>"RT @GuidesForBrides: Bring a little #50ShadesOfGrey to your #wedding! Pinterest: http://t.co/9gSJdEz4rg http://t.co/xayStkxOoD", :followers=>132, :user_id=>2300143959, :retweet=>3}
+{:name=>"@BenjKent9", :text=>"RT @paddypower: If only #50ShadesofGrey was as provocative as this new trailer suggests...\nhttps://t.co/FeFhBtkyIT", :followers=>197, :user_id=>181974292, :retweet=>125}
+{:name=>"@naceyeoo00", :text=>"Harness Bondage tied hands tied neck collars restraints fetish Sex toys Q8: http://t.co/NaJBVGSqLL #50shadesofgrey http://t.co/vyfdtwuJYY", :followers=>1364, :user_id=>2756180530, :retweet=>0}
+{:name=>"@naceyeoo00", :text=>"Sexy Women Hot Lingerie Underwear Sheer Babydoll  Dress Sleepwear+T-BACK : http://t.co/9Ih77UJ0Tw #50shadesofgrey http://t.co/LnKLMKPbTg", :followers=>1364, :user_id=>2756180530, :retweet=>0}
+{:name=>"@Shelby_Beaar", :text=>"wow #50ShadesOfGrey was 😍", :followers=>345, :user_id=>303411531, :retweet=>0}
+{:name=>"@Christophe_Rock", :text=>"#50ShadesOfGrey http://t.co/0BerGbP8Xe", :followers=>1576, :user_id=>105824179, :retweet=>2}
+{:name=>"@Trosaimouda", :text=>"la note #IMDB de #50ShadesOfGrey  est de 3,2/10 ..il gagnerait le prix du film pourri le plus attendu de toute l'histoire du cinéma !", :followers=>883, :user_id=>159603319, :retweet=>1}
+{:name=>"@RYANNxYANEZ_", :text=>"RT @Slutviahh: #50ShadesOfGrey tonight 😏", :followers=>298, :user_id=>35568316, :retweet=>4}
+{:name=>"@DanOKennedy", :text=>"During commercials, @jedmescon reads #50ShadesOfGrey to @LaTriceCurrie3 http://t.co/IuKaMotK4N", :followers=>1597, :user_id=>585071988, :retweet=>0}
+{:name=>"@jodyyyxia", :text=>"There was hardly any dialogue between Christian and Ana... Sorry but Jamie and Dakota don't chemistry 😔 #50ShadesOfGrey", :followers=>47, :user_id=>589833865, :retweet=>0}

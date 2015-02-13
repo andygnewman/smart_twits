@@ -67,7 +67,7 @@ class APITwitter
     save_data(PATH_TRENDS+'toptrends.txt', @trends)
   end
 
-  def save_tweets_per_trend(query_number = 100,trends = @trends)
+  def save_tweets_per_trend(query_number = 250,trends = @trends)
     delete_files_from_directory(PATH_TWEETS)
     trends.each do |trend|
       tweets = get_tweets(trend[:query],query_number)
@@ -134,30 +134,7 @@ class APITwitter
     end  
   end  
 
-# possible for new feature
-  def getlocation
-     html = open('https://twitter.com/trends?id=44418').read
-  end
-
-  def get_tweets_streaming(subject)
-    tweets = []
-    @client_streaming.filter(:track => subject) do |tweet|
-      tweets << tweet
-    end  
-  end
-
-  def init_twit_streaming(hash_with_keys)
-    Twitter::Streaming::Client.new do |config|
-      config.consumer_key        = hash_with_keys["Consumer_Key(API_Key)"]
-      config.consumer_secret     = hash_with_keys["Consumer_Secret(API_Secret)"]
-      config.access_token        = hash_with_keys["Access_Token"]
-      config.access_token_secret = hash_with_keys["Access_Token_Secret"]
-    end
-  end   
-
 end
 
-# twitter = APITwitter.new
-# twitter.refresh_all_twitter_data
 
 

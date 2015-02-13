@@ -1,3 +1,3 @@
-{:name=>"@SizweDhlomo", :text=>"They are... RT @theelui: The Yeezy Boost Lows are better http://t.co/mvhHRqs2DL", :followers=>389261, :user_id=>36061357, :retweet=>0}
-{:name=>"@GRAZIASAmag", :text=>"Uh, oh! Someone at the show was not happy about Kane West debuting his Adidas x Yeezy collection last night http://t.co/7CzmroeDWD", :followers=>60236, :user_id=>522078597, :retweet=>0}
-{:name=>"@LailasBlog", :text=>"Memo to ALL the Good Nigerian Men Who Are Tempted to Cheat - http://t.co/8fmt750o01  #Kanye Valentine's Day #Valentine's Day #Yeezy #Nigeria", :followers=>7662, :user_id=>504207204, :retweet=>0}
+{:name=>"@kolisi1", :text=>"RT @bakedtheblog: Yeezy season has arrived 😭🎄 I love everything he does people. Still annoyed about the Adidas collab but whatever I can ge…", :followers=>23449, :user_id=>209549732, :retweet=>2}
+{:name=>"@JordanMarkGrant", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>19509, :user_id=>411569732, :retweet=>1601}
+{:name=>"@Aussie_Kardash", :text=>"“@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/SwAhBYFjc5”slay queen", :followers=>14675, :user_id=>417395419, :retweet=>1}

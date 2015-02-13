@@ -1,3 +1,3 @@
-{:text=>"RT @SimonJCLeBON: I'm very sad to announce that our friend Steve Strange has died in Egypt today. He was the leading edge of New Romantic. …", :retweet=>1665}
-{:text=>"RT @BBC6Music: “One man on a lonely platform.” R.I.P Steve Strange. http://t.co/7LCkin7ati", :retweet=>885}
-{:text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :retweet=>796}
+{:text=>"RT @BBCBreaking: Steve Strange, lead singer of 1980s pop band Visage, has died aged 55 following heart attack, his record label says http:/…", :retweet=>2102}
+{:text=>"RT @BBCBreaking: Family &amp; friends \"distraught\" at sudden death of pop star Steve Strange, who's died aged 55 http://t.co/8DyTZtdA0V http://…", :retweet=>983}
+{:text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :retweet=>810}
