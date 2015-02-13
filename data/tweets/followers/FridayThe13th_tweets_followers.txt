@@ -1,0 +1,3 @@
+{:name=>"@OnlyInBOS", :text=>"I don't care if it's #FridayThe13th... http://t.co/IwWhMbbkgW", :followers=>71159, :user_id=>700903452, :retweet=>1}
+{:name=>"@LiquidChefs_SA", :text=>"Whats for lunch? check out our food menu, we have something for everyone. #Fridaythe13th", :followers=>10462, :user_id=>85774702, :retweet=>0}
+{:name=>"@JasonTheNewsGuy", :text=>"Sunrise and shine! @WESH 2 News #FridayThe13th #Valentine'sDay http://t.co/ggCvUfHGK4", :followers=>6526, :user_id=>54678489, :retweet=>0}

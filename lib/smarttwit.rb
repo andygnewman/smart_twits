@@ -1,7 +1,5 @@
 require 'sinatra/base'
-require 'json'
 require_relative 'tweets'
-require 'byebug'
 
 class SmartTwit < Sinatra::Base
 

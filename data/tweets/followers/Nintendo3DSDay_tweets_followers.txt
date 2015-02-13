@@ -1,0 +1,3 @@
+{:name=>"@iTweetero", :text=>"RT @sexy_girls_24: ⚽ #lol #love  🈶 #Nintendo3DSDay  🐍 Meet new People here &gt;&gt;  http://t.co/J4j0629YiE http://t.co/w3xegLwi8T", :followers=>28605, :user_id=>240851425, :retweet=>52}
+{:name=>"@neon_toilet", :text=>"RT @StreetPassUK: New Puzzle available! Super Smash Bros for 3DS/Wii U! #Nintendo3DSDay http://t.co/6Wm6CZLaGx", :followers=>23053, :user_id=>281092760, :retweet=>11}
+{:name=>"@neon_toilet", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>23053, :user_id=>281092760, :retweet=>486}

@@ -1,0 +1,3 @@
+{:text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :retweet=>741}
+{:text=>"RT @WordOnRd: \"You &amp; The 6\" ...... Shoutout to Mama Graham!", :retweet=>253}
+{:text=>"RT @whoisjaay: After listening to You &amp; the 6 http://t.co/6WzyWCGibE", :retweet=>87}
