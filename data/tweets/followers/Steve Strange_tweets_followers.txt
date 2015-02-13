@@ -1,3 +1,0 @@
-{:name=>"@globovision", :text=>"Murió Steve Strange a los 55 años http://t.co/ny52Osi2JH http://t.co/cM1OVnmfve", :followers=>3401512, :user_id=>17485551, :retweet=>1}
-{:name=>"@BFMTV", :text=>"Steve Strange, le chanteur de Visage, est mort  http://t.co/zdeXrx4fki http://t.co/kImFeDQmJN", :followers=>1008808, :user_id=>133663801, :retweet=>1}
-{:name=>"@pinknews", :text=>"Visage lead singer Steve Strange dies aged 55 http://t.co/J1ul1SlySO http://t.co/bfEQIqNWpY", :followers=>68574, :user_id=>27987687, :retweet=>0}

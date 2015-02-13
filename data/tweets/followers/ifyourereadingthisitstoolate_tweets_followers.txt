@@ -1,3 +1,0 @@
-{:name=>"@MrExposed", :text=>"RT @Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/3HDFCkjF0w", :followers=>18868, :user_id=>66638587, :retweet=>227}
-{:name=>"@Dubai_lopez", :text=>"RT @DavidOtunga: Looks like my soundtrack is set for this morning's gym session. #ifyourereadingthisitstoolate", :followers=>13741, :user_id=>241914343, :retweet=>13}
-{:name=>"@guyjean440", :text=>"TT UK\n4 #Nintendo3DSDay\n5 #ifyourereadingthisitstoolate\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/knelnpBMwQ http://t.co/fddkojubgF", :followers=>6178, :user_id=>2837580459, :retweet=>1}
