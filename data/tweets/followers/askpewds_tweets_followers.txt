@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#askpewds\n#FreeAJStaff\n#إضراب_الإباء\n16H4 http://t.co/ryxN5mn6cy", :followers=>26995, :user_id=>2336221570, :retweet=>0}
 {:name=>"@Hnoof76y", :text=>"تعال العب حرب وتحداك تفوز .؟ من يتحدى\n\nسجل : http://t.co/dMZgRNTMZM\n\n#askpewds\n#FreeAJStaff\n#حملة_12_ألف_وحداوي_ضد_السد\nGEOX", :followers=>4326, :user_id=>710675024, :retweet=>0}
 {:name=>"@Hnoof76y", :text=>"تعال العب حرب وتحداك تفوز .؟ من يتحدى\n\nسجل : http://t.co/dMZgRNTMZM\n\n#askpewds\n#صباح_الخير\n#السيسي_ينهب_الخليج\n1GCE", :followers=>4326, :user_id=>710675024, :retweet=>0}
@@ -8,6 +9,14 @@
 {:name=>"@arisniall", :text=>"@pewdiepie can you do the chicken dance #askpewds", :followers=>11126, :user_id=>923450810, :retweet=>0}
 =======
 <<<<<<< HEAD
+||||||| merged common ancestors
+=======
+{:name=>"@Hnoof76y", :text=>"تعال العب حرب وتحداك تفوز .؟ من يتحدى\n\nسجل : http://t.co/dMZgRNTMZM\n\n#askpewds\n#FreeAJStaff\n#الهلال_الأهلي_نهائي_ولي_العهد\n1SFZ", :followers=>4326, :user_id=>710675024, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/K4G8xkmuCd  #askpewds #askpewds #askpewds #nrkdebatt #2hockey #debatten http://t.co/hppn8CqBJI", :followers=>2557, :user_id=>3000496763, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/rmgzuTioMF  #IsraelIsStillWaitingFor1D #askpewds http://t.co/hppn8CqBJI", :followers=>2557, :user_id=>3000496763, :retweet=>1}
+=======
+<<<<<<< HEAD
+>>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
 {:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#ألي_يحبك\n#askpewds\n#نهائي_كأس_ولي_العهد\n3R4G http://t.co/8XBSgrwDYT", :followers=>26995, :user_id=>2336221570, :retweet=>0}
 {:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#askpewds\n#السيسي_ينهب_الخليج\n#أفضل_ثنائي_شاهدته\nIMLH http://t.co/bP4EptZSQk", :followers=>26995, :user_id=>2336221570, :retweet=>0}
 {:name=>"@1970Li1970", :text=>"RT @OLEG201414: #Украина отказалась амнистировать лидеров #ДНР и #ЛНР\nhttp://t.co/rteLdkWAhe\n💥#Украина💥#Новороссиия💥#askpewds💯%#хочучитатьв…", :followers=>12341, :user_id=>1111054572, :retweet=>2}

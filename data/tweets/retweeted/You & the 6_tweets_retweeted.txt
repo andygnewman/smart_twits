@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {:text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :retweet=>798}
 {:text=>"RT @xyyxo: You &amp; the 6", :retweet=>71}
 {:text=>"RT @9thWonderMusic: Now....this \"You &amp; The 6\" &amp;  \"6PM In New York\" is TOUGH..........@Drake", :retweet=>33}
@@ -8,6 +9,14 @@
 {:text=>"RT @imtherealronin: You &amp; the 6 the realest song on the tape.", :retweet=>94}
 =======
 <<<<<<< HEAD
+||||||| merged common ancestors
+=======
+{:text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :retweet=>801}
+{:text=>"RT @9thWonderMusic: Now....this \"You &amp; The 6\" &amp;  \"6PM In New York\" is TOUGH..........@Drake", :retweet=>40}
+{:text=>"RT @Shea_Rihtina: You &amp; the 6 http://t.co/KF4NRh3YIj", :retweet=>33}
+=======
+<<<<<<< HEAD
+>>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
 {:text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :retweet=>792}
 {:text=>"RT @whoisjaay: After listening to You &amp; the 6 http://t.co/6WzyWCGibE", :retweet=>96}
 {:text=>"RT @imtherealronin: You &amp; the 6 the realest song on the tape.", :retweet=>83}

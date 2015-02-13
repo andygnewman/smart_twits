@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4881}
 {:text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :retweet=>4230}
 {:text=>"RT @itsRealCole: drake just fired huge shots at tyga: \"calling my name out on the world stage... you need to act your own age and not your …", :retweet=>3742}
@@ -8,6 +9,14 @@
 {:text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :retweet=>2236}
 =======
 <<<<<<< HEAD
+||||||| merged common ancestors
+=======
+{:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4996}
+{:text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :retweet=>4274}
+{:text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :retweet=>2575}
+=======
+<<<<<<< HEAD
+>>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
 {:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4618}
 {:text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :retweet=>4126}
 {:text=>"RT @itsRealCole: drake just fired huge shots at tyga: \"calling my name out on the world stage... you need to act your own age and not your …", :retweet=>3726}

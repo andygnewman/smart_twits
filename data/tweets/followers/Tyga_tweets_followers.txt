@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {:name=>"@Wasanga_Mayhem", :text=>"😂😂😂😂😂 RT @drizzyxcole: Never forget. @Tyga http://t.co/9UmY5VzWjO”\"", :followers=>15221, :user_id=>155477336, :retweet=>0}
 {:name=>"@AdmireMissMarie", :text=>"\"@JaywanInc: Haaaaaaaa!  @Tyga is oh so hurt. http://t.co/g1oUyTuLEx\" omg 😂", :followers=>12594, :user_id=>34343960, :retweet=>0}
 {:name=>"@90stiffany", :text=>"RT @ParvesKoyes: When Drake said this about @Tyga http://t.co/gnlGWZmwuB", :followers=>7423, :user_id=>1587662599, :retweet=>1263}
@@ -8,6 +9,14 @@
 {:name=>"@EvilJeanyis", :text=>"Yo @tyga youza bitch", :followers=>8705, :user_id=>26612737, :retweet=>0}
 =======
 <<<<<<< HEAD
+||||||| merged common ancestors
+=======
+{:name=>"@ItsReIatabIe_", :text=>"RT @OfficiaITMZNewz: Kylie Jenner (age 17), Pregnant By Rapper Tyga (25).  \nFull Story here: http://t.co/dCg6VanRZQ\nhttp://t.co/kkwTmxaK9g", :followers=>244554, :user_id=>225625338, :retweet=>61}
+{:name=>"@JasonsTooReal", :text=>"RT @OfficiaITMZNewz: Kylie Jenner (age 17), Pregnant By Rapper Tyga (25).  \nFull Story here: http://t.co/dCg6VanRZQ\nhttp://t.co/kkwTmxaK9g", :followers=>201208, :user_id=>343587342, :retweet=>61}
+{:name=>"@Ietterman", :text=>"RT @OfficiaITMZNewz: Kylie Jenner (age 17), Pregnant By Rapper Tyga (25).  \nFull Story here: http://t.co/dCg6VanRZQ\nhttp://t.co/kkwTmxaK9g", :followers=>186351, :user_id=>887660666, :retweet=>61}
+=======
+<<<<<<< HEAD
+>>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
 {:name=>"@Missosofine", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>14126, :user_id=>287375746, :retweet=>794}
 {:name=>"@_MusicGeek_LG", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7797, :user_id=>228536599, :retweet=>1008}
 {:name=>"@nomoucbieber2", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7154, :user_id=>2384668045, :retweet=>1008}

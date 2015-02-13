@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1695}
 {:text=>"RT @MYNARRYCREW: #askpewds how do you feel about this http://t.co/22JlRtZpon", :retweet=>71}
 {:text=>"RT @thebrosdaily: That moment when I'm asleep and poods does a Q&amp;A and I miss it. #askpewds", :retweet=>47}
@@ -8,6 +9,14 @@
 {:text=>"RT @Yopika21: #askpewds Bonjour Marine Le Pen. Vous n'avez pas honte ?", :retweet=>14}
 =======
 <<<<<<< HEAD
+||||||| merged common ancestors
+=======
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1707}
+{:text=>"RT @alsalatan: يوجد لدينا بيع  متابعين تويتر ومشاهدات يوتيوب وانستقرام ورتويت ولايكات للطلب الاستفسار 0504692071\n\n#Friday the 13th\n#askpewd…", :retweet=>929}
+{:text=>"RT @goldfthes: #askpewds @pewdiepie isnt Louis so hot http://t.co/GSvTi4w57X", :retweet=>3}
+=======
+<<<<<<< HEAD
+>>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
 {:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1663}
 {:text=>"RT @alpacahowell: #askpewds How much % nightmare? http://t.co/pIrWRVGZ21", :retweet=>24}
 {:text=>"RT @zouisgods: @pewdiepie #askpewds would you ever consider buying this shirt http://t.co/yJ8JXcJ1wh", :retweet=>8}

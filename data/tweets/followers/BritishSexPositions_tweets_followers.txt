@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {:name=>"@moneyfreeparty", :text=>"#BritishSexPositions list of uk convicted political pervert https://t.co/Vy0YFq0vqZ", :followers=>73780, :user_id=>209944791, :retweet=>0}
 {:name=>"@P0TUS", :text=>"Separatists. #BritishSexPositions", :followers=>67381, :user_id=>23255247, :retweet=>0}
 {:name=>"@paulsinha", :text=>"#Britishsexpositions Approaching Didcot Parkway.", :followers=>44952, :user_id=>20481697, :retweet=>0}
@@ -8,6 +9,14 @@
 {:name=>"@malinky2stoatir", :text=>"RT @Trollzous: #BritishSexPositions Teabagging", :followers=>4658, :user_id=>55967248, :retweet=>35}
 =======
 <<<<<<< HEAD
+||||||| merged common ancestors
+=======
+{:name=>"@KeithBarrett", :text=>"Pumping the Petrol #BritishSexPositions @midnight", :followers=>25021, :user_id=>4298461, :retweet=>0}
+{:name=>"@KeithBarrett", :text=>"Polishing the Crown Jewels #BritishSexPositions @midnight", :followers=>25021, :user_id=>4298461, :retweet=>0}
+{:name=>"@mattyofhonor", :text=>"tweet (#9082) shagging, tea bagging, right rear the Wales #BritishSexPositions", :followers=>17583, :user_id=>62891428, :retweet=>0}
+=======
+<<<<<<< HEAD
+>>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
 {:name=>"@adamandeve", :text=>"RT @Astroglide: Mind the gap \n#BritishSexPositions", :followers=>38747, :user_id=>14398700, :retweet=>2}
 {:name=>"@richardhammcnd", :text=>"RT @_IanBeale_: #BritishSexPositions The 'Banksy' I creep up on them, spray all over them, then vanish into the night  #Bealed", :followers=>9171, :user_id=>144588260, :retweet=>282}
 {:name=>"@GPollowitz", :text=>"#BritishSexPositions The \"Let's play Dr. Who\"", :followers=>7597, :user_id=>18493147, :retweet=>0}

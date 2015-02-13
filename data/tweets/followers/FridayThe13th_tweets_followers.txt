@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 {:name=>"@paulm_official", :text=>"Rain, rain go away come again another day. Or better still rain when we are all asleep 👍 #FridayThe13th", :followers=>177149, :user_id=>381633083, :retweet=>1}
 {:name=>"@eBooksGOT", :text=>"RT @UviPoznansky: Uvi Poznansky: Let the blood in my caldron boil \nhttp://t.co/fbhIvqeZWO\n#FridayThe13th\nhttp://t.co/X5wC3fLunw", :followers=>40883, :user_id=>1733223890, :retweet=>18}
 {:name=>"@FamousFrocks", :text=>"Yessssss #ItsFriday #FridayThe13th #thatfridayfeeling http://t.co/bgGPQF3JSW", :followers=>31512, :user_id=>1182764150, :retweet=>0}
@@ -8,6 +9,14 @@
 {:name=>"@ChiveOnChicago", :text=>"RT @TheChiveIL: Happy #FridayThe13th http://t.co/glVGWAv1Z4", :followers=>7771, :user_id=>628470074, :retweet=>3}
 =======
 <<<<<<< HEAD
+||||||| merged common ancestors
+=======
+{:name=>"@YoungSpittah92", :text=>"RT @THEREALEVK: I think @YoungSpittah92 is so dope and hot with them bars #RespectTheUnit Happy Birthday btw #FridayThe13th", :followers=>23216, :user_id=>35891464, :retweet=>1}
+{:name=>"@MiamiBeach411", :text=>"Happy #FridayThe13th. Love from #Miami ❤️ http://t.co/zDOAOM9jvn", :followers=>15156, :user_id=>14083211, :retweet=>0}
+{:name=>"@beacon126", :text=>"RT @rich_farley: #FridayThe13th #ff #shouties to @F8fulH  @louieZ54 @SawyerFrdrx @ehs54 @TygrHawk @dc82204 @beewee9357  @SharpDadAhead @bea…", :followers=>12114, :user_id=>253220290, :retweet=>1}
+=======
+<<<<<<< HEAD
+>>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
 {:name=>"@Daily_Star", :text=>"How many people are afraid of flying on #FridayThe13th ?http://t.co/KKjuVHD4Dd", :followers=>108332, :user_id=>20442930, :retweet=>0}
 {:name=>"@ItsMajicBaby", :text=>"Here's to Friday! Friday the 13th #Majic #MajicCityNetowrk #MCN #Music #LWA #Miami #TGIF #FridayThe13th #YesWeekend http://t.co/lf7xFUN3Sd", :followers=>64411, :user_id=>108101397, :retweet=>0}
 {:name=>"@XFilesFanaticus", :text=>"RT @MrLender: With #FridayThe13th upon us, it may be unlucky for some ... but not for our #BigFridayGiveaway winners! Stay tuned... http://…", :followers=>15083, :user_id=>92235951, :retweet=>43}
