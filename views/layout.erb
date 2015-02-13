@@ -19,7 +19,7 @@
           <h1>SmartTwits</h1>
         </section>
         <section id="header_right" class="col-6-8">
-          <p>some other stuff on the header row</p>
+          <p>bringing you the 'why' behind the trends</p>
         </section>
       </section>
 
@@ -33,6 +33,8 @@
         <section id="block_right" class="col-6-8">
           <section class="row-5-18">
             <h3>These are the most used words in tweets about this trend</h3>
+            <section id="word-cloud">
+            </section>
             <%= erb :words %>
           </section>
 
@@ -41,7 +43,7 @@
               <h3>These tweets are the most retweeted</h3>
               <%= erb :retweets %>
             </section>
-            <section class="col-3-6">
+            <section id="mentions" class="col-3-6">
               <h3>These the most mentioned twitter names</h3>
               <%= erb :mentions %>
             </section>

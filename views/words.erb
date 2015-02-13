@@ -2,7 +2,7 @@
 <% @words.each {|word| array << word[0]} %>
 <% words = array.first(3).join(" ") %>
 <a href="http://google.com/?q=<%=words%>">Google This</a>
-
+<%= @cloud_element %>
 
 <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <script src="http://www.jasondavies.com/wordcloud/d3.layout.cloud.js"></script>
