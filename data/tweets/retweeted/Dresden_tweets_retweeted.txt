@@ -1,3 +1,0 @@
-{:text=>"RT @SamiSlimani: SEE YOU DIESE WOCHE! 😍 \n\nDonnerstag: ROSTOCK Thalia im KTC!\nFreitag: BERLIN! Thalia im ALEXA!\nSamstag: DRESDEN! Thalia Hau…", :retweet=>1194}
-{:text=>"RT @TheMindBlowing: This house plays music when it rains. Dresden, Germany. http://t.co/Pw06e8lptm", :retweet=>376}
-{:text=>"RT @elvidemirkol: Sanatçı Kurt Fleckenstein, İslam karşıtı #Pegida'nın merkezi #Dresden'de 175 seccade açıp yönlerini Mekke'ye çevirdi http…", :retweet=>196}

@@ -1,0 +1,100 @@
+{:name=>"@paulzuke", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades ... http://t.co/zQTOxvw2Ig #mashable", :followers=>2201, :user_id=>61270769, :retweet=>0}
+{:name=>"@digitalmalaysia", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/TbsG0mpLCg", :followers=>1383, :user_id=>552473488, :retweet=>0}
+{:name=>"@farahclaraone", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/6jK4sOjqgk", :followers=>86, :user_id=>485716927, :retweet=>0}
+{:name=>"@JMonzer", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/dRtDYFKX5O", :followers=>33, :user_id=>559799896, :retweet=>0}
+{:name=>"@selenavdp", :text=>"[Mashable] Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/Q0tCGGDopN", :followers=>38768, :user_id=>424045046, :retweet=>0}
+{:name=>"@GO2UKJobs", :text=>"#UKJobs Business Executive, London: Instant Impact is a fast growing and ambitious graduate… http://t.co/8kFFaHysmU #Job #UK #Jobs", :followers=>1578, :user_id=>127195945, :retweet=>0}
+{:name=>"@EliseArja", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/Cj0JIaQ6ue", :followers=>76, :user_id=>485782675, :retweet=>0}
+{:name=>"@lemot_", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/ddINinKPR7", :followers=>138, :user_id=>343221086, :retweet=>0}
+{:name=>"@garfieldmaureen", :text=>"[Mashable] Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/G4zdtfYI0N", :followers=>17, :user_id=>424044683, :retweet=>0}
+{:name=>"@juliafarah85", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/9wb1uagpSF", :followers=>58, :user_id=>486835275, :retweet=>0}
+{:name=>"@JessDunstan15", :text=>"RT @MrPeterAndre: And here's LONDON :) http://t.co/H0Cvi36NDr", :followers=>541, :user_id=>182880943, :retweet=>24}
+{:name=>"@CllrBSilvester", :text=>"RT @Jim_Watford: Exclusive: Tory MEP Reported To Police Over 'Systematic Financial Fraud' - Breitbart http://t.co/4SoviLHSV5 via @Breitbart…", :followers=>3123, :user_id=>314548237, :retweet=>1}
+{:name=>"@JMonzer", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/H7v85u2KGa", :followers=>33, :user_id=>559799896, :retweet=>0}
+{:name=>"@JMonzer", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/VJqgt35ibO", :followers=>33, :user_id=>559799896, :retweet=>0}
+{:name=>"@sawetachai", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/oWFLFNwsc7 #iPOst", :followers=>7739, :user_id=>215337932, :retweet=>0}
+{:name=>"@carla_jamal", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/uUbBuocV1v", :followers=>55, :user_id=>486810954, :retweet=>0}
+{:name=>"@TheSecondMedia", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/YnrY1d4kf9", :followers=>2419, :user_id=>622635213, :retweet=>0}
+{:name=>"@DoodleDay", :text=>"@ken4london Just 2 days left for fans to bid on your #DoodleDay doodle Ken! It's on eBay: http://t.co/0Xbk9M4TuY http://t.co/7PnwYisbJa", :followers=>1606, :user_id=>20777123, :retweet=>0}
+{:name=>"@JosianeGhanem", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/plKcxQxl7k", :followers=>58, :user_id=>484938930, :retweet=>0}
+{:name=>"@London_StylesXx", :text=>"@__AliDarkbloom wait dm me", :followers=>2465, :user_id=>384647610, :retweet=>0}
+{:name=>"@MashableFans", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/kerInOemYS", :followers=>59, :user_id=>836533225, :retweet=>0}
+{:name=>"@JMonzer", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/8Isx0BtxmU", :followers=>33, :user_id=>559799896, :retweet=>0}
+{:name=>"@JMonzer", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/K6QIUgNKBd", :followers=>33, :user_id=>559799896, :retweet=>0}
+{:name=>"@JMonzer", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/2hvON3MNll", :followers=>33, :user_id=>559799896, :retweet=>0}
+{:name=>"@droidportfolio", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty... http://t.co/aujxFmq2gf #AndroidPortfolio", :followers=>38, :user_id=>1874730782, :retweet=>0}
+{:name=>"@josephazzilb", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/zdlpBuQK79", :followers=>63, :user_id=>484964484, :retweet=>0}
+{:name=>"@JMonzer", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/SoH205BVMo", :followers=>33, :user_id=>559799896, :retweet=>0}
+{:name=>"@BananaTweetDeal", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/zBqiRS2Y1M", :followers=>93, :user_id=>388408640, :retweet=>0}
+{:name=>"@izzati_29", :text=>"RT @ChiRestaurant: Squirrel curry anyone? Cinnamon Club puts roasted rodent on the menu - http://t.co/QJblcn1bf5 http://t.co/niuFUpyzPe", :followers=>193, :user_id=>307215749, :retweet=>540}
+{:name=>"@SarahKahwaji", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/s2yLZNezUF", :followers=>58, :user_id=>484291000, :retweet=>0}
+{:name=>"@RalfHakim", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/W4jowht2gE", :followers=>33, :user_id=>487955043, :retweet=>0}
+{:name=>"@TartsRGreat", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/aejF53EkrM", :followers=>130, :user_id=>366694338, :retweet=>0}
+{:name=>"@ManUtd_London", :text=>"West Brom v @@whufc_official #WHU | #MUFC #Newham | #askpewds #AskAnne http://t.co/0yRtyOEarw", :followers=>971, :user_id=>2874674323, :retweet=>0}
+{:name=>"@IMJulieWatson", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/Es2SDIahPt", :followers=>1436, :user_id=>146768539, :retweet=>0}
+{:name=>"@Work4Coffee", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/QyXhE4AL0j", :followers=>24, :user_id=>1678077025, :retweet=>0}
+{:name=>"@Morgan__Spencer", :text=>"Calling Immediately Available Secretaries/PA’s, London, £30k-35k, Admin &amp; Secretarial http://t.co/cmHhR1Ek23 #jobs", :followers=>116, :user_id=>297961091, :retweet=>0}
+{:name=>"@visitlondon", :text=>"@Bradley60318816 follow the link in the tweet: http://t.co/zlLj0VCiSz", :followers=>300637, :user_id=>36054262, :retweet=>0}
+{:name=>"@IloveGAAMSocial", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/7y9vIx64uN", :followers=>3091, :user_id=>86129574, :retweet=>0}
+{:name=>"@IndieRingtones", :text=>"Now playing: Stephen Malkmus - Wicked Wanda on London Burning Web Radio - http://t.co/79xnK81VsM", :followers=>47, :user_id=>2315629554, :retweet=>0}
+{:name=>"@income4uonline", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/lGvqtKHtml", :followers=>1571, :user_id=>81321972, :retweet=>0}
+{:name=>"@koukidis", :text=>"Now playing: Stephen Malkmus - Wicked Wanda on London Burning Web Radio - http://t.co/umtNNImTbM", :followers=>146, :user_id=>2311907820, :retweet=>0}
+{:name=>"@lbwebradio", :text=>"Now playing: Stephen Malkmus - Wicked Wanda on London Burning Web Radio - http://t.co/EInQgUyh9g", :followers=>626, :user_id=>30032227, :retweet=>0}
+{:name=>"@PimlicoPlumbers", :text=>"Pimlico’s drain services team deal with all types of drain blockages anywhere in London 24 hours a day. Call 0207 928 8888.", :followers=>7687, :user_id=>31711513, :retweet=>0}
+{:name=>"@Bajuluoflife", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/OwDDjxS4pR", :followers=>1135, :user_id=>1462664562, :retweet=>0}
+{:name=>"@OldLondonDocks", :text=>"LOTD (Post-175874) @ [O.L.D.] BestFeeds (http://t.co/rjifKmbWL0) - #SecondLife #WornClothes #SL #Fashion http://t.co/E563yx5oYr", :followers=>628, :user_id=>96936541, :retweet=>0}
+{:name=>"@positivepoluk", :text=>"RT @itvlondon: Britain's longest serving police officer hangs up his badge after 47 years http://t.co/A1cVHPm11f http://t.co/49aTf4xmEE", :followers=>5957, :user_id=>2358634578, :retweet=>4}
+{:name=>"@CharlieChar15", :text=>"@LoveOnlyHere Studying in London &amp; wanna save money? Select London from the drop down menu and take a read: http://t.co/JpyDTUoewK", :followers=>37, :user_id=>217184528, :retweet=>0}
+{:name=>"@mahmooa1", :text=>"RT @ScottyNational: Campaign news: FM tells London that 'the deficit is not the point'. Another referendum or two is.", :followers=>277, :user_id=>197732739, :retweet=>4}
+{:name=>"@andyamholst", :text=>"(alter Physikerwitz)\n\ntreffen sich zwei Quantenmechaniker\n/der eine in London\n/der andre in Wuppertal\n/sagt der eine…\n\nusw.\n/[dr' Zoch kütt]", :followers=>1811, :user_id=>29677057, :retweet=>0}
+{:name=>"@andydaniell", :text=>"@i_skream @xoyo_london @midnightmagicny @dimitriparis @horsemeatdisco Looking forward to it.", :followers=>7727, :user_id=>36043808, :retweet=>0}
+{:name=>"@bajulous", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/C1w5ARc6Y1", :followers=>38, :user_id=>547836494, :retweet=>0}
+{:name=>"@Chas_I_Am", :text=>"London Fire Brigade Expects Spike in Emergency Calls After Release of ’50 Shades of Grey’ http://t.co/Btkr379vJy", :followers=>103, :user_id=>1853115830, :retweet=>0}
+{:name=>"@marriedbutbored", :text=>"Married but Bored welcomes Blake in London, SW20. Chat free at http://t.co/YfH9dAY1Qv #discreetencounters", :followers=>104, :user_id=>433941808, :retweet=>0}
+{:name=>"@linkuptv", :text=>"New Video: Re-Upload: Originators (ft P Money, OGz &amp; Flirta D) Boiler Room London Live Set - http://t.co/Qvi3W8DE91", :followers=>59148, :user_id=>46896918, :retweet=>0}
+{:name=>"@guide2tricks", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/FQ7q5mnPUF", :followers=>564, :user_id=>572737928, :retweet=>0}
+{:name=>"@bajulous", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/BWSKqzrcmf", :followers=>38, :user_id=>547836494, :retweet=>0}
+{:name=>"@OnlireeksTech", :text=>"#Tech Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/dVqYytpr9B #Onlireeks", :followers=>552, :user_id=>269360866, :retweet=>0}
+{:name=>"@ismelho", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/JB8il35Oyx", :followers=>306, :user_id=>1645861206, :retweet=>0}
+{:name=>"@chloebrayxo", :text=>"London bound with bae 😘😍💋💞🇬🇧", :followers=>679, :user_id=>567365951, :retweet=>0}
+{:name=>"@SSMAAds", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/aGYboyf1gi", :followers=>14513, :user_id=>1619859326, :retweet=>0}
+{:name=>"@Bam_Bam_Sound", :text=>"set times for @pow_london tonight: Main room\n10pm Bam Bam Sound\n12:15 Daddy G\n1:45 Count Skylarkin\nDeemas J on the Mic all night long", :followers=>228, :user_id=>356086578, :retweet=>0}
+{:name=>"@Games_Vale", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/re3ZZOuipl", :followers=>68, :user_id=>954739286, :retweet=>0}
+{:name=>"@ConnectedBRS", :text=>"RT @vipermarketing: Silicon Gorge is building. Government report confirms #Bristol is the second biggest digital tech city in UK http://t.c…", :followers=>47, :user_id=>1324630207, :retweet=>1}
+{:name=>"@adsociale", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/CHF4ydGCQ5", :followers=>19, :user_id=>1614704773, :retweet=>0}
+{:name=>"@RugbyDiscipline", :text=>"NEWS: Mo Farah has said he'll break his record at the next London Marathon. \nHe hopes to finish in less than 3.2 Salford coaches.", :followers=>1893, :user_id=>2411583696, :retweet=>0}
+{:name=>"@GeorgeZisPaun", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/vMkwv7N2G0", :followers=>15, :user_id=>1466995280, :retweet=>0}
+{:name=>"@heyhleb", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/jPXdZn2TJU", :followers=>50, :user_id=>1597096567, :retweet=>0}
+{:name=>"@cherryhatch", :text=>"RT @Cheval_London: #FreebieFriday Win a 2 Night Stay @Cheval_London with Champagne &amp; Chocolates #ValentinesDay any day of the Year! http://…", :followers=>1540, :user_id=>214661016, :retweet=>57}
+{:name=>"@bsm139", :text=>"RT @Cheval_London: #FreebieFriday #Competition is now live.  For a chance to win a 2 Night Stay, Champaign &amp; Chocolates Retweet and Follow …", :followers=>415, :user_id=>25872575, :retweet=>47}
+{:name=>"@gretaharumi", :text=>"RT @MTVUK: Dakota Johnson &amp; @JamieDornan loosen up as #FiftyShadesOfGrey hits London! http://t.co/LHTG05TxPM http://t.co/n7HiIIdneD", :followers=>106, :user_id=>817337790, :retweet=>67}
+{:name=>"@Kurtycrawford", :text=>"RT @GazGShore: Morninnngggg filming today in London!! London is crazy in the morning 🏃👫🚴☕️", :followers=>32, :user_id=>2783601307, :retweet=>55}
+{:name=>"@adamant_nz", :text=>"RT @garyturner: A post Xerocon London celebration breakfast with the @Xero UK team in Milton Kanye this morning. http://t.co/yFBJYianW6", :followers=>97, :user_id=>2820951518, :retweet=>1}
+{:name=>"@rubensjose", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/69JbEmYuER", :followers=>6538, :user_id=>60570739, :retweet=>0}
+{:name=>"@spabreaks", :text=>"RT @AppleyardLondon: [BLOG] #Competition Time With @spabreaks - #Win our Decadence bouquet! Find out how - http://t.co/kOXvFvM3P3 http://t.…", :followers=>8918, :user_id=>115081475, :retweet=>1}
+{:name=>"@YesYourVideo", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/SEdXyDEvFU", :followers=>8, :user_id=>1572384318, :retweet=>0}
+{:name=>"@vandana_india", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/bkl5AgT0VN", :followers=>1955, :user_id=>253633235, :retweet=>0}
+{:name=>"@AMaddrey", :text=>"RT @History_Pics: Telephone Engineer, London, 1920s. http://t.co/PIVT3kHkWz", :followers=>13, :user_id=>1692336806, :retweet=>251}
+{:name=>"@EmelOturu", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/rGhwLY71bn", :followers=>208, :user_id=>558750987, :retweet=>0}
+{:name=>"@Col_Connaughton", :text=>"Thousands March In Free Palestine Protest, London 26/07/14 https://t.co/98Dnl2oxWn #gaza #palestine #israel #BDS", :followers=>1972, :user_id=>379851447, :retweet=>0}
+{:name=>"@InPrimroseHill", :text=>"RT @Proj_Awesome_UK: @InPrimroseHill is t he very best venue in all of London for awesomeness and views  @SmudgerAndy", :followers=>4341, :user_id=>223082584, :retweet=>1}
+{:name=>"@LondonHigher", :text=>"#Diversity in HE Leadership: London Higher's CEO @Jane_Glanville shares her personal experiences in this week's blog http://t.co/1rdngFnZXo", :followers=>202, :user_id=>1432721203, :retweet=>0}
+{:name=>"@London___Music", :text=>"@SLURRP1 Spoonys House is back &gt; 27th Feb @ The Jazz Café, Camden  http://t.co/pbXc0nRTAB …. Tickets &gt; http://t.co/QXZjcaeDPI … Pls RT", :followers=>25, :user_id=>210967067, :retweet=>0}
+{:name=>"@archdutchessof2", :text=>"RT @Batteryhq: Inside the @NHM_London. What a grand old building. http://t.co/XCFGsjllw6", :followers=>257, :user_id=>2977810530, :retweet=>3}
+{:name=>"@danny_taylor68", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/Yr4EsyWTfo", :followers=>368, :user_id=>217323400, :retweet=>0}
+{:name=>"@shelbylaneMD", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/2CN9yuclKo", :followers=>29448, :user_id=>18383195, :retweet=>0}
+{:name=>"@LavaUnited", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/BiA1MakmFG", :followers=>1231, :user_id=>256702081, :retweet=>0}
+{:name=>"@davidandre82", :text=>"RT @Darlene4NY: The London Fire Brigade is sending out warnings to 50 Shades of Grey fans...(kind of a must read) http://t.co/dDZn48AEGl", :followers=>182, :user_id=>28261439, :retweet=>1}
+{:name=>"@Desarrollapp", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/vqG9ZH4YzL", :followers=>2085, :user_id=>743265872, :retweet=>0}
+{:name=>"@burech19", :text=>"RT @standardnews: Pedestrian in hospital after 'serious' crash with lorry http://t.co/6YohucpYmJ http://t.co/IkEyNNFcOH", :followers=>72, :user_id=>2543209880, :retweet=>10}
+{:name=>"@ThomasPeng", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/OqAJWaGGmF", :followers=>849, :user_id=>93112282, :retweet=>0}
+{:name=>"@alison5739", :text=>"London was class 🙌🇬🇧", :followers=>134, :user_id=>1063882634, :retweet=>0}
+{:name=>"@UCWNews", :text=>"#NYC #London #Europe At the Gates of Paradise - Assisi, Italy, Europe http://t.co/ETaQvl5Jxq", :followers=>919, :user_id=>55232967, :retweet=>0}
+{:name=>"@OllieReaney", :text=>"RT @JeremyClarkson: @BJGoldsmith Every time you tweet about the environment, I'm going to buy another patio heater.\nTraffic in London tonig…", :followers=>165, :user_id=>3009259647, :retweet=>19}
+{:name=>"@Violetsmum", :text=>"RT @Londonist: A short film for Friday 13th &amp; Valentine's: He Took His Skin Off For Me #LondonShorts http://t.co/seteyRrd8x http://t.co/Tbd…", :followers=>6, :user_id=>20673250, :retweet=>22}
+{:name=>"@TPWendy", :text=>"RT @GroundworkLON: Calling all current &amp; ex Groundwork London employees &amp; volunteers, join the Groundwork Alumni group on @LinkedIn http://…", :followers=>235, :user_id=>2791877470, :retweet=>1}
+{:name=>"@UCWNews", :text=>"#NYC #London #Europe Stunning old renovated property on the French Riviera http://t.co/VQkorrVy4u", :followers=>919, :user_id=>55232967, :retweet=>0}
+{:name=>"@vipermarketing", :text=>"Silicon Gorge is building. Government report confirms #Bristol is the second biggest digital tech city in UK http://t.co/iOniFSSnPN #vmcg", :followers=>1030, :user_id=>22682937, :retweet=>1}
+{:name=>"@pattyblest", :text=>"Domestic abuse protest at London premiere of 'Fifty Shades of Grey': LONDON — Stars of Fifty Shades of Grey we... http://t.co/EsKljWqght", :followers=>49, :user_id=>498533472, :retweet=>0}
+{:name=>"@UCWNews", :text=>"#NYC #London #Europe Luxury Villa Los Suenos Resort and Marina http://t.co/aHZLJJHUPn", :followers=>919, :user_id=>55232967, :retweet=>0}
+{:name=>"@MorrisonIsaac2", :text=>"Fan thus and so fitly towards ring in links pertaining to london rapport collarband: uSjryXiM", :followers=>50, :user_id=>1240640712, :retweet=>0}

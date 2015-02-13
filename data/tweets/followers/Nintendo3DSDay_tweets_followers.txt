@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-{:name=>"@NintendoEurope", :text=>"RT @NOF_Mario: It's-a me, Mario! #New3DS is finally here. Happy #Nintendo3DSDay everyone! :) http://t.co/K6IcJdyrTG", :followers=>113804, :user_id=>493980491, :retweet=>9}
-{:name=>"@vanschuppen", :text=>"#FridayThe13th, #ValentinesDay #50SOG AND #Nintendo3DSDay .. all the right ingredients for a great Cluster F*ck #weekend", :followers=>11552, :user_id=>37957313, :retweet=>0}
-{:name=>"@jomarise", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>8898, :user_id=>15147882, :retweet=>378}
-=======
-{:name=>"@iTweetero", :text=>"RT @sexy_girls_24: ⚽ #lol #love  🈶 #Nintendo3DSDay  🐍 Meet new People here &gt;&gt;  http://t.co/J4j0629YiE http://t.co/w3xegLwi8T", :followers=>28605, :user_id=>240851425, :retweet=>52}
-{:name=>"@neon_toilet", :text=>"RT @StreetPassUK: New Puzzle available! Super Smash Bros for 3DS/Wii U! #Nintendo3DSDay http://t.co/6Wm6CZLaGx", :followers=>23053, :user_id=>281092760, :retweet=>11}
-{:name=>"@neon_toilet", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>23053, :user_id=>281092760, :retweet=>486}
->>>>>>> development
+{:name=>"@hesvocals", :text=>"RT @georgeujworld: Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay…", :followers=>3698, :user_id=>560361396, :retweet=>270}
+{:name=>"@Pagan500", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>2631, :user_id=>171845413, :retweet=>510}
+{:name=>"@rwhitehouse13", :text=>"RT @Kotaku_UK: We're about to make someone's day with a Majora's Mask New 3DS XL + Skull Kid. Reply with #Nintendo3DSday to enter. http://t…", :followers=>2035, :user_id=>37746934, :retweet=>38}

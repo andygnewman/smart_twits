@@ -1,0 +1,3 @@
+{:text=>"RT @ChiRestaurant: Squirrel curry anyone? Cinnamon Club puts roasted rodent on the menu - http://t.co/QJblcn1bf5 http://t.co/niuFUpyzPe", :retweet=>540}
+{:text=>"RT @History_Pics: Telephone Engineer, London, 1920s. http://t.co/PIVT3kHkWz", :retweet=>251}
+{:text=>"RT @MTVUK: Dakota Johnson &amp; @JamieDornan loosen up as #FiftyShadesOfGrey hits London! http://t.co/LHTG05TxPM http://t.co/n7HiIIdneD", :retweet=>67}

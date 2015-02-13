@@ -1,3 +1,0 @@
-{:name=>"@tagesspiegel", :text=>"RT @martinhobbes: Das Falsche im Richtigen. @MalteLehming über ein Kriegsverbrechen der Alliierten #ddnf #13feb http://t.co/xPUZeAKG8i http…", :followers=>155673, :user_id=>22926365, :retweet=>5}
-{:name=>"@Plane_Talking", :text=>"Beautiful landmarks destroyed by Second World War bombs - and resurrected: Seventy years after Dresden was lev... http://t.co/FRH0t9fTiV", :followers=>65245, :user_id=>20577889, :retweet=>1}
-{:name=>"@iBinThaleth", :text=>"'We thought Dresden was invincible': 70 years after the destruction of a city http://t.co/TIYuc2xARb", :followers=>56752, :user_id=>384455157, :retweet=>1}

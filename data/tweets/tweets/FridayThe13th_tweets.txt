@@ -1,353 +1,100 @@
-<<<<<<< HEAD
-{:name=>"@michelleburkemb", :text=>"RT @UsitTravel: Apparently 1 in 10 people choose not to fly on #Fridaythe13th.  Are you superstitious when it comes to travel? http://t.co/…", :followers=>184, :user_id=>270254848, :retweet=>1}
-{:name=>"@KhaanRaptorex", :text=>"It's Friday!... The 13th. Uh-oh! :D #FridayThe13th", :followers=>13, :user_id=>1953909380, :retweet=>0}
-{:name=>"@CavalierStudios", :text=>"Hope you are all having a good #FridayThe13th :-)", :followers=>517, :user_id=>328159427, :retweet=>0}
-{:name=>"@Saqlainz", :text=>"#FridayThe13th? The bloodiest day ever!", :followers=>3371, :user_id=>468724980, :retweet=>0}
-{:name=>"@RobGemmellsView", :text=>"Happy Friday the 13th...\n#FridayThe13th http://t.co/ccMIN4tEGY", :followers=>40, :user_id=>2608854818, :retweet=>0}
-{:name=>"@IPriscillia", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>337, :user_id=>528603760, :retweet=>24}
-{:name=>"@bhenzieo23", :text=>"hindi lahat ng GREEN masustansya !!\n#FridayThe13th", :followers=>13, :user_id=>2479520347, :retweet=>0}
-{:name=>"@Imperfecction__", :text=>"RT @UnusualHorror: Happy #FridayThe13th ! http://t.co/0eI8kpKWnX", :followers=>292, :user_id=>2304624357, :retweet=>58}
-{:name=>"@LesoMoi", :text=>"Just realized...its #FridayThe13th", :followers=>203, :user_id=>416312773, :retweet=>0}
-{:name=>"@KevinMcG2", :text=>"Tea break delayed because of cracked cup leading to tea leaking out #FridayThe13th has struck!", :followers=>36, :user_id=>264738102, :retweet=>0}
-{:name=>"@crespokreme", :text=>"RT @AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂", :followers=>592, :user_id=>558317369, :retweet=>9}
-{:name=>"@abbyshepherd", :text=>"RT @AngrySalmond: In an independent Scotland, on #FridayThe13th everyone will win the national lottery. Twice. #SexySocialism", :followers=>268, :user_id=>31948455, :retweet=>25}
-{:name=>"@VampireJhass", :text=>"RT @AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂", :followers=>592, :user_id=>308813620, :retweet=>9}
-{:name=>"@modabots", :text=>"Hope you are all having a lucky #FridayThe13th !", :followers=>231, :user_id=>178428213, :retweet=>0}
-{:name=>"@ktfuntweets", :text=>"DON'T F THIS UP METROPLEX!!!!!!! RT @TammyDombeckCBS: Great start to your #FridayThe13th commute ! @CBSDFW", :followers=>10795, :user_id=>16477048, :retweet=>0}
-{:name=>"@DennisRGillis", :text=>"Now I know #FridayThe13th is NOT unlucky for @ToddCTV; gets to sit between the lovely and cool @MarciIen &amp; @DeniseCTV on @CTVCanadaAM! :D", :followers=>349, :user_id=>218768201, :retweet=>0}
-{:name=>"@imcharliesantos", :text=>"Ang malas #FridayThe13th seriously. 😒", :followers=>1653, :user_id=>284060030, :retweet=>0}
-{:name=>"@jackalexroberts", :text=>"RT @studentbeans: Satan in the front seat.\nSatan in the back seat.\n#FridayThe13th http://t.co/ALEQZVA2fq", :followers=>114, :user_id=>2210771762, :retweet=>6}
-{:name=>"@clifforddrizzle", :text=>"RT @TantrumLia: Happiest Day Ever with gals @clifforddrizzle @immortalpunkass @IanaGnzls #FridayThe13th", :followers=>4221, :user_id=>562785410, :retweet=>2}
-{:name=>"@PurpleFP", :text=>"RT @PrincePartyUK: FRIDAY 13th? - STAY FUNKY! #prince #princearmy #princeparty #funk #funkyfriday #FridayThe13th http://t.co/R1EoF2uVkl", :followers=>630, :user_id=>1584013315, :retweet=>3}
-{:name=>"@maged1104", :text=>"RT @BBCOne: If danger arises, make sure you ask the right questions… #FridayThe13th http://t.co/nwxLszGAtM", :followers=>31, :user_id=>274009596, :retweet=>141}
-{:name=>"@coffee_affair", :text=>"RT @mycafeneo: So true RT @coffee_affair: #coffee tastes better on a #friday even if it's #FridayThe13th #coffeetime #coffeelovers http://t…", :followers=>545, :user_id=>146087338, :retweet=>1}
-{:name=>"@pizzarese", :text=>"#FridayThe13th sa bahay ako minalas", :followers=>438, :user_id=>1214633636, :retweet=>0}
-{:name=>"@coleenhoranx", :text=>"#FridayThe13th", :followers=>98, :user_id=>2941600200, :retweet=>0}
-{:name=>"@LOUCHAUD", :text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :followers=>278, :user_id=>2851157944, :retweet=>248}
-{:name=>"@vincedgregory", :text=>"#UpBefore5am on #FridayThe13th http://t.co/a3Tut8vgay", :followers=>24857, :user_id=>339259792, :retweet=>0}
-{:name=>"@Burkeeboy", :text=>"It's FRIDAY!  Just hours from now...this will be me!  #itsfriday #FridayThe13th #Friday http://t.co/qcm2lZTfOV", :followers=>3731, :user_id=>22715924, :retweet=>0}
-{:name=>"@Stephy_Gangadin", :text=>"RT @vehicle_lease: Happy #FridayThe13th ! Are any of you superstitious? #motorhappy http://t.co/K5Y5H6cnVF", :followers=>553, :user_id=>256243266, :retweet=>9}
-{:name=>"@Ultamentkiller", :text=>"For all those going out tonight to get lucky, you might want to rethink your approach. #FridayThe13th", :followers=>341, :user_id=>103446286, :retweet=>0}
-{:name=>"@DdScissorhands", :text=>"RT @BBCOne: If danger arises, make sure you ask the right questions… #FridayThe13th http://t.co/nwxLszGAtM", :followers=>49, :user_id=>1409790194, :retweet=>141}
-{:name=>"@kathleenrawwwr", :text=>"RT @AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂", :followers=>1095, :user_id=>419461511, :retweet=>9}
-{:name=>"@JonMcAndrei1199", :text=>"Worth it talaga! Ansarap sa feeling! :) #FridayThe13th #HAPPYSaValentines", :followers=>139, :user_id=>1510015892, :retweet=>0}
-{:name=>"@mebleue", :text=>"RT @paddingtonbear: Mr Gruber says #Fridaythe13th is unlucky for some. I have an extra emergency sandwich under my hat today just in case.", :followers=>95, :user_id=>1683132264, :retweet=>18}
-{:name=>"@kyliiiiing", :text=>"#FridayThe13th yan tuloy! Palpak laging may palpak date namin ni caricature at editorial! Hahaha @rheamalz", :followers=>113, :user_id=>2524109022, :retweet=>0}
-{:name=>"@WhoDatt_Ohrell", :text=>"Don't believe in that bad luck shit #FridayThe13th", :followers=>449, :user_id=>237054875, :retweet=>0}
-{:name=>"@THED0MD0M", :text=>"#fridaythe13th", :followers=>110, :user_id=>1490422802, :retweet=>0}
-{:name=>"@DaleHooley", :text=>"Happy #FridayThe13th everyone :)", :followers=>15, :user_id=>2976175187, :retweet=>0}
-{:name=>"@JMDTCrew", :text=>"#FridayThe13th I HATE YOU! #BadDAY", :followers=>207, :user_id=>2546037487, :retweet=>0}
-{:name=>"@AlexFeddy", :text=>"Всех с 13 февраля! #пятница13 #FridayThe13th #February #Feb13th  #деньперед14 #выживуттольколюбовники http://t.co/MBOyqMBMCF", :followers=>41, :user_id=>335251059, :retweet=>0}
-{:name=>"@imdanapadilla", :text=>"#FridayThe13th hhmmmmm? Wala namang masamang nangyare sakin. 😃 Nahilo lang 😷", :followers=>768, :user_id=>2197514208, :retweet=>0}
-{:name=>"@Weddingmagazine", :text=>"t's #FridayThe13th - so here's how to avoid DISASTER on your #wedding day: http://t.co/UAXnZpD14G http://t.co/VfxQHWFww7", :followers=>108100, :user_id=>47612430, :retweet=>0}
-{:name=>"@kor39699", :text=>"RT @killer_kitsch: Happy #FridayThe13th! http://t.co/3JIVW4TMJP", :followers=>141, :user_id=>455564177, :retweet=>58}
-{:name=>"@SanchezRakks", :text=>"Yung nakita ko pagmumuka mo. 😂 #FridayThe13th", :followers=>826, :user_id=>1951527536, :retweet=>0}
-{:name=>"@LeratoBoledi", :text=>"#OutWithBigSis #FridayThe13th #Family #Love #Cakeeee http://t.co/WXgtKX05xt", :followers=>178, :user_id=>2422694523, :retweet=>0}
-{:name=>"@Karlolooo", :text=>"#FridayThe13th", :followers=>553, :user_id=>566023354, :retweet=>0}
-{:name=>"@daradelevingne", :text=>"#FridayThe13th Style MV", :followers=>77, :user_id=>2481489788, :retweet=>0}
-{:name=>"@MightyDeals_UK", :text=>"Sorry if you're having trouble buying stuff on the site! Our server has realised it's #FridayThe13th... Back soon! http://t.co/bNbEs9LPA3", :followers=>39, :user_id=>2731265342, :retweet=>0}
-{:name=>"@sweettime2007", :text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :followers=>342, :user_id=>424078858, :retweet=>2432}
-{:name=>"@ANJanpalagi", :text=>"RT @AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂", :followers=>814, :user_id=>291075214, :retweet=>9}
-{:name=>"@yazmiller", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>263, :user_id=>28442833, :retweet=>24}
-{:name=>"@NadineRox_", :text=>"Woke up with a cold haha #FridayThe13th #mybirthday 😩", :followers=>4566, :user_id=>472422069, :retweet=>0}
-{:name=>"@madamTARAY", :text=>"RT @Just_Tisoy: So, it's still Friday the 13th. \nAnyone feeling lucky 😜 #FridayThe13th", :followers=>93897, :user_id=>1384496605, :retweet=>11}
-{:name=>"@Geek_Island", :text=>"Happy Friday The Thirteenth #FridayThe13th #JasonVoorhees #Jason #horror #Horror http://t.co/MrhXlErMow", :followers=>164, :user_id=>521168684, :retweet=>0}
-{:name=>"@tomoyoafter", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>61, :user_id=>17649629, :retweet=>595}
-{:name=>"@i_piawz", :text=>"เชี้ยเหี้ย\n#FridayThe13th", :followers=>213, :user_id=>1391493368, :retweet=>0}
-{:name=>"@iamtherealKD", :text=>"Jus today and then it's half term 👍😊 #FridayThe13th #halfterm", :followers=>18, :user_id=>2956063913, :retweet=>0}
-{:name=>"@justmebeingme4", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>1624, :user_id=>187147866, :retweet=>24}
-{:name=>"@FamiTks", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>10, :user_id=>2998978724, :retweet=>595}
-{:name=>"@securingmatt", :text=>"Friday the 13th 👻🎃 watch ya selves #FridayThe13th", :followers=>7510, :user_id=>311735623, :retweet=>0}
-{:name=>"@AdhwaIdris", :text=>"RT @UnusualHorror: Happy #FridayThe13th ! http://t.co/0eI8kpKWnX", :followers=>140, :user_id=>949550929, :retweet=>58}
-{:name=>"@gianxnalagon29", :text=>"#FridayThe13th Nothing bad happened to me.... de joke.... Yung isa kasi jan...", :followers=>688, :user_id=>2916475009, :retweet=>0}
-{:name=>"@KirocoJewellery", :text=>"Spreading some good luck for #FridayThe13th ... http://t.co/WslBlSOfQ6", :followers=>1133, :user_id=>163826528, :retweet=>0}
-{:name=>"@manaladjn", :text=>"#FridayThe13th daming magka HHWW 😏🌵", :followers=>750, :user_id=>570712735, :retweet=>0}
-{:name=>"@arunarriane", :text=>"F*** it man.... Journal and lab report at the same time..??!! and goin to die... #FridayThe13th #Biochemistry", :followers=>46, :user_id=>467174769, :retweet=>0}
-{:name=>"@ChenEXO_21", :text=>"#FridayThe13th &lt;3", :followers=>280, :user_id=>2915537498, :retweet=>0}
-{:name=>"@LoraLouuz", :text=>"#FridayThe13th  myy kinda day! Wonder what might go wrong...hmmn?!", :followers=>70, :user_id=>450992348, :retweet=>0}
-{:name=>"@Veezy_Bauer", :text=>"Sometimes we need a reminder of why we fight...to keep us in track...#FridayThe13th", :followers=>505, :user_id=>227536555, :retweet=>0}
-{:name=>"@JHSTNEVCNVNT", :text=>"Daming Flowers may patay ? HAHAHA #FridayThe13th", :followers=>355, :user_id=>1108930496, :retweet=>0}
-{:name=>"@Ragga0", :text=>"Happy Friday the 13th! \nMay all your irrational superstition \nhaunt you today!! :-) \n#fridaythe13th #jason http://t.co/o1PJlHMCab via @giphy", :followers=>1847, :user_id=>48125703, :retweet=>0}
-{:name=>"@_Nunas_", :text=>"#FridayThe13th Dont Drink-Dont Party-Dont Go Out-Dont Smoke-Dont have s3x-,Dont be Responsible? Wait-A-minute That Doesn't Sound Right (O_o)", :followers=>1010, :user_id=>337155434, :retweet=>0}
-{:name=>"@themightydjm", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>79, :user_id=>223224011, :retweet=>52}
-{:name=>"@mark_quicay", :text=>"La kong pake kung Friday The 13th Ngayon XD                           #FridayThe13th", :followers=>53, :user_id=>2936335227, :retweet=>0}
-{:name=>"@Lettequeen", :text=>"RT @lordkayoss: Happy Friday the 13th! And Happy Birthday to Him!!!!! #FridayThe13th #JasonVoorhees http://t.co/7ldzqLC7cf", :followers=>97, :user_id=>2993717083, :retweet=>1}
-{:name=>"@SwaggerScan", :text=>"RT @HuffPostUK: This is why everybody is so terrified of #FridayThe13th http://t.co/BzWJIjPXiF http://t.co/6kJxTX1kM9", :followers=>1618, :user_id=>2310462195, :retweet=>149}
-{:name=>"@tombuckmaster", :text=>"#creepy we hit 666 subscribers #FridayThe13th http://t.co/5JCTylsq9I", :followers=>6793, :user_id=>2904361306, :retweet=>0}
-{:name=>"@collins_vicky", :text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :followers=>328, :user_id=>849884904, :retweet=>248}
-{:name=>"@plazalattizia", :text=>"RT @AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂", :followers=>2300, :user_id=>570699053, :retweet=>9}
-{:name=>"@mattspencer67", :text=>"RT @paddingtonbear: Mr Gruber says #Fridaythe13th is unlucky for some. I have an extra emergency sandwich under my hat today just in case.", :followers=>44, :user_id=>233121920, :retweet=>18}
-{:name=>"@TammyDombeckCBS", :text=>"Great start to your #FridayThe13th commute ! @CBSDFW", :followers=>10461, :user_id=>296998465, :retweet=>0}
-{:name=>"@JoshuaBrownnnn", :text=>"Need drakes new mixtape but my laptop won't work #FridayThe13th", :followers=>349, :user_id=>537467300, :retweet=>0}
-{:name=>"@melendy_lane", :text=>"RT @HuffPostUK: This is why everybody is so terrified of #FridayThe13th http://t.co/BzWJIjPXiF http://t.co/6kJxTX1kM9", :followers=>35, :user_id=>1539003122, :retweet=>149}
-{:name=>"@motsugarasu", :text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :followers=>397, :user_id=>148507905, :retweet=>2432}
-{:name=>"@Luke_plevin", :text=>"I'd forgotten it was #FridayThe13th today.", :followers=>337, :user_id=>110755601, :retweet=>0}
-{:name=>"@ToluwaO_", :text=>"RT @UnusualHorror: Happy #FridayThe13th ! http://t.co/0eI8kpKWnX", :followers=>106, :user_id=>1390790348, :retweet=>58}
-{:name=>"@VerzosaMica", :text=>"#FridayThe13th", :followers=>248, :user_id=>2156374766, :retweet=>0}
-{:name=>"@yoitsjshit", :text=>"\"@AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂\"", :followers=>2091, :user_id=>2490088853, :retweet=>0}
-{:name=>"@Aiyoungs", :text=>"\"@AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂\"", :followers=>529, :user_id=>781788080, :retweet=>0}
-{:name=>"@Picnickstudio", :text=>"#FF Thanks for the follows @angellydesigns @GWBlueSkies &amp; @tangibledisplay Have a great #FridayThe13th", :followers=>95, :user_id=>2978359979, :retweet=>0}
-{:name=>"@samarc2", :text=>"RT @HuffPostUK: This is why everybody is so terrified of #FridayThe13th http://t.co/BzWJIjPXiF http://t.co/6kJxTX1kM9", :followers=>110, :user_id=>372539720, :retweet=>149}
-{:name=>"@RidgeLLP", :text=>"Good morning Twitter, how fast this week has gone! Who has the #Fridayfeeling then?! Even if it is #FridayThe13th...", :followers=>1163, :user_id=>1709676613, :retweet=>0}
-{:name=>"@Lee_JM75", :text=>"Starting today off in the right way. #FridayThe13th http://t.co/IpIUiYNbKy", :followers=>433, :user_id=>472978014, :retweet=>0}
-{:name=>"@nessawby", :text=>"#FridayThe13th http://t.co/QDfODDRRtt", :followers=>1689, :user_id=>575174631, :retweet=>0}
-{:name=>"@ECarlick", :text=>"#FridayThe13th", :followers=>9, :user_id=>1264393327, :retweet=>0}
-{:name=>"@immortalpunkass", :text=>"RT @TantrumLia: Happiest Day Ever with gals @clifforddrizzle @immortalpunkass @IanaGnzls #FridayThe13th", :followers=>3703, :user_id=>1714995576, :retweet=>2}
-{:name=>"@JadeKendall1982", :text=>"RT @TPFLaw: It's #FridayThe13th unlucky for some, but not if you enter our #competition #RT #follow #goodluck #win #prizes, see our pinned …", :followers=>239, :user_id=>1494067993, :retweet=>8}
-{:name=>"@sayyelyah", :text=>"#FridayThe13th lol", :followers=>12, :user_id=>299231863, :retweet=>0}
-{:name=>"@Jamie_freebird", :text=>"It's a good job I never know the day, or the date for that matter...\n\n#FridayThe13th", :followers=>346, :user_id=>1260868310, :retweet=>0}
-{:name=>"@IchiharaRoi12", :text=>"#FridayThe13th may kapareh ko ng t- shirt kanina huehue couple shirt daw lul", :followers=>814, :user_id=>1337979859, :retweet=>0}
-{:name=>"@kaSiaa_xO", :text=>"#FridayThe13th please be good to me! 🙏", :followers=>71, :user_id=>372207605, :retweet=>0}
-{:name=>"@nurhilalliyahS", :text=>"#FridayThe13th", :followers=>291, :user_id=>1904376138, :retweet=>0}
-{:name=>"@zeeeyann", :text=>"It's still my favorite number. 😊😊 #FridayThe13th #365thday http://t.co/ujTXD3ZsGY", :followers=>73, :user_id=>1100489124, :retweet=>0}
-{:name=>"@Weet2113", :text=>"今天是黑色星期五嘛 #FridayThe13th", :followers=>312, :user_id=>473934121, :retweet=>0}
-{:name=>"@ljk200011", :text=>"\"@UnusualHorror: Happy #FridayThe13th ! http://t.co/FJ1CXs5UC2\" \nFeeling lucky today? I do........", :followers=>896, :user_id=>1660643706, :retweet=>0}
-{:name=>"@WhiskeyForAngel", :text=>"#FridayThe13th", :followers=>1773, :user_id=>1337037319, :retweet=>0}
-{:name=>"@HeartHunter_004", :text=>"#FridayThe13th sa mga Single, SaturrdayThe14th sa mga lumalablyf, anu ang date mo dito????", :followers=>101, :user_id=>2472098864, :retweet=>0}
-{:name=>"@GoodmanMorris", :text=>"Grrrr! Starbucks got my coffee wrong, forgot my pastry &amp; then I got the wrong train! #doh #brains #FridayThe13th", :followers=>401, :user_id=>121081339, :retweet=>0}
-{:name=>"@GetTaxiUK", :text=>"#FridayThe13th before #ValentinesDay, what do you have planned for your loved ones? Or are you planning a #rideofshame on Sunday morning?", :followers=>9523, :user_id=>305506258, :retweet=>0}
-{:name=>"@dakyonashi", :text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :followers=>288, :user_id=>204294807, :retweet=>2432}
-{:name=>"@MarvelIntel", :text=>"RT @MarvelUK: Beware if the Black Cat crosses your path this #FridayThe13th http://t.co/FCLSTaZHWi", :followers=>542, :user_id=>1653651019, :retweet=>25}
-{:name=>"@RhythmStrays", :text=>"RT @RockliffeHall: Happy #FridayThe13th! Doesn't this #ValentinesDay Brasserie menu look delicious?! http://t.co/XZIxEx7XoO Only two tables…", :followers=>106, :user_id=>2978318746, :retweet=>2}
-{:name=>"@kaede_box", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>34, :user_id=>2565310658, :retweet=>595}
-{:name=>"@Sonialovesshoes", :text=>"Be warned people..there are a lot of stroppy people out there today...I'm not one of them! #FridayThe13th 😁", :followers=>287, :user_id=>256424384, :retweet=>0}
-{:name=>"@kiiTyPryL", :text=>"#FridayThe13th Sana Walang Dumating Na Malas Sakin :(", :followers=>32, :user_id=>3010828879, :retweet=>0}
-{:name=>"@TheaFOURChrist", :text=>"Loner XD #FridayThe13th 😁 (@ Abreeza Mall - @ayalamalls in Davao City, Davao del Sur) https://t.co/tfEmBticdj", :followers=>512, :user_id=>1100696281, :retweet=>0}
-{:name=>"@raymartrmro", :text=>"😍 STYLE MV #FridayThe13th", :followers=>844, :user_id=>207554588, :retweet=>0}
-{:name=>"@ShannenRamirez1", :text=>"Having a JOHN MICHAEL friend is not awesome 😔😔 #FridayThe13th", :followers=>42, :user_id=>2160748392, :retweet=>0}
-{:name=>"@jollybottom", :text=>"RT @itvcorrie: Keep Calm - It's #FridayThe13th http://t.co/CF0eOBb3Pz", :followers=>13, :user_id=>28197546, :retweet=>12}
-{:name=>"@interpkatherine", :text=>"RT @PlymouthMuseum: #FridayThe13th Here are some scarab beetles: symbols of the rising sun and new life for good luck #plymouth http://t.co…", :followers=>49, :user_id=>3024865186, :retweet=>1}
-{:name=>"@apanbest", :text=>"RT @Fake_PMLee: #FridayThe13th before #ValentinesDay. \n\nIf you survive tonight, she’s a keeper.", :followers=>189, :user_id=>35775411, :retweet=>21}
-{:name=>"@agrwd", :text=>"欧州には「13日の金曜日に黒ネコを見ると不幸がおこる」という迷信を信じているひとたちがいるらしい(´・ω・`)　#13日の金曜日 #FridayThe13th", :followers=>119, :user_id=>1673393011, :retweet=>0}
-{:name=>"@UsitTravel", :text=>"Apparently 1 in 10 people choose not to fly on #Fridaythe13th.  Are you superstitious when it comes to travel? http://t.co/HViLecRV2w", :followers=>15551, :user_id=>65651991, :retweet=>1}
-{:name=>"@Arica03", :text=>"A \"swiss vacay\" for valentine's holiday. #fridaythe13th #friday #valentines #switzerland #swiss… http://t.co/cvPXB7UELz", :followers=>117, :user_id=>46865327, :retweet=>0}
-{:name=>"@mii_cat0120", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>401, :user_id=>262175731, :retweet=>595}
-{:name=>"@Artfor", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>931, :user_id=>462756355, :retweet=>24}
-{:name=>"@freezebop", :text=>"RT @JasonLVoorhees: Knock knock. \n\nWho's there? \n\nHello? \n\nHello? \n\nCRASH THROUGH WINDOW!! KILL EVERYBODY!! \n\n#classicme\n#FridayThe13th \n#B…", :followers=>112, :user_id=>1316318468, :retweet=>38}
-{:name=>"@MsKayecel", :text=>"B I T T E R \n - minsan lasa\n - minsan ikaw. \n\n#DiBaleNgSingle #FridayThe13th #AllergicAkoSaValentines Pag-ibig Thingy ♥♥", :followers=>308, :user_id=>2751539942, :retweet=>0}
-{:name=>"@halo_13", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>186, :user_id=>151013330, :retweet=>595}
-{:name=>"@MuhFugginKhutso", :text=>"I'm hating every minute of #FridayThe13th", :followers=>155, :user_id=>318089010, :retweet=>0}
-{:name=>"@SportsFanaticPK", :text=>"“@LauraKHettiger: Just realized it's #FridayThe13th... Beware of black cats, ladders and broken mirrors.” And apparently Owls...", :followers=>229, :user_id=>113296618, :retweet=>0}
-{:name=>"@jackiecuddles", :text=>"RT @paddingtonbear: Mr Gruber says #Fridaythe13th is unlucky for some. I have an extra emergency sandwich under my hat today just in case.", :followers=>180, :user_id=>311336496, :retweet=>18}
-{:name=>"@DianaBalderama", :text=>"#FridayThe13th \n#AllergicAkoSaValentines", :followers=>90, :user_id=>1445405989, :retweet=>0}
-{:name=>"@crtzcams", :text=>"Nakakapagod ngunit masayang araw kasama ang mga \"walang hiya\" kong kaibigan. HAHAHAHA! 😉 #FridayThe13th", :followers=>229, :user_id=>609737873, :retweet=>0}
-{:name=>"@Sam_Mielleeeeee", :text=>"naglabasan ang mga bitter #FridayThe13th 😂", :followers=>1252, :user_id=>150873228, :retweet=>0}
-{:name=>"@PermanasariMaya", :text=>"RT @MonaSafitri27: Remember can't reach what's in front of you, until you let go of what's behind you #ChapelHillShooting #FridayThe13th", :followers=>310, :user_id=>2386555668, :retweet=>1}
-{:name=>"@rclbboy", :text=>"@thebonnierotten Happy #FridayThe13th @JasonLVoorhees http://t.co/ZPrUJudpBo", :followers=>5432, :user_id=>91269509, :retweet=>0}
-{:name=>"@HyltonMotors", :text=>"RT @NissanUK: Need something to brighten up your #FridayThe13th? Introducing the glow-in-the-dark #NissanLEAF...\nhttps://t.co/9K3m00iZxR", :followers=>10239, :user_id=>236767158, :retweet=>6}
-{:name=>"@RockySnakes", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>556, :user_id=>2172035783, :retweet=>24}
-{:name=>"@QapaNews", :text=>"Toute l'équipe de @QapaNews vous souhaite un bon vendredi! #FridayThe13th #emploi", :followers=>2154, :user_id=>309570491, :retweet=>0}
-{:name=>"@M4ttr1987", :text=>"RT @TPFLaw: It's #FridayThe13th unlucky for some, but not if you enter our #competition #RT #follow #goodluck #win #prizes, see our pinned …", :followers=>35267, :user_id=>592222488, :retweet=>8}
-{:name=>"@ilovepapadon", :text=>"RT @AbaOkayAh: Saan kaya mas maraming madidisgrasya? #FridayThe13th o Saturday the 14th? 😄😂", :followers=>25782, :user_id=>161595209, :retweet=>9}
-{:name=>"@Kreepylady", :text=>"Horror on TCM all day! HUNCHBACK OF N. DAME, PICTURE OF DORIAN GRAY, BAD SEED, BABY JANE, THE BIRDS, POLTERGEIST. #FridayThe13th", :followers=>4838, :user_id=>22562262, :retweet=>0}
-{:name=>"@Breadheadz777", :text=>"Good Morning Tweetz!™ #FridayThe13th Are you superstitious?", :followers=>106, :user_id=>119582606, :retweet=>0}
-{:name=>"@zahaharra", :text=>"gnawa niyo ang best niyo para manalo sa isang contest.tapos kalabaslabasan,last pala kayo...\n\n#FridayThe13th", :followers=>69, :user_id=>2723949026, :retweet=>0}
-{:name=>"@PaleAlewife", :text=>"RT @ThePubMagazine: #FridayThe13th #BeerTroubleShooting #BeerMe http://t.co/lSuraUaeyV", :followers=>245, :user_id=>2432117513, :retweet=>4}
-{:name=>"@FranSISAce", :text=>"#FridayThe13th pa lng .. ang dami ng nagpasabog knna XD", :followers=>4, :user_id=>2890640502, :retweet=>0}
-{:name=>"@LilMomma___", :text=>"RT @UnusualHorror: Happy #FridayThe13th ! http://t.co/0eI8kpKWnX", :followers=>920, :user_id=>352018363, :retweet=>58}
-{:name=>"@LordJordison", :text=>"Sa sobrang bitter ng mga ampalaya sa valentines bukas halos di na nila namalayan na #FridayThe13th ngayon HAHAHAHA", :followers=>132, :user_id=>2547185154, :retweet=>0}
-{:name=>"@SobarNottm", :text=>"It's #Fridaythe13th but no nightmares here - just delicious #coffee... #coffeelovers", :followers=>1187, :user_id=>1923604442, :retweet=>0}
-{:name=>"@wkyc", :text=>"13 strange -- but very real -- phobias: http://t.co/l3FCUKUGpy. Happy #FridayThe13th! What scares you most? http://t.co/bqRK5WeZS6", :followers=>71457, :user_id=>14296548, :retweet=>0}
-{:name=>"@Heather_2007", :text=>"RT @SamCharlesUK: It's #FridayThe13th is anyone superstitious? http://t.co/VBJWc3ZrpQ", :followers=>3072, :user_id=>9145592, :retweet=>1}
-{:name=>"@ImAnnedelacruz", :text=>"Muntikan nako mabangga, tang-ina #FridayThe13th", :followers=>836, :user_id=>758236590, :retweet=>0}
-{:name=>"@susanjvincent", :text=>"RT @kingsheadgford: Happy #FridayThe13th #Guildford http://t.co/epmTJo6sq3", :followers=>31, :user_id=>2523616109, :retweet=>3}
-{:name=>"@BradYule", :text=>"just realised its #FridayThe13th #superstition", :followers=>292, :user_id=>282253542, :retweet=>0}
-{:name=>"@mirrorzii", :text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :followers=>684, :user_id=>98870523, :retweet=>2432}
-{:name=>"@WildHeart_Cathy", :text=>"#FridayThe13th", :followers=>259, :user_id=>2599145396, :retweet=>0}
-{:name=>"@AC_Peterhead", :text=>"RT @paddingtonbear: Mr Gruber says #Fridaythe13th is unlucky for some. I have an extra emergency sandwich under my hat today just in case.", :followers=>285, :user_id=>2634024071, :retweet=>18}
-{:name=>"@PaulMealor", :text=>"To cheer everyone up on #FridayThe13th have a Friday 13th Martini :-) here's how to make it... http://t.co/pHlslwt2y2", :followers=>3964, :user_id=>424275589, :retweet=>0}
-{:name=>"@Sweetnene28", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>937, :user_id=>522454049, :retweet=>52}
-{:name=>"@TALA11r", :text=>"RT @noor584ksa: #music👏💃\nhttp://t.co/aMBjgUe5hb \n`\n#BritishSexPositions\n#DiaMundialdelaRadio\n#FridayThe13th\n#ifyourereadingthisitstoolate\n#…", :followers=>196, :user_id=>2391633835, :retweet=>1}
-{:name=>"@yowwcathy", :text=>"murag na feel nako ang #FridayThe13th  kay gi napanaog ko sa van huehue !", :followers=>699, :user_id=>2969092794, :retweet=>0}
-{:name=>"@AudreyCazenas", :text=>"Hopefully no one will ruin my day today #FridayThe13th", :followers=>40, :user_id=>2748869233, :retweet=>0}
-{:name=>"@cuimdungo", :text=>"#FridayThe13th Masaya!", :followers=>486, :user_id=>315141727, :retweet=>0}
-{:name=>"@GraceT0wn", :text=>"RT @itvcorrie: Keep Calm - It's #FridayThe13th http://t.co/CF0eOBb3Pz", :followers=>42, :user_id=>1705058738, :retweet=>12}
-{:name=>"@LOUCHAUD", :text=>"RT @StyleAromaCo: Oooo #FridayThe13th may be unlucky for some… but not for you! It's #FreebieFriday and your last chance to enter... http:/…", :followers=>278, :user_id=>2851157944, :retweet=>56}
-{:name=>"@mashdirect", :text=>"Anyone suffering paraskevidekatriaphobia? Extra points if you can pronounce it!  #fridaythe13th http://t.co/61cdNVfify", :followers=>4636, :user_id=>237319876, :retweet=>0}
-{:name=>"@TALA11r", :text=>"#music👏💃\nhttp://t.co/Ovy5P0TkdE \n`\n#BritishSexPositions\n#DiaMundialdelaRadio\n#FridayThe13th\n#ifyourereadingthisitstoolate\n#DiBaleNgSingle”", :followers=>196, :user_id=>2391633835, :retweet=>0}
-{:name=>"@TantrumLia", :text=>"Happiest Day Ever with gals @clifforddrizzle @immortalpunkass @IanaGnzls #FridayThe13th", :followers=>491, :user_id=>2543150616, :retweet=>2}
-{:name=>"@seevahz", :text=>"...and it's #FridayThe13th 😬🔪", :followers=>642, :user_id=>2387809351, :retweet=>0}
-{:name=>"@TinaaJayy_", :text=>"#FridayThe13th Dx", :followers=>48, :user_id=>2942015639, :retweet=>0}
-{:name=>"@Theresa_tree", :text=>"Happy #FridayThe13th http://t.co/B3EvsPwxoX", :followers=>2622, :user_id=>46521000, :retweet=>0}
-{:name=>"@MaCooled", :text=>"RT @itvcorrie: Keep Calm - It's #FridayThe13th http://t.co/CF0eOBb3Pz", :followers=>48, :user_id=>1699970516, :retweet=>12}
-{:name=>"@SieeBreezy__", :text=>"Happy #FridayThe13th  😁😁 bring out the Jason Vorhees please? Lololol gonna get Babyyy to watch them with me 😩😍", :followers=>1473, :user_id=>430323431, :retweet=>0}
-{:name=>"@WvanNoort", :text=>"RT @MarvelUK: Beware if the Black Cat crosses your path this #FridayThe13th http://t.co/FCLSTaZHWi", :followers=>95, :user_id=>2393130840, :retweet=>25}
-{:name=>"@tomfranks9", :text=>"RT @paddypower: When you realise it's #FridayThe13th http://t.co/RSaGeBJ3ui", :followers=>1177, :user_id=>987503203, :retweet=>163}
-{:name=>"@MacklinMotors", :text=>"RT @NissanUK: Need something to brighten up your #FridayThe13th? Introducing the glow-in-the-dark #NissanLEAF...\nhttps://t.co/9K3m00iZxR", :followers=>1965, :user_id=>196541579, :retweet=>6}
-{:name=>"@ConnellCBS46", :text=>"It's #FridayThe13th! Anyone superstitious out there? @cbs46", :followers=>1490, :user_id=>138132415, :retweet=>0}
-{:name=>"@vanschuppen", :text=>"#FridayThe13th, #ValentinesDay #50SOG AND #Nintendo3DSDay .. all the right ingredients for a great Cluster F*ck #weekend", :followers=>11552, :user_id=>37957313, :retweet=>0}
-{:name=>"@sunnymummy123", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>110, :user_id=>2279553577, :retweet=>52}
-{:name=>"@bankSivakorn01", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>105, :user_id=>420803411, :retweet=>24}
-{:name=>"@CharKitty26", :text=>"#FridayThe13th Muntikan na maganto we. hahahaha thank you @ehrieckaaa XDD ifframe ko yoon", :followers=>300, :user_id=>1875331705, :retweet=>0}
-{:name=>"@_kheyt", :text=>"#FridayThe13th first and last @jenengjen", :followers=>98, :user_id=>2309860194, :retweet=>0}
-{:name=>"@TrendieWW", :text=>"\"Trending World Wide:11:12 AM GMT\"\n1. #BDMELODI_140\n2. #BritishSexPositions\n3. #FridayThe13th\n4. #DiaMundialdelaRadio", :followers=>13304, :user_id=>2793605047, :retweet=>0}
-{:name=>"@Despicable_Migz", :text=>"\"Yung iba dinadaan nalang sa tawa kahit ang sakit na.\"#FridayThe13th", :followers=>122, :user_id=>1946636976, :retweet=>0}
-{:name=>"@GodBlessYu", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>173, :user_id=>244911547, :retweet=>595}
-{:name=>"@hnzlknflx", :text=>"#FridayThe13th malas ko sa LoL", :followers=>128, :user_id=>2432060587, :retweet=>0}
-{:name=>"@TALA11r", :text=>"#music👏💃\nhttp://t.co/Ovy5P0TkdE \n\n#BritishSexPositions\n.\n#DiaMundialdelaRadio\n#FridayThe13th\n#ifyourereadingthisitstoolate\n#DiBaleNgSingle”", :followers=>196, :user_id=>2391633835, :retweet=>0}
-{:name=>"@curlyeva09", :text=>"#FridayThe13th", :followers=>511, :user_id=>2751790453, :retweet=>0}
-{:name=>"@JHNPLFLLZR", :text=>"I saw you again. #FridayThe13th ♥", :followers=>149, :user_id=>270313515, :retweet=>0}
-{:name=>"@RenRobles14", :text=>"tanggap q na ung SINGLE sa Feb.14 eh pero pati ba naman ung FREE LoveDessert BUFFET ko pinag kait nyo pa sakin.ano ba toh \n#FridayThe13th", :followers=>204, :user_id=>425064876, :retweet=>0}
-{:name=>"@aglimin", :text=>"#FridayThe13th INDEED 💥", :followers=>211, :user_id=>2814571014, :retweet=>0}
-{:name=>"@Mandiprieto", :text=>"@A1Trendz @EmperorKevv BOTH.! #FridayThe13th #BritishSexPositions #RosesAreRed \"ULTIMATE &amp; UNIQUE ICE BUCKET Chllng\" https://t.co/iaa00xj1Lt", :followers=>1516, :user_id=>299036531, :retweet=>0}
-{:name=>"@lols2girls", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>1782, :user_id=>2207018702, :retweet=>52}
-{:name=>"@Bombay_Rat", :text=>"#FridayThe13th a day before valentine's. I'd literally rather just die than spend another #ValentinesDay single.", :followers=>321, :user_id=>609338498, :retweet=>0}
-{:name=>"@SergiyAquila", :text=>"Вітаю всіх тріскаідекафобів із професійним святом ;)\n\n#Пятниця13  #FridayThe13th  #JasonIsHere http://t.co/gW9TSGkble", :followers=>12769, :user_id=>321879959, :retweet=>1}
-{:name=>"@dluv_mm", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>249, :user_id=>2388728923, :retweet=>595}
-{:name=>"@Hassan_Wanini", :text=>"RT @constancehotels: Not your average #FridayThe13th... #Madagascar http://t.co/KGi1e7q4zj", :followers=>825, :user_id=>21020832, :retweet=>7}
-{:name=>"@KennethChester0", :text=>"Good Evening ;)\n\n#FridayThe13th", :followers=>569, :user_id=>376674562, :retweet=>0}
-{:name=>"@jadebriones11", :text=>"Oh my!😳 #FridayThe13th pala ngayon! #HappyRADDay", :followers=>30, :user_id=>2886918908, :retweet=>0}
-{:name=>"@NINtendoJS", :text=>"Prom Night beybeh! :3 #FridayThe13th", :followers=>1482, :user_id=>410441169, :retweet=>0}
-{:name=>"@pringuuuuuu", :text=>"#halfterm #smile #FridayThe13th 😁💀👌👍 http://t.co/YqlguixbDq", :followers=>204, :user_id=>2467932998, :retweet=>0}
-{:name=>"@InfoHawthornes", :text=>"#FridayThe13th can b lucky! Quote twitter 2day for 13% off all #antique #retro stock http://t.co/NlE3IlIO8U pls RT http://t.co/nrDJOQl0gk", :followers=>586, :user_id=>2340092212, :retweet=>0}
-{:name=>"@FvckableZiallxx", :text=>"RT @TeamGinebraNSD: Yey!! Dahil free cut kami ang aga ng uwi ko!! Go GINEBRA #FridayThe13th be good to us please! 😍😉👍 -Wyna", :followers=>1512, :user_id=>929240540, :retweet=>1}
-{:name=>"@HugoMiguel123", :text=>"RT @AnaKathyMusic: The weekend is hours away!! #FridayThe13th http://t.co/2aNaiumMM8", :followers=>20, :user_id=>721898372, :retweet=>1}
-{:name=>"@ZenBodyArt", :text=>"Happy Friday the 13th!! From myself and my tattoo lol #FridayThe13th #JasonVoorhees #horror #horroraddict #horrorta… http://t.co/EqPrBztB9y", :followers=>1517, :user_id=>1920856916, :retweet=>0}
-{:name=>"@jemapelleLovely", :text=>"#FridayThe13th screw you and your damn curse!", :followers=>680, :user_id=>145867743, :retweet=>0}
-{:name=>"@DJRossOfficial", :text=>"It's now time for the dreaded 8 hour photoshoot. Wish me luck!! 😌 #photoshoot #friday #FridayThe13th #greygoose #champagne #partyupnorth 😜", :followers=>27599, :user_id=>204499454, :retweet=>0}
-{:name=>"@Dominikaa09", :text=>"#FridayThe13th ohh no XD I'm scared !! :*", :followers=>219, :user_id=>622874409, :retweet=>0}
-{:name=>"@ForbesWatson", :text=>"Don't be unlucky today and miss out on a free limited company formation.  Message us for yours!   #fridaythe13th", :followers=>565, :user_id=>767131872, :retweet=>0}
-{:name=>"@EDGE_NICK", :text=>"Happy Friday the 13th! Be careful out there! #FridayThe13th #superstitious", :followers=>148, :user_id=>23749587, :retweet=>0}
-{:name=>"@MillarRon", :text=>"RT @UnusualHorror: Happy #FridayThe13th ! http://t.co/0eI8kpKWnX", :followers=>35, :user_id=>2904457639, :retweet=>58}
-{:name=>"@sonisoni300", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>3528, :user_id=>1456333850, :retweet=>595}
-{:name=>"@ochelaw", :text=>"RT @itvcorrie: Keep Calm - It's #FridayThe13th http://t.co/CF0eOBb3Pz", :followers=>1985, :user_id=>533920882, :retweet=>12}
-{:name=>"@craigwilde", :text=>"What Katie said next! Love it! @thismorningitv @MissKatiePrice .... #katiehopkins #honest #FridayThe13th", :followers=>93660, :user_id=>21774418, :retweet=>0}
-{:name=>"@achgcs", :text=>"RT @Ticketmaster: It's #Fridaythe13th! Today only, get 2 For 1 tickets to see @Slipknot live! Use code: FRI13 http://t.co/d8XMbztvgc http:/…", :followers=>1836, :user_id=>25729419, :retweet=>3}
-{:name=>"@PBSPlacements", :text=>"It's #Fridaythe13th today! Why not apply for one of our placements on Moodle? #StayLucky http://t.co/JOioUBwIAb", :followers=>754, :user_id=>467501843, :retweet=>0}
-{:name=>"@eyrisesperm", :text=>"Pwede bang wag ng pumasok at lumabas bukas?! Hahahaha #LOVEISON #FridayThe13th", :followers=>538, :user_id=>340907366, :retweet=>0}
-{:name=>"@MadocLeonard", :text=>"RT @paddingtonbear: Mr Gruber says #Fridaythe13th is unlucky for some. I have an extra emergency sandwich under my hat today just in case.", :followers=>1437, :user_id=>193459739, :retweet=>18}
-{:name=>"@_LadyCandy_", :text=>"I wouldn't Mind ;)  RT @MarvelUK: Beware if the Black Cat crosses your path this #FridayThe13th http://t.co/RzpfLtoS1H", :followers=>368, :user_id=>143046579, :retweet=>0}
-{:name=>"@cfbboilers", :text=>"RT @StewartBrewing: It's #FridayThe13th so stay indoors and drink beer. Stock up in the Brewery Shop today until 6pm! http://t.co/LHkj6dOakX", :followers=>115, :user_id=>2734994167, :retweet=>1}
-{:name=>"@Its_a_Mister_B", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>887, :user_id=>208229399, :retweet=>52}
-{:name=>"@Sanhou", :text=>"Today's aim reduce unread emails in gmail and hotmail to something below 20,000!!! Agh!! #spam #junkmail #fridaythe13th zzzzzz", :followers=>595, :user_id=>21710024, :retweet=>0}
-{:name=>"@MarnieRVL", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>379, :user_id=>71229822, :retweet=>293}
-{:name=>"@SPN_France", :text=>"Vivement le week-end... \nCurrent mood : i'm to tired to go to work 😴 #FridayThe13th http://t.co/oBJLZzIzT6", :followers=>738, :user_id=>2833229802, :retweet=>0}
-{:name=>"@LdkSe", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>75, :user_id=>2238251882, :retweet=>595}
-{:name=>"@myswiftpunzel", :text=>"#FridayThe13th el video de style.", :followers=>1613, :user_id=>179660360, :retweet=>0}
-{:name=>"@pumimaruchan", :text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :followers=>1258, :user_id=>468271648, :retweet=>2432}
-{:name=>"@Leppercorn", :text=>"Survived #FridayThe13th - actually just never left the house today XD XD", :followers=>863, :user_id=>590606221, :retweet=>0}
-{:name=>"@Boyiengyieng", :text=>"RT @WOpticians: Morning! Its #FridayThe13th enter our #free competition to win @marcjacobs sunglasses! RT and FOLLOW to enter! #wow http://…", :followers=>12, :user_id=>2964394824, :retweet=>52}
-{:name=>"@Kissthebridemag", :text=>"RT @RockliffeHall: Happy #FridayThe13th! Doesn't this #ValentinesDay Brasserie menu look delicious?! http://t.co/XZIxEx7XoO Only two tables…", :followers=>1995, :user_id=>732464281, :retweet=>2}
-{:name=>"@allyssalabonete", :text=>"I accidentally went to the men's bathroom today #FridayThe13th #embarrasingmoments 😂😂😂", :followers=>778, :user_id=>86303760, :retweet=>0}
-{:name=>"@ThePhoebejazz", :text=>"#FridayThe13th Today ...\r#ValentinesDay Tomorrow ...\rKind of go hand in hand like a horse and carriage ...", :followers=>78, :user_id=>2950248243, :retweet=>0}
-{:name=>"@dejabrews", :text=>"Don't date tonight. #FridayThe13th", :followers=>318, :user_id=>48939295, :retweet=>0}
-{:name=>"@IronCowGrl", :text=>"🌹❤️💐💝🏁🏁🏁🏁 weekend wishes #FridayThe13th #ValentinesDay #NASCAR #DAYTONA500  should be a good one !!", :followers=>25, :user_id=>461166174, :retweet=>0}
-{:name=>"@ClassicWillard", :text=>"#FridayThe13th Great day to fly!! #ImGoingToDie", :followers=>290, :user_id=>266278883, :retweet=>0}
-{:name=>"@ishamhelitah27", :text=>"Love Love Love #Fridaythe13th #MAGANDANGBUHAYEVERYONE", :followers=>6, :user_id=>1359027948, :retweet=>0}
-{:name=>"@almatharu", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>185, :user_id=>779091751, :retweet=>24}
-{:name=>"@Ameli_lb", :text=>"RT @BBCOne: When it's #FridayThe13th... 😳 http://t.co/cMYx88wstg", :followers=>159, :user_id=>402210798, :retweet=>162}
-{:name=>"@superllex", :text=>"Kailangan na maghanda para sa sermon #FridayThe13th", :followers=>307, :user_id=>597369972, :retweet=>0}
-{:name=>"@einsteina17", :text=>"RT @HuffPostUK: This is why everybody is so terrified of #FridayThe13th http://t.co/BzWJIjPXiF http://t.co/6kJxTX1kM9", :followers=>58, :user_id=>852160368, :retweet=>149}
-{:name=>"@adore_mikay", :text=>"#FridayThe13th 😁😳 well GM 🌎👋", :followers=>574, :user_id=>363479900, :retweet=>0}
-{:name=>"@RoamingDaWorld", :text=>"Happy #FridayThe13th! Today we're on a 12-hr bus ride to #Ushuaia, aka el Fin del Mundo (the End of the World). Um, should we be concerned?", :followers=>896, :user_id=>2173019630, :retweet=>0}
-{:name=>"@Me_Cook_Me_Eat", :text=>"RT @DevilsPantryUK: Happy #FridayThe13th from The Devil's Pantry xx\n\n#food #kent #lamb #foodporn http://t.co/Tr4uWnjbhe", :followers=>4266, :user_id=>2960346264, :retweet=>2}
-{:name=>"@Dudleyhour1", :text=>"RT @MidlandsVauxhal: Happy Friday @Dudleyhour1 thanks for the #shoutout hope you have a great weekend. #fridaythe13th woo hoo!", :followers=>4035, :user_id=>2549927599, :retweet=>1}
-{:name=>"@LauraMira24", :text=>"Bon vendredi 13 a vous! 😂✌\n#FridayThe13th", :followers=>48, :user_id=>1260525198, :retweet=>0}
-{:name=>"@G_doosha", :text=>"RT @Suvi_90: #FF #GetJensenToOneMillion @JensenAckles #FridayThe13th http://t.co/DorbvnkDnx", :followers=>368, :user_id=>1967964949, :retweet=>11}
-{:name=>"@StephanieTabrah", :text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :followers=>148, :user_id=>400714398, :retweet=>248}
-{:name=>"@BarronhamPalace", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>545, :user_id=>630327330, :retweet=>52}
-{:name=>"@felixwriggles", :text=>"RT @Fake_PMLee: #FridayThe13th before #ValentinesDay. \n\nIf you survive tonight, she’s a keeper.", :followers=>161, :user_id=>2170571965, :retweet=>21}
-{:name=>"@Bambisaur", :text=>"RT @YeePingPang: #FridayThe13th today but no worries as I'll be in Southampton soon- can't wait @Bambisaur @SarahRound1 #partyon", :followers=>134, :user_id=>22388398, :retweet=>1}
-{:name=>"@Samanewsome", :text=>"#FridayThe13th  malas daw eh bat parang ang swerte ko ngayon :)", :followers=>48, :user_id=>2823274548, :retweet=>0}
-=======
-{:name=>"@itsmaggiesteele", :text=>"Don't you forget this #FridayThe13th", :followers=>370, :user_id=>230654736, :retweet=>0}
-{:name=>"@charlenemayb", :text=>"All you need is Love.... And a bouquet of Ferrero💐💖😋😍 #fridaythe13th #happyvday #ferrerobouquet http://t.co/UPkvCyB1aD", :followers=>64, :user_id=>450483961, :retweet=>0}
-{:name=>"@mccormacktiger1", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>250, :user_id=>2869032999, :retweet=>96}
-{:name=>"@JasonTheNewsGuy", :text=>"Sunrise and shine! @WESH 2 News #FridayThe13th #Valentine'sDay http://t.co/ggCvUfHGK4", :followers=>6526, :user_id=>54678489, :retweet=>0}
-{:name=>"@jantz85", :text=>"RT @hmvtweets: Friday’s my day! #FridayThe13th http://t.co/p4mJaeVy6B", :followers=>86, :user_id=>25025101, :retweet=>14}
-{:name=>"@OdetteHoffmann", :text=>"Mucha gente de rojo y rosita y yo de negro 😁 #FridayThe13th 😂", :followers=>150, :user_id=>65409223, :retweet=>0}
-{:name=>"@maximethe1", :text=>"@ChampagnePapi need that new album on #Spotify soon #ifyourereadingthisitstoolate #FridayThe13th 0⃣🔜💯", :followers=>34, :user_id=>2457261223, :retweet=>0}
-{:name=>"@_PiemeepDomo", :text=>"#FridayThe13th \nCan't believe there is two Friday the 13th though", :followers=>132, :user_id=>529213082, :retweet=>0}
-{:name=>"@JasmineDibe", :text=>"RT @HuffPostUK: This is why everybody is so terrified of #FridayThe13th http://t.co/BzWJIjPXiF http://t.co/6kJxTX1kM9", :followers=>17, :user_id=>35381649, :retweet=>173}
-{:name=>"@SpeakToSESOME", :text=>"Barry White in the office speakers, hot coffee and a happy mood in the SESOME office. Who said that #FridayThe13th has to be bad? #Euston", :followers=>859, :user_id=>2190191203, :retweet=>0}
-{:name=>"@MhellyJayy", :text=>"WALANG FOREVER! #FridayThe13th", :followers=>20, :user_id=>3009057792, :retweet=>0}
-{:name=>"@LiquidChefs_SA", :text=>"Whats for lunch? check out our food menu, we have something for everyone. #Fridaythe13th", :followers=>10462, :user_id=>85774702, :retweet=>0}
-{:name=>"@OnlyInBOS", :text=>"I don't care if it's #FridayThe13th... http://t.co/IwWhMbbkgW", :followers=>71159, :user_id=>700903452, :retweet=>1}
-{:name=>"@_lifesgoldenn", :text=>"RT @DJOCKYTheCeleB: #FridayThe13th", :followers=>422, :user_id=>2178060343, :retweet=>21}
-{:name=>"@elenachillbert", :text=>"#FridayThe13th this is so exciting", :followers=>95, :user_id=>2823968626, :retweet=>0}
-{:name=>"@madbay6", :text=>"RT @BBCTheVoiceUK: When you look at your calendar and realise it's #FridayThe13th... http://t.co/0ERduHLcpA", :followers=>78, :user_id=>267410089, :retweet=>52}
-{:name=>"@de_dewitt", :text=>"\"@britishmuseum: Beware black cats on #FridayThe13th!  What???? http://t.co/oHPBsMPK2b", :followers=>33, :user_id=>607378675, :retweet=>0}
-{:name=>"@faisalkhan22", :text=>"#DrakeMixtape #FridayThe13th #roidetwitter #DiaMundialdelaRadio get computer,social media hacking tricks and news at http://t.co/WUqxtgldv1", :followers=>26, :user_id=>99902188, :retweet=>0}
-{:name=>"@meraltaze", :text=>"Boom! POW! There's a backstory comic for @bbcthree's #ISurvivedAZombieApocalypse Starts Sunday. http://t.co/sXxQ0Hs90Z Happy #FridayThe13th", :followers=>208, :user_id=>1582746258, :retweet=>0}
-{:name=>"@AN15Ax", :text=>"@stylearomaco #FridayThe13th #FreebieFriday xx", :followers=>1510, :user_id=>1583874440, :retweet=>0}
-{:name=>"@JoyPietschnnam", :text=>"RT @fenvirantiviral: #TGIF #FridayThe13th #vaccines #MeaslesOutbreak #mmr #CDCwhistleblower #Be1less #VaccinateYourKids #SayNoToVaccines ! …", :followers=>120, :user_id=>2397226940, :retweet=>7}
-{:name=>"@mecl_cordez", :text=>"#FridayThe13th  awesome day :) First ang shauloves hihi", :followers=>116, :user_id=>1607334019, :retweet=>0}
-{:name=>"@rehres0hed", :text=>"#FridayThe13th", :followers=>220, :user_id=>1944250309, :retweet=>0}
-{:name=>"@RandolphDhoy", :text=>"SALAMAT NAMAN, atr hndi ako minalas ngayong araw :)\n#FridayThe13th", :followers=>47, :user_id=>1238459179, :retweet=>0}
-{:name=>"@ronez6", :text=>"RT @NewLookFashion: You don't need luck when your feet look this good. http://t.co/SwAtBcjpKU #FridayThe13th http://t.co/tw42zTBh2e", :followers=>112, :user_id=>2353422658, :retweet=>14}
-{:name=>"@Exar_Kunni", :text=>"Just waking up on days like this\nis alotta work 4 superstitious people\nsuch as myself.\n\n👽\n#FridayThe13th\n#WhattaYouExpectImaBaseballPlayer", :followers=>248, :user_id=>1072739310, :retweet=>0}
-{:name=>"@eCompareMo", :text=>"4 Pay Day Habits You Need To Avoid ASAP! http://t.co/6dfYgaGsxI \n#FridayThe13th http://t.co/J4XqRtPRJz", :followers=>11, :user_id=>2769474319, :retweet=>0}
-{:name=>"@_kheyt", :text=>"#FridayThe13th self declare friday, wahaha", :followers=>98, :user_id=>2309860194, :retweet=>0}
-{:name=>"@RepStones", :text=>"RT @MikeGarley: It's Friday the 13th and the Samurai Slasher has just 13 days to get funded! https://t.co/hS9QMlVCyR #FridayThe13th http://…", :followers=>1026, :user_id=>19243598, :retweet=>2}
-{:name=>"@kenniero_orieno", :text=>"Anong nangyari sa #fridaythe13th ko?\nSimple lang nagtest kami!", :followers=>39, :user_id=>2834693124, :retweet=>0}
-{:name=>"@robertbull4", :text=>"RT @SunmotorsUK: Today may be #FridayThe13th but yesterday was the unluckiest day of the year, @DirectLine_UK \n\nhttp://t.co/KmvcgOGMKb http…", :followers=>70, :user_id=>1219240075, :retweet=>1}
-{:name=>"@RedChris74", :text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :followers=>611, :user_id=>1691985013, :retweet=>306}
-{:name=>"@iirpo", :text=>"RT @britishmuseum: Beware black cats on #FridayThe13th! Perhaps this one is alright though… http://t.co/407Psz8bFi http://t.co/2n77S9M8k4", :followers=>246, :user_id=>1165420249, :retweet=>56}
-{:name=>"@ValerieMojar", :text=>"RT @fenvirantiviral: Good Morning! Rise &amp; Shine its #TGIF #FridayThe13th boooo........via //Fenvir.com http://t.co/sCerZgE8Sj", :followers=>122, :user_id=>2895323139, :retweet=>31}
-{:name=>"@BigTreeFarmsUK", :text=>"#ff faworytem bloggers @SpamellaB @hedihearts @NatBeeBlog @MyfatmeAnia @activ_eat happy #FridayThe13th", :followers=>520, :user_id=>1951628154, :retweet=>0}
-{:name=>"@cheskamatabang", :text=>"RT @TTMobile_ph: TT PHILIPPINES 19:24\n1.#FridayThe13th\n2.#DiBaleNgSingle\n3.#AllergicAkoSaValentines\n4.#NgayongFeb14\n5.Single the 14th\n6.#LG…", :followers=>151, :user_id=>768768841, :retweet=>1}
-{:name=>"@DaphlengDaph", :text=>"#FridayThe13th", :followers=>193, :user_id=>1261519081, :retweet=>0}
-{:name=>"@OccupyNortlCah", :text=>"RT @FucoidanForce: Its #TGIF Yay #FridayThe13th via http://t.co/ZLsAA5fbse @Oprah Thanks for support! http://t.co/QjJChhj0Mb", :followers=>124, :user_id=>2476076472, :retweet=>49}
-{:name=>"@bacaroplymouth", :text=>"RT @PlymouthMuseum: #FridayThe13th Here are some scarab beetles: symbols of the rising sun and new life for good luck #plymouth http://t.co…", :followers=>544, :user_id=>347973317, :retweet=>2}
-{:name=>"@DorianTWP", :text=>"RT @hmvtweets: Friday’s my day! #FridayThe13th http://t.co/p4mJaeVy6B", :followers=>202, :user_id=>594558689, :retweet=>14}
-{:name=>"@gktweeet", :text=>"RT @HuffPostUK: This is why everybody is so terrified of #FridayThe13th http://t.co/BzWJIjPXiF http://t.co/6kJxTX1kM9", :followers=>93, :user_id=>468701393, :retweet=>173}
-{:name=>"@Artsper", :text=>"#FridayThe13th Hervé Lewis - cherry http://t.co/F3hIA2I49X http://t.co/rcdYvh9DjW", :followers=>2979, :user_id=>637251299, :retweet=>1}
-{:name=>"@Xx_alizee", :text=>"RT @iamcARIna_: #FridayThe13th 😳😭", :followers=>3347, :user_id=>1428442854, :retweet=>4}
-{:name=>"@wearedeified", :text=>"It's #fridaythe13th unlucky for some, but not for you guys. Grab 15% off when you shop our new website… http://t.co/XfwCYETNRT", :followers=>1623, :user_id=>2615086050, :retweet=>0}
-{:name=>"@foreverernon", :text=>"Ngayong 2015 na #FridayThe13th lang ako minalas -_-", :followers=>301, :user_id=>1147568245, :retweet=>0}
-{:name=>"@Marlonious", :text=>"Staying in :p #FridayThe13th", :followers=>320, :user_id=>27228736, :retweet=>0}
-{:name=>"@IanLance4", :text=>"RT @RWCinvest: RWC's Lance: thirteen weird happenings on Friday 13th http://t.co/WqbYj3qOaJ #FridayThe13th", :followers=>14, :user_id=>1671490298, :retweet=>1}
-{:name=>"@alfonzb", :text=>"Oh yes!!!! It's Friday bitches!!! \n#tgif #fridaythe13th http://t.co/dUxoiGEfAt", :followers=>31, :user_id=>59614038, :retweet=>0}
-{:name=>"@katiejwriter", :text=>"Trying to keep it together this week and then realized #TGIF is #FridayThe13th. Wonder Woman bracelets and Teflon needed.", :followers=>2281, :user_id=>15461087, :retweet=>0}
-{:name=>"@Otley_Exclusive", :text=>"RT @StephenHSmiths: Why not brighten up your #garden with some #Viola #plants on this gloomy #Fridaythe13th. #Harrogate #Otley #Bingley htt…", :followers=>734, :user_id=>410609479, :retweet=>2}
-{:name=>"@pinetree1981", :text=>"RT @britishmuseum: Beware black cats on #FridayThe13th! Perhaps this one is alright though… http://t.co/407Psz8bFi http://t.co/2n77S9M8k4", :followers=>338, :user_id=>15411973, :retweet=>56}
-{:name=>"@RedChris74", :text=>"RT @WOpticians: Morning! Its #FridayThe13th enter our #free competition to win @marcjacobs sunglasses! RT and FOLLOW to enter! #wow http://…", :followers=>611, :user_id=>1691985013, :retweet=>58}
-{:name=>"@MooTheMadCow", :text=>"RT @RecovaContol: #FridayThe13th, #unlucky for some- but we're giving away our super slimming leggings today! #FreebieFriday! Follow&amp;RT htt…", :followers=>842, :user_id=>44388946, :retweet=>53}
-{:name=>"@caynelecious", :text=>"@LaiDelosSantos thanks for following. Harhar #FridayThe13th", :followers=>74, :user_id=>157308251, :retweet=>0}
-{:name=>"@aymkristal", :text=>"😍❤️ #bored #fridaythe13th #preval #k http://t.co/rcteZ7swFX", :followers=>500, :user_id=>582684082, :retweet=>0}
-{:name=>"@MonsieurSambers", :text=>"RT @BBCTheVoiceUK: When you look at your calendar and realise it's #FridayThe13th... http://t.co/0ERduHLcpA", :followers=>1064, :user_id=>351035273, :retweet=>52}
-{:name=>"@Lianttott", :text=>"#FridayThe13th is prom day. http://t.co/fld3GRiX1y", :followers=>166, :user_id=>361746782, :retweet=>0}
-{:name=>"@mariaravina3", :text=>"RT @iHEARTmarphine: haha!! ikaw na talaga @IamAngelicaP 'i dont need tissue please stop judging me!!' hahaha #ThatThingCalledTadhana #Frida…", :followers=>23, :user_id=>1725137155, :retweet=>2}
-{:name=>"@elenachillbert", :text=>"RT @OlicityRed: Dear @ARROWwriters @mguggenheim ,\n\nHappy #FridayThe13th \n\n#Arrow #RIPMyBlackCanary http://t.co/tqF9WYalZq", :followers=>95, :user_id=>2823968626, :retweet=>3}
-{:name=>"@fazalkhan369", :text=>"RT @CherguiaMbark: Food of the Prophet Muhammad (ﷺ)\n#FridayThe13th http://t.co/4s0mbc6ces", :followers=>336, :user_id=>2170862965, :retweet=>50}
-{:name=>"@Realphysio", :text=>"RT @TeamGB: Here's a little 'Sochi inspired' something to get you through #FridayThe13th https://t.co/TBdd8VHlk8", :followers=>410, :user_id=>182889270, :retweet=>2}
-{:name=>"@mamertswift", :text=>"Happy Swift Day! :)\n\n#FridayThe13th \n#Lucky13", :followers=>56, :user_id=>2438099438, :retweet=>0}
-{:name=>"@faisalkhan22", :text=>"#FridayThe13th #AskAnne #DiaMundialdelaRadio #roidetwitter get computer,social media hacking tricks and news at http://t.co/WUqxtgldv1", :followers=>26, :user_id=>99902188, :retweet=>0}
-{:name=>"@M7SONIC", :text=>"#OMGNBC It's #FridayThe13th the day of the unlucky try 2 be careful all day #RUNEVERYBODYRUN", :followers=>317, :user_id=>963723546, :retweet=>0}
-{:name=>"@QVfan", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>81, :user_id=>2964509915, :retweet=>327}
-{:name=>"@BratMelly", :text=>"Ahhh Friday the 13th #payday #FridayThe13th  #goddessMelissa #spoilmeyoupig", :followers=>15, :user_id=>3015351078, :retweet=>0}
-{:name=>"@bonsquaredd", :text=>"#FridayThe13th \"Birthday ni @yzzamazing_ 😂 HAPPY BIRTHDAY 🎈 🎁 🎉", :followers=>783, :user_id=>1103008057, :retweet=>0}
-{:name=>"@MrHoward321", :text=>"RT @fenvirantiviral: #TGIF #FridayThe13th #vaccines #MeaslesOutbreak #mmr #CDCwhistleblower #Be1less #VaccinateYourKids #SayNoToVaccines ! …", :followers=>197, :user_id=>2441602484, :retweet=>6}
-{:name=>"@wintheversatile", :text=>"Kasava Cake ni Tchr. Karen :3 #FridayThe13th", :followers=>250, :user_id=>488979194, :retweet=>0}
-{:name=>"@imReynnXX", :text=>"#FridayThe13th Happiest day.", :followers=>81, :user_id=>2852560992, :retweet=>0}
-{:name=>"@MarwaAlJafen", :text=>"#FridayThe13th 🙆", :followers=>341, :user_id=>533535606, :retweet=>0}
-{:name=>"@Mang0_Bug", :text=>"RT @JensenAcklesGod: TODAY IS FRIDAY THE 13TH... \n\nJUST SAYING\n\n#FridayThe13th #SPNFamily #Supernatural @jarpad @realGpad http://t.co/GFToD…", :followers=>453, :user_id=>371755647, :retweet=>39}
-{:name=>"@tinzxcv", :text=>"#FridayThe13th 😂😱 http://t.co/m8I5p8JvJm", :followers=>643, :user_id=>767242898, :retweet=>0}
-{:name=>"@connect_agency", :text=>"It may be #FridayThe13th but at least it's Friday! #TGIF", :followers=>418, :user_id=>592618783, :retweet=>0}
-{:name=>"@jonathanCteo", :text=>"@Alifology #FridayThe13th", :followers=>117, :user_id=>319046091, :retweet=>0}
-{:name=>"@knightlausss", :text=>"RT @Itsmeamiiiiel: Parang walang malas sakin #FridayThe13th", :followers=>133, :user_id=>2611495687, :retweet=>1}
-{:name=>"@solirxa", :text=>"RT @FucoidanForce: Its #TGIF Yay #FridayThe13th via http://t.co/ZLsAA5fbse @Oprah Thanks for support! http://t.co/QjJChhj0Mb", :followers=>110, :user_id=>2897935969, :retweet=>49}
-{:name=>"@EatYourFace360", :text=>"RT @HorrorWarehouse: Happy #FridayThe13th from Horror Warehouse - http://t.co/HwbzGI4zDD #Horror #Movies http://t.co/MqWjWOXmnc", :followers=>2170, :user_id=>2294114713, :retweet=>7}
-{:name=>"@TTMobile_ph", :text=>"TT PHILIPPINES 19:44\n1.#AskAnne\n2.#FridayThe13th\n3.#DiBaleNgSingle\n4.#askpewds\n5.#AllergicAkoSaValentines\n6.Single the 14th\n7.Style MV", :followers=>2367, :user_id=>2644755630, :retweet=>0}
-{:name=>"@TTMobile_uk", :text=>"TT UK 11:44\n1.#BritishSexPositions\n2.#FridayThe13th\n3.#Nintendo3DSDay\n4.#ifyourereadingthisitstoolate\n5.#RosesAreRed\n6.Steve Strange", :followers=>1067, :user_id=>2645038507, :retweet=>0}
-{:name=>"@Nthabiiee22", :text=>"RT @absolutvodka: Watch out for any bananas on the floor, black cats or broken mirrors - it's #FridayThe13th again! http://t.co/T4sJdt4hfc", :followers=>1357, :user_id=>2263961134, :retweet=>3}
-{:name=>"@aldouzzv", :text=>"#FridayThe13th\nswerte pala ako sa araw na to ehhh hahaha", :followers=>200, :user_id=>2996991799, :retweet=>0}
-{:name=>"@tuberabutera", :text=>"4 hours na lang, matatapos na yang #FridayThe13th niyo!", :followers=>5969, :user_id=>2320425206, :retweet=>0}
-{:name=>"@SammiXXschwartz", :text=>"Who wants to come over tonight and watch scary movies? #FridayThe13th", :followers=>92, :user_id=>2268197404, :retweet=>0}
-{:name=>"@jds_bitch86", :text=>"RT @hmvtweets: Friday’s my day! #FridayThe13th http://t.co/p4mJaeVy6B", :followers=>167, :user_id=>2303524440, :retweet=>14}
-{:name=>"@AKA_Donna", :text=>"Happy Friday! So glad we made it fam! Be safe out there. #FridayThe13th", :followers=>551, :user_id=>94560092, :retweet=>0}
-{:name=>"@VAINuuuuh_", :text=>"#FridayThe13th", :followers=>247, :user_id=>2411888732, :retweet=>0}
-{:name=>"@Mitz__P", :text=>"Today is a awesome date...My son was born of #FridayThe13th in April 2012...#Blessed #SoMuchLove #Son", :followers=>74, :user_id=>317345970, :retweet=>0}
-{:name=>"@Nickbjurman", :text=>"BEWARE! Friday the 13th #FridayThe13th #beware", :followers=>7, :user_id=>2869595076, :retweet=>0}
-{:name=>"@SoyJReyes", :text=>"FELIZ VIERNES 13 😂😂😂 #FridayThe13th #Viernes13 😂 http://t.co/WJ1lVscxYy", :followers=>1706, :user_id=>2785755978, :retweet=>0}
-{:name=>"@janicev_taylor", :text=>"#Fridaythe13th Oh noes!! #TGIF http://t.co/dkvL5NtR7v", :followers=>28, :user_id=>2352007802, :retweet=>0}
-{:name=>"@Levaeeeeeem", :text=>"#Fridaythe13th Yung panlapi sa Filipino :'(", :followers=>32, :user_id=>2915527124, :retweet=>0}
-{:name=>"@otfk039", :text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :followers=>53, :user_id=>567237039, :retweet=>2458}
-{:name=>"@ChopperScotland", :text=>"#FridayThe13th #Horror #Jason http://t.co/oVgRvAN74S", :followers=>1101, :user_id=>1055598115, :retweet=>0}
-{:name=>"@Jrko_Jrko", :text=>"#FridayThe13th muyst be my lucky day. Luckiest day to have an argue with my friend :(", :followers=>436, :user_id=>1351146408, :retweet=>0}
-{:name=>"@Benji7Liem", :text=>"RT @paddingtonbear: Mr Gruber says #Fridaythe13th is unlucky for some. I have an extra emergency sandwich under my hat today just in case.", :followers=>684, :user_id=>341478564, :retweet=>40}
-{:name=>"@dana_gdayr", :text=>"RT @fenvirantiviral: #TGIF #FridayThe13th #vaccines #MeaslesOutbreak #mmr #CDCwhistleblower #Be1less #VaccinateYourKids #SayNoToVaccines ! …", :followers=>113, :user_id=>2874711785, :retweet=>6}
-{:name=>"@o_OJames", :text=>"Drake releasing a mixtape and the Cricket starting, think thats enough bad luck for today. #FridayThe13th", :followers=>397, :user_id=>872462064, :retweet=>0}
-{:name=>"@chosengameralex", :text=>"Its #FridayThe13th today please help me!!!!!", :followers=>16, :user_id=>2620000996, :retweet=>0}
-{:name=>"@AN15Ax", :text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :followers=>1510, :user_id=>1583874440, :retweet=>306}
->>>>>>> development
+{:name=>"@agutyna3706", :text=>"#FridayThe13th http://t.co/xtVL26l9jh", :followers=>142, :user_id=>309020820, :retweet=>0}
+{:name=>"@rebeccakufla", :text=>"How to Lose #Weight -》 Fast &amp; Easy Way\nhttp://t.co/8pfFRHyvqA        \nhttp://t.co/NyGPIiuWsQ\nhttp://t.co/oMSULLe9eG\n#askpewds\n#FridayThe13th", :followers=>3375, :user_id=>75440129, :retweet=>0}
+{:name=>"@bamaawesley", :text=>"RT @EuropaLeague: #FridayThe13th Superstitious? Terry's @Usher love; Inzaghi's biscuit fixation; @JohanCruyff's chewing gum habit: http://t…", :followers=>77, :user_id=>2341067784, :retweet=>2}
+{:name=>"@imsuperYaniel", :text=>"#FridayThe13th", :followers=>562, :user_id=>1356057991, :retweet=>0}
+{:name=>"@AffinityMagz", :text=>"#Fridaythe13th.............. http://t.co/t3oFqgJoGX", :followers=>2641, :user_id=>462064162, :retweet=>0}
+{:name=>"@gawjessgranny", :text=>"RT @BBCTheVoiceUK: When you look at your calendar and realise it's #FridayThe13th... http://t.co/0ERduHLcpA", :followers=>46, :user_id=>2578607464, :retweet=>59}
+{:name=>"@thecommonmandy", :text=>"When you're waiting for your leggings to dry and they finally do then rip when you put them on :-) #FridayThe13th", :followers=>1421, :user_id=>415208998, :retweet=>0}
+{:name=>"@jennierintala", :text=>"Thanks Mom and Dad for not wearing a condom because you gave birth to f*** legend! #FridayThe13th", :followers=>219, :user_id=>439593576, :retweet=>0}
+{:name=>"@leilaxmarie", :text=>"di ako minalas ngayon 😄😂 #FridayThe13th", :followers=>169, :user_id=>1217219832, :retweet=>0}
+{:name=>"@getaf1x", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>549, :user_id=>232489230, :retweet=>340}
+{:name=>"@mcelderryinlove", :text=>"RT @BBCOne: When it's #FridayThe13th... 😳 http://t.co/cMYx88wstg", :followers=>369, :user_id=>77734554, :retweet=>189}
+{:name=>"@jariaaaaanne", :text=>"#FridayThe13th malas daw, pero bakit? Ayomg😍❤️", :followers=>103, :user_id=>2906929026, :retweet=>0}
+{:name=>"@jhengpancho", :text=>"#FridayThe13th the 13th ko ang saya saya 😚😍 hahaha😂 ito na ata ang pinaka masaya kong araw 👊😍😚💓💖", :followers=>160, :user_id=>1211150832, :retweet=>0}
+{:name=>"@itslylmecutiepy", :text=>"My friday date @AkeylSevet ! #FridayThe13th", :followers=>228, :user_id=>235481052, :retweet=>0}
+{:name=>"@immafireball", :text=>"RT @BBCTheVoiceUK: When you look at your calendar and realise it's #FridayThe13th... http://t.co/0ERduHLcpA", :followers=>416, :user_id=>2878028305, :retweet=>59}
+{:name=>"@CatherineLiwe", :text=>"RT @FucoidanForce: Its #TGIF Yay #FridayThe13th via http://t.co/ZLsAA5fbse @Oprah Thanks for support! http://t.co/QjJChhj0Mb", :followers=>97, :user_id=>2895659963, :retweet=>64}
+{:name=>"@deusandal", :text=>"Thank you for todaaay!  #FridayThe13th", :followers=>260, :user_id=>97857805, :retweet=>0}
+{:name=>"@ArianeAtienza", :text=>"Syempre, si Mam Ramos ito. Sno pa ba reregaluhan ko? HAHAHAHA orors #FridayThe13th", :followers=>687, :user_id=>2313641912, :retweet=>0}
+{:name=>"@Luxacious", :text=>"I have found #NormanReedus in his secret cat form @wwwbigbaldhead #FridayThe13th #blackcat #blackcatappreciation http://t.co/yKTb8MZ9mv", :followers=>1044, :user_id=>2335905314, :retweet=>0}
+{:name=>"@alexrocks34", :text=>"RT @_botchogg: #Neverland406 Whoo! botchog botchog! 😂😂 #Fridaythe13th saya! 🙌🙌", :followers=>243, :user_id=>2367116168, :retweet=>1}
+{:name=>"@Railcation", :text=>"RT @DenRosen: Happy Friday!!  #Fridaythe13th (@ BWI Amtrak/MARC Rail Station (BWI) - @amtrak) https://t.co/V9knUbBror http://t.co/HvfeZRzvE8", :followers=>1463, :user_id=>332294959, :retweet=>1}
+{:name=>"@lancearevada1", :text=>"For me, February 13 is my lucky day.... #FridayThe13th", :followers=>0, :user_id=>582306752, :retweet=>0}
+{:name=>"@EliRbrae", :text=>"RT @fenvirantiviral: #TGIF #FridayThe13th #vaccines #MeaslesOutbreak #mmr #CDCwhistleblower #Be1less #VaccinateYourKids #SayNoToVaccines ! …", :followers=>122, :user_id=>2459527098, :retweet=>21}
+{:name=>"@Idris1140", :text=>"RT @BBCOne: Beware of what is lurking in the shadows... #FridayThe13th http://t.co/4pmzCcFh8g", :followers=>677, :user_id=>1912266566, :retweet=>59}
+{:name=>"@mattbirch_", :text=>"I make my own luck #FridayThe13th", :followers=>204, :user_id=>284209150, :retweet=>0}
+{:name=>"@peridosh", :text=>"RT @OnlyInBOS: I don't care if it's #FridayThe13th... http://t.co/IwWhMbbkgW", :followers=>72, :user_id=>3007601630, :retweet=>25}
+{:name=>"@helenwright123", :text=>"I have fiber lashes in stock if you want to save on shipping #younique #FridayThe13th #ValentinesDayGiftIdeas http://t.co/ntVTZ8poZU", :followers=>25, :user_id=>2990898880, :retweet=>0}
+{:name=>"@thestyleartisan", :text=>"#FridayThe13th is also my best friends birthday. No bad luck, no bad friendship ☺ xx", :followers=>18, :user_id=>2890042648, :retweet=>0}
+{:name=>"@minagawa_sou", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>279, :user_id=>1605899725, :retweet=>682}
+{:name=>"@ScienceShark", :text=>"Be careful out there! #FridayThe13th http://t.co/Qc0w53Ff8h", :followers=>354, :user_id=>223312298, :retweet=>0}
+{:name=>"@romaromanov856", :text=>"Шоколад - сладкий.\n(Факты от Марка)\n#FridayThe13th #FiftyShadesOfGrey #FridayThe13th #facebookdown", :followers=>3, :user_id=>2580284748, :retweet=>0}
+{:name=>"@Joaniieee92", :text=>"@AlanCarr I've just won tickets to see you tomorrow night in Barnstaple!! So excited. Thank you @NDevonTheatres #FridayThe13th good for me!", :followers=>45, :user_id=>787924484, :retweet=>0}
+{:name=>"@Brooke1Boyd", :text=>"RT @FalkenTire: #Fridaythe13th #giveaway! RT to enter to win! Rules: http://t.co/xk5Ks4sR6a http://t.co/zQQtWwOH3B", :followers=>1718, :user_id=>2533955886, :retweet=>13}
+{:name=>"@msC_Milnai", :text=>"RT @FucoidanForce: Its #TGIF Yay #FridayThe13th via http://t.co/ZLsAA5fbse @Oprah Thanks for support! http://t.co/QjJChhj0Mb", :followers=>146, :user_id=>2424534020, :retweet=>64}
+{:name=>"@andrew_garon5", :text=>"RT @OnlyInBOS: I don't care if it's #FridayThe13th... http://t.co/IwWhMbbkgW", :followers=>451, :user_id=>625596055, :retweet=>25}
+{:name=>"@ElmorEtones", :text=>"#Fridaythe13th Guess what? Je m'en fiche. :D", :followers=>52, :user_id=>351946570, :retweet=>0}
+{:name=>"@JulieStaffysi", :text=>"RT @Nightowl400: http://t.co/q55YRL9lGS Sam is a sweet little fella,sad without his sisfur Sally,can u offer him a foster or furever home t…", :followers=>4593, :user_id=>92036584, :retweet=>7}
+{:name=>"@BIGMedina718", :text=>"#FridayThe13th #Jason http://t.co/AHUf1Bsgc7", :followers=>25, :user_id=>62685397, :retweet=>0}
+{:name=>"@RyanDugger1", :text=>"Well didn't get a second of sleep and its Friday the 13. Coincidence? #ithinknot #FridayThe13th", :followers=>315, :user_id=>398491228, :retweet=>0}
+{:name=>"@jakelovesgracey", :text=>"A day of bad luck #FridayThe13th", :followers=>93, :user_id=>388709686, :retweet=>0}
+{:name=>"@Doctor_Mengele", :text=>"Обычная рабочая пятница, тринадцатое #work #fridaythe13th http://t.co/eIXhH7dZiv", :followers=>98, :user_id=>68939630, :retweet=>0}
+{:name=>"@ChrisRush101", :text=>"For the day that it is!!! #Fridaythe13th #dontgotothewoodstoday #JasonVoorhees http://t.co/MRmCzQHckh", :followers=>437, :user_id=>1189712239, :retweet=>0}
+{:name=>"@zechnaselocin", :text=>"#FridayThe13th di naman malas eh :D", :followers=>436, :user_id=>1588517024, :retweet=>0}
+{:name=>"@KalymaLimon", :text=>"RT @BBCTheVoiceUK: When you look at your calendar and realise it's #FridayThe13th... http://t.co/0ERduHLcpA", :followers=>270, :user_id=>432294702, :retweet=>59}
+{:name=>"@__LeonardoBueno", :text=>"RT @EuropaLeague: #FridayThe13th Superstitious? Terry's @Usher love; Inzaghi's biscuit fixation; @JohanCruyff's chewing gum habit: http://t…", :followers=>1672, :user_id=>1543519783, :retweet=>2}
+{:name=>"@Asystoliena", :text=>"Friday 👌\n\n#weekend #FridayThe13th #peaceandout #sun", :followers=>9, :user_id=>3023955766, :retweet=>0}
+{:name=>"@LeoNewman1948", :text=>"RT @britishmuseum: Beware black cats on #FridayThe13th! Perhaps this one is alright though… http://t.co/407Psz8bFi http://t.co/2n77S9M8k4", :followers=>166, :user_id=>2829600031, :retweet=>72}
+{:name=>"@maya_todorova", :text=>"Beware black cats on #FridayThe13th! Perhaps this one is alright though  @britishmuseum http://t.co/Z5xGd9Q2hp", :followers=>159, :user_id=>1045598641, :retweet=>0}
+{:name=>"@transpomecha", :text=>"#FridayThe13th Enjoy watching livestream. Simple as that.", :followers=>106, :user_id=>407733179, :retweet=>0}
+{:name=>"@lucyirv", :text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :followers=>1398, :user_id=>45019930, :retweet=>323}
+{:name=>"@leexoxoxolee", :text=>"#FridayThe13th\n\n...", :followers=>99, :user_id=>2459358854, :retweet=>0}
+{:name=>"@AprilMonterrosa", :text=>"#Beauty is faceless. Happy #FridayThe13th! #SanAntonio #ShineBeautifully #TGIF #SATX #txwb #FridayFunday http://t.co/5r33oE7HFf", :followers=>5844, :user_id=>405976864, :retweet=>0}
+{:name=>"@maykawawa", :text=>"#FridayThe13th", :followers=>729, :user_id=>524162376, :retweet=>0}
+{:name=>"@BarberJax", :text=>"RT @BBCOne: Beware of what is lurking in the shadows... #FridayThe13th http://t.co/4pmzCcFh8g", :followers=>11, :user_id=>1396847480, :retweet=>59}
+{:name=>"@immafireball", :text=>"RT @OnlyInBOS: I don't care if it's #FridayThe13th... http://t.co/IwWhMbbkgW", :followers=>416, :user_id=>2878028305, :retweet=>25}
+{:name=>"@rococo7280", :text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :followers=>11, :user_id=>2885879210, :retweet=>682}
+{:name=>"@ManAnonymous1", :text=>"So it's Friday the 13th and the scariest thing is tomorrow is Valentines Day! Aaaaarrrrgggghhhh!! #FridayThe13th #ValentinesDay #Aaaarrgghh", :followers=>31, :user_id=>601288622, :retweet=>0}
+{:name=>"@DaveandNeill", :text=>"So, who's up for Dover today? #Fridaythe13th #PortDover http://t.co/sJkrwORmiR", :followers=>146, :user_id=>1530346147, :retweet=>0}
+{:name=>"@simplyferocious", :text=>"Happy Friday and Feb13th everyone :) ... - as what I was writing on my business emails realizing that, oh shit its #FridayThe13th :O", :followers=>963, :user_id=>354703379, :retweet=>0}
+{:name=>"@DanaDianee_", :text=>"RT @m1ndspeak5truth: #FridayThe13th http://t.co/m18lslv13m", :followers=>243, :user_id=>477511120, :retweet=>21}
+{:name=>"@duphilbernard", :text=>"RT @FalkenTire: #Fridaythe13th #giveaway! RT to enter to win! Rules: http://t.co/xk5Ks4sR6a http://t.co/zQQtWwOH3B", :followers=>28, :user_id=>218978270, :retweet=>13}
+{:name=>"@heavenly_dress", :text=>"Our #MarilynMonroe purses are now £5.50 get your's here: http://t.co/rlccqzbMX5 #Hollywood #Oscars2015 #Fridaythe13th http://t.co/SELHR7ratL", :followers=>262, :user_id=>3003877006, :retweet=>0}
+{:name=>"@FloraKamelia", :text=>"RT @MonaSafitri27: Remember can't reach what's in front of you, until you let go of what's behind you #ChapelHillShooting #FridayThe13th", :followers=>201, :user_id=>2492541464, :retweet=>2}
+{:name=>"@TheFacelessOwl", :text=>"RT @britishmuseum: Beware black cats on #FridayThe13th! Perhaps this one is alright though… http://t.co/407Psz8bFi http://t.co/2n77S9M8k4", :followers=>166, :user_id=>2796483889, :retweet=>72}
+{:name=>"@xomorlandoxo", :text=>"RT @OnlyInBOS: I don't care if it's #FridayThe13th... http://t.co/IwWhMbbkgW", :followers=>572, :user_id=>268289455, :retweet=>25}
+{:name=>"@TheCuggsmeister", :text=>"Happy Friday 13th Twitterverse!\n\n#FridayThe13th #horror #JasonVoorhees #TGIF #TGIFriday #SNRTG http://t.co/NmHbcK6L5R", :followers=>1165, :user_id=>508116245, :retweet=>0}
+{:name=>"@iammarisolf", :text=>"#FridayThe13th #AskAnne #DiBaleNgSingle #AllergicAkoSaValentines #NgayongFeb14", :followers=>8, :user_id=>2280292664, :retweet=>0}
+{:name=>"@alwayssmilelxte", :text=>"RT @CherguiaMbark: Food of the Prophet Muhammad (ﷺ)\n#FridayThe13th http://t.co/4s0mbc6ces", :followers=>251, :user_id=>264282354, :retweet=>51}
+{:name=>"@MyrickCompanyFF", :text=>"@KSLAndrew GM to you, @LoriPrichard &amp; @KSLSharaPark. Before you follow me &amp; Shara, Have a Happy #FridayThe13th. ♥ ya all. #KSLAM ~ M", :followers=>3187, :user_id=>588166301, :retweet=>0}
+{:name=>"@MashaAndTheBear", :text=>"What a #FridayThe13th without a nightmare?! See the cutest one on MashaBearEN! #fun \nhttps://t.co/q8Uvx9EJFZ", :followers=>9246, :user_id=>1410704876, :retweet=>0}
+{:name=>"@3Emmalou", :text=>"Sent home from work poorly..... Pj's &amp; orange is the new black on Netflix it is then 😷📺🍊 #PoorlySick #pj's #FridayThe13th #cursed #OITNB", :followers=>127, :user_id=>461442528, :retweet=>0}
+{:name=>"@_botchogg", :text=>"#Neverland406 Whoo! botchog botchog! 😂😂 #Fridaythe13th saya! 🙌🙌", :followers=>297, :user_id=>581809692, :retweet=>1}
+{:name=>"@LukieBabyyy", :text=>"#fridaythe13th http://t.co/k4iF4MMYiT", :followers=>72, :user_id=>211947006, :retweet=>0}
+{:name=>"@DanceSportEA", :text=>"We're warding off the bad #FridayThe13th vibes with lucky #FridayDance black cat. #RETWEEET &amp; spread the good luck http://t.co/TmD1I7NmaZ", :followers=>720, :user_id=>743294130, :retweet=>0}
+{:name=>"@Razor8j", :text=>"RT @Independent: Anonymous are about to wage war on those covering up child abuse http://t.co/b759UviEtR #OpDeathEaters #FridayThe13th http…", :followers=>237, :user_id=>1548701510, :retweet=>72}
+{:name=>"@RaheeMapara", :text=>"Getting nervous for my anxiety tutorial later today #medstudentproblems #FridayThe13th", :followers=>38, :user_id=>2950834817, :retweet=>0}
+{:name=>"@MariamElHusaini", :text=>"#FridayThe13th \rخبوا عيالكوا 🚶", :followers=>2060, :user_id=>1080290953, :retweet=>0}
+{:name=>"@lovell020606", :text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :followers=>607, :user_id=>707369700, :retweet=>323}
+{:name=>"@celticfc", :text=>"#FridayThe13th - Only 2 Bhoys have worn the No.13 strip for the Hoops... (NM) http://t.co/d3f5c36hT0", :followers=>260207, :user_id=>15203904, :retweet=>1}
+{:name=>"@Marion_Cabral", :text=>"RT @SIngratta2: Dreaming of Dover... #Fridaythe13th #HarleyDavidson #BikerChick", :followers=>157, :user_id=>2715635925, :retweet=>1}
+{:name=>"@HotProvidence", :text=>"#FridayThe13th #superstitious 😳", :followers=>4401, :user_id=>61566158, :retweet=>0}
+{:name=>"@JulietTATARAKIS", :text=>"That moment when you've had a pounding headache for 12 hrs, meds aren't working, and u wish u could chop your head off #FML #FridayThe13th", :followers=>220, :user_id=>30403997, :retweet=>0}
+{:name=>"@FD_BoltonNews", :text=>"RT @BWFCNorthstand5: Happy #Fridaythe13th #bwfc http://t.co/cbpkD7lgkZ", :followers=>69, :user_id=>2984160563, :retweet=>3}
+{:name=>"@alcala_bhell", :text=>"RT @NewLookFashion: You don't need luck when your feet look this good. http://t.co/SwAtBcjpKU #FridayThe13th http://t.co/tw42zTBh2e", :followers=>105, :user_id=>1251462006, :retweet=>15}
+{:name=>"@AbelUndercity", :text=>"#IfYoureReadingThisItsTooLate: @JasonLVoorhees is standing right behind you. #FridayThe13th", :followers=>1776, :user_id=>57314318, :retweet=>0}
+{:name=>"@im_sk_lp", :text=>"RT @WickedUK: Don't let #FridayThe13th bring you down...have a WICKED day! #WickedUK http://t.co/ImLgaP3WXx", :followers=>540, :user_id=>1242650088, :retweet=>40}
+{:name=>"@JanellaPogi", :text=>"#FridayThe13th ordinary day :\"&gt;", :followers=>9, :user_id=>3029465657, :retweet=>0}
+{:name=>"@LevyRedfoxx", :text=>"RT @IAdamClark: Satan in the front seat. \nSatan in the back seat.\n#FridayThe13th", :followers=>618, :user_id=>2543619583, :retweet=>2}
+{:name=>"@CC_ClashOfClans", :text=>"@ClashStrategy 😱 #nopantsfriday on #FridayThe13th that could be a #fright.", :followers=>746, :user_id=>2737264972, :retweet=>0}
+{:name=>"@mtonino", :text=>"RT @OrsonGalore: Happy Friday the 13th! Art by Beyond Horror.  #FridayThe13th #JasonVoorhees http://t.co/sc6QbvVsUz", :followers=>822, :user_id=>30213564, :retweet=>3}
+{:name=>"@Walajallad", :text=>"RT @JeeKahale: Have a blessed day, Happy #FridayThe13th\n@HadeelNourddin @WaadElias @AboodArja13 @ReemSoudani @Aloquili @Walajallad http://t…", :followers=>2695, :user_id=>272925176, :retweet=>6}
+{:name=>"@IrreverentGamer", :text=>"Happy #FridayThe13th friends.  This should be a national holiday! http://t.co/ITh5tdBxo3", :followers=>1609, :user_id=>2257737920, :retweet=>0}
+{:name=>"@jakelovesgracey", :text=>"RT @BBCTheVoiceUK: When you look at your calendar and realise it's #FridayThe13th... http://t.co/0ERduHLcpA", :followers=>93, :user_id=>388709686, :retweet=>59}
+{:name=>"@SimpleGerene", :text=>"#FridayThe13th is so Happy😊", :followers=>131, :user_id=>2899988532, :retweet=>0}
+{:name=>"@VinceGandey22", :text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :followers=>497, :user_id=>129470190, :retweet=>109}
+{:name=>"@Bitcoin101", :text=>"Bitcoin transactions stalled at three confirmations. Exchanges ran by Mark Karpeles. Both scarier than #FridayThe13th", :followers=>1722, :user_id=>1245232406, :retweet=>0}
+{:name=>"@PamelaSBall", :text=>"RT @Hylas1962: Going to see @themiltonjones with @PamelaSBall it's #FridayThe13th it's #Liverpool what could possibly go wrong, #thirdtimel…", :followers=>905, :user_id=>189867660, :retweet=>1}
+{:name=>"@Good_Oncer", :text=>"Vendredi 13 🍀🍀🍀 #FridayThe13th", :followers=>231, :user_id=>1860493633, :retweet=>0}
+{:name=>"@faisalkhan22", :text=>"#FridayThe13th #askpewds get computer,social media hacking tricks and news at http://t.co/WUqxtgldv1 hahah #ifyourereadingthisitstoolate", :followers=>27, :user_id=>99902188, :retweet=>0}
+{:name=>"@ARMY_Naby", :text=>"Sa mga LOVERS jan .. Happy #FridayThe13th , nawa'y pagsakluban kau ng langit at lupa sa sobrang mga katamisan nyo. Hahaha Echose ! 😉😽", :followers=>30, :user_id=>2852916253, :retweet=>0}

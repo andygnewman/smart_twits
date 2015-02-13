@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>603}
-{:text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :retweet=>378}
-{:text=>"RT @bol_com_games: Het is #Nintendo3DSDay en om dat te vieren geven we bij de 400 nieuwe volgers een witte NEW 3DS weg! RT, volg en #win ht…", :retweet=>360}
-=======
-{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>666}
-{:text=>"RT @bol_com_games: Het is #Nintendo3DSDay en om dat te vieren geven we bij de 400 nieuwe volgers een witte NEW 3DS weg! RT, volg en #win ht…", :retweet=>491}
-{:text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :retweet=>486}
->>>>>>> development
+{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>685}
+{:text=>"RT @bol_com_games: Het is #Nintendo3DSDay en om dat te vieren geven we bij de 400 nieuwe volgers een witte NEW 3DS weg! RT, volg en #win ht…", :retweet=>514}
+{:text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :retweet=>510}

@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-{:name=>"@Independent", :text=>"New Romantic pioneer Steve Strange has died of a heart attack, aged 55 http://t.co/DakAE62mX0 http://t.co/KFTHMM858t", :followers=>1041107, :user_id=>16973333, :retweet=>12}
-{:name=>"@afpfr", :text=>"Steve Strange, le chanteur du groupe pop Visage, a \"Fade To Grey\" cette nuit http://t.co/2DcjkCnWtv #AFP", :followers=>767827, :user_id=>338985020, :retweet=>7}
-{:name=>"@theobserver", :text=>"British New Romantic icon Steve Strange dies at 55 http://t.co/tCjTRRK8UB", :followers=>69026, :user_id=>8695932, :retweet=>0}
-=======
-{:name=>"@globovision", :text=>"Murió Steve Strange a los 55 años http://t.co/ny52Osi2JH http://t.co/cM1OVnmfve", :followers=>3401512, :user_id=>17485551, :retweet=>1}
-{:name=>"@BFMTV", :text=>"Steve Strange, le chanteur de Visage, est mort  http://t.co/zdeXrx4fki http://t.co/kImFeDQmJN", :followers=>1008808, :user_id=>133663801, :retweet=>1}
-{:name=>"@pinknews", :text=>"Visage lead singer Steve Strange dies aged 55 http://t.co/J1ul1SlySO http://t.co/bfEQIqNWpY", :followers=>68574, :user_id=>27987687, :retweet=>0}
->>>>>>> development
+{:name=>"@i_D", :text=>"Steve Strange, you'll be missed but won't be forgotten: http://t.co/N35ybg8W5h http://t.co/ZwdueYBxUf", :followers=>917144, :user_id=>20225875, :retweet=>2}
+{:name=>"@GayTimesMag", :text=>"RIP Steve Strange. \n\nhttp://t.co/p0uIgEUXtd http://t.co/vgRy1SwSfR", :followers=>221523, :user_id=>19230279, :retweet=>0}
+{:name=>"@birminghammail", :text=>"RT @gd_yng: Steve Strange: Duran Duran star leads tributes.... loved Fade To Grey back in the day http://t.co/CaknxDbab2 http://t.co/x7NabN…", :followers=>77083, :user_id=>12870772, :retweet=>1}

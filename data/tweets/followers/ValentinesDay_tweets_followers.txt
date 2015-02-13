@@ -1,3 +1,3 @@
-{:name=>"@terrycrews", :text=>"RT @POPSUGARBeauty: The ultimate man @terrycrews talks men's grooming tips for #ValentinesDay: http://t.co/HbQ7GXqCFK http://t.co/qaM0Wkd5ik", :followers=>371769, :user_id=>16305370, :retweet=>1}
-{:name=>"@KiSS925", :text=>"#RozAndMocha @KiSS925: 9-10am we're playing #Maurieoke for @NKOTB tix! Love songs today because tomorrow is #ValentinesDay! 416-870-88-88!!", :followers=>61504, :user_id=>47618120, :retweet=>0}
-{:name=>"@WestYorksPolice", :text=>"Don’t be a victim of romance fraud this #valentinesday.  For online dating safety advice visit http://t.co/BpC5KWrFHa #police #romancefraud", :followers=>58742, :user_id=>20038272, :retweet=>0}
+{:name=>"@GhaflaKenya", :text=>"#SeductionParty is Where #ValentinesDay Will be Most Happening @namelesskenya SEE U\nhttp://t.co/VIuI0s6bZd\n@djcliffmaleek\n@MwinyiKazungu", :followers=>116044, :user_id=>93619360, :retweet=>0}
+{:name=>"@olivemagazine", :text=>"Pink bubbles may come in handy this weekend… http://t.co/KGKj8VWAQf #ValentinesDay #romance #champagne #pinkfizz http://t.co/SUj7qVkiOQ", :followers=>60043, :user_id=>22653968, :retweet=>0}
+{:name=>"@familyfoodie", :text=>"RT @GoEpicurista: Got #ValentinesDay plans? These ideas will make it spectacular! http://t.co/rhPRBchFiy", :followers=>32821, :user_id=>41268882, :retweet=>1}

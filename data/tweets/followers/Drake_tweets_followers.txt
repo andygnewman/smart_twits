@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-{:name=>"@BrandonKing617", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>49814, :user_id=>307646743, :retweet=>135}
-{:name=>"@SwagLik3Ohio", :text=>"RT @Danny__Hendrix: \"Drake ain't shit, &amp; his music sucks.\" Drops mixtape out of nowhere, &amp; made just about as much as rappers first sales w…", :followers=>26110, :user_id=>47425856, :retweet=>4}
-{:name=>"@_sisiEKO", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/paygvzeaLB #Via @TheENTonline", :followers=>22691, :user_id=>454408558, :retweet=>0}
-=======
-{:name=>"@myinternalhelI", :text=>"RT @overdosers: damn Drake already has me crying with his new album http://t.co/Ll87XsPjv8", :followers=>63601, :user_id=>327404247, :retweet=>1092}
-{:name=>"@mixbreed_lexie", :text=>"RT @overdosers: damn Drake already has me crying with his new album http://t.co/Ll87XsPjv8", :followers=>48228, :user_id=>490945690, :retweet=>1092}
-{:name=>"@KissMe", :text=>"RT @overdosers: damn Drake already has me crying with his new album http://t.co/Ll87XsPjv8", :followers=>45059, :user_id=>590088175, :retweet=>1092}
->>>>>>> development
+{:name=>"@Jayleegang", :text=>"RT @TRAPINNEXTDOOR: Twitter and Instagram about to be full of quotes from Drake's mixtape for the next 3 months. 🔥🔥🔥", :followers=>41199, :user_id=>2268114072, :retweet=>39}
+{:name=>"@Power1075", :text=>"RT @BinkandMisty: #np new @Drake \"Used to\" with @LilTunechi, off his new album \"If You're Listening to This It's Too Late!\" Thoughts? 821-1…", :followers=>10317, :user_id=>22074453, :retweet=>1}
+{:name=>"@aliveinthefall", :text=>"@in_daclub @Drake tru", :followers=>4090, :user_id=>348259632, :retweet=>0}

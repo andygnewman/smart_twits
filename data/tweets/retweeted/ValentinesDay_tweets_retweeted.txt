@@ -1,3 +1,3 @@
-{:text=>"RT @LGUK: RT &amp; Follow @LGUK and U could WIN 6 months free of @SpotifyUK premium for #ValentinesDay! http://t.co/CKMjzJa2vO http://t.co/VG5n…", :retweet=>671}
-{:text=>"RT @ShujaRabbani: Ford pranks dudes by setting them up on a blind date with a stunt driver http://t.co/pQQGq2gxe8 via @mashable #Valentines…", :retweet=>563}
-{:text=>"RT @IloveHQ: It's nearly #ValentinesDay and we've got an big bundle of Duo #Love for you! RT+Follow to enter! #Win #FreebieFriday http://t.…", :retweet=>475}
+{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>42682}
+{:text=>"RT @ANA_travel_info: フォロー&amp;このツイートをリツイートで抽選で1組2名様に国内線航空券をプレゼント☆ #ANAバレンタイン2015\n詳細は⇒http://t.co/QQsM3QOitA\n#バレンタイン #ValentinesDay http://t.co/…", :retweet=>2126}
+{:text=>"RT @mycoopfood: RT&amp;Follow for the chance to #Win £30 vouchers to make the Ultimate Date Night Package for #ValentinesDay http://t.co/UhJuXz…", :retweet=>925}

@@ -1,3 +1,3 @@
-{:name=>"@simplydenise34", :text=>"@pewdiepie #askpewds GET THIS TWEET ON YOUR GODDAMN VIDEO COS I LOVE YOU TO DEATH POODS 😭😭😭😭😭😭😭 FOLLOW ME TOO", :followers=>7644, :user_id=>596414473, :retweet=>0}
-{:name=>"@94sglow", :text=>"@pewdiepie on a scale of 1-10 how much do you want to be my daddy #askpewds", :followers=>7401, :user_id=>931983666, :retweet=>0}
-{:name=>"@Narry_Slays", :text=>"@pewdiepie how does one become fabulous like you? #askpewds", :followers=>6103, :user_id=>1090652131, :retweet=>0}
+{:name=>"@VirtuallyZouis", :text=>"Toilet paper under or over? #askpewds", :followers=>37460, :user_id=>630712621, :retweet=>0}
+{:name=>"@ultramagcon", :text=>"@pewdiepie #askpewds do you like pickles", :followers=>16734, :user_id=>2609564581, :retweet=>0}
+{:name=>"@pornhubmgc", :text=>"@pewdiepie can u teach me how to do anal ? #askpewds", :followers=>14718, :user_id=>1195471304, :retweet=>0}
