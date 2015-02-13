@@ -32,7 +32,7 @@ class Tweets
   end
 
   def find_media(file_path)
-    find_args(file_path, [:media, :tweet])
+    find_args(file_path, [:media, :text])
   end
 
 end

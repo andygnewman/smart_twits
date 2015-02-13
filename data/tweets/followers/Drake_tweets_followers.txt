@@ -1,28 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-{:name=>"@StonedVines", :text=>"RT @69Pixelz: @Drake http://t.co/6kxMgM0VSP", :followers=>63065, :user_id=>466589317, :retweet=>57}
-{:name=>"@THEALIENMESSIAH", :text=>"RT @69Pixelz: @Drake http://t.co/6kxMgM0VSP", :followers=>61349, :user_id=>2178782821, :retweet=>57}
-{:name=>"@THCMOONMAN", :text=>"RT @69Pixelz: @Drake http://t.co/6kxMgM0VSP", :followers=>55274, :user_id=>449614269, :retweet=>57}
-||||||| merged common ancestors
-{:name=>"@ZacksPosts", :text=>"RT @medzzzx: Twitter and Instagram about to be full of quotes from Drake's mixtape for the next 3 months🔥🔥🔥", :followers=>81305, :user_id=>220770296, :retweet=>492}
-{:name=>"@Ivan_splash", :text=>"RT @__allSHEwrote: “@Ivan_splash: Tyga heard Drake's diss when he was changing Kylie's diaper and he lost it” 😂😂", :followers=>11515, :user_id=>303805862, :retweet=>1}
-{:name=>"@LavishWaysEnt", :text=>"Drake &amp; Nas To Perform At Sprite NBA All-Star Weekend Show: Hold the presses. In the final hour, after Drake’s... http://t.co/y9CwOzeylA", :followers=>10599, :user_id=>386421647, :retweet=>0}
-=======
-<<<<<<< HEAD
-||||||| merged common ancestors
-=======
-{:name=>"@Drakevo_", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>21713, :user_id=>168287308, :retweet=>91278}
-{:name=>"@cwinkkk", :text=>"Spring 2015 poppin.... @Drake", :followers=>3954, :user_id=>52345779, :retweet=>0}
-{:name=>"@JustCallMe_Quan", :text=>"RT @DMSmooth7: Nigga just said now everybody a drake fan... 😒 EVERYBODY FUCKS WITH DRAKE", :followers=>3271, :user_id=>275645701, :retweet=>15}
-=======
-<<<<<<< HEAD
->>>>>>> 6870623f15fc4bda0fd9d09b5c4b0ff0786fcd20
-{:name=>"@CierraLogan", :text=>"RT @sirdanyal: drake / know yourself", :followers=>9781, :user_id=>261510075, :retweet=>1}
-{:name=>"@AyoooCory_", :text=>"preach // drake ft. partynextdoor", :followers=>8766, :user_id=>537266119, :retweet=>0}
-{:name=>"@WorldNews_AKN", :text=>"Drake Pulls a Beyoncé, Drops Surprise Album If You're Reading This It's Too Late on iTunes... http://t.co/VLQmmcTzdD from world news app", :followers=>4526, :user_id=>2507378912, :retweet=>0}
-=======
-{:name=>"@InkedUpArab", :text=>"RT @xvnexx: Me: But I thought the mixtape was free?\n\n@Drake :- http://t.co/jlbrLBG1nP", :followers=>39494, :user_id=>152673506, :retweet=>248}
-{:name=>"@nyopromotions2", :text=>"Drake type beat \"A better tomorrow\" much emotion on this one! https://t.co/KXSjxmmgA1 http://t.co/mTa4IKz4O1", :followers=>19701, :user_id=>429534358, :retweet=>0}
-{:name=>"@yusufyuie", :text=>"RT @Markaaaay: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nTyga.... http://t.co/…", :followers=>9585, :user_id=>197823320, :retweet=>194}
->>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
->>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb
+{:name=>"@ClayPerryMusic", :text=>"If you think Drake is better than any of the people I just named you are fooling yourself....", :followers=>60338, :user_id=>48290701, :retweet=>0}
+{:name=>"@RepShady", :text=>"RT @LightSkinGuwopp: @Drake New Mixtape 🔥🔥🔥", :followers=>13780, :user_id=>1305797966, :retweet=>138}
+{:name=>"@pydespinosa", :text=>"RT @JacobWhitesides: Turn that new drake on and let's go 🔥", :followers=>6104, :user_id=>952008714, :retweet=>1068}
