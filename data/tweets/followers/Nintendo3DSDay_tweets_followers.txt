@@ -1,0 +1,3 @@
+{:name=>"@NintendoEurope", :text=>"RT @alexandarDE: Finally it's here. Thank you Nintendo #Nintendo3DSDay #nintendo http://t.co/MBgVMaRYP4", :followers=>113827, :user_id=>493980491, :retweet=>5}
+{:name=>"@NintendoFrance", :text=>"RT @Airinati: Ca y est elle est là *0* Juste wahou 😍 #n3ds #ZeldaMajorasmask #Nintendo3DSDay #Nintendo http://t.co/7Pj0aJb74K", :followers=>60539, :user_id=>491500016, :retweet=>0}
+{:name=>"@_princesscarina", :text=>"RT @NintendoEurope: #IRONFALL Invasion has blasted onto Nintendo #eShop! http://t.co/QybZ0MKqzC #Nintendo3DSDay http://t.co/rDAs7xg6bw", :followers=>18439, :user_id=>2721549419, :retweet=>5}

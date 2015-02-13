@@ -1,0 +1,3 @@
+{:name=>"@ClayPerryMusic", :text=>"If you think Drake is better than any of the people I just named you are fooling yourself....", :followers=>60338, :user_id=>48290701, :retweet=>0}
+{:name=>"@RepShady", :text=>"RT @LightSkinGuwopp: @Drake New Mixtape 🔥🔥🔥", :followers=>13780, :user_id=>1305797966, :retweet=>138}
+{:name=>"@pydespinosa", :text=>"RT @JacobWhitesides: Turn that new drake on and let's go 🔥", :followers=>6104, :user_id=>952008714, :retweet=>1068}

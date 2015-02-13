@@ -1,0 +1,100 @@
+{:name=>"@zupakidalama", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#ألي_يحبك\n#askpewds\n#رتوت\n677 http://t.co/x7d0ZFfY0Q", :followers=>899, :user_id=>2975530829, :retweet=>0}
+{:name=>"@fydelovakus", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#ألي_يحبك\n#askpewds\n#رتوت\n6695 http://t.co/uRqWz9VYk0", :followers=>1082, :user_id=>2975568856, :retweet=>0}
+{:name=>"@faqozadicak", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#ألي_يحبك\n#askpewds\n#رتوت\n3190 http://t.co/LR5OgPhkso", :followers=>960, :user_id=>2975531123, :retweet=>0}
+{:name=>"@MonlightHD", :text=>"Der hashtag #askpewds und #wasichnichthab streiten sich ein bischien", :followers=>38, :user_id=>2734429504, :retweet=>0}
+{:name=>"@oohsbk", :text=>"Do you listen to kpop songs? If so, what song is it? @pewdiepie #askpewds", :followers=>17, :user_id=>3001258142, :retweet=>0}
+{:name=>"@bigadealv", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>10, :user_id=>2830051330, :retweet=>1734}
+{:name=>"@mihaelsvetec1", :text=>"#AskPewds whats your condom size? O_o", :followers=>3, :user_id=>2532596540, :retweet=>0}
+{:name=>"@infinitetroyler", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>443, :user_id=>2658301238, :retweet=>1734}
+{:name=>"@Quote_Farrel", :text=>"@pewdiepie do i have a soul? #askpewds", :followers=>12, :user_id=>2506570054, :retweet=>0}
+{:name=>"@SLagaja", :text=>"RT@shayanziarati:#askpewds can you answer my question?... \n RT@NewTweetTopics:see&gt;http://t.co/n9S1lIvvor", :followers=>1861, :user_id=>2154218233, :retweet=>0}
+{:name=>"@TheMexarn", :text=>"#askpewds If u put a banana on ur head and nutella around ur mouth, what whould u be?", :followers=>3, :user_id=>1308639846, :retweet=>0}
+{:name=>"@cynthiestef", :text=>"@pewdiepie how do you make an omelet #askpewds", :followers=>236, :user_id=>200984875, :retweet=>0}
+{:name=>"@AlyssaMilyiori", :text=>"@pewdiepie #askpewds why are the most fabulous person in the whole wide world?", :followers=>97, :user_id=>2172283142, :retweet=>0}
+{:name=>"@itsnaomilopez", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>170, :user_id=>2777433355, :retweet=>1734}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/YMmR7Ac9Dl  #CRUvREB #BritishSexPositions #NRLAllStars #askpewds http://t.co/hppn8CqBJI", :followers=>2555, :user_id=>3000496763, :retweet=>0}
+{:name=>"@SAkerholm", :text=>"@pewdiepie #askpewds", :followers=>5, :user_id=>2865444236, :retweet=>0}
+{:name=>"@cynthiestef", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>236, :user_id=>200984875, :retweet=>1734}
+{:name=>"@HorseJosh", :text=>"@pewdiepie #askpewds why was I sleeping when you tweeted this 😭", :followers=>5836, :user_id=>1912310754, :retweet=>0}
+{:name=>"@aagameboy100", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>2, :user_id=>2196943351, :retweet=>1734}
+{:name=>"@moonsoul__", :text=>"@pewdiepie who are you ? #askpewds", :followers=>536, :user_id=>251265791, :retweet=>0}
+{:name=>"@copecalyriku", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n9516 http://t.co/Zd5Rg3RndR", :followers=>1315, :user_id=>2975566030, :retweet=>0}
+{:name=>"@sihiqujucyz", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n7059 http://t.co/wW4xcRhXH1", :followers=>863, :user_id=>2975497713, :retweet=>0}
+{:name=>"@zupakidalama", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n4244 http://t.co/jeBQdt7ZnZ", :followers=>899, :user_id=>2975530829, :retweet=>0}
+{:name=>"@dyfylyqimalu", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n5093 http://t.co/HiSaKDTRuu", :followers=>1017, :user_id=>2975567386, :retweet=>0}
+{:name=>"@Kristos_LV", :text=>"@pewdiepie #askpewds do u want to build a snowman?:-)", :followers=>3, :user_id=>2225612402, :retweet=>0}
+{:name=>"@faqozadicak", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n5779 http://t.co/mmor5X04op", :followers=>960, :user_id=>2975531123, :retweet=>0}
+{:name=>"@harobikasib", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n373 http://t.co/kOyAJnqCML", :followers=>1136, :user_id=>2975531129, :retweet=>0}
+{:name=>"@tobodovulut", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n5877 http://t.co/mvzPu7SD8a", :followers=>967, :user_id=>2975566720, :retweet=>0}
+{:name=>"@tonajinicyto", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n4791 http://t.co/T9DlK4Kp1T", :followers=>1087, :user_id=>2975567716, :retweet=>0}
+{:name=>"@filippa_berling", :text=>"@pewdiepie how fab are you #askpewds", :followers=>42, :user_id=>1040040602, :retweet=>0}
+{:name=>"@muarafatan", :text=>"RT@andreachavez062:@pewdiepie #askpewds would u rather be a hero or a preson that is rich... \n RT@haviafotokopi:SST&gt;http://t.co/cpu8Pl9LsU", :followers=>1483, :user_id=>2154193748, :retweet=>0}
+{:name=>"@fydelovakus", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n4791 http://t.co/OCm3jlTUuA", :followers=>1082, :user_id=>2975568856, :retweet=>0}
+{:name=>"@gadusoricula", :text=>"❗️ اعلان ❗️\nهدفنا التسويق للمنتجات \nوالحملات الإعلانيه \nللاستفسار 0553627641 \n#تسويق\n#askpewds\n#\n7333 http://t.co/0AEwQiM2ly", :followers=>1154, :user_id=>2975566954, :retweet=>0}
+{:name=>"@Blazeboy367", :text=>"@pewdiepie do you cut glass with your nipples as katanas? #askpewds", :followers=>1, :user_id=>2764528364, :retweet=>0}
+{:name=>"@reeltoreel8500", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>4, :user_id=>2951572819, :retweet=>174}
+{:name=>"@PropsEtc", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>0, :user_id=>3028873431, :retweet=>174}
+{:name=>"@iWaffleGod", :text=>"@pewdiepie. #askpewds how many money do you earn at year?", :followers=>15, :user_id=>3007538895, :retweet=>0}
+{:name=>"@critical_teen", :text=>"How to cut toe nails? #askpewds", :followers=>12, :user_id=>1620230695, :retweet=>0}
+{:name=>"@Klarissondra", :text=>"RT @Mangaminx: #askpewds Have you ever tried to insert an entire aubergine/eggplant into your nostrils? If so what colour was your skin aft…", :followers=>20, :user_id=>2444642785, :retweet=>37}
+{:name=>"@a5998530", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>9, :user_id=>2588947658, :retweet=>1734}
+{:name=>"@HashsArb", :text=>"الهاشتاقات العربية النشطة :\n\n#بتستفزني_اذا\n#الذهب_روح_ولعب\n#أفضل_ثنائي_شاهدته\n#askpewds\n#ChahineAlexandriaConcert\n4770", :followers=>312, :user_id=>2321155507, :retweet=>0}
+{:name=>"@hilarious2595", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>90, :user_id=>2881906225, :retweet=>174}
+{:name=>"@fashion3449", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>2, :user_id=>2958869882, :retweet=>174}
+{:name=>"@friends3449", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>3, :user_id=>2956981808, :retweet=>174}
+{:name=>"@loveit2379", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>4, :user_id=>2951081281, :retweet=>174}
+{:name=>"@VickyPapaliakou", :text=>"#askpewds what would you do if you were stuck on a desert islant with smosh?", :followers=>143, :user_id=>1407921361, :retweet=>0}
+{:name=>"@sohalariuus9983", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>3, :user_id=>2957034456, :retweet=>174}
+{:name=>"@deliciousn9977", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>1, :user_id=>3007911163, :retweet=>174}
+{:name=>"@littleslove4088", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>35, :user_id=>2879279293, :retweet=>174}
+{:name=>"@mxchelaroex", :text=>"@pewdiepie #askpewds what animal would you be for 1day? 😂", :followers=>34, :user_id=>2943388724, :retweet=>0}
+{:name=>"@ozcelik_meltem", :text=>"@pewdiepie how did you become a DUCK?? &lt;3 #askpewds", :followers=>40, :user_id=>2989134039, :retweet=>0}
+{:name=>"@lolp9778", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>6, :user_id=>2957024845, :retweet=>174}
+{:name=>"@teacher9357", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>1, :user_id=>3007984753, :retweet=>174}
+{:name=>"@pherrera2018", :text=>"@pewdiepie  #askpewds  do you even lift bruh?", :followers=>1, :user_id=>2654681839, :retweet=>0}
+{:name=>"@designvisua2790", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>21, :user_id=>2880830718, :retweet=>174}
+{:name=>"@jewels7554", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>30, :user_id=>2869713054, :retweet=>174}
+{:name=>"@RackIdeas", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>12, :user_id=>2880003650, :retweet=>174}
+{:name=>"@sara_mostynova", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>12, :user_id=>2739416945, :retweet=>1734}
+{:name=>"@Art1005Art", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>38, :user_id=>2879527584, :retweet=>174}
+{:name=>"@yummyyum8136", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>1, :user_id=>2954216070, :retweet=>174}
+{:name=>"@funny5456", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>2, :user_id=>2951170698, :retweet=>174}
+{:name=>"@anime_junkie", :text=>"#askpewds Describe the perfect booty in 3 words", :followers=>2, :user_id=>2959022224, :retweet=>0}
+{:name=>"@threads9100", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>0, :user_id=>2946958525, :retweet=>174}
+{:name=>"@WlaNfas", :text=>"من #السعودية\nتابع @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#أفضل_ثنائي_شاهدته\n#السيسي_ينهب_الخليج\n#تشويش_واضح\n2956", :followers=>398, :user_id=>2812578054, :retweet=>0}
+{:name=>"@baheli_emanuel", :text=>"@pewdiepie HI? #askpewds", :followers=>2, :user_id=>2939991045, :retweet=>0}
+{:name=>"@CalvinSorochan", :text=>"@pewdiepie What does a Swedish meatball taste like? #askpewds", :followers=>33, :user_id=>2669421076, :retweet=>0}
+{:name=>"@sotrue9100", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>6, :user_id=>2949883052, :retweet=>174}
+{:name=>"@loverkiya52", :text=>"Stick bread between you toes and eat it #askpewds", :followers=>3, :user_id=>2256528790, :retweet=>0}
+{:name=>"@clothingsh6892", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>0, :user_id=>3008642634, :retweet=>174}
+{:name=>"@barbie5979", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>0, :user_id=>3009645210, :retweet=>174}
+{:name=>"@hightechalw2667", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>59, :user_id=>2870309052, :retweet=>174}
+{:name=>"@pinterest_on", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>54, :user_id=>2871821028, :retweet=>174}
+{:name=>"@MichaelCs_wifey", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>568, :user_id=>2238341695, :retweet=>1734}
+{:name=>"@paintcolors2380", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>42, :user_id=>2868374160, :retweet=>174}
+{:name=>"@SweetOnl2forme2", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>64, :user_id=>2874728395, :retweet=>174}
+{:name=>"@butterboy1234", :text=>"@pewdiepie #askpewds do you eat nutella like edgar is eating dog food?", :followers=>7, :user_id=>1661836224, :retweet=>0}
+{:name=>"@ChiaraClaire18", :text=>"@pewdiepie what do you love more about Italy? except Marzia of course! ;) \np.s. you're awesome! :) BROFIST &lt;3 #askpewds", :followers=>11, :user_id=>382754268, :retweet=>0}
+{:name=>"@Yst7qM", :text=>"من #السودان\nتابع @DrGl6h\n\n#askpewds\n#نهائي_كأس_ولي_العهد\n#FreeAJStaff\n#حملة_12_ألف_وحداوي_ضد_السد\n#ألي_يحبك\n2944", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@photography2633", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>17, :user_id=>2876841114, :retweet=>174}
+{:name=>"@animalia7443", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>0, :user_id=>2946652704, :retweet=>174}
+{:name=>"@solahgatei", :text=>"RT@JeppesenNikolaj:@pewdiepie #askpewds when did you start calling your Subs bro's... \n RT@sumcara:see&gt;http://t.co/73J50WIHek", :followers=>1194, :user_id=>2153509892, :retweet=>0}
+{:name=>"@giftsandga8952", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>1, :user_id=>3010750969, :retweet=>174}
+{:name=>"@funny5042", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>7, :user_id=>2958750900, :retweet=>174}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/blpqYyMtOM  #askpewds #TGNA #STYLEmusicvideo #못된여자 #askpewds http://t.co/hppn8CqBJI", :followers=>2555, :user_id=>3000496763, :retweet=>0}
+{:name=>"@ladybugpar6460", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>1, :user_id=>3007306230, :retweet=>174}
+{:name=>"@a_styled", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>29, :user_id=>2874562844, :retweet=>174}
+{:name=>"@enclasse2188", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>0, :user_id=>2946836910, :retweet=>174}
+{:name=>"@Rebekka_23", :text=>"@pewdiepie you like one direction? #askpewds", :followers=>11, :user_id=>2964464668, :retweet=>0}
+{:name=>"@diningrooms1429", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>38, :user_id=>2868795390, :retweet=>174}
+{:name=>"@isthisfunny8326", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>3, :user_id=>2957000887, :retweet=>174}
+{:name=>"@fud3032", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>48, :user_id=>2876632855, :retweet=>174}
+{:name=>"@molomolo94", :text=>"#askpewds   Play Barbie dolls ?!", :followers=>4, :user_id=>2998905391, :retweet=>0}
+{:name=>"@cosmos7631", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>42, :user_id=>2868502098, :retweet=>174}
+{:name=>"@fud3703", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>41, :user_id=>2873451865, :retweet=>174}
+{:name=>"@agirlcandre2412", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>53, :user_id=>2873230615, :retweet=>174}
+{:name=>"@tolookat6895", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>4, :user_id=>2957005315, :retweet=>174}
+{:name=>"@pickmeups4643", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>4, :user_id=>2957071626, :retweet=>174}
+{:name=>"@book_vintage", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>30, :user_id=>2882663712, :retweet=>174}
+{:name=>"@WlaNfas", :text=>"ما راح تصدق !!\nادخل وشوف !!\n@DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#أفضل_ثنائي_شاهدته\n#السيسي_ينهب_الخليج\n#تشويش_واضح\n2956", :followers=>398, :user_id=>2812578054, :retweet=>0}
+{:name=>"@yummystuff9778", :text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :followers=>3, :user_id=>2959300765, :retweet=>174}

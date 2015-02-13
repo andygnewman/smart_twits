@@ -1,0 +1,3 @@
+{:name=>"@kylegotjokes", :text=>"Tyga makes music for niggas that Gang bang with no gun", :followers=>39639, :user_id=>297139265, :retweet=>5}
+{:name=>"@SINice", :text=>"A Drake and Tyga beef will be like that nigga in HS that wanna hang out with the hood niggas fighting that nigga that got all the hoes 😂😂", :followers=>10167, :user_id=>25798427, :retweet=>1}
+{:name=>"@L0UISIAN1MAL", :text=>"Tyga makes music? RT @Papi_CHEWluu: serious question, does anyone actually listen to tyga?", :followers=>9323, :user_id=>31889997, :retweet=>0}

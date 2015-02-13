@@ -1,0 +1,3 @@
+{:name=>"@Telegraph", :text=>"Following the death of New Romantic pioneer Steve Strange, we document his life in pictures http://t.co/o4XYeVMajB http://t.co/uVufx6EJOv", :followers=>836758, :user_id=>16343974, :retweet=>3}
+{:name=>"@EstadioDiario", :text=>"Fallece Steve Strange, vocalista de la banda “Visage” http://t.co/nuOhhExGIW http://t.co/qLLpeOV9SX", :followers=>61596, :user_id=>129364127, :retweet=>0}
+{:name=>"@NovedadesAca", :text=>"#Música Fallece Steve Strange vocalista de la banda \"Visage\" http://t.co/NobRXDpcYb", :followers=>41837, :user_id=>227487320, :retweet=>0}

@@ -1,0 +1,3 @@
+{:name=>"@HorseJosh", :text=>"@pewdiepie #askpewds why was I sleeping when you tweeted this 😭", :followers=>5836, :user_id=>1912310754, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/blpqYyMtOM  #askpewds #TGNA #STYLEmusicvideo #못된여자 #askpewds http://t.co/hppn8CqBJI", :followers=>2555, :user_id=>3000496763, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/YMmR7Ac9Dl  #CRUvREB #BritishSexPositions #NRLAllStars #askpewds http://t.co/hppn8CqBJI", :followers=>2555, :user_id=>3000496763, :retweet=>0}

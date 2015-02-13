@@ -1,0 +1,3 @@
+{:name=>"@TheSunNewspaper", :text=>"Stars suffer premature evacuation at the premiere of #50Shadesofgrey. http://t.co/3kK54OF7wv http://t.co/rtwrLUbZxw", :followers=>697555, :user_id=>34655603, :retweet=>0}
+{:name=>"@stillsafe", :text=>"@GreenRockTV A #Television company based in #London specialising in #PostProduction for #Broadcast #Film and more! http://t.co/kyakFdBjcV", :followers=>72453, :user_id=>20789740, :retweet=>0}
+{:name=>"@kikolani", :text=>"98 tips from SES London, 2015 http://t.co/vLff90XgrM", :followers=>59912, :user_id=>15815424, :retweet=>0}
