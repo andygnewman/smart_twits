@@ -1,5 +1,8 @@
 module Helper
 
+    REJECT_WORDS = ['rt', 'it', 'was', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now", "your", "you're", "this"]
+
+
   def read_file(file_path)
     file = File.open(file_path, 'r')
     array = []
@@ -10,14 +13,9 @@ module Helper
     array
   end
 
-  def read_link_file(file_path)
-    text = File.read(file_path)
-    text.scan(/https?:\/\/[A-Za-z0-9._\/&?#]+/).flatten
-  end
-
   def parse_file(file_path, regex)
     text = File.read(file_path)
-    text.scan(/@\w+/).flatten
+    text.scan(regex).flatten
   end
 
   def extract_words(array)
@@ -43,6 +41,12 @@ module Helper
     useful_words = reject_words(words)
     frequency_hash = count_freq(useful_words)
     filter_top_results(number, frequency_hash)
+  end
+
+  def find_args(args)
+    text_array = read_file(file_path)
+    array = []
+    text_array.map{|el| array << args}
   end
 end
 
