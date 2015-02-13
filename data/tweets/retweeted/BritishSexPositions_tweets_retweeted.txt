@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 {:text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :retweet=>451}
 {:text=>"RT @singing_ghosts: the English pound #BritishSexPositions", :retweet=>133}
 {:text=>"RT @AdamBuxton: The orderly queue. #BritishSexPositions", :retweet=>132}
+||||||| merged common ancestors
+{:text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :retweet=>428}
+{:text=>"RT @_IanBeale_: #BritishSexPositions The 'Banksy' I creep up on them, spray all over them, then vanish into the night  #Bealed", :retweet=>278}
+{:text=>"RT @PrimarySklProbs: \"To me to you\" #BritishSexPositions http://t.co/3Zd1f3cyaW", :retweet=>201}
+=======
+<<<<<<< HEAD
+{:text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :retweet=>437}
+{:text=>"RT @iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/PX20hylqfY", :retweet=>379}
+{:text=>"RT @TheKopMagazine: The dodgy tackle from behind #BritishSexPositions #LFC http://t.co/iC641YsMHV", :retweet=>301}
+=======
+{:text=>"RT @HogwartsLogic: #BritishSexPositions \n\nThe Hogwarts Express", :retweet=>248}
+{:text=>"RT @PrimarySklProbs: \"To me to you\" #BritishSexPositions http://t.co/3Zd1f3cyaW", :retweet=>206}
+{:text=>"RT @Markgatiss: The Epilogue #Britishsexpositions", :retweet=>107}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 {:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1695}
 {:text=>"RT @MYNARRYCREW: #askpewds how do you feel about this http://t.co/22JlRtZpon", :retweet=>71}
 {:text=>"RT @thebrosdaily: That moment when I'm asleep and poods does a Q&amp;A and I miss it. #askpewds", :retweet=>47}
+||||||| merged common ancestors
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1652}
+{:text=>"RT @gamingmukexx: Do you ship lashton or Muke #askpewds http://t.co/VH1XJAXnPc", :retweet=>24}
+{:text=>"RT @Yopika21: #askpewds Bonjour Marine Le Pen. Vous n'avez pas honte ?", :retweet=>14}
+=======
+<<<<<<< HEAD
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1663}
+{:text=>"RT @alpacahowell: #askpewds How much % nightmare? http://t.co/pIrWRVGZ21", :retweet=>24}
+{:text=>"RT @zouisgods: @pewdiepie #askpewds would you ever consider buying this shirt http://t.co/yJ8JXcJ1wh", :retweet=>8}
+=======
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1671}
+{:text=>"RT @alsalatan: يوجد لدينا بيع  متابعين تويتر ومشاهدات يوتيوب وانستقرام ورتويت ولايكات للطلب الاستفسار 0504692071\n\n#Friday the 13th\n#askpewd…", :retweet=>891}
+{:text=>"RT @MYNARRYCREW: #askpewds how do you feel about this http://t.co/22JlRtZpon", :retweet=>67}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

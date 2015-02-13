@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 {:name=>"@Wasanga_Mayhem", :text=>"😂😂😂😂😂 RT @drizzyxcole: Never forget. @Tyga http://t.co/9UmY5VzWjO”\"", :followers=>15221, :user_id=>155477336, :retweet=>0}
 {:name=>"@AdmireMissMarie", :text=>"\"@JaywanInc: Haaaaaaaa!  @Tyga is oh so hurt. http://t.co/g1oUyTuLEx\" omg 😂", :followers=>12594, :user_id=>34343960, :retweet=>0}
 {:name=>"@90stiffany", :text=>"RT @ParvesKoyes: When Drake said this about @Tyga http://t.co/gnlGWZmwuB", :followers=>7423, :user_id=>1587662599, :retweet=>1263}
+||||||| merged common ancestors
+{:name=>"@Awesomenezz", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/xj7EZ51iMH", :followers=>45864, :user_id=>24080811, :retweet=>0}
+{:name=>"@Ivan_splash", :text=>"RT @__allSHEwrote: “@Ivan_splash: Tyga heard Drake's diss when he was changing Kylie's diaper and he lost it” 😂😂", :followers=>11515, :user_id=>303805862, :retweet=>1}
+{:name=>"@EvilJeanyis", :text=>"Yo @tyga youza bitch", :followers=>8705, :user_id=>26612737, :retweet=>0}
+=======
+<<<<<<< HEAD
+{:name=>"@Missosofine", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>14126, :user_id=>287375746, :retweet=>794}
+{:name=>"@_MusicGeek_LG", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7797, :user_id=>228536599, :retweet=>1008}
+{:name=>"@nomoucbieber2", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7154, :user_id=>2384668045, :retweet=>1008}
+=======
+{:name=>"@HotNewHipHop", :text=>".@Tyga Calls @Drake A \"Bitch\" On Twitter http://t.co/YWCnCMyTMA RT!", :followers=>445488, :user_id=>24036264, :retweet=>8}
+{:name=>"@yusufyuie", :text=>"RT @Markaaaay: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nTyga.... http://t.co/…", :followers=>9585, :user_id=>197823320, :retweet=>194}
+{:name=>"@Kontra402", :text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :followers=>4634, :user_id=>141340275, :retweet=>4157}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb
