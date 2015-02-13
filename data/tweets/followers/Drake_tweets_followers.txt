@@ -1,3 +1,3 @@
-{:name=>"@Jayleegang", :text=>"RT @TRAPINNEXTDOOR: Twitter and Instagram about to be full of quotes from Drake's mixtape for the next 3 months. 🔥🔥🔥", :followers=>41199, :user_id=>2268114072, :retweet=>39}
-{:name=>"@Power1075", :text=>"RT @BinkandMisty: #np new @Drake \"Used to\" with @LilTunechi, off his new album \"If You're Listening to This It's Too Late!\" Thoughts? 821-1…", :followers=>10317, :user_id=>22074453, :retweet=>1}
-{:name=>"@aliveinthefall", :text=>"@in_daclub @Drake tru", :followers=>4090, :user_id=>348259632, :retweet=>0}
+{:name=>"@DeepeeSection", :text=>"“@StillSicker: Everyone going mad over @Drake new album  I'm just here going mad over @gucci1017 new brick factory” I preed dat👀", :followers=>5747, :user_id=>331266990, :retweet=>0}
+{:name=>"@HaperDiane", :text=>"Cherchez pas, Drake c'est mon gars sûr, il sait ce qu'il fait.", :followers=>4838, :user_id=>28090824, :retweet=>0}
+{:name=>"@JStubbs_", :text=>"Not Really Feelin The New Drake..", :followers=>4474, :user_id=>65484002, :retweet=>0}

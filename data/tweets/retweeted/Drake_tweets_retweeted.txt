@@ -1,3 +1,3 @@
-{:text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :retweet=>82988}
-{:text=>"RT @WorldStarFunny: Can iTunes put Drake's album on everyone's phone for free like they did that trash U2 album?", :retweet=>3173}
-{:text=>"RT @SAVAGETVVITTER: WHEN YOU REALIZED DRAKE JUST FINESSED YOU http://t.co/W8Wm4gK77j", :retweet=>2241}
+{:text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :retweet=>83287}
+{:text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :retweet=>20251}
+{:text=>"RT @Drake: http://t.co/a0b67CTncU", :retweet=>14527}

@@ -1,3 +1,3 @@
-{:name=>"@VirtuallyZouis", :text=>"Toilet paper under or over? #askpewds", :followers=>37460, :user_id=>630712621, :retweet=>0}
-{:name=>"@ultramagcon", :text=>"@pewdiepie #askpewds do you like pickles", :followers=>16734, :user_id=>2609564581, :retweet=>0}
-{:name=>"@pornhubmgc", :text=>"@pewdiepie can u teach me how to do anal ? #askpewds", :followers=>14718, :user_id=>1195471304, :retweet=>0}
+{:name=>"@Alooraby", :text=>"قفل تطبيق الواتس اب برقم سري\n\nعلى سوق بلاي\n\nhttp://t.co/7gIxVCHlVo\n\nسوي ريتويت فيه ناس محتاجتها\n#askpewds\n#بتستفزني_اذا\nNYAW", :followers=>39904, :user_id=>595760471, :retweet=>0}
+{:name=>"@ArianaPalmTree", :text=>"@pewdiepie can you teach me your ways? #askpewds", :followers=>13780, :user_id=>2936818056, :retweet=>0}
+{:name=>"@promodnjh", :text=>"@pewdiepie #askpewds would u prefer swimming on peanut butter or nutella", :followers=>11193, :user_id=>2733926390, :retweet=>0}

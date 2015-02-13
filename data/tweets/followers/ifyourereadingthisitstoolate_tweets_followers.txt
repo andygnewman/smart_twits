@@ -1,3 +1,0 @@
-{:name=>"@Ijustfangirl", :text=>"Method of torture: looking at the #ifyourereadingthisitstoolate cover.", :followers=>15307, :user_id=>245547073, :retweet=>0}
-{:name=>"@onikv_", :text=>"Je suis pas du tout habitué à ce genre de musique mais franchement j'adore ! #IfYoureReadingThisItsTooLate", :followers=>8094, :user_id=>209775270, :retweet=>0}
-{:name=>"@muzikscribe", :text=>"Yo @Drake Wanna Personally Thank U For Writing My New Theme Song; \"Energy\" Love Is Love! #ifyourereadingthisitstoolate", :followers=>6691, :user_id=>22515143, :retweet=>0}

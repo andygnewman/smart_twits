@@ -1,3 +1,3 @@
-{:name=>"@garwboy", :text=>"The Channel Tunnel\n#BritishSexPositions", :followers=>20376, :user_id=>20474878, :retweet=>0}
-{:name=>"@djhenshall", :text=>"RT @MooseAllain: You carry on without out me, I'm just holding you back #BritishSexPositions", :followers=>5994, :user_id=>2384252054, :retweet=>11}
-{:name=>"@djhenshall", :text=>"#BritishSexPositions A moments distraction can lead to tragedy.", :followers=>5994, :user_id=>2384252054, :retweet=>0}
+{:name=>"@Sianwelby", :text=>"'The Gryffindor grope'\n #BritishSexPositions http://t.co/gXTGhMb9U5", :followers=>19688, :user_id=>39079092, :retweet=>1}
+{:name=>"@pharmagossip", :text=>"RT @jsfox8: “@pharmagossip: Up the Junction #BritishSexPositions”\n\nOr\n\nGoing Underground", :followers=>15366, :user_id=>14971572, :retweet=>1}
+{:name=>"@AcademiaObscura", :text=>"Reading all #BritishSexPositions.\n\n#FailAPhdInThreeWords\n#phdchat\n#Friday\n#acwri", :followers=>12407, :user_id=>2645602164, :retweet=>0}

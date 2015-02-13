@@ -1,3 +1,3 @@
-{:name=>"@celticfc", :text=>"#FridayThe13th - Only 2 Bhoys have worn the No.13 strip for the Hoops... (NM) http://t.co/d3f5c36hT0", :followers=>260207, :user_id=>15203904, :retweet=>1}
-{:name=>"@MashaAndTheBear", :text=>"What a #FridayThe13th without a nightmare?! See the cutest one on MashaBearEN! #fun \nhttps://t.co/q8Uvx9EJFZ", :followers=>9246, :user_id=>1410704876, :retweet=>0}
-{:name=>"@AprilMonterrosa", :text=>"#Beauty is faceless. Happy #FridayThe13th! #SanAntonio #ShineBeautifully #TGIF #SATX #txwb #FridayFunday http://t.co/5r33oE7HFf", :followers=>5844, :user_id=>405976864, :retweet=>0}
+{:name=>"@rajansoni", :text=>"RT @BRITAwards: Voting is now closed! Stay tuned to find out who's been unlucky this #FridayThe13th... 😱 #BRITs2015 #FarewellFriday http://…", :followers=>55444, :user_id=>20715279, :retweet=>15}
+{:name=>"@Pluggiie", :text=>"scrolling through looking at everyone having a shit day #FridayThe13th", :followers=>30350, :user_id=>23463934, :retweet=>0}
+{:name=>"@geeksofdoom", :text=>"13 Best 'Friday the 13th' Kills http://t.co/1H0x5KJu8T #FridayThe13th #JasonVoorhees", :followers=>11394, :user_id=>14108564, :retweet=>0}

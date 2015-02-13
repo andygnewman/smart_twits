@@ -1,3 +1,3 @@
-{:name=>"@GhaflaKenya", :text=>"#SeductionParty is Where #ValentinesDay Will be Most Happening @namelesskenya SEE U\nhttp://t.co/VIuI0s6bZd\n@djcliffmaleek\n@MwinyiKazungu", :followers=>116044, :user_id=>93619360, :retweet=>0}
-{:name=>"@olivemagazine", :text=>"Pink bubbles may come in handy this weekend… http://t.co/KGKj8VWAQf #ValentinesDay #romance #champagne #pinkfizz http://t.co/SUj7qVkiOQ", :followers=>60043, :user_id=>22653968, :retweet=>0}
-{:name=>"@familyfoodie", :text=>"RT @GoEpicurista: Got #ValentinesDay plans? These ideas will make it spectacular! http://t.co/rhPRBchFiy", :followers=>32821, :user_id=>41268882, :retweet=>1}
+{:name=>"@HeadlinesToday", :text=>"RT @mail_today: #FiftyShadesOfGrey fails to keep its #ValentinesDay date with India http://t.co/Zq2VekZyc0 http://t.co/nSftGcs2RZ", :followers=>435632, :user_id=>1073676020, :retweet=>1}
+{:name=>"@RnfrstAlliance", :text=>"You can make a difference on #ValentinesDay. Give certified #chocolate &amp; #flowers to your loved ones! #FollowTheFrog http://t.co/KsiARekYUT", :followers=>106197, :user_id=>14786217, :retweet=>0}
+{:name=>"@TWC", :text=>"Special #ValentinesDay Offer! Watch some of your favorite romantic films all weekend long On Demand. #EnjoyBetter http://t.co/uJG5Dcn2jG", :followers=>89039, :user_id=>127975950, :retweet=>0}

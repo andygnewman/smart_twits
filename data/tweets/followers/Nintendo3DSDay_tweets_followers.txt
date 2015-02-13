@@ -1,3 +1,3 @@
-{:name=>"@hesvocals", :text=>"RT @georgeujworld: Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay…", :followers=>3698, :user_id=>560361396, :retweet=>270}
-{:name=>"@Pagan500", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>2631, :user_id=>171845413, :retweet=>510}
-{:name=>"@rwhitehouse13", :text=>"RT @Kotaku_UK: We're about to make someone's day with a Majora's Mask New 3DS XL + Skull Kid. Reply with #Nintendo3DSday to enter. http://t…", :followers=>2035, :user_id=>37746934, :retweet=>38}
+{:name=>"@NintendoES", :text=>"La aplicación de Nintendo Anime Channel ya está disponible en Nintendo #eShop. #Nintendo3DSDay http://t.co/UxG8WESfCK", :followers=>125226, :user_id=>494308508, :retweet=>6}
+{:name=>"@NintendoEurope", :text=>"The Nintendo Anime Channel app is now available on Nintendo #eShop! #Nintendo3DSDay http://t.co/h86QdiHDJ2", :followers=>113808, :user_id=>493980491, :retweet=>4}
+{:name=>"@NintendoUK", :text=>"The Nintendo Anime Channel app is now available on Nintendo #eShop! #Nintendo3DSDay http://t.co/BCInubxHhA", :followers=>97861, :user_id=>493974431, :retweet=>9}

@@ -1,3 +1,0 @@
-{:text=>"RT @eli3rd116: Lmao this is great #ifyourereadingthisitstoolate #drake http://t.co/7j0PyFtsKD", :retweet=>433}
-{:text=>"RT @Underrated_Dom: iTunes needs to put Drakes album on everyone's phone like they did that U2 album nobody wanted. #IfYoureReadingThisItsT…", :retweet=>271}
-{:text=>"RT @Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/3HDFCkjF0w", :retweet=>254}

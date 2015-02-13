@@ -1,3 +1,3 @@
-{:text=>"RT @ChiRestaurant: Squirrel curry anyone? Cinnamon Club puts roasted rodent on the menu - http://t.co/QJblcn1bf5 http://t.co/niuFUpyzPe", :retweet=>540}
-{:text=>"RT @History_Pics: Telephone Engineer, London, 1920s. http://t.co/PIVT3kHkWz", :retweet=>251}
-{:text=>"RT @MTVUK: Dakota Johnson &amp; @JamieDornan loosen up as #FiftyShadesOfGrey hits London! http://t.co/LHTG05TxPM http://t.co/n7HiIIdneD", :retweet=>67}
+{:text=>"RT @WorldDutyFree: Win the perfect gift she'll LOVE this Valentine's. RT &amp; follow @WorldDutyFree to #win this lovely @Radley_London set htt…", :retweet=>2162}
+{:text=>"RT @bombblackgirlss: Lauren London😍🙌 http://t.co/XLe8FRKMF4", :retweet=>286}
+{:text=>"RT @Cheval_London: #FreebieFriday Win a 2 Night Stay @Cheval_London with Champagne &amp; Chocolates #ValentinesDay any day of the Year! http://…", :retweet=>60}

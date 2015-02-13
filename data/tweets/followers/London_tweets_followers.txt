@@ -1,3 +1,3 @@
-{:name=>"@visitlondon", :text=>"@Bradley60318816 follow the link in the tweet: http://t.co/zlLj0VCiSz", :followers=>300637, :user_id=>36054262, :retweet=>0}
-{:name=>"@linkuptv", :text=>"New Video: Re-Upload: Originators (ft P Money, OGz &amp; Flirta D) Boiler Room London Live Set - http://t.co/Qvi3W8DE91", :followers=>59148, :user_id=>46896918, :retweet=>0}
-{:name=>"@selenavdp", :text=>"[Mashable] Domestic abuse protest at London premiere of 'Fifty Shades of Grey' http://t.co/Q0tCGGDopN", :followers=>38768, :user_id=>424045046, :retweet=>0}
+{:name=>"@diymagazine", :text=>"The National's Bryce Dessner is curating a weekend programme at London's @BarbicanCentre. http://t.co/VzNvmSUy24 http://t.co/wUHAaMdtll", :followers=>88223, :user_id=>18938807, :retweet=>0}
+{:name=>"@bhcitynews", :text=>"Casting agency @etcasting looking for real #Brighton families for commercial - each paid £5k london@etcasting.com #ad http://t.co/JzKOoq4P5W", :followers=>28545, :user_id=>87011026, :retweet=>0}
+{:name=>"@AceRenting", :text=>"#London Newest #Rentals #Ads Check out Today's Top 10 Houses, Condos, Apts for #Rent or #Lease on #AceRenting http://t.co/HWnkRlFM6U", :followers=>19510, :user_id=>168530877, :retweet=>0}

@@ -1,3 +1,3 @@
-{:name=>"@SizweDhlomo", :text=>"RT @The_Born_Sinner: It's actually the first song I liked RT @SizweDhlomo: ...And then, when all the hype dies down, they'll appreciate \"Yo…", :followers=>389300, :user_id=>36061357, :retweet=>4}
-{:name=>"@BrandonLumpkins", :text=>"RT @DCBABY: Got @Drake - You &amp; The 6 on #repeat tho.\n🔥🎶💽💯", :followers=>20028, :user_id=>307503445, :retweet=>9}
-{:name=>"@AzizSaidThat", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>10270, :user_id=>312297866, :retweet=>746}
+{:name=>"@AzizSaidThat", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>10270, :user_id=>312297866, :retweet=>745}
+{:name=>"@babydoll_yanaaa", :text=>"you &amp; the 6 raised me right , that shit saved my life 🙌", :followers=>5853, :user_id=>134241566, :retweet=>0}
+{:name=>"@CyberGuarana", :text=>"Co. Done @Lelo_Mohapi:\nYou &amp; The 6 ♥RT\" @CyberGuarana:\nHaving conversations with Mama. Done\"", :followers=>3314, :user_id=>211625103, :retweet=>0}
