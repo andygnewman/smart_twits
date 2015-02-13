@@ -4,7 +4,6 @@ class Tweets
 
   include Helper
 
-  REJECT_WORDS = ['rt', 'it', 'was', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now", "your", "you're", "this"]
   
   def find_trends(file_path)
     trends = read_file(file_path)
@@ -19,12 +18,16 @@ class Tweets
     find_top_words(number, words)
   end
 
-  def find_retweets(number, file_path)
-    find_args( [el[:text], el[:retweet]] )
+  def find_retweets(file_path)
+    retwit_array = read_file(file_path)
+    array = []
+    retwit_array.map{|el| array << [el[:text], el[:retweet]]}
   end
 
-  def find_followers(number, file_path)
-    find_args([el[:name], el[:text], el[:followers]])
+  def find_followers(file_path)
+    followers_array = read_file(file_path)
+    array = []
+    followers_array.map{|el| array << [el[:name], el[:text], el[:followers]]}
   end
 
   def find_mentions(number, file_path)

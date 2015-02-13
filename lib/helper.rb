@@ -6,9 +6,7 @@ module Helper
   def read_file(file_path)
     file = File.open(file_path, 'r')
     array = []
-    file.readlines.each do |el| 
-      array << eval(el.chomp)
-    end
+    file.readlines.each {|el| array << eval(el.chomp) }
     file.close()
     array
   end
@@ -43,10 +41,15 @@ module Helper
     filter_top_results(number, frequency_hash)
   end
 
-  def find_args(args)
+  def find_args(file_path, *args)
     text_array = read_file(file_path)
     array = []
-    text_array.map{|el| array << args}
+    args_array = []
+    text_array.map do |el| 
+      args.each {|arg| args_array << el[args_array[args_array.index(arg)]]}
+      array << args_array
+    end
+    array
   end
 end
 
