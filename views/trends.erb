@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
 
-  <body>
-    <ul>
-      <% @trends_list.each do |trend| %>
-        <li><a href="/trends<%= trend[1] %>"><%= trend[0] %></a></li>
-      <% end %>
-    </ul>
- 
-  </body>
-
-</html>
+<ul>
+  <% @trends_list.each do |trend| %>
+    <li><a href="/?trend=<%= trend[1] %>"><%= trend[0] %></a></li>
+  <% end %>
+</ul>

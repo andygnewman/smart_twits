@@ -138,6 +138,3 @@ class APITwitter
   end  
 
 end
-
-
-

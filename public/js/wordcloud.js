@@ -2,7 +2,7 @@
 function create_cloud(data) {
 		var fill = d3.scale.category20();
 
-		d3.layout.cloud().size([500, 500])
+		d3.layout.cloud().size([700, 150])
 		  .words(data.map(function(d) {
 		    return {text: d[0], size: d[1]};
 		  }))
@@ -14,9 +14,9 @@ function create_cloud(data) {
 		  .start();
 
 	function draw(words) {
-	  d3.select("body").append("svg")
-	    .attr("width", 300)
-	    .attr("height", 300)
+	  d3.select("#word-cloud").append("svg")
+	    .attr("width", 700)
+	    .attr("height", 150)
 	  .append("g")
 	    .attr("transform", "translate(150,150)")
 	  .selectAll("text")
@@ -34,7 +34,7 @@ function create_cloud(data) {
 	}
 
 	function drawUpdate(words){
-	  d3.layout.cloud().size([500, 500])
+	  d3.layout.cloud().size([700, 150])
 	    .words(words)
 	    .padding(5)
 	    .rotate(function() { return ~~(Math.random() * 2) * 90; })
@@ -57,4 +57,4 @@ function create_cloud(data) {
 	    })
 	    .text(function(d) { return d.text; });
 	}
-};	
+};

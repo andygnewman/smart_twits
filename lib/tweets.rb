@@ -4,7 +4,6 @@ class Tweets
 
   include Helper
 
-  
   def find_trends(file_path)
     find_args(file_path, [:name, :filename])
   end
@@ -33,5 +32,3 @@ class Tweets
   end
 
 end
-
-

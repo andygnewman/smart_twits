@@ -1,8 +1,5 @@
-<section id="mentions">
-  Mentions
-  <ul>
-  	<% @mentions.each do |mention| %>
-      <li><a href="http://twitter.com/<%= mention[0] %>"><%= mention[0] %></a> Mentioned <%= mention[1] %> times</li>
-    <% end %>
-  </ul>
-</section><br>
+<ul>
+	<% @mentions.each do |mention| %>
+    <li><a href="http://twitter.com/<%= mention[0] %>"><%= mention[0] %></a> Mentioned <%= mention[1] %> times</li>
+  <% end %>
+</ul>
