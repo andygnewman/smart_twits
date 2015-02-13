@@ -6,10 +6,7 @@ class Tweets
 
   
   def find_trends(file_path)
-    trends = read_file(file_path)
-    array = []
-    trends.map{|el| array << [el[:name], el[:filename]]}
-    array
+    find_args(file_path, [:name, :filename])
   end
 
   def find_words(number, file_path)
@@ -19,10 +16,7 @@ class Tweets
   end
 
   def find_retweets(file_path)
-    retwit_array = read_file(file_path)
-    array = []
-    retwit_array.map{|el| array << [el[:text], el[:retweet]]}
-    array
+    find_args(file_path, [:text, :retweet])
   end
 
   def find_followers(file_path)

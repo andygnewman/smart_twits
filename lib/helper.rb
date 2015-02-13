@@ -41,16 +41,12 @@ module Helper
     filter_top_results(number, frequency_hash)
   end
 
-  # def find_args(file_path, *args)
-  #   text_array = read_file(file_path)
-  #   array = []
-  #   args_array = []
-  #   text_array.map do |el| 
-  #     args.each {|arg| args_array << el[args_array[args_array.index(arg)]}
-  #     array << args_array
-  #   end
-  #   array
-  # end
+  def find_args(file_path, args)
+    text_array = read_file(file_path)
+    array = []
+    text_array.map { |el| array << [ el[args[0]], el[args[1]] ] }
+    array
+  end
 end
 
 

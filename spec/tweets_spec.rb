@@ -48,4 +48,12 @@ describe 'Tweets' do
 
   end
 
+  context 'find followers' do
+
+    xit 'can read a tweets file and return an array of tweets from users with the most followers' do
+      expect(tweets.find_followers('')).to include([])
+    end
+
+  end
+
 end
