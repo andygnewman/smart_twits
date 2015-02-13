@@ -1,3 +1,3 @@
-{:name=>"@Awesomenezz", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/xj7EZ51iMH", :followers=>45864, :user_id=>24080811, :retweet=>0}
-{:name=>"@Ivan_splash", :text=>"RT @__allSHEwrote: “@Ivan_splash: Tyga heard Drake's diss when he was changing Kylie's diaper and he lost it” 😂😂", :followers=>11515, :user_id=>303805862, :retweet=>1}
-{:name=>"@EvilJeanyis", :text=>"Yo @tyga youza bitch", :followers=>8705, :user_id=>26612737, :retweet=>0}
+{:name=>"@Missosofine", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>14126, :user_id=>287375746, :retweet=>794}
+{:name=>"@_MusicGeek_LG", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7797, :user_id=>228536599, :retweet=>1008}
+{:name=>"@nomoucbieber2", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7154, :user_id=>2384668045, :retweet=>1008}

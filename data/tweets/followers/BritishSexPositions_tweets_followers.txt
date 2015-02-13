@@ -1,3 +1,3 @@
-{:name=>"@matthaig1", :text=>"The UKIP. #BritishSexPositions (Have really terrible sex and then blame it on a Romanian.)", :followers=>66215, :user_id=>35270579, :retweet=>3}
-{:name=>"@horanperoxide", :text=>"RT @Dagmara_Horan: #BritishSexPositions\n\n#PopChoiceAwards Pop Fandom Directioners\n#PopChoiceAwards Pop Band One Direction http://t.co/9NlaA…", :followers=>9727, :user_id=>408141923, :retweet=>33}
-{:name=>"@malinky2stoatir", :text=>"RT @Trollzous: #BritishSexPositions Teabagging", :followers=>4658, :user_id=>55967248, :retweet=>35}
+{:name=>"@adamandeve", :text=>"RT @Astroglide: Mind the gap \n#BritishSexPositions", :followers=>38747, :user_id=>14398700, :retweet=>2}
+{:name=>"@richardhammcnd", :text=>"RT @_IanBeale_: #BritishSexPositions The 'Banksy' I creep up on them, spray all over them, then vanish into the night  #Bealed", :followers=>9171, :user_id=>144588260, :retweet=>282}
+{:name=>"@GPollowitz", :text=>"#BritishSexPositions The \"Let's play Dr. Who\"", :followers=>7597, :user_id=>18493147, :retweet=>0}

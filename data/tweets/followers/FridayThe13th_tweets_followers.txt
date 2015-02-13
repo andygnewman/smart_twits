@@ -1,3 +1,3 @@
-{:name=>"@VirginRadioTO", :text=>"RT @KellaOnair: I was born on the #13th so loving today #FridayThe13th 🙌", :followers=>30874, :user_id=>23775585, :retweet=>1}
-{:name=>"@casiestewart", :text=>"I like to get tattooed on #FridayThe13th but not today. Here's one of my favs, reminds me of my Nana in NZ. http://t.co/dzImW3Ritr", :followers=>21443, :user_id=>14661313, :retweet=>0}
-{:name=>"@ChiveOnChicago", :text=>"RT @TheChiveIL: Happy #FridayThe13th http://t.co/glVGWAv1Z4", :followers=>7771, :user_id=>628470074, :retweet=>3}
+{:name=>"@Daily_Star", :text=>"How many people are afraid of flying on #FridayThe13th ?http://t.co/KKjuVHD4Dd", :followers=>108332, :user_id=>20442930, :retweet=>0}
+{:name=>"@ItsMajicBaby", :text=>"Here's to Friday! Friday the 13th #Majic #MajicCityNetowrk #MCN #Music #LWA #Miami #TGIF #FridayThe13th #YesWeekend http://t.co/lf7xFUN3Sd", :followers=>64411, :user_id=>108101397, :retweet=>0}
+{:name=>"@XFilesFanaticus", :text=>"RT @MrLender: With #FridayThe13th upon us, it may be unlucky for some ... but not for our #BigFridayGiveaway winners! Stay tuned... http://…", :followers=>15083, :user_id=>92235951, :retweet=>43}
