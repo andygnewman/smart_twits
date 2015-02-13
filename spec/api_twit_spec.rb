@@ -16,16 +16,8 @@ describe 'API' do
   end
 
   it "should be able to read a trend" do 
-    expect(twitter.get_trends).not_to eq(nil)
+    expect(twitter.save_trends).not_to eq(nil)
   end
-
-  it "should load trends for london" do
-    expect(twitter.get_trends.location.id).to eq(44418)
-  end  
-
-  it "should load trends for london" do
-    expect(twitter.getlocation).not_to eq(nil)
-  end 
 
   it "trends should be empty by default" do
     expect(twitter.trends).to be_empty
@@ -37,23 +29,14 @@ describe 'API' do
     expect(Dir.glob("./data/trends/**/*").count).to eq(1)
   end
 
-  it 'should be able to search on hash tags' do 
-    expect(twitter.get_tweets('#banana')).not_to eq(nil)   
-  end  
-
-  it 'should give more than 100 twits' do 
-    expect(twitter.get_tweets('#banana',100).count).to eq(100)
-  end
-
   it 'should merge data to string format' do
     hash = [{:text=>'richard'}, {:text=>'andy'}]
     expect(twitter.merge_tweets(hash)).to be_an_instance_of (String)
   end
 
   it 'should write the string of merged tweets to a text file' do
-    twitter.save_tweet_text('this is a test tweet text', 'testtrend')
-    expect(File.exists?('testtrend_text.txt')).to be(true)
-    # expect(file content length) to. eq(input string length) 
+    expect(twitter.save_tweet_text_per_trend)
+    expect(Dir.glob("./data/tweets/tweets/**/*").count).to eq(10)
   end
 
   it 'should return x tweets on the trend from the users with most followers' do
@@ -79,7 +62,7 @@ describe 'API' do
   it 'should create 10 files' do 
     twitter.save_trends
     twitter.save_tweets_per_trend()
-    expect(Dir.glob("./data/tweets/**/*").count).to eq(10)
+    expect(Dir.glob("./data/tweets/tweets/**/*").count).to eq(10)
   end
 
   it 'should read tweet from file' do

@@ -1,250 +1,100 @@
-{:name=>"@isinmayn", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>1460, :user_id=>2289827035, :retweet=>18459}
-{:name=>"@Trixiehudson", :text=>"RT @samsmithworld: Too little too late", :followers=>181, :user_id=>389359162, :retweet=>2539}
-{:name=>"@StaggaSays", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>8193, :user_id=>40018680, :retweet=>631}
-{:name=>"@hazhabayazidi", :text=>"RT @YaBoyWeeknd: If You're Reading This It's Too Late", :followers=>330, :user_id=>162696577, :retweet=>707}
-{:name=>"@jab20000", :text=>"RT @TruthOfGujarat: Too late, Modiji. Too late. http://t.co/AgDyTsr03R", :followers=>27, :user_id=>83578930, :retweet=>26}
-{:name=>"@GaelenedeSilva", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>257, :user_id=>57048667, :retweet=>766}
-{:name=>"@SHEIDRIZZLE", :text=>"RT @SBTVonline: [NEW] @Drake drops surprise mixtape ‘If You’re Reading This You’re Too Late’ 👀 &gt;&gt; http://t.co/48UNBjHYDD http://t.co/PNhHpb…", :followers=>408, :user_id=>717940356, :retweet=>8}
-{:name=>"@hernandrz_d", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>213, :user_id=>1664198376, :retweet=>7108}
-{:name=>"@alex_jay_the1st", :text=>"RT @XXL: .@Drake says Thank You http://t.co/ya4fhJ6ybo #IfYoureReadingThisItsTooLate http://t.co/8m6Kk58yG8", :followers=>321, :user_id=>381296162, :retweet=>800}
-{:name=>"@wendykrafferty", :text=>"RT @Kocaso_GPCT: In 36 hours the #KocasoKontest will come to a close. It's not too late to enter for a chance to win an MX780 tablet! http:…", :followers=>499, :user_id=>206927878, :retweet=>3}
-{:name=>"@male_criss", :text=>"RT @samsmithworld: Too little too late", :followers=>743, :user_id=>447143790, :retweet=>2539}
-{:name=>"@danieldebusser", :text=>"RT @KennyG028: That morning when @Drake drops 17 new songs. \"If you're reading this, you're too late\" @DeBruyneKev @Arneee10 @SPtotdeJ @dan…", :followers=>196, :user_id=>453964103, :retweet=>2}
-{:name=>"@jessicajane_C", :text=>"If you're reading this it's too late 😍👏🎶", :followers=>562, :user_id=>1334722520, :retweet=>0}
-{:name=>"@sim_gk", :text=>"Over bleached bones and jumbled residues of numerous civilizations are written the pathetic words: Too Late. MARTIN LUTHER KING JR.", :followers=>2503, :user_id=>48163028, :retweet=>0}
-{:name=>"@KingAlexanderrr", :text=>"If You're Reading This Its Too Late.", :followers=>265, :user_id=>2842371796, :retweet=>0}
-{:name=>"@ufclegend2015", :text=>"Drake \n\"If your reading this its too late\" \nGo head as heck.", :followers=>516, :user_id=>2964779275, :retweet=>0}
-{:name=>"@IsThatTito", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>363, :user_id=>1126114536, :retweet=>6251}
-{:name=>"@CranberryNessa", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>254, :user_id=>209029759, :retweet=>631}
-{:name=>"@minaashxo", :text=>"RT @JonRichard: Drake should've just pulled a U2 and put his album \"If Your Reading This Its Too Late\" in our iTunes.", :followers=>3167, :user_id=>265387762, :retweet=>2}
-{:name=>"@katie_johnsonxx", :text=>"RT @ComplexMag: Finally! Here’s @Drake’s “If You’re Reading This It’s Too Late” project. http://t.co/Mj0AzBXvyG http://t.co/W0AKSGpL6s", :followers=>486, :user_id=>921354458, :retweet=>2194}
-{:name=>"@k2brothers", :text=>"#FitnessFriday Get your action plan for training in order today! It's never too late! http://t.co/joiogUX2tw", :followers=>6839, :user_id=>2359256852, :retweet=>0}
-{:name=>"@upadhyayrahul55", :text=>"RT SwachhPolitics: Too late, Modiji. Too late. http://t.co/ZUd4oWno7s", :followers=>358, :user_id=>2591544655, :retweet=>0}
-{:name=>"@SpotifyNowPlay", :text=>"RT @rosstafarianJ: #NowPlaying ♫ If You're Reading This It's Too Late – Drake http://t.co/Go50UdtnO6", :followers=>6649, :user_id=>531585656, :retweet=>1}
-{:name=>"@Matthewpovey123", :text=>"RT @MMNNGreenWorld: Carbon Bubble: The Price of Doing Too Little Too Late http://t.co/krzK3aXgqK #GlobalDivestmentDay", :followers=>431, :user_id=>207591002, :retweet=>2}
-{:name=>"@Da_Non_Vide", :text=>"#NL Drake - If You're Reading This It's Too Late", :followers=>206, :user_id=>377259441, :retweet=>0}
-{:name=>"@Fireworks112", :text=>"RT @iflyertv: ドレイクが新曲17曲公開！『If You're Reading This It's Too Late』を突如リリース、全曲試聴もスタート。http://t.co/nmfYGiQ7OR http://t.co/7qTik2IlCy", :followers=>438, :user_id=>1384287421, :retweet=>6}
-{:name=>"@GuidoVadiz", :text=>"If you're reading this it's too late", :followers=>70, :user_id=>1125929304, :retweet=>0}
-{:name=>"@artefiera", :text=>"Non dimenticate che la mostra Too Early, Too Late vi aspetta alla Pinacoteca di Bologna fino ad Aprile 2015! Ecco... http://t.co/aUh29kP5hK", :followers=>5583, :user_id=>330380341, :retweet=>0}
-{:name=>"@Jennylbowers", :text=>"RT @marra315: It's not too late to help us! Text hcut95£2 to 70070 #haircutsforanna #hairforanna #everylittlehelps #itstoday #proud http://…", :followers=>49, :user_id=>88741199, :retweet=>1}
-{:name=>"@Shelter", :text=>"Could you race up a skyscraper for Shelter?\nIt's not too late to join us for #VerticalRush\nhttp://t.co/36LNMCn0ef http://t.co/eKFhxog9vu", :followers=>123453, :user_id=>3704391, :retweet=>1}
-{:name=>"@lamelights", :text=>"RT @samsmithworld: Too little too late", :followers=>130, :user_id=>2430479683, :retweet=>2539}
-{:name=>"@ActsTeens", :text=>"Join us tonight, it's still not too late to join one! :)\nSee you there.\n\n13 Feb | 8pm | 5 locations http://t.co/I1SJ7DJHmV", :followers=>788, :user_id=>28037919, :retweet=>0}
-{:name=>"@SupremeChillers", :text=>"Drake - If You're Reading This It's Too Late (Full Mixtape REVIEW) http://t.co/YMWkhGRuGf", :followers=>127, :user_id=>594080004, :retweet=>0}
-{:name=>"@__Gizzy23", :text=>"Glad I'm not too late! #IfYoureReadingThisItsTooLate", :followers=>889, :user_id=>58251373, :retweet=>0}
-{:name=>"@artefiera", :text=>"Too Early, Too Late vi aspetta fino ad Aprile 2015! Ecco un'anteprima di @atpdiary http://t.co/DZSSiEtRPX", :followers=>5583, :user_id=>330380341, :retweet=>0}
-{:name=>"@AfiqahHassani", :text=>"Too late to ride😩", :followers=>276, :user_id=>79710755, :retweet=>0}
-{:name=>"@NZEPLTN", :text=>"If your reading this is too late - drake 🙌🙌 too talented !", :followers=>264, :user_id=>317937237, :retweet=>0}
-{:name=>"@RelationshipLi", :text=>"Say it, before it's too late.", :followers=>16194, :user_id=>253005980, :retweet=>0}
-{:name=>"@OneFo_BeLo", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>368, :user_id=>2252050404, :retweet=>7108}
-{:name=>"@BooksBakesBio", :text=>"RT @joaomatthews_: \"If You're Reading This Now, It's Too Late\" sounds like a note Liam Neeson would find after they kidnapped his daughter.", :followers=>1302, :user_id=>41592225, :retweet=>23}
-{:name=>"@AnitaaDeez_", :text=>"RT @MTVFR: Drake dévoile un album surprise intitulé \"If You're Reading This It's Too Late\"\nLien iTunes : https://t.co/xr33wsKP2p http://t.c…", :followers=>858, :user_id=>1143352686, :retweet=>23}
-{:name=>"@Mr_Feye", :text=>"If you're reading this its too late.", :followers=>1481, :user_id=>133512370, :retweet=>0}
-{:name=>"@my_tvviter", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>358, :user_id=>2289782607, :retweet=>55}
-{:name=>"@3dOLLabILL", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>401, :user_id=>26188993, :retweet=>55}
-{:name=>"@biadempeo", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>2542, :user_id=>38469054, :retweet=>55}
-{:name=>"@kaaayaaas", :text=>"RT @PrxvatePARTY: If \nYou're \nReading \nThis \nIt's \nToo \nLate", :followers=>217, :user_id=>322457841, :retweet=>1}
-{:name=>"@JonRichard", :text=>"Drake should've just pulled a U2 and put his album \"If Your Reading This Its Too Late\" in our iTunes.", :followers=>21570, :user_id=>367273019, :retweet=>2}
-{:name=>"@ezranicholas", :text=>"RT @BlissSimmonite: If You're Reading This It's Too Late", :followers=>312, :user_id=>103911376, :retweet=>2}
-{:name=>"@LalSteel", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>84, :user_id=>2742983594, :retweet=>6251}
-{:name=>"@KameoOuzou", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>495, :user_id=>858752155, :retweet=>7108}
-{:name=>"@michkisk", :text=>"RT @ImAngelaPowers: The new Drake  http://t.co/3R3R7wUr5Y", :followers=>131, :user_id=>2450677549, :retweet=>442}
-{:name=>"@ShawttyNatt", :text=>"Drake Drops Secret New Album ‘If You’re Reading This It’s Too Late’ http://t.co/HFuzRJvOba", :followers=>51465, :user_id=>466514153, :retweet=>0}
-{:name=>"@noitslynette", :text=>"“@lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.” 😅", :followers=>148, :user_id=>2809319287, :retweet=>0}
-{:name=>"@_laetp", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>93, :user_id=>603377701, :retweet=>766}
-{:name=>"@placelikethis", :text=>"If you're reading this it's too late ٦", :followers=>9869, :user_id=>220876669, :retweet=>0}
-{:name=>"@Sharkkana", :text=>"\"@FWDSLXSH: way too late b\"", :followers=>1756, :user_id=>74839258, :retweet=>0}
-{:name=>"@Kaos_100", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>1217, :user_id=>446572533, :retweet=>19963}
-{:name=>"@EssEyyEmm", :text=>"RT @geneva_isabelle: “@EssEyyEmm: Drake released an album yesterday did you know? If you're reading this it's too late.” Trust you to tweet…", :followers=>272, :user_id=>65609799, :retweet=>1}
-{:name=>"@Aferilli", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>362, :user_id=>164320486, :retweet=>55}
-{:name=>"@arnoud47", :text=>"RT @KyivPost: New #IMF program: too little, too late? http://t.co/dx0zAo8CEG http://t.co/mEuoDOPZL1", :followers=>191, :user_id=>2871301318, :retweet=>5}
-{:name=>"@Lenzo__", :text=>"@ReasonHD never too late after all right http://t.co/9NFkX19grN", :followers=>443, :user_id=>203118171, :retweet=>0}
-{:name=>"@johnathanyeo98", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>258, :user_id=>92470084, :retweet=>55}
-{:name=>"@crispywhiteboi", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>2436, :user_id=>237597085, :retweet=>19963}
-{:name=>"@hwing_net", :text=>"Stream #Drake’s New Mixtape, “If You’re Reading This It’s Too Late” http://t.co/uoHAeFn3m3 #music #news", :followers=>1415, :user_id=>258775894, :retweet=>0}
-{:name=>"@ohemgeeitszilla", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>245, :user_id=>2466964579, :retweet=>766}
-{:name=>"@wtfclarke", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>953, :user_id=>214940576, :retweet=>55}
-{:name=>"@Marijana_xox", :text=>"RT @thallya__ah: wow RT @HipHopxHotspot:Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http:…", :followers=>6327, :user_id=>499568043, :retweet=>1}
-{:name=>"@MarcWyns", :text=>"If your reading this\n\n                            Its too late 🙏 @Drake", :followers=>427, :user_id=>23352356, :retweet=>0}
-{:name=>"@PapersReports", :text=>"Drake pulls a Beyonce and releases surprise album If You're Reading This It's Too Late http://t.co/I68WRD4B7o http://t.co/zkPprXh2Cp", :followers=>217, :user_id=>2798798733, :retweet=>0}
-{:name=>"@CertifiedMTapez", :text=>"[ALBUM] Drake - If You're Reading This Its Too Late :: http://t.co/BdTJDeKt5z #GetCertified! @Certifiedmtapez @Drake", :followers=>3972, :user_id=>1195627915, :retweet=>0}
-{:name=>"@OfficialMoose_", :text=>"RT @HYPEBEAST: New @Drake, tune in now.\nhttp://t.co/afsgb6xpoH http://t.co/nCejOAvVkF", :followers=>348, :user_id=>228968234, :retweet=>1129}
-{:name=>"@itsmeEnz", :text=>"\"If You're Reading This It's Too Late\" - New DRIZZY soundtracking my morning! 🔥", :followers=>1017, :user_id=>195679641, :retweet=>0}
-{:name=>"@legacy_ofbeauty", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>327, :user_id=>86860070, :retweet=>6251}
-{:name=>"@Mystery_Smoke", :text=>"RT @NoiseyMusic: While you were sleeping @Drake dropped a mixtape 'If You're Reading This It's Too Late': http://t.co/mSdx6RaZwh http://t.c…", :followers=>781, :user_id=>1172817900, :retweet=>6}
-{:name=>"@_NurAqilahh", :text=>"RT @m4ira: Everyone will care when it's too late😏", :followers=>554, :user_id=>2295744192, :retweet=>139}
-{:name=>"@MsNamzieMol", :text=>"RT @rappersaid: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/hoIecOGbYg", :followers=>723, :user_id=>379008769, :retweet=>597}
-{:name=>"@NIL_333", :text=>"#NowPlaying 6 Man\nDrake • If You're Reading This It's Too Late on #Spotify  http://t.co/u6H9cAV8Us", :followers=>125, :user_id=>1543862695, :retweet=>0}
-{:name=>"@FWDSLXSH", :text=>"way too late b", :followers=>3775, :user_id=>155738036, :retweet=>0}
-{:name=>"@sooyuog", :text=>"Drake pulls a Beyonce and releases surprise album If You're Reading This It's Too Late http://t.co/OW8K5U5jBR http://t.co/jgk5zPH2YF", :followers=>49, :user_id=>2362602409, :retweet=>0}
-{:name=>"@MsCathCha", :text=>"If you're reading this it's too late.......", :followers=>282, :user_id=>46890151, :retweet=>0}
-{:name=>"@JackieT87787587", :text=>"#мненравится Drake - If Youre Reading This Its Too Late (320 kbps) (2015): Name: Drake - If You're Reading… http://t.co/1guMBDsn1I #мьюзик", :followers=>412, :user_id=>1624865730, :retweet=>0}
-{:name=>"@JackieT87787587", :text=>"#мненравится Drake - If Youre Reading This Its Too Late (2015): Название: Drake - If Youre Reading This Its… http://t.co/ygRD9dsbah #мьюзик", :followers=>412, :user_id=>1624865730, :retweet=>0}
-{:name=>"@Carol_AnneS", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>389, :user_id=>789900644, :retweet=>18459}
-{:name=>"@snpstr", :text=>"If You're Reading This It's Too Late http://t.co/ImIXP84Oo5 #DDL #Drake (via @Drake)", :followers=>1179, :user_id=>28574871, :retweet=>0}
-{:name=>"@HanounaMalek", :text=>"You And Me ..\nAre We Too Late ? ~", :followers=>405, :user_id=>349331644, :retweet=>0}
-{:name=>"@byepja", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>332, :user_id=>1022000666, :retweet=>766}
-{:name=>"@LaraAbar1", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>50, :user_id=>2541914851, :retweet=>766}
-{:name=>"@PravdaMutiara", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>106, :user_id=>1425200432, :retweet=>766}
-{:name=>"@rexooLV", :text=>"If youre reading this its too late", :followers=>226, :user_id=>84638687, :retweet=>0}
-{:name=>"@realnadizzle", :text=>"Maybe one day you'll pull your head out of your ass before it's too late. http://t.co/sTu8kTdMzW", :followers=>432, :user_id=>169272736, :retweet=>0}
-{:name=>"@DrizzyRabidFan", :text=>"Stream Drake's Surprise Mixtape \"If You're Reading This It's Too Late\" http://t.co/LlhkCehWyD", :followers=>928, :user_id=>1105703906, :retweet=>0}
-{:name=>"@menicPrath", :text=>"Drake - If Youre Reading This Its Too Late (320 kbps) (2015): Name: Drake - If You're Reading This… http://t.co/ptBPt1NPOR #новинки #музыки", :followers=>425, :user_id=>1646022769, :retweet=>0}
-{:name=>"@menicPrath", :text=>"Drake - If Youre Reading This Its Too Late (2015): Название: Drake - If Youre Reading This Its Too… http://t.co/KqTKPNgeCA #новинки #музыки", :followers=>425, :user_id=>1646022769, :retweet=>0}
-{:name=>"@andrew04881", :text=>"@pravitelstvo_rf @Madonna\nIf you're reading this it's too late.............#bitchimmadonna http://t.co/n0WPGvF0gF", :followers=>67, :user_id=>2873939644, :retweet=>0}
-{:name=>"@duhrak", :text=>"\"@MortuaryMercs: If you're reading this then it's too late @AsapAlar @duhrak @dr3w_official\"6ix", :followers=>424, :user_id=>602183087, :retweet=>0}
-{:name=>"@aliciaroselina", :text=>"RT @punablog: Mixtape: Drake - If You're Reading This It's Too Late - http://t.co/2nfdP1MbBM", :followers=>88, :user_id=>231404161, :retweet=>5}
-{:name=>"@DasAlpakaTv", :text=>"RT @JackJackJohnson: ITS ALREADY TOO LATE HOLY SHIT", :followers=>12, :user_id=>2223576415, :retweet=>2400}
-{:name=>"@faye_dallas", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>805, :user_id=>548347630, :retweet=>766}
-{:name=>"@lindseypuccio", :text=>"If you're reading this it's too late", :followers=>390, :user_id=>476255615, :retweet=>0}
-{:name=>"@annie_short", :text=>"It's not too late to buy my calendar 😉 http://t.co/ua6ZBHmWJE", :followers=>8509, :user_id=>2508348126, :retweet=>0}
-{:name=>"@rgwellHon", :text=>"#скачать Drake - If Youre Reading This Its Too Late (2015) http://t.co/EJYut1MZEm #mp3", :followers=>357, :user_id=>1625103054, :retweet=>0}
-{:name=>"@nickkillham", :text=>"this is so huge http://t.co/PHo8Y0Exc8 via @billboard", :followers=>222, :user_id=>29984637, :retweet=>0}
-{:name=>"@EnochJeremiah7", :text=>"Drake pulls a Beyonce and releases surprise album If You're Reading This It's Too Late http://t.co/CSrF8aYFI3", :followers=>1007, :user_id=>453176496, :retweet=>0}
-{:name=>"@konstm9189", :text=>"RT @ImAngelaPowers: The new Drake  http://t.co/3R3R7wUr5Y", :followers=>115, :user_id=>2896041623, :retweet=>442}
-{:name=>"@Prinz_Poldi92", :text=>"Drake pulls a Beyonce and releases surprise album If You're Reading This It's Too Late http://t.co/NSZU8t0MRH", :followers=>809, :user_id=>446140418, :retweet=>0}
-{:name=>"@Girl_GoneGlobal", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>506, :user_id=>41038901, :retweet=>55}
-{:name=>"@jaleyuh_", :text=>"if you're reading this its too late 🔥👏👏", :followers=>774, :user_id=>357130006, :retweet=>0}
-{:name=>"@mb_poetree", :text=>"IF YOU'RE READING THIS ITS TOO LATE", :followers=>494, :user_id=>287950383, :retweet=>0}
-{:name=>"@ederackerw", :text=>"Drake - If Youre Reading This Its Too Late (2015): Название: Drake - If Youre Reading This Its Too… http://t.co/TaoCzMnX8c #слушаю #хит", :followers=>360, :user_id=>1635577634, :retweet=>0}
-{:name=>"@lveLangne", :text=>"#слушаем Drake - If Youre Reading This Its Too Late (320 kbps) (2015): Name: Drake - If You're Reading This… http://t.co/D56smjckBK #music", :followers=>455, :user_id=>1632650658, :retweet=>0}
-{:name=>"@chassywhite_XO", :text=>"If you're reading this, it's too late @Drake #thankingyounow #causeitslater #legend", :followers=>292, :user_id=>514696955, :retweet=>0}
-{:name=>"@lveLangne", :text=>"#слушаем Drake - If Youre Reading This Its Too Late (2015): Название: Drake - If Youre Reading This Its Too… http://t.co/7htuHKlA6n #music", :followers=>455, :user_id=>1632650658, :retweet=>0}
-{:name=>"@patssandiego", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>340, :user_id=>1610565104, :retweet=>766}
-{:name=>"@TamaraGioielli", :text=>"#Buongiorno ! Volevo annunciarvi che da #TamaraGioielli è arrivata anche la #collezione Too Late ! http://t.co/RXUbd6Ms6t", :followers=>31, :user_id=>3007455850, :retweet=>0}
-{:name=>"@jasmine11chung", :text=>"RT @JackJackJohnson: ITS ALREADY TOO LATE HOLY SHIT", :followers=>169, :user_id=>2327020277, :retweet=>2400}
-{:name=>"@itslizannewhoo", :text=>"RT @samsmithworld: Too little too late", :followers=>54, :user_id=>3006696445, :retweet=>2540}
-{:name=>"@NamasteBitchies", :text=>"RT @RapFavorites: 2 hours in &amp; Drake has made $700,000 from his new album \"If You're Reading This It's Too Late\". http://t.co/kWnI2aojxX", :followers=>820, :user_id=>47699017, :retweet=>986}
-{:name=>"@courtney_aguiar", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>564, :user_id=>85182902, :retweet=>18459}
-{:name=>"@Dontizzle20", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>330, :user_id=>387434231, :retweet=>6251}
-{:name=>"@Alkali7", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>404, :user_id=>101497760, :retweet=>631}
-{:name=>"@melschilz", :text=>"Drake dropped this while we were sleeping so my morning is going well: http://t.co/R8ZA5s9L2i", :followers=>408, :user_id=>19381134, :retweet=>0}
-{:name=>"@apollofox", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>117, :user_id=>63963858, :retweet=>55}
-{:name=>"@melaniepizano13", :text=>"\"@HennessyPapi: Fifty Shades Of if you're reading this its too late\"", :followers=>377, :user_id=>306573318, :retweet=>0}
-{:name=>"@Danielle__25", :text=>"RT @WileyUpdates: Drake - If You're Reading This It's Too Late - https://t.co/aPEfLutMhI #iTunes", :followers=>227, :user_id=>908558058, :retweet=>5}
-{:name=>"@biebsxmagc", :text=>"RT @JackJackJohnson: ITS ALREADY TOO LATE HOLY SHIT", :followers=>7248, :user_id=>404589134, :retweet=>2400}
-{:name=>"@FiiFii_x", :text=>"if youre reading this its too late 😩🔥", :followers=>663, :user_id=>465800439, :retweet=>0}
-{:name=>"@melaniee_hall", :text=>"RT @savmontano: If youre reading this its too late", :followers=>170, :user_id=>2823829564, :retweet=>458}
-{:name=>"@Quinceez", :text=>"If you're reading this it's too late album downloaded ✔️", :followers=>970, :user_id=>223454395, :retweet=>0}
-{:name=>"@DeJayHenning", :text=>"RT @RapUp: Read Drake's thank you notes for #IfYoureReadingThisItsTooLate http://t.co/xui4WlNC4p http://t.co/V5yc0p1bFJ", :followers=>32, :user_id=>170743578, :retweet=>167}
-{:name=>"@marantha_bryce", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>58, :user_id=>1229627462, :retweet=>766}
-{:name=>"@_loucrative", :text=>"When I saw “If You’re Reading This It’s Too Late” I thought the mixtape/album had only been available for a while and I’d missed it 😩", :followers=>556, :user_id=>257442835, :retweet=>0}
-{:name=>"@EffyGreenleaf", :text=>"RT @taylorswwwift: Words, how little they mean when they're a little too late.", :followers=>75, :user_id=>2813641848, :retweet=>6}
-{:name=>"@Munne_TrapGOD", :text=>"So I was sleep n I get up....n its a new drake tape called \"if u reading this its too late\" ahhh my n!99@ 😄😎🙌", :followers=>1144, :user_id=>17117155, :retweet=>0}
-{:name=>"@JillxxRamilo", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>46, :user_id=>2647344877, :retweet=>18459}
-{:name=>"@ChupaChitala", :text=>"Drizzy drake, his on it again. \"Energy\". This track is me right.# 10 bands # if you're reading this its too late http://t.co/eyr4P19LMO", :followers=>61, :user_id=>315861397, :retweet=>0}
-{:name=>"@chrisneargg", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>282, :user_id=>552459905, :retweet=>766}
-{:name=>"@KhanyaChampion", :text=>"If you're reading this it's too late", :followers=>517, :user_id=>128002460, :retweet=>0}
-{:name=>"@TisaOVO", :text=>"RT @ATimberlake02: If You're Reading This Its Too Late", :followers=>531, :user_id=>728941040, :retweet=>1}
-{:name=>"@MaddoxSache", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>32, :user_id=>2990259951, :retweet=>18459}
-{:name=>"@janaciccone", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>1187, :user_id=>299088374, :retweet=>55}
-{:name=>"@_Toniaa", :text=>"RT @L_O_T_N_S: “@AfricanNigerian: Why's everyone talking about Drake this morning?”if you're tweeting this, it's too late", :followers=>746, :user_id=>203438914, :retweet=>6}
-{:name=>"@Oh_So_Amazin", :text=>"RT @LetsGo_Ugo: 😳 “@camdb1011: \"If You're Reading This Its Too Late\"= message to Birdman. Drake had to release 4 albums w/ CM. This is the …", :followers=>275, :user_id=>362875580, :retweet=>29}
-{:name=>"@pearl_sumona", :text=>"RT skanndTyagi #letsFootball #atk Forbes : Have your retirement accounts have been ravaged? It's not too late to g… http://t.co/rZJxkfJN4E", :followers=>243, :user_id=>2919553592, :retweet=>0}
-{:name=>"@alyyysonnn", :text=>"if you're reading this its too late. #drake", :followers=>471, :user_id=>87749898, :retweet=>0}
-{:name=>"@NotoriousAUG", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>296, :user_id=>456439251, :retweet=>6251}
-{:name=>"@Jamerius18", :text=>"RT @pitchfork: .@Drake shares 17 new songs called If You're Reading This It's Too Late http://t.co/XKNvXGya10 http://t.co/TuFBSsODNq", :followers=>760, :user_id=>224493284, :retweet=>416}
-{:name=>"@GG3Beatmaker", :text=>"RT @French2Def: #Vendredi13 jour de chance !!! Écoutez le projet surprise de @Drake #IfYoureReadingThisItsTooLate sur #French2Def !\nhttp://…", :followers=>950, :user_id=>406571009, :retweet=>2}
-{:name=>"@chixriot", :text=>"But im just so tired of keep holding and waiting. If it happen it will I hope it will never too late. 💔😞", :followers=>95, :user_id=>82338915, :retweet=>0}
-{:name=>"@vieirabruno", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>247, :user_id=>18299374, :retweet=>55}
-{:name=>"@HarrysGirllxo", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>2064, :user_id=>1550983261, :retweet=>18459}
-{:name=>"@janaciccone", :text=>"\"@Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/jqbL4Haj1C\"", :followers=>1187, :user_id=>299088374, :retweet=>0}
-{:name=>"@RTSharks", :text=>"If You're Reading This Is Too Late hahahahahaha olha o nome!", :followers=>615, :user_id=>47706034, :retweet=>0}
-{:name=>"@Garg4nta", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>891, :user_id=>117792148, :retweet=>55}
-{:name=>"@DrBillHitchcock", :text=>"too late", :followers=>344, :user_id=>15177349, :retweet=>0}
-{:name=>"@_ebucks", :text=>"⛽️⛽️⛽️“@KellysonFIRE: If you're reading this it's too late.”", :followers=>436, :user_id=>757623636, :retweet=>0}
-{:name=>"@radicaal_", :text=>"RT @savmontano: If youre reading this its too late", :followers=>335, :user_id=>881522767, :retweet=>458}
-{:name=>"@amerynx", :text=>"RT @rachelyappppp: Learn how to appreciate your loved ones around you, before it's too late, before you drown yourself in tears and before …", :followers=>613, :user_id=>1124142296, :retweet=>220}
-{:name=>"@crispywhiteboi", :text=>"RT @TheHowFlyBlog: RUMOR: Drake released \"If You're Reading This It's Too Late\" as an album, to fulfill his contract w/ Cash Money. Title i…", :followers=>2436, :user_id=>237597085, :retweet=>1353}
-{:name=>"@ZakkWilliamss", :text=>"If you're reading this it's too late @Drake 🙌", :followers=>361, :user_id=>636888284, :retweet=>0}
-{:name=>"@LUCY_CAMMY", :text=>"RT @GroovyNegro: “@HipHopxHotspot: Drake's new album \"If You're Reading This Its Too Late\" has already raked in over $1,000,000 http://t.co…", :followers=>497, :user_id=>452327207, :retweet=>23}
-{:name=>"@BasedOlisa", :text=>"RT @L_O_T_N_S: “@AfricanNigerian: Why's everyone talking about Drake this morning?”if you're tweeting this, it's too late", :followers=>1831, :user_id=>101541840, :retweet=>6}
-{:name=>"@STAYKALMM", :text=>"IF YOU’RE READING THIS IT’S TOO LATE", :followers=>149, :user_id=>214945002, :retweet=>0}
-{:name=>"@jaeslv", :text=>"If you're reading this it's already too late", :followers=>1249, :user_id=>1092385350, :retweet=>0}
-{:name=>"@lethabo_cofi", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>375, :user_id=>108021769, :retweet=>6251}
-{:name=>"@ThisRandomKid", :text=>"Me: 6:30. Gonna finish this sh*t in 6:30.\n\n6:31\n\nMe: Well, Guess it's too late, TOMORROW.", :followers=>77, :user_id=>2792162887, :retweet=>0}
-{:name=>"@MadonnaGreece", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>1144, :user_id=>594988891, :retweet=>55}
-{:name=>"@StaggaSays", :text=>"RT @rappersaid: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/hoIecOGbYg", :followers=>8193, :user_id=>40018680, :retweet=>597}
-{:name=>"@robinobrien95", :text=>"RT @SBTVonline: [NEW] @Drake drops surprise mixtape ‘If You’re Reading This You’re Too Late’ 👀 &gt;&gt; http://t.co/48UNBjHYDD http://t.co/PNhHpb…", :followers=>258, :user_id=>281244334, :retweet=>8}
-{:name=>"@mcveranaya", :text=>"RT @samsmithworld: Too little too late", :followers=>1635, :user_id=>591779386, :retweet=>2540}
-{:name=>"@1dftxcxz", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>462, :user_id=>263655974, :retweet=>18459}
-{:name=>"@arizanism", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>359, :user_id=>2450862235, :retweet=>766}
-{:name=>"@SamuelGathaga", :text=>"If you're reading this, it's too late!", :followers=>106, :user_id=>278937212, :retweet=>0}
-{:name=>"@princesslaur3nn", :text=>"RT @savmontano: If youre reading this its too late", :followers=>320, :user_id=>358413114, :retweet=>458}
-{:name=>"@AAlbuturky", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>235, :user_id=>2159490738, :retweet=>19963}
-{:name=>"@NicoIePereira", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>614, :user_id=>844106316, :retweet=>18459}
-{:name=>"@Steve_O_20", :text=>"RT @thainfamousV: \"If your reading this it's too late\" http://t.co/ptLF2MTDJN", :followers=>489, :user_id=>1059707144, :retweet=>2}
-{:name=>"@M6_Patrol", :text=>"Now HGV we brought in had no @hgvlevy  at time of stop, only got it 20 mins later. Too late. @NWmwaypolice", :followers=>2325, :user_id=>297332068, :retweet=>0}
-{:name=>"@gonqueen", :text=>"RT @TheGaloreMag: Drake Drops Surprise Album: If You’re Reading This It’s Too Late http://t.co/0nhKuWvJrw http://t.co/hOBTHuTQTW", :followers=>12, :user_id=>119564589, :retweet=>2}
-{:name=>"@NanaDlamini1", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>295, :user_id=>1459378322, :retweet=>19963}
-{:name=>"@TheSwinginAs", :text=>"RT @W_Coast_Ghost: Ain't too late to vote @Athletics #SeanDoolittle or @whatwouldDOOdo for #FaceOfMLB", :followers=>66, :user_id=>205467043, :retweet=>4}
-{:name=>"@JustifyMyWorld", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>137, :user_id=>374926365, :retweet=>55}
-{:name=>"@laraahm56030491", :text=>"@HyoStar242 @nermacneskadfc it's too late to say this", :followers=>675, :user_id=>2444366630, :retweet=>0}
-{:name=>"@JanaGaskarth", :text=>"@nicolenvill just saw this haha its never too late!!", :followers=>530, :user_id=>156896331, :retweet=>0}
-{:name=>"@s_tik1", :text=>"RT @TheGQStyle: Stop everything! @Drake just dropped a surprise album \"If You're Reading This It's Too Late\". #Drake http://t.co/ATTWuMkzPH", :followers=>117, :user_id=>583045305, :retweet=>1}
-{:name=>"@Sooths4yer", :text=>"RT @DatPiff: Stream Drake’s ‘If You’re Reading This It’s Too Late’ Mixtape http://t.co/duSUhLf6tB via @HipHopEarly", :followers=>1480, :user_id=>323985386, :retweet=>34}
-{:name=>"@BadmanLefty", :text=>"lmao slacked bro RT @bamzyempire: I cant believe im just finding about this after I left the house! Talk about \"it's too late\" smh", :followers=>1719, :user_id=>51409530, :retweet=>0}
-{:name=>"@_KayyAinsleyy", :text=>"\"If you're reading this its too late\" 🎶🎶", :followers=>23, :user_id=>2986525621, :retweet=>0}
-{:name=>"@sparky33583866", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>11501, :user_id=>1919572561, :retweet=>55}
-{:name=>"@SFCalA", :text=>"It's Too Late | Cal-A https://t.co/mQFNw58Ayi", :followers=>3218, :user_id=>64954775, :retweet=>0}
-{:name=>"@clavitoria", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>268, :user_id=>66733738, :retweet=>766}
-{:name=>"@leticiamaria90", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>564, :user_id=>72331964, :retweet=>55}
-{:name=>"@KentaroXIII", :text=>"Damn... \"If you're reading this it's too late\" 🔥🔥🔥🔥", :followers=>85, :user_id=>2222585462, :retweet=>0}
-{:name=>"@idk_Direction", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>480, :user_id=>462810396, :retweet=>18459}
-{:name=>"@NontzMkhize", :text=>"RT @joaomatthews_: \"If You're Reading This Now, It's Too Late\" sounds like a note Liam Neeson would find after they kidnapped his daughter.", :followers=>315, :user_id=>142032752, :retweet=>23}
-{:name=>"@Gentlemen23sasd", :text=>"RT @capsels: @KeavyBell no but really i've been staying up way too late all week fangirling and reading freak i need help", :followers=>1016, :user_id=>1871555485, :retweet=>2}
-{:name=>"@SamFoleyLFC", :text=>"If you're reading this it's too late", :followers=>635, :user_id=>231773153, :retweet=>0}
-{:name=>"@butnevergreen", :text=>"Valentine's day tomorrow, if you've left it too late to buy real art. Why not make something.\nhttp://t.co/dL9wUFj9Hu http://t.co/zuohPWQzIg", :followers=>228, :user_id=>2586174174, :retweet=>0}
-{:name=>"@DavidddCampbell", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>1152, :user_id=>1602205920, :retweet=>631}
-{:name=>"@lauren_riggi", :text=>"RT @samsmithworld: Too little too late", :followers=>862, :user_id=>728964030, :retweet=>2540}
-{:name=>"@SarahJaffasen", :text=>"RT @7010Ahmet: LAUNCH DIET ON THE SEASON. DONT BE TOO LATE! http://t.co/aOfBI0DpXI", :followers=>558, :user_id=>2838320989, :retweet=>60}
-{:name=>"@TheFATZac", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>1126, :user_id=>628546846, :retweet=>55}
-{:name=>"@felipemacedokl1", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>1858, :user_id=>2945561555, :retweet=>55}
-{:name=>"@dimkarie", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>233, :user_id=>585958253, :retweet=>766}
-{:name=>"@rexxac", :text=>"@2002wil @Niggv__ If You're Reading This it's Too Late", :followers=>963, :user_id=>1210004136, :retweet=>0}
-{:name=>"@sgi_consultants", :text=>"RT @GinoTheGhost: the business plan unfolds, if you’re reading this it’s too late http://t.co/WLfdg1cAZI", :followers=>118, :user_id=>2887881963, :retweet=>210}
-{:name=>"@lizvetttx3", :text=>"“@PARTYOVOMO: Drake-Preach (feat. PARTYNEXTDOOR)If You're Reading This Its Too Late. 🙏 https://t.co/FGDnTdyISZ”@nochillrivera @lenatheloser", :followers=>606, :user_id=>545544718, :retweet=>0}
-{:name=>"@leonedaniella", :text=>"My latest Stardesign Hair is flying off the shelves.  Get yours before it is too late! http://t.co/PdwaP3ruVc", :followers=>406, :user_id=>569647920, :retweet=>0}
-{:name=>"@Incognito_Tay", :text=>"Drake's Album \"If You're Reading This It's Too Late\" is 🔥 from start to finish! 👌👍 #ifyourereadingthisitstoolate http://t.co/6gNYRvAZ6R", :followers=>315, :user_id=>55446680, :retweet=>0}
-{:name=>"@FatinBadilah", :text=>"RT @IslamicTongue: The Beauty Of Islam Is That Its Never Too Late To Ask ALLAH For Forgiveness.", :followers=>447, :user_id=>433204487, :retweet=>43}
-{:name=>"@Fdhldodol", :text=>"\"@lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.\" On point hahaha", :followers=>371, :user_id=>448159608, :retweet=>0}
-{:name=>"@TerenceJohn27", :text=>"If you're reading this it's too late. #Legend", :followers=>180, :user_id=>497713245, :retweet=>0}
-{:name=>"@voaras", :text=>"IF YOURE READING THIS ITS TOO LATE 😭😳🔥👽💦👀💋💞🌹", :followers=>77, :user_id=>2250233948, :retweet=>0}
-{:name=>"@IAmLilPKMash", :text=>"Drake's New Album 'If You're\nReading This It's Too\nLate' Now Available. What A Surprise", :followers=>231, :user_id=>379080714, :retweet=>0}
-{:name=>"@bamzyempire", :text=>"I cant believe im just finding about this after I left the house! Talk about \"it's too late\" smh", :followers=>486, :user_id=>40093418, :retweet=>0}
-{:name=>"@shey155", :text=>"RT @ImNotScottySire: I have to post that YouTube video tomorrow bc it is too late now and everybody sleeps early like wimps", :followers=>3475, :user_id=>2235558473, :retweet=>26}
-{:name=>"@LoDoriane", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>113, :user_id=>2333418599, :retweet=>18459}
-{:name=>"@hanlou4567", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>377, :user_id=>410640709, :retweet=>766}
-{:name=>"@IzenEars", :text=>"RT @NoiseyMusic: While you were sleeping @Drake dropped a mixtape 'If You're Reading This It's Too Late': http://t.co/mSdx6RaZwh http://t.c…", :followers=>972, :user_id=>391139884, :retweet=>7}
-{:name=>"@THE1ANTONIO", :text=>"“@Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/NZqZE256lE” yes!!!", :followers=>2187, :user_id=>28153761, :retweet=>0}
-{:name=>"@downlow", :text=>"[Album] #np ☞ @Drake - \"If You're Reading This It's Too Late\" Mixtape http://t.co/TagpjWEa8i http://t.co/8LNWz7xa3Z", :followers=>1065, :user_id=>7737602, :retweet=>0}
-{:name=>"@DopeHipHopMag", :text=>"RT @IamSynapse: Shit goes in... @Drake - If You're Reading This It's Too Late :: #GetItLIVE! http://t.co/F9QnMT5V4z @LiveMixtapes", :followers=>655, :user_id=>751142617, :retweet=>2}
-{:name=>"@DopeHipHopMag", :text=>"RT @IamSynapse: Bumping that new Drake with @ParaNormal_DJ http://t.co/sTS4dP1NIc #ifyourereadingthisitstoolate #6pmInNY", :followers=>655, :user_id=>751142617, :retweet=>2}
-{:name=>"@_ImperfectLee", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>2134, :user_id=>144308121, :retweet=>6251}
-{:name=>"@Chillmatiic", :text=>"DRAKE – “IF YOURE READING THIS ITS TOO LATE” | Free Download – Brand New Hip Hop Brand New Hip Hop http://t.co/jCuwnK4VOO", :followers=>295, :user_id=>458948443, :retweet=>0}
-{:name=>"@BrotherBearBruh", :text=>"'If you're reading this its too late' x Drake #GoCrazy", :followers=>393, :user_id=>556438359, :retweet=>0}
-{:name=>"@aurelle1642", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>294, :user_id=>121415572, :retweet=>55}
-{:name=>"@HarounMuhammed", :text=>"I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Take Care.", :followers=>179, :user_id=>1268274218, :retweet=>0}
-{:name=>"@DaleloveMadonna", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>5130, :user_id=>300204824, :retweet=>55}
-{:name=>"@fankingit", :text=>"RT @scallisonwhy: @fankingit with a player like you i don't have a prayer that's the way to live oh no you know it's just too little too la…", :followers=>4573, :user_id=>2200272026, :retweet=>1}
-{:name=>"@at_christian", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>194, :user_id=>1258130550, :retweet=>55}
-{:name=>"@shadaleto", :text=>"@ColleenCranford @tiannareneexo if youre reading this its too late", :followers=>207, :user_id=>221185522, :retweet=>0}
-{:name=>"@nickingofrap", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>1104, :user_id=>1851953984, :retweet=>55}
-{:name=>"@yasminovo_", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>334, :user_id=>40008289, :retweet=>631}
-{:name=>"@MadamGrier", :text=>"RT @JackJackJohnson: ITS ALREADY TOO LATE HOLY SHIT", :followers=>3645, :user_id=>2717609846, :retweet=>2400}
-{:name=>"@calumi12u", :text=>"Drakes #FOLLOWXFOLLOW Stream Drake's Surprise Album \"If You're Reading This It's Too Late\" - HotNewHipHop  http://t.co/gUiMKhspOK", :followers=>1558, :user_id=>2864743883, :retweet=>0}
-{:name=>"@yourangelic", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>178, :user_id=>2543566087, :retweet=>766}
-{:name=>"@MaryKUCNS", :text=>"RT @ImAngelaPowers: The new Drake  http://t.co/3R3R7wUr5Y", :followers=>115, :user_id=>2544374612, :retweet=>443}
-{:name=>"@wajihazulfi", :text=>"RT @IslamicTongue: The Beauty Of Islam Is That Its Never Too Late To Ask ALLAH For Forgiveness.", :followers=>32, :user_id=>2504247151, :retweet=>43}
-{:name=>"@GJGillespie", :text=>"🙏 ♫ If You're Reading This It's Too Late – Drake http://t.co/5oVSTrP3L8", :followers=>350, :user_id=>369397404, :retweet=>0}
-{:name=>"@Nate_Ldn", :text=>"RT @realwords: The album title brings things full circle. \"If You're Reading this, it's too late...\" a message to his record label.", :followers=>663, :user_id=>537177439, :retweet=>494}
-{:name=>"@Chels060", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>1082, :user_id=>1933430846, :retweet=>766}
-{:name=>"@2sMeDos2", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>99, :user_id=>2691001880, :retweet=>55}
-{:name=>"@ktandy11", :text=>"RT @lnsaneTweets: i stay up too late, got nothing in my brain, that’s what my grades say mmm mmm.", :followers=>349, :user_id=>2267577042, :retweet=>766}
-{:name=>"@Cliffordsclimax", :text=>"Is it too late to ask the jonas brothers to be my valentine", :followers=>3566, :user_id=>732160068, :retweet=>0}
-{:name=>"@fbLarry057", :text=>"RT @NoiseyMusic: While you were sleeping @Drake dropped a mixtape 'If You're Reading This It's Too Late': http://t.co/mSdx6RaZwh http://t.c…", :followers=>1591, :user_id=>76406721, :retweet=>7}
-{:name=>"@fankingit", :text=>"RT @scallisonwhy: @fankingit to be real it doesn't matter anyway you know it's just too little too late", :followers=>4573, :user_id=>2200272026, :retweet=>1}
-{:name=>"@ItsLailaaaa", :text=>"working my way forward, back to front, cover to cover, if you're reading this it's too late", :followers=>288, :user_id=>168610084, :retweet=>0}
-{:name=>"@Nr1Breaking", :text=>"New Music: Drake ? 'If You're Reading This You're Too Late' Tape http://t.co/RUNJqNfavp http://t.co/fac8lWglLx", :followers=>16, :user_id=>2869367055, :retweet=>0}
-{:name=>"@Dariasaur", :text=>"It's like Christmas came early! Drake drops a new album: http://t.co/w4NWMCL2ih", :followers=>824, :user_id=>250112446, :retweet=>0}
-{:name=>"@misstkms", :text=>"RT @MntsofaBlkQueen: Drake Drops Mixtape If You’re Reading This It’s Too Late http://t.co/mHskTCJ8AY", :followers=>2156, :user_id=>103661383, :retweet=>1}
+{:name=>"@JenniferSays_", :text=>"RT @watdaLiqWEED: @JenniferSays_   [Mixtape] If You're Reading This It's Too Late - @Drake via Spinrilla.  http://t.co/SlVGv5iONi http://t.…", :followers=>2973, :user_id=>342560703, :retweet=>1}
+{:name=>"@Birdleyla_die", :text=>"RT @CASPERxOFFICIAL: if you're reading this It's too late.", :followers=>53, :user_id=>2175799755, :retweet=>161}
+{:name=>"@FranksTasticPD", :text=>"Drake - If You're Reading This Its Too Late 😭🎉❤️❤️❤️", :followers=>2062, :user_id=>354883238, :retweet=>0}
+{:name=>"@Shyne4rMe", :text=>"RT @GRMDAILY: Drake thanks @Skepta in the credits of 'If Youre Reading This Its Too Late' http://t.co/RoGaZvHwhX", :followers=>297, :user_id=>393644773, :retweet=>66}
+{:name=>"@jl_watkins", :text=>"@GeauxGabby yep!! It’s called “if you’re reading this it’s too late”", :followers=>3605, :user_id=>303391538, :retweet=>0}
+{:name=>"@ReekoSuave__", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>2372, :user_id=>498413610, :retweet=>7360}
+{:name=>"@_CALVT", :text=>"it's too late to apologize.", :followers=>3253, :user_id=>416041578, :retweet=>0}
+{:name=>"@THREATMANASREG", :text=>"RT @ImAngelaPowers: The new Drake  http://t.co/3R3R7wUr5Y", :followers=>146, :user_id=>2509682107, :retweet=>596}
+{:name=>"@_brookelewisx", :text=>"RT @yee7us: If you're reading this it's too late", :followers=>412, :user_id=>2476903528, :retweet=>1}
+{:name=>"@529627", :text=>"If something means to world to your soul, well, it is never too late. #coulda#woulda#shoulda", :followers=>77, :user_id=>512406973, :retweet=>0}
+{:name=>"@tiachanae12", :text=>"@JenniferAdely I was going to try out yesterday but McDowell said it was too late 😩", :followers=>1134, :user_id=>412645394, :retweet=>0}
+{:name=>"@danielvzeus", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>168, :user_id=>1427760704, :retweet=>6484}
+{:name=>"@SoNortori_us", :text=>"RT @highsnobiety: .@Drake releases new album ‘If You’re Reading This It’s Too Late’: http://t.co/0mNaF7xyZM http://t.co/HTJ608MHTq", :followers=>701, :user_id=>34766309, :retweet=>33}
+{:name=>"@abbybleasdale", :text=>"If you're reading this it's too late", :followers=>585, :user_id=>338443982, :retweet=>0}
+{:name=>"@xoxorolle", :text=>"RT @_maririsoto: IF YOURE READING THIS ITS TOO LATE", :followers=>945, :user_id=>900148207, :retweet=>1}
+{:name=>"@ColossILL", :text=>"@CamzBaller http://t.co/nuRTxcwTfj There you go 🔥🔥. Retweet please", :followers=>259, :user_id=>2466008792, :retweet=>0}
+{:name=>"@zmzweedyk", :text=>"RT @Madonna: If you're reading this it's too late.............#bitchimmadonna http://t.co/cXaUAks2kt", :followers=>10, :user_id=>2292230826, :retweet=>184}
+{:name=>"@conormccue__", :text=>"RT @RapFavorites: Within the first 20 minutes of releasing his new project \"If You're Reading This It's Too Late\" Drake made $360,000. http…", :followers=>659, :user_id=>623149203, :retweet=>1204}
+{:name=>"@TRXVLANE", :text=>"Drake - If You're Reading This It's Too Late (Album Stream) http://t.co/aV6iw0Ndl0", :followers=>247, :user_id=>133289518, :retweet=>0}
+{:name=>"@JamalJarves", :text=>"if you're reading this it's too late.", :followers=>879, :user_id=>51195969, :retweet=>0}
+{:name=>"@Slikk_Vic", :text=>"RT @Bdell1014: Just texted my ex \"If you're  reading this it's too late.\"", :followers=>125, :user_id=>217034100, :retweet=>10}
+{:name=>"@ArabellaJemide", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>753, :user_id=>440370541, :retweet=>6484}
+{:name=>"@ItsJoeyD86", :text=>"RT @BrOimDope: @ItsJoeyD86 http://t.co/Yl49o4JeTe", :followers=>1011, :user_id=>123929715, :retweet=>1}
+{:name=>"@STARLANDSGIRLS", :text=>"@BirminghamFA is it too late for Starlands Groundsman??!,@#\#$!!  :) http://t.co/y2rVwAJiQ2", :followers=>59, :user_id=>125749737, :retweet=>0}
+{:name=>"@richingeorge", :text=>"RT @2DOPEposts: For the night owls just getting off work. Drake has a new album out —&gt; http://t.co/QurzRERPlr http://t.co/3J26dleMPe", :followers=>76, :user_id=>210950156, :retweet=>46}
+{:name=>"@Fatimaaazzz", :text=>"If You're Reading This It's Too Late by Drake https://t.co/yyJN3RhycA", :followers=>1173, :user_id=>532535566, :retweet=>0}
+{:name=>"@juaumcb", :text=>"if you're reading this it's too late\n\nMAS QUE FDP", :followers=>1498, :user_id=>181204219, :retweet=>0}
+{:name=>"@THEHIGHLOWSbot", :text=>"まことにもって かたじけない 拙者まるで だらしがない [♪Too Late To Die♪] #THEHIGHLOWS", :followers=>1613, :user_id=>208700013, :retweet=>0}
+{:name=>"@watdaLiqWEED", :text=>"@JenniferSays_   [Mixtape] If You're Reading This It's Too Late - @Drake via Spinrilla.  http://t.co/SlVGv5iONi http://t.co/F7IhkcbmcV", :followers=>1706, :user_id=>113236310, :retweet=>1}
+{:name=>"@Stussy_Fly", :text=>"If you're reading this it's too late !!!! 🔥🔥", :followers=>310, :user_id=>344570426, :retweet=>0}
+{:name=>"@sandrii_smilee", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>565, :user_id=>2469464324, :retweet=>18792}
+{:name=>"@daniel_barker", :text=>"Straight up unfollowing anyone who makes a mind the gap joke from this point onwards. You are too late and should be shunned.", :followers=>1450, :user_id=>49946346, :retweet=>0}
+{:name=>"@ColossILL", :text=>"@kenarambulo14 http://t.co/nuRTxcwTfj There you go 🔥🔥. Retweet please", :followers=>259, :user_id=>2466008792, :retweet=>0}
+{:name=>"@SheLoveDJ", :text=>"@GuapOvaAll too late you shoulda bought em yesterday 😌", :followers=>1377, :user_id=>2395456418, :retweet=>0}
+{:name=>"@Alex_figueroaaa", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>99, :user_id=>2220576480, :retweet=>6484}
+{:name=>"@LAnthoney", :text=>"Drake- If Your Reading This Its Too Late= Class", :followers=>414, :user_id=>431016227, :retweet=>0}
+{:name=>"@amiraali72", :text=>"if you're reading this you're too late", :followers=>560, :user_id=>252173739, :retweet=>0}
+{:name=>"@yee7us", :text=>"If you're reading this it's too late", :followers=>5026, :user_id=>455098149, :retweet=>1}
+{:name=>"@Jessi_dowlingg", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>12, :user_id=>3006565607, :retweet=>18792}
+{:name=>"@Barack_ObaNam", :text=>"#NP Drake's New Mixtape - If you're reading this, it's too late &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;", :followers=>243, :user_id=>492585521, :retweet=>0}
+{:name=>"@ColossILL", :text=>"@ShaunTheBastard http://t.co/nuRTxcwTfj There you go 🔥🔥. Retweet please", :followers=>259, :user_id=>2466008792, :retweet=>0}
+{:name=>"@LukeCollinss", :text=>"If you're reading this it's too late", :followers=>2606, :user_id=>1053312158, :retweet=>0}
+{:name=>"@JuniorOvOXo_", :text=>"If your reading this its too late", :followers=>99, :user_id=>2495471202, :retweet=>0}
+{:name=>"@dajanaa124", :text=>"Lol my mom says that Ima get old fast cause I stay out too late lolol", :followers=>348, :user_id=>499192978, :retweet=>0}
+{:name=>"@13ORKB", :text=>"@chelseafc it never too late to congratulate my boys on a solid performance last wednesday... #ValuableThreePoints #CFC", :followers=>69, :user_id=>326122874, :retweet=>0}
+{:name=>"@topszndatovo", :text=>"RT @2DOPEposts: For the night owls just getting off work. Drake has a new album out —&gt; http://t.co/QurzRERPlr http://t.co/3J26dleMPe", :followers=>372, :user_id=>2432733931, :retweet=>46}
+{:name=>"@Musiquemag_Rap", :text=>"Drake a sorti une mixtape de 17 titres http://t.co/2jwevLnxcH", :followers=>1518, :user_id=>211549816, :retweet=>0}
+{:name=>"@andrew_safe", :text=>"RT @pitchfork: .@Drake shares 17 new songs called If You're Reading This It's Too Late http://t.co/XKNvXGya10 http://t.co/TuFBSsODNq", :followers=>187, :user_id=>983669192, :retweet=>422}
+{:name=>"@Mariannoo", :text=>"\"If You're Reading This, It's Too Late\" is the Drakest album title yet. that's how I know it's lit.", :followers=>2210, :user_id=>30390487, :retweet=>0}
+{:name=>"@fudophile", :text=>"Too bad it's too late to grab the ice cream pasu 😢", :followers=>101, :user_id=>2977004876, :retweet=>0}
+{:name=>"@OConybeare", :text=>"@_GeorgeMarsh too late for what? The bus ?", :followers=>470, :user_id=>634568427, :retweet=>0}
+{:name=>"@CrayRainbow", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>40, :user_id=>573876128, :retweet=>6484}
+{:name=>"@KneipLauren", :text=>"RT @DrakeReact: RT if you love \"If You're Reading This It's Too Late\" mixtape.", :followers=>166, :user_id=>2878408529, :retweet=>122}
+{:name=>"@bzee01", :text=>"Drake new album link,thank me later http://t.co/VPJ4rl8STT", :followers=>1425, :user_id=>112037113, :retweet=>0}
+{:name=>"@MikeySHEESH", :text=>"If youre reading this.....its too late 🙏🙏", :followers=>179, :user_id=>555125176, :retweet=>0}
+{:name=>"@shazayy_", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>263, :user_id=>2598706816, :retweet=>6484}
+{:name=>"@MichalVanunu", :text=>"RT @YoungKob3: IF YOURE READING THIS ITS TOO LATE", :followers=>123, :user_id=>1698519397, :retweet=>1}
+{:name=>"@kory12hall", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>135, :user_id=>1942210610, :retweet=>6484}
+{:name=>"@ColossILL", :text=>"@Keemodaloverboy http://t.co/nuRTxcwTfj There you go 🔥🔥. Retweet please", :followers=>259, :user_id=>2466008792, :retweet=>0}
+{:name=>"@hanadeiya_", :text=>"RT @Lucaspeebo: it's never too late too start over. if you weren't happy with yesterday, try something different today. don't stay stuck. d…", :followers=>1030, :user_id=>1543185229, :retweet=>637}
+{:name=>"@thetubbieco", :text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :followers=>1160, :user_id=>173720777, :retweet=>18792}
+{:name=>"@dejazvu", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>972, :user_id=>55352374, :retweet=>6484}
+{:name=>"@TakeemEscobar", :text=>"@grandeputas_ \n\nIt's too late now , lol .", :followers=>4845, :user_id=>2510660664, :retweet=>0}
+{:name=>"@JaDeekrc", :text=>"RT @ImAngelaPowers: The new Drake  http://t.co/3R3R7wUr5Y", :followers=>122, :user_id=>2912416656, :retweet=>596}
+{:name=>"@AHartzler_", :text=>"RT @DailyLoud: [NEW] Drake - \"If You're Reading This It's Too Late\" [Album Stream] http://t.co/hqG9uTNvav http://t.co/XWu6m6Af7p", :followers=>429, :user_id=>1477889449, :retweet=>296}
+{:name=>"@maja_always", :text=>"RT @MONEY__LINGO: \"If you're reading this it's too late\"", :followers=>723, :user_id=>228760471, :retweet=>2}
+{:name=>"@ColossILL", :text=>"@YeahItsKwale http://t.co/nuRTxcwTfj There you go 🔥🔥. Retweet please", :followers=>259, :user_id=>2466008792, :retweet=>0}
+{:name=>"@Godyyouknow", :text=>"@Dijem2 if you're reading this it's too late", :followers=>185, :user_id=>2355661246, :retweet=>0}
+{:name=>"@tonystarkradio", :text=>"Drake does a Beyonce..and drops a new mixtape/album \"“If you’re reading this it’s too late!\" Available now", :followers=>4176, :user_id=>111765039, :retweet=>0}
+{:name=>"@Caballerodan98", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>126, :user_id=>530955836, :retweet=>20188}
+{:name=>"@CloudJanoskians", :text=>"RT @JackJackJohnson: ITS ALREADY TOO LATE HOLY SHIT", :followers=>1244, :user_id=>505320245, :retweet=>2525}
+{:name=>"@dillonbeck", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>456, :user_id=>600569134, :retweet=>7360}
+{:name=>"@WorldOfSheridan", :text=>"RT @CMHarris27: Drake - If your reading this it's too late🔥💥", :followers=>90, :user_id=>2927423313, :retweet=>1}
+{:name=>"@SiaFram", :text=>"RT @RapUp: Drake Drops Surprise Album 'If You're Reading This It's Too Late' http://t.co/tLX7yIeCPK http://t.co/dwSC7OUFJI", :followers=>501, :user_id=>866509615, :retweet=>1019}
+{:name=>"@davidukp623", :text=>"RT @samsmithworld: Too little too late", :followers=>374, :user_id=>2565417995, :retweet=>2871}
+{:name=>"@j_killlem", :text=>"if you're reading this it's too late.", :followers=>554, :user_id=>399736089, :retweet=>0}
+{:name=>"@RealBerniee", :text=>"I liked a @YouTube video http://t.co/LqYzPOUF4Q Drake - If Youre Reading This Its Too Late (Full Album)", :followers=>210, :user_id=>1561841431, :retweet=>0}
+{:name=>"@SHORTEST___", :text=>"RT @laroze__: I hate when ppl not real parents and discover a technique of how to raise they kids but its too late", :followers=>1825, :user_id=>307489268, :retweet=>1}
+{:name=>"@ThatWhiteKidd__", :text=>"RT @979TheBox: #NP @Drake #6Man  If You're Reading This it's Too Late", :followers=>2309, :user_id=>236258750, :retweet=>2}
+{:name=>"@butcalumx", :text=>"RT @samsmithworld: Too little too late", :followers=>1066, :user_id=>2225633681, :retweet=>2871}
+{:name=>"@_maririsoto", :text=>"IF YOURE READING THIS ITS TOO LATE", :followers=>952, :user_id=>86459948, :retweet=>1}
+{:name=>"@niaaaoscar", :text=>"RT @NoiseyMusic: While you were sleeping @Drake dropped a mixtape 'If You're Reading This It's Too Late': http://t.co/mSdx6RaZwh http://t.c…", :followers=>294, :user_id=>271042016, :retweet=>48}
+{:name=>"@IndiJarrell", :text=>"I really just stayed up listening to if you're not reading this it's too late", :followers=>1055, :user_id=>1318259569, :retweet=>0}
+{:name=>"@_giftedtruly", :text=>"RT @kelitaughtyou: “@_giftedtruly: @kelitaughtyou what's the name of it”\n\nIf You Are Reading This Its Too Late", :followers=>1568, :user_id=>432104719, :retweet=>1}
+{:name=>"@Negro_lee", :text=>"RT @joaomatthews_: \"If You're Reading This Now, It's Too Late\" sounds like a note Liam Neeson would find after they kidnapped his daughter.", :followers=>814, :user_id=>375552678, :retweet=>37}
+{:name=>"@botexakmal", :text=>"@eezamer can't be home too late. Grounded pukul 11 je hahahaahhaha", :followers=>375, :user_id=>981918426, :retweet=>0}
+{:name=>"@BradyEkman", :text=>"I'm at the point where its just too late to try to clean out my email inbox.", :followers=>763, :user_id=>341263337, :retweet=>0}
+{:name=>"@Xoxo_Addi", :text=>"If you're reading this its too late @Drake", :followers=>479, :user_id=>1096062794, :retweet=>0}
+{:name=>"@TTMobile_gh", :text=>"TT GHANA 11:44\n1.Friday the 13th\n2.#NoMakeupSelfie\n3.Drake\n4.Too Late\n5.Val's Day\n6.Kanye\n7.Ghana\n8.Yeezy\n9.Willian\n10.Yvonne Okoro", :followers=>453, :user_id=>2645668424, :retweet=>0}
+{:name=>"@DJKidSupremenyc", :text=>"If you're reading this its too late.", :followers=>286, :user_id=>104894897, :retweet=>0}
+{:name=>"@MikeBAD85", :text=>"RT @2DOPEposts: For the night owls just getting off work. Drake has a new album out —&gt; http://t.co/QurzRERPlr http://t.co/3J26dleMPe", :followers=>1027, :user_id=>17902642, :retweet=>46}
+{:name=>"@TTMobile_za", :text=>"TT SOUTH AFRICA 13:44\n1.#SONA2015\n2.Friday the 13th\n3.Drake\n4.Too Late\n5.#CRUvREB\n6.Zuma\n7.Parliament\n8.#FreedomFridayMix\n9.Yeezy\n10.Parly", :followers=>1758, :user_id=>2645428922, :retweet=>0}
+{:name=>"@ashlie371", :text=>"RT @flaviaacarolina: Listen to Drake - If You're Reading This You're Too Late by HipHopHotspot #np on #SoundCloud https://t.co/xieJV9vws1", :followers=>356, :user_id=>2897641954, :retweet=>1}
+{:name=>"@shareonnn", :text=>"RT @NoiseyMusic: Drake just dropped a 17-track mixtape called 'If You're Reading This It's Too Late' http://t.co/JRtuwWeIp5 http://t.co/pR1…", :followers=>367, :user_id=>1416821046, :retweet=>484}
+{:name=>"@JRosalindScott", :text=>"Park and ride only 7am to 7 pm. Rodney Bass doesn't know commuting, far too late for most!  #transportsymposium", :followers=>133, :user_id=>2574227692, :retweet=>0}
+{:name=>"@EllieStenhouse", :text=>"everybody cares when it's too late😴😴", :followers=>358, :user_id=>300847509, :retweet=>0}
+{:name=>"@StarLover279", :text=>"but it's never too late.", :followers=>757, :user_id=>295562513, :retweet=>0}
+{:name=>"@ColossILL", :text=>"@MsKamila_Marie http://t.co/nuRTxcwTfj There you go 🔥🔥. Retweet please", :followers=>259, :user_id=>2466008792, :retweet=>0}
+{:name=>"@KylePowe", :text=>"RT @Drrake: I'm So Far Gone, but If You're Reading This It's Too Late cause Nothing Was Same and you can Thank Me Later for the mixtape. Ta…", :followers=>225, :user_id=>2445469853, :retweet=>6484}
+{:name=>"@5mag", :text=>"Drake has just dropped a 17 track full length album on iTunes titled \"If You're Reading This You're Too Late\"  https://t.co/YTNkkbNqxO", :followers=>106088, :user_id=>36346003, :retweet=>0}

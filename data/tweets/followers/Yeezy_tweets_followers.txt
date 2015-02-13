@@ -1,3 +1,3 @@
-{:name=>"@kolisi1", :text=>"RT @bakedtheblog: Yeezy season has arrived 😭🎄 I love everything he does people. Still annoyed about the Adidas collab but whatever I can ge…", :followers=>23449, :user_id=>209549732, :retweet=>2}
-{:name=>"@JordanMarkGrant", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>19509, :user_id=>411569732, :retweet=>1601}
-{:name=>"@Aussie_Kardash", :text=>"“@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/SwAhBYFjc5”slay queen", :followers=>14675, :user_id=>417395419, :retweet=>1}
+{:name=>"@Dezeen", :text=>"Reader comment: \"Kudos Kanye. Understated, unpretentious and not half bad\" http://t.co/IC5mAvR2GX #fashion #design http://t.co/Ezf0L8nreE", :followers=>269734, :user_id=>26012202, :retweet=>0}
+{:name=>"@MTVFR", :text=>"Kanye West a dévoilé son prochain titre \"Wolves Feat. Vic Mensa &amp; Sia\" lors du Yeezy boost Fashion Show. #MTVBASENEWS http://t.co/20am6GP5ke", :followers=>267338, :user_id=>24678944, :retweet=>1}
+{:name=>"@TabarakOfficiel", :text=>"RT @MTVFR: Kanye West a dévoilé son prochain titre \"Wolves Feat. Vic Mensa &amp; Sia\" lors du Yeezy boost Fashion Show. #MTVBASENEWS http://t.c…", :followers=>119464, :user_id=>2552330280, :retweet=>1}

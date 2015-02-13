@@ -1,3 +1,3 @@
-{:name=>"@Shelter", :text=>"Could you race up a skyscraper for Shelter?\nIt's not too late to join us for #VerticalRush\nhttp://t.co/36LNMCn0ef http://t.co/eKFhxog9vu", :followers=>123453, :user_id=>3704391, :retweet=>1}
-{:name=>"@ShawttyNatt", :text=>"Drake Drops Secret New Album ‘If You’re Reading This It’s Too Late’ http://t.co/HFuzRJvOba", :followers=>51465, :user_id=>466514153, :retweet=>0}
-{:name=>"@JonRichard", :text=>"Drake should've just pulled a U2 and put his album \"If Your Reading This Its Too Late\" in our iTunes.", :followers=>21570, :user_id=>367273019, :retweet=>2}
+{:name=>"@5mag", :text=>"Drake has just dropped a 17 track full length album on iTunes titled \"If You're Reading This You're Too Late\"  https://t.co/YTNkkbNqxO", :followers=>106088, :user_id=>36346003, :retweet=>0}
+{:name=>"@yee7us", :text=>"If you're reading this it's too late", :followers=>5026, :user_id=>455098149, :retweet=>1}
+{:name=>"@TakeemEscobar", :text=>"@grandeputas_ \n\nIt's too late now , lol .", :followers=>4845, :user_id=>2510660664, :retweet=>0}

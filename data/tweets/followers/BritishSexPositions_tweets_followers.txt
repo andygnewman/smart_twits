@@ -1,3 +1,3 @@
-{:name=>"@TheBexStar", :text=>"When you politely ask for a tea bag, but get a face full of balls. #BritishSexPositions", :followers=>65753, :user_id=>20199266, :retweet=>0}
-{:name=>"@FreeThinkingUK", :text=>"RT @mrdaveturner: Unexpected Item in the Bagging Area #BritishSexPositions", :followers=>52039, :user_id=>357440566, :retweet=>98}
-{:name=>"@TrendieWW", :text=>"\"Trending World Wide:10:28 AM GMT\"\n1. #BuCumaGünü\n2. #DiaMundialdelaRadio\n3. #BritishSexPositions\n4. #FridayThe13th", :followers=>13299, :user_id=>2793605047, :retweet=>0}
+{:name=>"@corrie_corfield", :text=>"Knew it wouldn't take long for that most British of institutions, #TheShippingForecast to prove a treasure trove of #BritishSexPositions 😳", :followers=>21764, :user_id=>20132589, :retweet=>0}
+{:name=>"@ComedyQuotesTV", :text=>"The moan #BritishSexPositions", :followers=>14330, :user_id=>361404225, :retweet=>0}
+{:name=>"@Gary_Bainbridge", :text=>"Hilda Ogden's Muriel. #BritishSexPositions", :followers=>11642, :user_id=>14509754, :retweet=>0}

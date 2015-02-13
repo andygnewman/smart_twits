@@ -1,3 +1,0 @@
-{:name=>"@baconbkk", :text=>"RT @F5here: 'We thought #Dresden was invincible': 70 years after the destruction of a city http://t.co/PdwLw95N9G #dresden1945", :followers=>128774, :user_id=>54476445, :retweet=>2}
-{:name=>"@baconbkk", :text=>"If it wasn't for David Irving the crime of Dresden firebombing would have been forgotten about.", :followers=>128774, :user_id=>54476445, :retweet=>0}
-{:name=>"@WTOP", :text=>"70 years after: Dresden bombing still fresh for survivor \nhttp://t.co/WULlZ0hOd5 http://t.co/vS71hU669Q", :followers=>82491, :user_id=>17906632, :retweet=>0}

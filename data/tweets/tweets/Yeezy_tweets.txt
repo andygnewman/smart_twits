@@ -1,250 +1,100 @@
-{:name=>"@l0iter", :text=>"RT @ASOS: The pics you've got to see from last night's @kanyewest x @adidas show, #Yeezy: http://t.co/GmyL3JNVJJ http://t.co/VjAZDFOIcU", :followers=>179, :user_id=>557127013, :retweet=>52}
-{:name=>"@jvweeeziana", :text=>"RT @Kardashianpedia: Kim stopped by the adidas store in Soho New York today to take a picture of the Kanye West x adidas YEEZY display http…", :followers=>674, :user_id=>2658065863, :retweet=>50}
-{:name=>"@MeliindaB", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>594, :user_id=>286165726, :retweet=>28096}
-{:name=>"@BLUEVIUDA", :text=>"RT @RevoltTV: .@KANYEWEST x @SIA x @VICMENSA x @CASHMERE CAT x @SINJIN_HAWKE \"WOLVES\" http://t.co/5dy4UGVFNO http://t.co/uA58QykWnL", :followers=>734, :user_id=>409763776, :retweet=>15}
-{:name=>"@j_borders", :text=>"and for the record, those Yeezy shoe boot things, and all of adidas shoes in general are trash juice", :followers=>381, :user_id=>297639393, :retweet=>0}
-{:name=>"@QUEENMOCRO", :text=>"RT @TheGoldVision: Yeezy Season 1 http://t.co/wp5gZfbF5X", :followers=>1709, :user_id=>2149883404, :retweet=>198}
-{:name=>"@blase4star", :text=>"Yeezy ✨✨✨", :followers=>9812, :user_id=>238650340, :retweet=>0}
-{:name=>"@roisinmartin1", :text=>"RT @ASOS: The pics you've got to see from last night's @kanyewest x @adidas show, #Yeezy: http://t.co/GmyL3JNVJJ http://t.co/VjAZDFOIcU", :followers=>498, :user_id=>483139978, :retweet=>52}
-{:name=>"@occupancy_scott", :text=>"Yeezy Season approachin' http://t.co/jpu564Ypu4", :followers=>21, :user_id=>2906538190, :retweet=>0}
-{:name=>"@BigRichiFly", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1031, :user_id=>249363677, :retweet=>1601}
-{:name=>"@Trinidread", :text=>"RT @RealityyBites: Lmao puff lookin at them clothes like wtf is this RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http:…", :followers=>1318, :user_id=>58902399, :retweet=>1}
-{:name=>"@frnakieroo", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>90, :user_id=>1613864713, :retweet=>1601}
-{:name=>"@ASDFGORILLA", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>215, :user_id=>2447516662, :retweet=>1601}
-{:name=>"@mLkingg", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>409, :user_id=>361062408, :retweet=>1601}
-{:name=>"@JennerNewsPL", :text=>"Kim: \"Kulisy pokazu Yeezy!!!!! Tak bardzo dumna z mojego kochania!!!! Ten moment nadszedł!!! Pracował bardzo(...)\" http://t.co/VLAWeppqOr", :followers=>663, :user_id=>2215997316, :retweet=>0}
-{:name=>"@EnJillRaz", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>386, :user_id=>379588495, :retweet=>1601}
-{:name=>"@caitlin_eloisee", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>295, :user_id=>2446584185, :retweet=>28096}
-{:name=>"@nataliemounter_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>636, :user_id=>78107278, :retweet=>1601}
-{:name=>"@Adriana_Nani15", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>230, :user_id=>911358020, :retweet=>1601}
-{:name=>"@onlykeondra_", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>400, :user_id=>1667859931, :retweet=>28096}
-{:name=>"@fentyxines", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>680, :user_id=>2165393075, :retweet=>1601}
-{:name=>"@_MeLlamoEricka", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>386, :user_id=>329171407, :retweet=>1601}
-{:name=>"@hisLORDofLIGHT", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>83, :user_id=>440629002, :retweet=>1601}
-{:name=>"@WenluvKleopatra", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>7063, :user_id=>296242879, :retweet=>1601}
-{:name=>"@MeganKaba_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>315, :user_id=>458322744, :retweet=>1601}
-{:name=>"@TyneyDacosta", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1716, :user_id=>280827692, :retweet=>1601}
-{:name=>"@thabzmots", :text=>"RT @Kool_Out: Check Out The Adidas Yeezy Boost Low: http://t.co/NLIPh7CsC1 http://t.co/LpOyNMqGYJ", :followers=>302, :user_id=>826666722, :retweet=>5}
-{:name=>"@laurenfrost_x", :text=>"Yeezy taught her well http://t.co/f3H6PMTiHi", :followers=>704, :user_id=>258533477, :retweet=>0}
-{:name=>"@MazzaMac__", :text=>"yeezy season approaching", :followers=>253, :user_id=>58447149, :retweet=>0}
-{:name=>"@_AthinaBCj", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>100, :user_id=>902163486, :retweet=>1601}
-{:name=>"@HappyGarcia2", :text=>"RT @Elefesse21: “@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/VDTyhvedcY” foto bilionária..", :followers=>662, :user_id=>2154704499, :retweet=>2}
-{:name=>"@ChakibFodil", :text=>"RT @DondaCreate: YEEZY SEASON http://t.co/nKh1bowoAM", :followers=>1541, :user_id=>514175056, :retweet=>87}
-{:name=>"@GnooVenaJ", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>38, :user_id=>54449872, :retweet=>1601}
-{:name=>"@SibongileJafta", :text=>"Yeezy Front Row #NYFW http://t.co/Vtl5wAerIq", :followers=>1272, :user_id=>545954562, :retweet=>0}
-{:name=>"@DatGuyDalvs", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1115, :user_id=>1102446398, :retweet=>1601}
-{:name=>"@cat_hin", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>627, :user_id=>60788404, :retweet=>1601}
-{:name=>"@FalseGiroud", :text=>"Wolves is so awful. Yeezy really can't make good records anymore", :followers=>687, :user_id=>156211631, :retweet=>0}
-{:name=>"@MalikYarbrough", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>95, :user_id=>2472093548, :retweet=>1601}
-{:name=>"@vassoleen", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/Q4INIOCYNz”@rhiannon_owens is that big Sean???", :followers=>730, :user_id=>583880681, :retweet=>0}
-{:name=>"@Merveillejoao", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>124, :user_id=>597257228, :retweet=>1601}
-{:name=>"@_BriSanchez", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>869, :user_id=>338135516, :retweet=>1601}
-{:name=>"@lavasheriff", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>1350, :user_id=>2647758005, :retweet=>28096}
-{:name=>"@jaimegartlandd_", :text=>"Kim Kardashian looks so banging modelling the new Yeezy Adidas range 😻🔥", :followers=>654, :user_id=>58478569, :retweet=>0}
-{:name=>"@SuzanCharles1", :text=>"Бестселлер от Веста yeezy boost. Это круто потому, что сделал Вест или потому ...", :followers=>9, :user_id=>1261308044, :retweet=>0}
-{:name=>"@Kaimonae1", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>182, :user_id=>2872615235, :retweet=>1601}
-{:name=>"@NadiaHourihan", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>237, :user_id=>1112240216, :retweet=>1601}
-{:name=>"@GlezzAlex", :text=>"Las Yeezy 750 Boost seran mias.", :followers=>533, :user_id=>622150302, :retweet=>0}
-{:name=>"@raanya3OO", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>575, :user_id=>1013749716, :retweet=>1601}
-{:name=>"@summerrchic", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>133, :user_id=>622369064, :retweet=>1601}
-{:name=>"@Pooleng", :text=>"RT @Kool_Out: Check Out The Adidas Yeezy Boost Low: http://t.co/NLIPh7CsC1 http://t.co/LpOyNMqGYJ", :followers=>674, :user_id=>38150286, :retweet=>5}
-{:name=>"@LostInClaire", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>826, :user_id=>140536642, :retweet=>1601}
-{:name=>"@hiyal0z", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>156, :user_id=>576578802, :retweet=>1601}
-{:name=>"@Emixamusm", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>42, :user_id=>108368724, :retweet=>1601}
-{:name=>"@Iamgreeksquad", :text=>"RT @ManciniEntGroup: Check Out Kanye West's 'Yeezy Boost' Adidas Sneakers. Only 3000 Pairs (Pic) http://t.co/vlxozrZIo1 #UKM http://t.co/gi…", :followers=>9552, :user_id=>415518206, :retweet=>3}
-{:name=>"@ChakibFodil", :text=>"RT @DondaCreate: ANDRE &amp; YEEZY http://t.co/zxLDT5Qh4N", :followers=>1541, :user_id=>514175056, :retweet=>27}
-{:name=>"@benbpemberton", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>227, :user_id=>179616464, :retweet=>1601}
-{:name=>"@JordanMarkGrant", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>19509, :user_id=>411569732, :retweet=>1601}
-{:name=>"@Evaa_Mendez", :text=>"Tbh I'm really diggin Kanyes yeezy boost's &amp; Im getting a pair.", :followers=>729, :user_id=>17381170, :retweet=>0}
-{:name=>"@LunchTre901", :text=>"RT @VVORLDSTARVINES: Yeezy checking out the booty http://t.co/hCwllUJfWr", :followers=>852, :user_id=>619430358, :retweet=>1873}
-{:name=>"@isabella8195", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>62, :user_id=>1376410609, :retweet=>1601}
-{:name=>"@georgiakate", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>342, :user_id=>21291699, :retweet=>1601}
-{:name=>"@_Kandi_R", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>586, :user_id=>455581875, :retweet=>1601}
-{:name=>"@Gigi_Grazianoo", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1935, :user_id=>234994312, :retweet=>1601}
-{:name=>"@King_Tsholofelo", :text=>"RT @tebogo_fiasco: Ain't nobody gone say \"he got the Yeezy sweater\" when I walk down the street... They won't even notice, that's how bad i…", :followers=>856, :user_id=>178018150, :retweet=>1}
-{:name=>"@ChakibFodil", :text=>"RT @DondaCreate: KYLIE| YEEZY SEASON 1 http://t.co/6Nwe9xSsni", :followers=>1541, :user_id=>514175056, :retweet=>29}
-{:name=>"@rejoiceex", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>150, :user_id=>402821221, :retweet=>1601}
-{:name=>"@whatberry", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>502, :user_id=>274424451, :retweet=>1601}
-{:name=>"@VictorBouchenna", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>77, :user_id=>303721006, :retweet=>1601}
-{:name=>"@debonairguy20", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>155, :user_id=>2954205612, :retweet=>1601}
-{:name=>"@matanbouzaglou", :text=>"RT @dennishegstad: when the new Drake drops on Yeezy day http://t.co/RPHCOV7BwV", :followers=>27, :user_id=>554334713, :retweet=>1228}
-{:name=>"@tamara_quadros", :text=>"Parem tudo \"@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/lipemjjLyn\"", :followers=>132, :user_id=>70200853, :retweet=>0}
-{:name=>"@monickykaneda", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>447, :user_id=>214655352, :retweet=>1601}
-{:name=>"@DilanDldz", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>74, :user_id=>2843609345, :retweet=>1601}
-{:name=>"@Cynthia2208", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>295, :user_id=>1065987439, :retweet=>1601}
-{:name=>"@Bofanaa", :text=>"RT @dihannaAlima: So much power in one photo&gt; RT “@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/9F6KkiCJFe”", :followers=>202, :user_id=>1662646266, :retweet=>1}
-{:name=>"@sjay_london", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>590, :user_id=>468306493, :retweet=>1601}
-{:name=>"@YLotoko", :text=>"RT @Babineuh_: Je dis pas que les Yeezy sont belles, je dis qu'est-ce que Sadek et RimK connaissent à la mode.", :followers=>154, :user_id=>2474698888, :retweet=>6}
-{:name=>"@kolisi1", :text=>"RT @bakedtheblog: Yeezy season has arrived 😭🎄 I love everything he does people. Still annoyed about the Adidas collab but whatever I can ge…", :followers=>23449, :user_id=>209549732, :retweet=>2}
-{:name=>"@theconnorhurley", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>130, :user_id=>200038442, :retweet=>1601}
-{:name=>"@aaliyahkardash", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>3272, :user_id=>360638864, :retweet=>28096}
-{:name=>"@_Kgomotso_", :text=>"RT @LesediNgema: Scope this dope aaaaassssss coat....Yeezy came correct baba! @adidasZA please connect us with this. http://t.co/BPwTFFZXCl", :followers=>139, :user_id=>369631944, :retweet=>1}
-{:name=>"@tebogo_fiasco", :text=>"Ain't nobody gone say \"he got the Yeezy sweater\" when I walk down the street... They won't even notice, that's how bad it is!", :followers=>707, :user_id=>287066328, :retweet=>1}
-{:name=>"@AirJet_SoledOut", :text=>"“@itsjustdebb: “@KimKardashian: YEEZY FRONT ROW #RihCassPuffJayBeyKim http://t.co/MVwJFD2KSb” basically people w/ talent &amp; then.you &amp; Diddy”", :followers=>825, :user_id=>368077134, :retweet=>0}
-{:name=>"@fentyish", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>269, :user_id=>219638515, :retweet=>1601}
-{:name=>"@TyneyDacosta", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>1716, :user_id=>280827692, :retweet=>28096}
-{:name=>"@NINAJARVIS", :text=>"@VinceMorgia http://t.co/fwNv0dJmP2  REALLLY?!", :followers=>862, :user_id=>61721986, :retweet=>0}
-{:name=>"@kush4heaux", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>3895, :user_id=>130642448, :retweet=>1601}
-{:name=>"@saffronaikmanx", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>226, :user_id=>232952005, :retweet=>1601}
-{:name=>"@ClaraOuhay", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>213, :user_id=>485937176, :retweet=>1601}
-{:name=>"@TomJSmith18", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>616, :user_id=>342401786, :retweet=>1601}
-{:name=>"@KMangamba", :text=>"RT @a_nkam: \"@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/PHeSb2N2yP\" je valide la mère 🔥🔥🔥🔥🔥", :followers=>366, :user_id=>2469780622, :retweet=>1}
-{:name=>"@jam_ees", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>8010, :user_id=>816745518, :retweet=>1601}
-{:name=>"@TdYakin", :text=>"RT @astrid_inuit: “Kanye West's debut catwalk collection for adidas #NYFW http://t.co/v58lL7SHBZ http://t.co/dMZXSbBZb8”la laideur a donc u…", :followers=>241, :user_id=>2726167924, :retweet=>2}
-{:name=>"@Nkany_so", :text=>"adidas Originals by Kanye West | YEEZY BOOST: http://t.co/5JGEFfnQXd", :followers=>252, :user_id=>24407267, :retweet=>0}
-{:name=>"@RodrigoQuirante", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1070, :user_id=>35248593, :retweet=>1601}
-{:name=>"@Samanthamonize", :text=>"RT @DondaCreate: ANDRE &amp; YEEZY http://t.co/zxLDT5Qh4N", :followers=>1610, :user_id=>299693104, :retweet=>27}
-{:name=>"@QUEENMOCRO", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1709, :user_id=>2149883404, :retweet=>1601}
-{:name=>"@hxllokeaty", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>123, :user_id=>904566378, :retweet=>1601}
-{:name=>"@SelJustin28", :text=>"RT @JelenaSource_FR: #INSTAGRAM ugomozie \"@justinbieber X NYFW | Biker Jacket: @balmainparis. Sneakers: #Yeezy. #StyledByUgo 👊👊\" http://t.c…", :followers=>2614, :user_id=>1653371976, :retweet=>1}
-{:name=>"@ElleBowCouture", :text=>"dont understand Kim Ks outfit for Kanye's Yeezy show or Kanye West' collection in general 😖💔", :followers=>588, :user_id=>421219590, :retweet=>0}
-{:name=>"@wtfamin", :text=>"Kylie jenner for yeezy x adidas originals is..... The Look", :followers=>157, :user_id=>2325495673, :retweet=>0}
-{:name=>"@ssstlib", :text=>"les filles du défilé Yeezy x Adidas elles sont presque pas habillé esh..", :followers=>128, :user_id=>264294553, :retweet=>0}
-{:name=>"@JadeKewley", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>269, :user_id=>187664420, :retweet=>1601}
-{:name=>"@vannasmiless", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1489, :user_id=>296052778, :retweet=>1601}
-{:name=>"@HeWantsTheV_Nuh", :text=>"@Ayoo_Yeezy 😂😂😭😭😭😭 DavOoooo !!", :followers=>1871, :user_id=>100429242, :retweet=>0}
-{:name=>"@KUWTKJ", :text=>"Photo: Yeezy front row http://t.co/XM464bydN5", :followers=>34, :user_id=>1017252840, :retweet=>0}
-{:name=>"@parsons8", :text=>"RT @complex_uk: Kanye West debuted new Yeezy Boost sneakers at his adidas fashion show http://t.co/GAcIFAzFN7 http://t.co/HusB2SDBiu", :followers=>257, :user_id=>217085070, :retweet=>3}
-{:name=>"@gossipinq", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>161, :user_id=>2177193103, :retweet=>1601}
-{:name=>"@KillaRicanLP", :text=>"RT @VVORLDSTARVINES: Yeezy checking out the booty http://t.co/hCwllUJfWr", :followers=>3831, :user_id=>589637382, :retweet=>1873}
-{:name=>"@Anatole_Teurcq", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>357, :user_id=>866656518, :retweet=>1601}
-{:name=>"@jthorley", :text=>"New Kanye track 'Wolves' at the Yeezy Boost launch: http://t.co/q741An1asz", :followers=>145, :user_id=>128516395, :retweet=>0}
-{:name=>"@ReemzOfficial", :text=>"RT @BazaarUK: See Kanye West's debut catwalk collection for @adidasoriginals #NYFW http://t.co/9AvYJQSdZE http://t.co/kls2yfjRLO", :followers=>2618, :user_id=>319874442, :retweet=>9}
-{:name=>"@Aussie_Kardash", :text=>"“@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/SwAhBYFjc5”slay queen", :followers=>14675, :user_id=>417395419, :retweet=>1}
-{:name=>"@fabioheinz", :text=>"@pimpxsx ele debutou na pior cor, as outras duas são bem mais bonitas. E usou o pior cadarço também. Yeezy é louco/gênio.", :followers=>224, :user_id=>29114155, :retweet=>0}
-{:name=>"@majaliwagab", :text=>"RT @adidasUK: Yeezy season one is here. adidas Originals x Kanye West #YEEZYBOOST http://t.co/x2wEWhcNSL", :followers=>1687, :user_id=>173801744, :retweet=>135}
-{:name=>"@juliakaay_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>555, :user_id=>584119166, :retweet=>1601}
-{:name=>"@Vai_po_caralho", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>855, :user_id=>2781804329, :retweet=>1601}
-{:name=>"@KOLATRL", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>532, :user_id=>2365169399, :retweet=>1601}
-{:name=>"@partynextcrwn", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1380, :user_id=>340006869, :retweet=>1601}
-{:name=>"@MaxiimT", :text=>"Mais Alexander Wang qui vois les new Yeezy là, il a dû se taper la barre du siècle intérieurement..!", :followers=>225, :user_id=>162208872, :retweet=>0}
-{:name=>"@ChloeCampsill1", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>177, :user_id=>597268277, :retweet=>1601}
-{:name=>"@JVICKORS", :text=>"CEO Of Sad Dad Corp Walked At Yeezy Season 1 Yesterday. Power Moves In The Board Room.", :followers=>1529, :user_id=>220631332, :retweet=>0}
-{:name=>"@liam_patel", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>922, :user_id=>583085721, :retweet=>1601}
-{:name=>"@estevaoju", :text=>"muito dinheiro em uma foto só “@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/qiCvkfBw1G”", :followers=>392, :user_id=>317807487, :retweet=>0}
-{:name=>"@SimpsonOhy", :text=>"RT @sneaker_wars: 【2月28日発売予定】 カニエ・ウェスト × アディダス イージー 750 ブースト\n⇒http://t.co/isrO3opCE0\n#sneakerwars #スニーカー #yeezy http://t.co/hRQZILGWzq", :followers=>975, :user_id=>569155044, :retweet=>158}
-{:name=>"@carisdollard", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>365, :user_id=>210897143, :retweet=>1601}
-{:name=>"@SwlCathy", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>174, :user_id=>1122287250, :retweet=>1601}
-{:name=>"@__hollywood_", :text=>"With a celebrity front row, Kanye West rolls out Yeezy shoes: Reservations were full within minutes, an Adidas...  http://t.co/7ZhxkHkoWh", :followers=>1583, :user_id=>629261702, :retweet=>0}
-{:name=>"@vigilantedon", :text=>"YEEZY changing the game either keep up or be one of them niggas hating in your Southpole hoodies and Wrangler jeans yeah I'm flamin", :followers=>705, :user_id=>31561988, :retweet=>0}
-{:name=>"@BoringTweetss", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>89, :user_id=>611901547, :retweet=>28097}
-{:name=>"@Jess_Tyrrell", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>635, :user_id=>194158137, :retweet=>1601}
-{:name=>"@coxthaone", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>430, :user_id=>190106459, :retweet=>1601}
-{:name=>"@lock_Cheezy", :text=>"RT @i_D: With a smile and a wink, @kanyewest and @adidasoriginals light up #NYFW with YEEZY http://t.co/o0KGytmcV8", :followers=>153, :user_id=>2960533269, :retweet=>202}
-{:name=>"@LoagoNOW", :text=>"RT @_LaRebeL: RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/1r6Ib8IiCW", :followers=>350, :user_id=>281049708, :retweet=>2}
-{:name=>"@Samanthamonize", :text=>"RT @HYPEBEAST: A first look at the @adidasoriginals #Yeezy Boost Low.\nhttp://t.co/C4Ngq7kXXN http://t.co/uQv0JVBfG3", :followers=>1610, :user_id=>299693104, :retweet=>265}
-{:name=>"@caira_curtisx", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>259, :user_id=>1348995901, :retweet=>1601}
-{:name=>"@KimA_Wayans", :text=>"RT @Sadekniuum: elles sont degeulasses les Yeezy 3 , on dirait les shoes a Zelda c'est des Baskets pour lutins mdr", :followers=>1249, :user_id=>634635616, :retweet=>97}
-{:name=>"@AlfredoLantyre", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>112, :user_id=>2433226430, :retweet=>1601}
-{:name=>"@mdfahmirf", :text=>"RT @DailyMailCeleb: Kanye West presents his Yeezy Adidas collection at NYFW http://t.co/66yCXPB7di http://t.co/FwFfztZHUy", :followers=>473, :user_id=>348528916, :retweet=>31}
-{:name=>"@bambam_maria", :text=>"RT @IamLiindz: That's A HEAVY Front Row🙌*“@DondaCreate: YEEZY SEASON http://t.co/bOBVsKTn3w”", :followers=>217, :user_id=>436311209, :retweet=>11}
-{:name=>"@twerkmefever", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>2022, :user_id=>2609628825, :retweet=>1601}
-{:name=>"@badgirlAnniee", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1527, :user_id=>231585114, :retweet=>1601}
-{:name=>"@majaliwagab", :text=>"RT @VincentJurist: Lord Yeezy 😭 http://t.co/Sa9Rdruty9", :followers=>1687, :user_id=>173801744, :retweet=>4}
-{:name=>"@carolinamur_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>333, :user_id=>1337617782, :retweet=>1601}
-{:name=>"@Rihanna_Navy_x", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1979, :user_id=>344895816, :retweet=>1601}
-{:name=>"@worldwidecred", :text=>"Yeezy heats up New York’s Flatiron District for the First Annual Roc City Classic http://t.co/FUzFEAlZe8", :followers=>2744, :user_id=>4516441, :retweet=>0}
-{:name=>"@abigailrook_", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/ffeX0FqOcy” oh my", :followers=>89, :user_id=>2610759174, :retweet=>0}
-{:name=>"@c_xox", :text=>"Front Row\nYEEZY X ADIDAS\n#WangRihCassPuffJayBeyKimAnna http://t.co/hmZQPmNzua", :followers=>175, :user_id=>1478184254, :retweet=>0}
-{:name=>"@HomeMadeJelli", :text=>"RT @KillaTreyBizzle: Damn “@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/WTYXiFafp2”", :followers=>485, :user_id=>369902884, :retweet=>1}
-{:name=>"@Thekholing", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>13, :user_id=>2591420253, :retweet=>1601}
-{:name=>"@kanguiish", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>142, :user_id=>2505904947, :retweet=>1601}
-{:name=>"@Jabz_DaLastKing", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>987, :user_id=>219745469, :retweet=>28097}
-{:name=>"@vbasedlord", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>106, :user_id=>2949025903, :retweet=>1601}
-{:name=>"@Lazyvibes", :text=>"This is fabulous #yeezy http://t.co/xWTCy4qGvP", :followers=>9207, :user_id=>1150735910, :retweet=>0}
-{:name=>"@your_jeffa", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>205, :user_id=>437270269, :retweet=>1601}
-{:name=>"@Donell72611918", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>191, :user_id=>2569285846, :retweet=>1601}
-{:name=>"@helenasj_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>187, :user_id=>1710496458, :retweet=>1601}
-{:name=>"@NatashaGerona", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1018, :user_id=>260993383, :retweet=>1601}
-{:name=>"@Jeremylavergne", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>19, :user_id=>146950515, :retweet=>1601}
-{:name=>"@ddoloresT", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>178, :user_id=>110229597, :retweet=>1601}
-{:name=>"@NagUk101", :text=>"RT @VVORLDSTARVINES: Yeezy checking out the booty http://t.co/hCwllUJfWr", :followers=>612, :user_id=>1401479592, :retweet=>1873}
-{:name=>"@Sara3H_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1969, :user_id=>298252655, :retweet=>1601}
-{:name=>"@dehavillands", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>277, :user_id=>713388349, :retweet=>1601}
-{:name=>"@elizabethshone", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1034, :user_id=>201333651, :retweet=>1601}
-{:name=>"@DaniMadail", :text=>"Meias calças de corpo inteiro!? RT @smellingyardley: http://t.co/myVIhbZ06u http://t.co/LznETWq9pM muito bonitas.", :followers=>176, :user_id=>329219067, :retweet=>0}
-{:name=>"@iPearlDutches", :text=>"RT @VVORLDSTARVINES: Yeezy checking out the booty http://t.co/hCwllUJfWr", :followers=>1383, :user_id=>282751918, :retweet=>1873}
-{:name=>"@worldwidecred", :text=>"Yeezy heats up New York's Flatiron District for the First Annual Roc City Classic: http://t.co/WC41sWzlC7", :followers=>2744, :user_id=>4516441, :retweet=>0}
-{:name=>"@ViceRylleFebie", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>240, :user_id=>1435460648, :retweet=>1601}
-{:name=>"@geo_rgia_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>310, :user_id=>247455253, :retweet=>1601}
-{:name=>"@mehvishsofiya", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>801, :user_id=>355773415, :retweet=>1601}
-{:name=>"@hayleygalizi1D", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>415, :user_id=>511528090, :retweet=>1601}
-{:name=>"@__ellieemorales", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>314, :user_id=>2412391191, :retweet=>1601}
-{:name=>"@LeahGreeeeny", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>434, :user_id=>229222197, :retweet=>1601}
-{:name=>"@eastcj", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>269, :user_id=>2361865937, :retweet=>1601}
-{:name=>"@JoshKennedyy", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>224, :user_id=>161875363, :retweet=>1601}
-{:name=>"@EleanoraRoss", :text=>"Бестселлер от Веста yeezy boost. Это круто потому, что сделал Вест или потому ...", :followers=>8, :user_id=>1259746374, :retweet=>0}
-{:name=>"@BoltonMilly", :text=>"Stop it Kimmy. 😻 #Unreal #YeezySeason #Kanye #Kim #NYFW #Yeezy #ADIDAS http://t.co/qL8qJ9AvV3", :followers=>271, :user_id=>1328846466, :retweet=>0}
-{:name=>"@LaDalhiaNoire", :text=>"RT @astrid_inuit: “Kanye West's debut catwalk collection for adidas #NYFW http://t.co/v58lL7SHBZ http://t.co/dMZXSbBZb8”la laideur a donc u…", :followers=>710, :user_id=>2921151339, :retweet=>2}
-{:name=>"@MFMoose", :text=>"RT @___mmill: \"@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/Vd45uq27Qp\" way too much money in one picture man …", :followers=>820, :user_id=>622059651, :retweet=>2}
-{:name=>"@valjustinee", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>104, :user_id=>2249778639, :retweet=>28097}
-{:name=>"@zinbad99", :text=>"RT @adidasUK: Yeezy season one is here. adidas Originals x Kanye West #YEEZYBOOST http://t.co/x2wEWhcNSL", :followers=>31, :user_id=>360527929, :retweet=>135}
-{:name=>"@Klaraausina", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>199, :user_id=>1185341126, :retweet=>1601}
-{:name=>"@NormanWabo", :text=>"RT @PUSHA_T: Yeezy X KingPush X Adidas = Success #BackstageBeforeTheMadness #Family http://t.co/rRHyixiOlO", :followers=>847, :user_id=>1104557654, :retweet=>309}
-{:name=>"@shawtyrhey", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>1703, :user_id=>1285690560, :retweet=>28097}
-{:name=>"@JulienPekenito", :text=>"RT @Sadekniuum: elles sont degeulasses les Yeezy 3 , on dirait les shoes a Zelda c'est des Baskets pour lutins mdr", :followers=>48, :user_id=>376094194, :retweet=>97}
-{:name=>"@LaurensLove_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1251, :user_id=>1893322620, :retweet=>1601}
-{:name=>"@oh_amxx", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>350, :user_id=>90229094, :retweet=>1601}
-{:name=>"@OkayAishaa", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>137, :user_id=>2935610468, :retweet=>1601}
-{:name=>"@DouDoushee", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>4, :user_id=>2375598826, :retweet=>1601}
-{:name=>"@cabicii", :text=>"yeezy boost lows look like roshes", :followers=>726, :user_id=>52334725, :retweet=>0}
-{:name=>"@jolimar808", :text=>"adidas Originals by Kanye West | YEEZY BOOST: http://t.co/gbwdFeh1DV via @YouTube", :followers=>296, :user_id=>328966993, :retweet=>0}
-{:name=>"@chooseyour10", :text=>"The fruits of the Collab between #KanyeWest and #Adidas the #Yeezy Boost http://t.co/OXvjCPYaHk", :followers=>1148, :user_id=>242746219, :retweet=>0}
-{:name=>"@DaMandemGlucose", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1938, :user_id=>516917429, :retweet=>1601}
-{:name=>"@KardashianKatyu", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>3, :user_id=>3010666301, :retweet=>28097}
-{:name=>"@nicojaie", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>233, :user_id=>135204973, :retweet=>1601}
-{:name=>"@___cpxyne", :text=>"RT @CauseWereStyle: So I have to see the opinions on the \"Yeezy\" shoe, thoughts? I actually like these. http://t.co/URJ7F41Olo", :followers=>205, :user_id=>553892627, :retweet=>47}
-{:name=>"@VEB_GP808", :text=>"RT @XX88PRINZLY: Drake SZN has started. Waiting for Yeezy now", :followers=>69, :user_id=>2589108878, :retweet=>3}
-{:name=>"@clarissaroe", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>457, :user_id=>97426355, :retweet=>1601}
-{:name=>"@LiamCapon123", :text=>"RT @JCRUZ106: Yeezy 3 http://t.co/0vGJZavUAV", :followers=>29, :user_id=>3008454297, :retweet=>149}
-{:name=>"@unstablebanshee", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>73, :user_id=>2517023143, :retweet=>1601}
-{:name=>"@tm_withoutakey", :text=>"Hardwellのスニーカー…\nYeezy 2じゃん… http://t.co/I2HrYpHklB", :followers=>76, :user_id=>2987861246, :retweet=>0}
-{:name=>"@Nolarhlt", :text=>"RT @Sadekniuum: elles sont degeulasses les Yeezy 3 , on dirait les shoes a Zelda c'est des Baskets pour lutins mdr", :followers=>1756, :user_id=>522218691, :retweet=>97}
-{:name=>"@taynaraazevedo4", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>484, :user_id=>2393658250, :retweet=>1602}
-{:name=>"@RhiannKandola", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>649, :user_id=>324427005, :retweet=>1602}
-{:name=>"@PaigeLeeW", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>463, :user_id=>551607140, :retweet=>1602}
-{:name=>"@_emilybamford", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>556, :user_id=>50000970, :retweet=>1602}
-{:name=>"@kimthiks", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/UwBdudb6VG” ✨", :followers=>398, :user_id=>285099438, :retweet=>0}
-{:name=>"@shooting_beauty", :text=>"RT @LFWEnd: Did you see the FROW at Debut Yeezy Collection #KanyeWest catwalk? #NYFW http://t.co/vl6cKaLdjU", :followers=>14395, :user_id=>1068845576, :retweet=>1}
-{:name=>"@BonoloThomas", :text=>"These? 😕 Oh. “@BeatsByESTA: Yeezy boosts are sooo fireeeee http://t.co/b1ufhIYKNQ”", :followers=>413, :user_id=>44699799, :retweet=>0}
-{:name=>"@RockRoll_Animal", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>748, :user_id=>549517687, :retweet=>1602}
-{:name=>"@astrid_inuit", :text=>"“Kanye West's debut catwalk collection for adidas #NYFW http://t.co/v58lL7SHBZ http://t.co/dMZXSbBZb8”la laideur a donc une collection😶😱😷", :followers=>156, :user_id=>1137877050, :retweet=>2}
-{:name=>"@Brandon_Undftd", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/j3cbryL6yj” he so legend  ima sit next jay z alright babe 😂", :followers=>600, :user_id=>1340412139, :retweet=>0}
-{:name=>"@iamlafort", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>758, :user_id=>289697142, :retweet=>28097}
-{:name=>"@videos_howto", :text=>"RT @WatchItDaily: Kim Kardashian Will Do Anything For Yeezy! http://t.co/AZpkMNXeRd #WatchItDaily http://t.co/cgqvClq4GK", :followers=>110, :user_id=>3007556032, :retweet=>1}
-{:name=>"@CoUrTnEy___CJ", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>910, :user_id=>1109641729, :retweet=>28097}
-{:name=>"@Baagfi__Piumvu", :text=>"***PREORDER ADIDAS YEEZY 750 BOOST SIZE 10 DS***: Price 1200.0 USD (29 Bids) End Time: 2015-02-14 01:02:12 PDT Bid… http://t.co/svWV8OmeL7", :followers=>1277, :user_id=>2894985106, :retweet=>0}
-{:name=>"@_King_dylan", :text=>"RT @Sadekniuum: elles sont degeulasses les Yeezy 3 , on dirait les shoes a Zelda c'est des Baskets pour lutins mdr", :followers=>94, :user_id=>214438619, :retweet=>97}
-{:name=>"@LydiaJowles", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>640, :user_id=>380368333, :retweet=>1602}
-{:name=>"@JamesKitchener8", :text=>"RT @TheSports45: Which ones are more 🔥\nRt for Red Octobers \nFav for new Yeezy 750 Boosts http://t.co/CrfWA2l4H3", :followers=>224, :user_id=>373231945, :retweet=>41}
-{:name=>"@Puudta__Meodwa", :text=>"Adidas Yeezy 750 Boost | Size 9 | FREE OVERNIGHT SHIPPING | Guaranteed Authentic: Price 1050.0 USD (29 Bids) End… http://t.co/V6nuwNkJKu", :followers=>1098, :user_id=>2918381451, :retweet=>0}
-{:name=>"@IRihannaHub", :text=>"Rihanna Steps Out in Style for Kanye West's Adidas Yeezy Show http://t.co/TdpEXgcZZw", :followers=>1488, :user_id=>605538149, :retweet=>0}
-{:name=>"@jamariolamont", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>158, :user_id=>233032068, :retweet=>1602}
-{:name=>"@lindi_mkati", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>927, :user_id=>433940726, :retweet=>1602}
-{:name=>"@larywaltz", :text=>"RT @karizzasanchez: When the new Drake drops on Yeezy day. http://t.co/YIrR6gVwsj", :followers=>257, :user_id=>291303574, :retweet=>0}
-{:name=>"@ameliabux", :text=>"http://t.co/qoZ8U687TG", :followers=>462, :user_id=>423687325, :retweet=>0}
-{:name=>"@MarijaRodic", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>907, :user_id=>1066444873, :retweet=>1602}
-{:name=>"@LadyBandit93", :text=>"The fashion industry is finally catching up to my HOBO SHWAG... I see you Yeezy!!! LMFAO!!! http://t.co/u07UYwGDol", :followers=>302, :user_id=>881969468, :retweet=>0}
-{:name=>"@farah_hussain", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>89, :user_id=>83325054, :retweet=>1602}
-{:name=>"@Jeikja__Moucxe", :text=>"***PREORDER ADIDAS YEEZY 750 BOOST SIZE 10 DS***: Price 1200.0 USD (29 Bids) End Time: 2015-02-14 01:02:12 PDT Bid… http://t.co/jazZDSBkP4", :followers=>1373, :user_id=>2900682903, :retweet=>0}
-{:name=>"@narryolog", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>345, :user_id=>126707585, :retweet=>1602}
-{:name=>"@arbeyarmani", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>34, :user_id=>464123401, :retweet=>1602}
-{:name=>"@ambivanelk", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>165, :user_id=>1105908007, :retweet=>1602}
-{:name=>"@Jeikja__Moucxe", :text=>"Adidas Yeezy 750 Boost | Size 9 | FREE OVERNIGHT SHIPPING | Guaranteed Authentic: Price 1050.0 USD (29 Bids) End… http://t.co/56Z3oykq6S", :followers=>1373, :user_id=>2900682903, :retweet=>0}
-{:name=>"@Ash_McDonald_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>580, :user_id=>74861495, :retweet=>1602}
-{:name=>"@caitlin_landini", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>172, :user_id=>1358979786, :retweet=>1602}
-{:name=>"@ellieoneilll", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>786, :user_id=>244028716, :retweet=>1602}
-{:name=>"@foksybrown", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>424, :user_id=>160650900, :retweet=>28097}
-{:name=>"@grungeseed", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>134, :user_id=>2653546951, :retweet=>1602}
-{:name=>"@mallisserouge", :text=>"#YEEZY collection will have basic bitches lookin like http://t.co/RfjgeFt9ui", :followers=>167, :user_id=>2861034826, :retweet=>0}
-{:name=>"@alicee_peterss", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>273, :user_id=>419761296, :retweet=>28097}
-{:name=>"@Msaaaa__", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>526, :user_id=>1078524931, :retweet=>1602}
-{:name=>"@afvampd", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>404, :user_id=>139567029, :retweet=>1602}
-{:name=>"@sandrinemalap", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>28, :user_id=>2706128244, :retweet=>1602}
-{:name=>"@NimuKarago", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>450, :user_id=>449745140, :retweet=>1602}
-{:name=>"@pinkypooh567", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>43, :user_id=>2330114169, :retweet=>1602}
-{:name=>"@bahpollo", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>2729, :user_id=>1196198251, :retweet=>1602}
-{:name=>"@CarlottaValta", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>263, :user_id=>490241716, :retweet=>1602}
-{:name=>"@Seanjullz", :text=>"👍Yeezy Boost http://t.co/oRbdcjtoXd", :followers=>302, :user_id=>365134099, :retweet=>0}
-{:name=>"@Strazulla", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>144, :user_id=>445322073, :retweet=>1602}
-{:name=>"@captainlingerie", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>165, :user_id=>587023186, :retweet=>1602}
+{:name=>"@Dezeen", :text=>"Reader comment: \"Kudos Kanye. Understated, unpretentious and not half bad\" http://t.co/IC5mAvR2GX #fashion #design http://t.co/Ezf0L8nreE", :followers=>269734, :user_id=>26012202, :retweet=>0}
+{:name=>"@COURTSCROSS", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>110, :user_id=>96589037, :retweet=>3278}
+{:name=>"@widiyatnoo", :text=>"'yeezy season one' just pretty insane with yeezy's logo-less, but actually the vision look like a bum!… [pic] — https://t.co/ToklUY5Hmo", :followers=>633, :user_id=>65560075, :retweet=>0}
+{:name=>"@_YEEZI", :text=>"Its thd next day and yeezy still trending !! http://t.co/901xZF9bVo", :followers=>47, :user_id=>3026080811, :retweet=>0}
+{:name=>"@EslamElbasheer", :text=>"RT @TheOptimistMe: so, Kanye West live streamed a video of teens standing still for 30 minutes wearing his new Adidas \"Yeezy\" Shoes, and ma…", :followers=>262, :user_id=>847485331, :retweet=>1}
+{:name=>"@LADICHIC", :text=>"Kanye West x Adidas Originals:   Above watch the Kanye West and adidas Originals YEEZY season 1 collection pre... http://t.co/mKUX9HPur2", :followers=>2114, :user_id=>17907917, :retweet=>0}
+{:name=>"@korthummel", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>263, :user_id=>2467106899, :retweet=>3278}
+{:name=>"@_AidenFenlon", :text=>"RT @complex_uk: Kanye West debuted new Yeezy Boost sneakers at his adidas fashion show http://t.co/GAcIFAzFN7 http://t.co/HusB2SDBiu", :followers=>410, :user_id=>1248483452, :retweet=>13}
+{:name=>"@lily_marlena", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>754, :user_id=>507749876, :retweet=>28379}
+{:name=>"@vbeyhive01", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>74, :user_id=>2897715506, :retweet=>3278}
+{:name=>"@maysonkschmidt", :text=>"RT @DondaCreate: KYLIE| YEEZY SEASON 1 http://t.co/6Nwe9xSsni", :followers=>446, :user_id=>312458417, :retweet=>32}
+{:name=>"@eman_jewhar", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>462, :user_id=>1866000458, :retweet=>3278}
+{:name=>"@mccvnnsgirl", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>3202, :user_id=>970076088, :retweet=>3278}
+{:name=>"@AdamsBiebs", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>2053, :user_id=>242003158, :retweet=>28379}
+{:name=>"@FeelinXtraFly", :text=>"http://t.co/80ut1A0X79 Kanye West X Adidas Yeezy 750 Boost Size 10 Confirmed Reserved http://t.co/dACUXGGi0I", :followers=>34, :user_id=>3018744489, :retweet=>0}
+{:name=>"@_laurawrs", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>219, :user_id=>342996908, :retweet=>3278}
+{:name=>"@maysonkschmidt", :text=>"RT @DondaCreate: YEEZY SEASON 1 http://t.co/DiK31sVTD7", :followers=>446, :user_id=>312458417, :retweet=>52}
+{:name=>"@lauramallon_", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/XKoSFy27bB” 😩😍", :followers=>527, :user_id=>400956206, :retweet=>0}
+{:name=>"@edjames01", :text=>"RT @chrislittmann: The Yeezy #NYFW show looked like a really fashionable Walking Dead spinoff", :followers=>422, :user_id=>31390507, :retweet=>1}
+{:name=>"@WeAreBANGRADIO", :text=>"Kanye took the limelight at New York Fashion Week as he releases the Yeezy 750 Boost tmo...What do you think of them?\n\n#NadiaJaesJuice", :followers=>19742, :user_id=>27435509, :retweet=>0}
+{:name=>"@TabarakOfficiel", :text=>"RT @MTVFR: Kanye West a dévoilé son prochain titre \"Wolves Feat. Vic Mensa &amp; Sia\" lors du Yeezy boost Fashion Show. #MTVBASENEWS http://t.c…", :followers=>119464, :user_id=>2552330280, :retweet=>1}
+{:name=>"@damola_ayinde", :text=>"RT @CoolFMNigeria: Kanye West Will Live Stream Launch Of ‘Yeezy 750 Boost’ Shoes In Theaters Worldwide http://t.co/tmhQkFI3r6", :followers=>52, :user_id=>871345194, :retweet=>5}
+{:name=>"@mufuckthegov", :text=>"yeezy show gorgeous", :followers=>426, :user_id=>130012359, :retweet=>0}
+{:name=>"@RollxTidexTee", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>1184, :user_id=>48954570, :retweet=>3278}
+{:name=>"@vannesa_sth13", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>329, :user_id=>2873322832, :retweet=>3278}
+{:name=>"@jordanlilliehan", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>388, :user_id=>189277548, :retweet=>28379}
+{:name=>"@irwin219", :text=>"adidas Originals x Kanye West Yeezy Season 1 Runway Show Recap via @highsnobiety http://t.co/gmGWsywbSs", :followers=>245, :user_id=>39123935, :retweet=>0}
+{:name=>"@VioletPocock", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/jzwqSaBACK” she's so happy beyonces accepted her", :followers=>279, :user_id=>513109347, :retweet=>0}
+{:name=>"@hottestpocket", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>179, :user_id=>141386007, :retweet=>3278}
+{:name=>"@jennereazy", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>818, :user_id=>3013306684, :retweet=>3278}
+{:name=>"@flogwxng", :text=>"They also shit on the regular Yeezy Boosts", :followers=>108, :user_id=>240787923, :retweet=>0}
+{:name=>"@TosinWilliams36", :text=>"RT @MrExposed: Void Because The Yeezy's Will Sell Out The Minute They're Available.", :followers=>262, :user_id=>493925199, :retweet=>1}
+{:name=>"@jordanlilliehan", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>388, :user_id=>189277548, :retweet=>3278}
+{:name=>"@YnoTRockIT", :text=>"I said this!! RT\"@beeyroyce: yeezy boosts are ugly af.\"", :followers=>1457, :user_id=>299596678, :retweet=>0}
+{:name=>"@drewrunners", :text=>"The Yeezy Boost low. Not bad. http://t.co/cVHZWEacRp", :followers=>1369, :user_id=>34420544, :retweet=>0}
+{:name=>"@majorbeast86", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>62, :user_id=>588388134, :retweet=>3278}
+{:name=>"@sne_mbambo", :text=>"RT @PalesaMaloisane: Those jackets from Yeezy's collection: want.", :followers=>64, :user_id=>2561199636, :retweet=>4}
+{:name=>"@ShakilM92", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/cnyAAbmhcG” spot the one with no talent", :followers=>236, :user_id=>305523820, :retweet=>0}
+{:name=>"@loudaaaaaaaa", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>319, :user_id=>1222235401, :retweet=>3278}
+{:name=>"@eman_jewhar", :text=>"RT @KimKardashian: #YEEZY #ADIDAS #NYFW http://t.co/A1g9fujmSn", :followers=>462, :user_id=>1866000458, :retweet=>2891}
+{:name=>"@AisLikesToTalk", :text=>"NEW BLOG POST ON #KANYE #YEEZY #kanyexadidas http://t.co/2oJ15F9Wta", :followers=>358, :user_id=>395874376, :retweet=>0}
+{:name=>"@BEJXY", :text=>"Yeezy 3s Would Look Good W/ My Outfit Today.", :followers=>1657, :user_id=>255842924, :retweet=>0}
+{:name=>"@moustafd14", :text=>"RT @lsdls: La photo officielle des Adidas Yeezy 750 Boost a été dévoilée: http://t.co/BHVedY0EZB #yeezyboost http://t.co/LWmvM3Dzf8", :followers=>493, :user_id=>1026413748, :retweet=>18}
+{:name=>"@Bieber_Clothing", :text=>"Justin at Kanye West’s fashion show in NYC 2/12\n\nadidas Yeezy 750 Boost by Kanye West - $350\n\nShop:… http://t.co/WK9qnyddRS", :followers=>143, :user_id=>2477180174, :retweet=>0}
+{:name=>"@carcarinadepps2", :text=>"RT @kanyewest: hair and makeup 00:00:00:21:20:07:84 http://t.co/mSKqloRSaQ", :followers=>417, :user_id=>3003984501, :retweet=>1489}
+{:name=>"@_ShayDior", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>1040, :user_id=>303560182, :retweet=>28379}
+{:name=>"@Tgarratt10", :text=>"RT @CraigxMitch: DrakeSZN &gt; Yeezy Season LOL", :followers=>590, :user_id=>343356376, :retweet=>2}
+{:name=>"@TTMobile_gh", :text=>"TT GHANA 11:44\n1.Friday the 13th\n2.#NoMakeupSelfie\n3.Drake\n4.Too Late\n5.Val's Day\n6.Kanye\n7.Ghana\n8.Yeezy\n9.Willian\n10.Yvonne Okoro", :followers=>453, :user_id=>2645668424, :retweet=>0}
+{:name=>"@Adamarissss_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>201, :user_id=>2268098099, :retweet=>3278}
+{:name=>"@carcarinadepps2", :text=>"RT @kanyewest: details 00:00:00:20:53:39:14 http://t.co/mSKqloRSaQ", :followers=>417, :user_id=>3003984501, :retweet=>1708}
+{:name=>"@TTMobile_za", :text=>"TT SOUTH AFRICA 13:44\n1.#SONA2015\n2.Friday the 13th\n3.Drake\n4.Too Late\n5.#CRUvREB\n6.Zuma\n7.Parliament\n8.#FreedomFridayMix\n9.Yeezy\n10.Parly", :followers=>1758, :user_id=>2645428922, :retweet=>0}
+{:name=>"@MubarakGwalli1", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>925, :user_id=>860156880, :retweet=>3278}
+{:name=>"@LouiseEllenMay", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>756, :user_id=>939731773, :retweet=>28379}
+{:name=>"@NoirChristopher", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>2070, :user_id=>24645859, :retweet=>3278}
+{:name=>"@10kMagic", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/oEPU2OuZDa", :followers=>2296, :user_id=>131252807, :retweet=>0}
+{:name=>"@HisokasDesciple", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>394, :user_id=>218602379, :retweet=>3278}
+{:name=>"@AmexCorleone", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>567, :user_id=>24652897, :retweet=>3278}
+{:name=>"@carcarinadepps2", :text=>"RT @kanyewest: camera angles 00:00:00:05:56:33:30 http://t.co/mSKqlp9t2o", :followers=>417, :user_id=>3003984501, :retweet=>1661}
+{:name=>"@muraterden", :text=>"YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/7wbGIba2Wg", :followers=>217, :user_id=>1011714199, :retweet=>0}
+{:name=>"@KingNiggyy", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>19674, :user_id=>1049004152, :retweet=>3278}
+{:name=>"@carcarinadepps2", :text=>"RT @kanyewest: backstage 00:00:00:03:28:30:13 http://t.co/mSKqlp9t2o", :followers=>417, :user_id=>3003984501, :retweet=>1935}
+{:name=>"@JordynRaymo", :text=>"RT @TeamKanyeDaily: FULL VIDEO: adidas Originals x Kanye West | Yeezy Season 1 https://t.co/UzXLxfHD4U", :followers=>869, :user_id=>319247241, :retweet=>164}
+{:name=>"@yk_mchd98", :text=>"RT @sneaker_wars: 【2月28日発売予定】 カニエ・ウェスト × アディダス イージー 750 ブースト\n⇒http://t.co/isrO3opCE0\n#sneakerwars #スニーカー #yeezy http://t.co/hRQZILGWzq", :followers=>178, :user_id=>2441636677, :retweet=>201}
+{:name=>"@Paul__Calvo", :text=>"RT @ZacCoffman: Drake’s the type of guy who sees Kanye unloading Yeezy season so he drops an album.", :followers=>340, :user_id=>1098237115, :retweet=>2}
+{:name=>"@eman_jewhar", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>462, :user_id=>1866000458, :retweet=>28379}
+{:name=>"@Bom_Dia_Bee", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>551, :user_id=>1860967874, :retweet=>3278}
+{:name=>"@PWQA24", :text=>"Yeezy lows looking like a fusion between tubulars and roshes. Haha", :followers=>298, :user_id=>50617707, :retweet=>0}
+{:name=>"@ReReeLDN", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>2366, :user_id=>51786329, :retweet=>28379}
+{:name=>"@MrMrRolly", :text=>"“@KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/Nx4JYscoVZ” Puff thoo 😂😂", :followers=>637, :user_id=>340309358, :retweet=>0}
+{:name=>"@Sahraa_Ali", :text=>"\"@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/9Tf2t4gZ8y\"\nThis looks cute af thou", :followers=>2415, :user_id=>550887553, :retweet=>0}
+{:name=>"@MTVFR", :text=>"Kanye West a dévoilé son prochain titre \"Wolves Feat. Vic Mensa &amp; Sia\" lors du Yeezy boost Fashion Show. #MTVBASENEWS http://t.co/20am6GP5ke", :followers=>267338, :user_id=>24678944, :retweet=>1}
+{:name=>"@jgovciyan", :text=>"“solutions-based” clothing line...adidas Originals x Kanye West | YEEZY SEASON 1: http://t.co/7dRJPN0inE via @YouTube #wolves", :followers=>374, :user_id=>561406668, :retweet=>0}
+{:name=>"@ethrealthot", :text=>"RT @astrog1rll: Zendaya would've looked so cute in the Yeezy collection.", :followers=>132, :user_id=>2918302923, :retweet=>13}
+{:name=>"@amenfa5hion", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>2157, :user_id=>553539082, :retweet=>28379}
+{:name=>"@mwestphal_13", :text=>"Personally I think Yeezy's new line is dope", :followers=>650, :user_id=>578110961, :retweet=>0}
+{:name=>"@SaaraKanji_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>505, :user_id=>126143277, :retweet=>3278}
+{:name=>"@justinsdrama", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>4071, :user_id=>561765250, :retweet=>3278}
+{:name=>"@ProductOf_Satan", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>673, :user_id=>257269899, :retweet=>3278}
+{:name=>"@AdamsBiebs", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>2053, :user_id=>242003158, :retweet=>3278}
+{:name=>"@dopeasslatina", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>585, :user_id=>258859076, :retweet=>28379}
+{:name=>"@Chikinator3000", :text=>"RT @gowherehiphop: Listen: @KanyeWest \"Wolves\" f/ @VicMensa &amp; @Sia (HQ) http://t.co/CYmtMPRgWy http://t.co/2PqSxLxf6F", :followers=>325, :user_id=>572144169, :retweet=>3}
+{:name=>"@beeyroyce", :text=>"yeezy boosts are ugly af.", :followers=>412, :user_id=>2829993305, :retweet=>0}
+{:name=>"@deeemayjeee", :text=>"I'll still pick @DodoGang_'s Glow Indi Dark Collection over Kanye &amp; Adidas' Yeezy Season 1 collection sha", :followers=>883, :user_id=>239974248, :retweet=>0}
+{:name=>"@amarie83xoxo", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>1535, :user_id=>182744350, :retweet=>28379}
+{:name=>"@StridentSedate", :text=>"Last night's look wearing my very own  #DuJour at the YEEZY Fashion Show. http://t.co/Yhxu5Q1KOL", :followers=>737, :user_id=>2258302867, :retweet=>0}
+{:name=>"@RHenryy", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>4255, :user_id=>228894108, :retweet=>28379}
+{:name=>"@fxbistyz", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>196, :user_id=>585968572, :retweet=>3278}
+{:name=>"@sxxmer", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>2183, :user_id=>2973072154, :retweet=>28379}
+{:name=>"@kenyafeelmee", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>338, :user_id=>1601342724, :retweet=>3278}
+{:name=>"@isakbelieber", :text=>"RT @conexaobiebers: ugomozie: \"#JustinBieber X NYFW | Jaqueta: @balmainparis. Tênis: #Yeezy. #StyledByUgo 👊👊\" http://t.co/L9dtyF7eMB", :followers=>1118, :user_id=>2867112555, :retweet=>25}
+{:name=>"@Jaja972Ti", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>2, :user_id=>2761226078, :retweet=>28379}
+{:name=>"@mezoxunecos", :text=>"RT @rafaelborgert: Já quero essa música do Kanye West em HQ pra ontem, plis!!!!!!!!!!!!!!!!!!!!!!!! https://t.co/UrrVxixZbW", :followers=>93, :user_id=>2664072576, :retweet=>1}
+{:name=>"@hugobeniada", :text=>"Quel fossé entre les Yeezy Boost et le reste de la collection...", :followers=>247, :user_id=>159424219, :retweet=>0}
+{:name=>"@ItsWeliyo_", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>823, :user_id=>138365617, :retweet=>3278}
+{:name=>"@katiepalandrani", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>301, :user_id=>550197429, :retweet=>3278}
+{:name=>"@Marclopezshit", :text=>"adidas Originals x Kanye West | YEEZY SEASON 1: http://t.co/MTx8wrPsa9 best fuccin inspiration ever @kanyewest for ever the greatest.", :followers=>338, :user_id=>1478317123, :retweet=>0}
+{:name=>"@alextweeeets", :text=>"RT @debroervanroos: zo ziet, Yeezy incluis, plusminus 2 miljard dollar op een bankje er uit. http://t.co/RTyZm69ad8", :followers=>529, :user_id=>50579207, :retweet=>4}
+{:name=>"@GemmaSavis", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>53, :user_id=>160838198, :retweet=>3278}
+{:name=>"@pat_mael", :text=>"RT @Soupa_Sewedo: Moi perso je n'ai jamais compris cet engouement que vous avez pour les yeezy. Ces paires hyper moches mais qui coutent la…", :followers=>371, :user_id=>490262357, :retweet=>2}
+{:name=>"@flogwxng", :text=>"The Yeezy Boost Low are basically better looking Roshes", :followers=>108, :user_id=>240787923, :retweet=>0}

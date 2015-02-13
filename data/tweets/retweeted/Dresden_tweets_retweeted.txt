@@ -1,3 +1,0 @@
-{:text=>"RT @AP: Firebombing in Dresden, Germany, 70 years ago still fresh in survivor's memory: http://t.co/XlNhconBcV", :retweet=>59}
-{:text=>"RT @KatharinaKoenig: Oh welch Zufall: natürlich findet gerade \"Verkehrskontrolle\" bei Einfahrt nach #Dresden statt &amp; natürlich wird der Lau…", :retweet=>52}
-{:text=>"RT @AFP: Germany to mark 70 years since Dresden's WWII bombing http://t.co/xnpJJObzI9 http://t.co/qGIAN1IWlx", :retweet=>45}

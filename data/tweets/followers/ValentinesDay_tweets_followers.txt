@@ -1,3 +1,0 @@
-{:name=>"@SonyMusicSouth", :text=>"Here's @anirudhofficial inviting you personally for the launch of #EnakennaYaarumIllaye from #Aakko on #ValentinesDay http://t.co/nSRg4o1iqI", :followers=>116900, :user_id=>163787110, :retweet=>0}
-{:name=>"@EffctveOpinions", :text=>"RT @mintelnews: Can’t buy me #love? 55% of Brits spent money on goods and services for #ValentinesDay in 2014", :followers=>62133, :user_id=>2394429170, :retweet=>3}
-{:name=>"@projectpop", :text=>"RT @KlikKlipMusik: Pengen nembak tapi nggak berani? Kata @projectpop, #ValentinesDay besok harus berani nyatain! \"SAMA-SAMA\" http://t.co/MP…", :followers=>50165, :user_id=>49287025, :retweet=>1}

@@ -1,3 +1,3 @@
-{:name=>"@georgeujworld", :text=>"Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay 👌 #Majora #Smash", :followers=>726606, :user_id=>1650528535, :retweet=>110}
-{:name=>"@PerrieLMixers", :text=>"RT @georgeujworld: Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay…", :followers=>38087, :user_id=>625702079, :retweet=>110}
-{:name=>"@bol_com_games", :text=>"Het is #Nintendo3DSDay en om dat te vieren geven we bij de 400 nieuwe volgers een witte NEW 3DS weg! RT, volg en #win http://t.co/bBEwQrLR4o", :followers=>16841, :user_id=>518418706, :retweet=>6}
+{:name=>"@iTweetero", :text=>"RT @sexy_girls_24: ⚽ #lol #love  🈶 #Nintendo3DSDay  🐍 Meet new People here &gt;&gt;  http://t.co/J4j0629YiE http://t.co/w3xegLwi8T", :followers=>28605, :user_id=>240851425, :retweet=>52}
+{:name=>"@neon_toilet", :text=>"RT @StreetPassUK: New Puzzle available! Super Smash Bros for 3DS/Wii U! #Nintendo3DSDay http://t.co/6Wm6CZLaGx", :followers=>23053, :user_id=>281092760, :retweet=>11}
+{:name=>"@neon_toilet", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>23053, :user_id=>281092760, :retweet=>486}

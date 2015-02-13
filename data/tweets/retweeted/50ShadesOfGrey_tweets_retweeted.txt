@@ -1,3 +1,0 @@
-{:text=>"RT @ENews: Babe alert: Dakota Johnson &amp; Jamie Dornan looked gorgeous at the London premiere of #50ShadesofGrey! http://t.co/SOMROny4Rb", :retweet=>718}
-{:text=>"RT @robboma3: VIP seats fitted for #50ShadesOfGrey 👌😂 http://t.co/IsL9aoEHdm", :retweet=>652}
-{:text=>"RT @ENews: Only ONE DAY left: Get ready for #50ShadesofGrey with us on E! News tonight! http://t.co/KCvIvDq5Jl", :retweet=>200}
