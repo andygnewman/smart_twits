@@ -9,7 +9,7 @@
   def get_tweet_from_file (filename)
     array_of_hashes = []
     file = File.open(filename, 'r')
-    file.readlines.each do |el| 
+    file.readlines.each do |el|
       array_of_hashes << eval(el.chomp)
     end
     file.close()
