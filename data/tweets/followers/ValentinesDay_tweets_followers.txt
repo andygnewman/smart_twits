@@ -1,0 +1,3 @@
+{:name=>"@AldiCustCare", :text=>"Awww @Nigel4750 don't worry Nige, we've even got something for sad acts this #ValentinesDay treat yourself. \n#Winning http://t.co/TQcKdOCDcG", :followers=>37192, :user_id=>2350362573, :retweet=>0}
+{:name=>"@M4ttr1987", :text=>"RT @BigTreeFarmsUK: Last day to enter Valentine's Day  #giveaway of our #cashewclusters ? Follow &amp; RT to enter #ValentinesDay #win http://t…", :followers=>35275, :user_id=>592222488, :retweet=>13}
+{:name=>"@4H", :text=>"RT @usda_nass: Roses are red, violets are blue, thank the farmer who grew those flowers for you! #ValentinesDay http://t.co/dgtbrPDxtH", :followers=>22940, :user_id=>14107459, :retweet=>8}

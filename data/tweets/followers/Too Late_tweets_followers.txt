@@ -1,3 +1,0 @@
-{:name=>"@5mag", :text=>"Drake has just dropped a 17 track full length album on iTunes titled \"If You're Reading This You're Too Late\"  https://t.co/YTNkkbNqxO", :followers=>106088, :user_id=>36346003, :retweet=>0}
-{:name=>"@yee7us", :text=>"If you're reading this it's too late", :followers=>5026, :user_id=>455098149, :retweet=>1}
-{:name=>"@TakeemEscobar", :text=>"@grandeputas_ \n\nIt's too late now , lol .", :followers=>4845, :user_id=>2510660664, :retweet=>0}

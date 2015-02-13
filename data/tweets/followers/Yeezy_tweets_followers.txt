@@ -1,3 +1,0 @@
-{:name=>"@Dezeen", :text=>"Reader comment: \"Kudos Kanye. Understated, unpretentious and not half bad\" http://t.co/IC5mAvR2GX #fashion #design http://t.co/Ezf0L8nreE", :followers=>269734, :user_id=>26012202, :retweet=>0}
-{:name=>"@MTVFR", :text=>"Kanye West a dévoilé son prochain titre \"Wolves Feat. Vic Mensa &amp; Sia\" lors du Yeezy boost Fashion Show. #MTVBASENEWS http://t.co/20am6GP5ke", :followers=>267338, :user_id=>24678944, :retweet=>1}
-{:name=>"@TabarakOfficiel", :text=>"RT @MTVFR: Kanye West a dévoilé son prochain titre \"Wolves Feat. Vic Mensa &amp; Sia\" lors du Yeezy boost Fashion Show. #MTVBASENEWS http://t.c…", :followers=>119464, :user_id=>2552330280, :retweet=>1}

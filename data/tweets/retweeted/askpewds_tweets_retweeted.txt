@@ -1,3 +1,3 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>680}
-{:text=>"RT @JaySyko_: #askpewds Wrap yourself in your bed covers, with Edgar on your head and scream at @MarziaPie", :retweet=>1}
-{:text=>"RT @EdgarsPoo: @pewdiepie why am I tired @twerkingpoods #askpewds", :retweet=>1}
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1570}
+{:text=>"RT @MYNARRYCREW: #askpewds how do you feel about this http://t.co/22JlRtZpon", :retweet=>58}
+{:text=>"RT @5SOSTumblrx: @pewdiepie #askpewds Do you love Michael? @Michael5SOS", :retweet=>36}

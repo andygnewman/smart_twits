@@ -1,0 +1,3 @@
+{:text=>"RT @TalmageRawl: Everyone pls RT!!🙏 #brightonprom @_allisonmarie_ http://t.co/mQDRQ8hejx", :retweet=>839}
+{:text=>"RT @stephenfry: #FAILO - London @BlackCabDrivers betrayed! Join me and show support for this great British Institution\n@BlackCabsApp http:/…", :retweet=>460}
+{:text=>"RT @History_Pics: Telephone Engineer, London, 1920s. http://t.co/PIVT3kHkWz", :retweet=>430}

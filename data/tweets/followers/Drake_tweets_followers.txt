@@ -1,3 +1,3 @@
-{:name=>"@myinternalhelI", :text=>"RT @overdosers: damn Drake already has me crying with his new album http://t.co/Ll87XsPjv8", :followers=>63601, :user_id=>327404247, :retweet=>1092}
-{:name=>"@mixbreed_lexie", :text=>"RT @overdosers: damn Drake already has me crying with his new album http://t.co/Ll87XsPjv8", :followers=>48228, :user_id=>490945690, :retweet=>1092}
-{:name=>"@KissMe", :text=>"RT @overdosers: damn Drake already has me crying with his new album http://t.co/Ll87XsPjv8", :followers=>45059, :user_id=>590088175, :retweet=>1092}
+{:name=>"@Its__desire__", :text=>"RT @Jbrazile93: drake gets me in my feelings\n\nthe weeknd gets me in the mood", :followers=>10436, :user_id=>2220382937, :retweet=>1}
+{:name=>"@c_rnelius", :text=>"RT @toebootyy: FRIDAY THE 13 AND DRAKE DROPPED A ALBUM GOD IS GOOD", :followers=>4137, :user_id=>25169677, :retweet=>3}
+{:name=>"@brancole94", :text=>"RT @PopCrush: .@drake pulls a @Beyonce, drops surprise album #ifyourereadingthisitstoolate. Details: http://t.co/oBjgUAfaA6 http://t.co/yUJ…", :followers=>3354, :user_id=>86624698, :retweet=>2}

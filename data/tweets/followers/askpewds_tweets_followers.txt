@@ -1,3 +1,3 @@
-{:name=>"@simplydenise34", :text=>"@pewdiepie #askpewds GET THIS TWEET ON YOUR GODDAMN VIDEO COS I LOVE YOU TO DEATH POODS 😭😭😭😭😭😭😭 FOLLOW ME TOO", :followers=>7644, :user_id=>596414473, :retweet=>0}
-{:name=>"@94sglow", :text=>"@pewdiepie on a scale of 1-10 how much do you want to be my daddy #askpewds", :followers=>7401, :user_id=>931983666, :retweet=>0}
-{:name=>"@Narry_Slays", :text=>"@pewdiepie how does one become fabulous like you? #askpewds", :followers=>6103, :user_id=>1090652131, :retweet=>0}
+{:name=>"@TrendieWW", :text=>"\"Trending World Wide:01:42 PM GMT\"\n4. #2DaysUntilTheOneLastTimeVideo\n5. #askpewds\n6. #ifyourereadingthisitstoolate\n7. David Carr", :followers=>13306, :user_id=>2793605047, :retweet=>0}
+{:name=>"@94bayani", :text=>"Tell me your best knock knock joke. #askpewds", :followers=>5547, :user_id=>2755672726, :retweet=>0}
+{:name=>"@katyxhunt", :text=>"#askpewds how do i become a sagoi kawaii senpai who cuts clits and hugs people with my uterus", :followers=>3286, :user_id=>454336704, :retweet=>0}

@@ -1,3 +1,3 @@
-{:name=>"@corrie_corfield", :text=>"Knew it wouldn't take long for that most British of institutions, #TheShippingForecast to prove a treasure trove of #BritishSexPositions 😳", :followers=>21764, :user_id=>20132589, :retweet=>0}
-{:name=>"@ComedyQuotesTV", :text=>"The moan #BritishSexPositions", :followers=>14330, :user_id=>361404225, :retweet=>0}
-{:name=>"@Gary_Bainbridge", :text=>"Hilda Ogden's Muriel. #BritishSexPositions", :followers=>11642, :user_id=>14509754, :retweet=>0}
+{:name=>"@arjunbasu", :text=>"Stiff Upper Lip\n\nUpstairs Downstairs\n\nThe Cuppa\n\nCornish Pastie\n\n#BritishSexPositions", :followers=>170996, :user_id=>16910591, :retweet=>0}
+{:name=>"@garwboy", :text=>"The UKIP earthquake \n#BritishSexPositions", :followers=>20380, :user_id=>20474878, :retweet=>1}
+{:name=>"@jasonjordan", :text=>"The Crufts Dogging Show . #BritishSexPositions", :followers=>16315, :user_id=>18114168, :retweet=>0}
