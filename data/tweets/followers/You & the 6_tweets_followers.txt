@@ -1,3 +1,3 @@
-{:name=>"@TrendieWW", :text=>"\"You &amp; The 6\" shows up as trending topic world wide at rank 10", :followers=>13311, :user_id=>2793605047, :retweet=>0}
-{:name=>"@WANIMINAJ", :text=>"You &amp; the 6", :followers=>6197, :user_id=>172076945, :retweet=>0}
-{:name=>"@InFamE_Xclusive", :text=>"You &amp; The 6 is equivalent to everything from Take Care but evolved into a more reflective point of view. Sequel to Look What You've Done", :followers=>5784, :user_id=>326980514, :retweet=>0}
+{:name=>"@MistaBadBoi", :text=>"Drake - You &amp; The 6", :followers=>49330, :user_id=>266391735, :retweet=>1}
+{:name=>"@MistaBadBoi", :text=>"10 Bands. You &amp; The 6. Best songs on the album. #IfYoureReadingThisItsTooLate", :followers=>49330, :user_id=>266391735, :retweet=>0}
+{:name=>"@JaredEvan", :text=>".@illmindPRODUCER produced potentially one of Drake's best records ever. Give it up for this dude. You &amp; the 6.", :followers=>36700, :user_id=>21094661, :retweet=>2}

@@ -1,3 +1,3 @@
-{:name=>"@bloodyvengeance", :text=>"RT @mosh13505: #FridayThe13th @Vincenza15 @bloodyvengeance @DieBoogeyManDie @ZombitchNY @M4GN0L1A @mooredog82 @sarah_samedi http://t.co/idG…", :followers=>13476, :user_id=>54899121, :retweet=>5}
-{:name=>"@SonyPicturesCan", :text=>"Break out the fangs - it's #FridayThe13th! @HotelT #HotelT2 #HotelTransylvania2 #comingsoon #September2015 #movie http://t.co/R4oF9twdJg", :followers=>9194, :user_id=>73460068, :retweet=>0}
-{:name=>"@Jackson4s", :text=>"Where are you Jason Voorhees? #FridayThe13th", :followers=>5867, :user_id=>218979633, :retweet=>0}
+{:name=>"@YoungSpittah92", :text=>"RT @THEREALEVK: I think @YoungSpittah92 is so dope and hot with them bars #RespectTheUnit Happy Birthday btw #FridayThe13th", :followers=>23216, :user_id=>35891464, :retweet=>1}
+{:name=>"@MiamiBeach411", :text=>"Happy #FridayThe13th. Love from #Miami ❤️ http://t.co/zDOAOM9jvn", :followers=>15156, :user_id=>14083211, :retweet=>0}
+{:name=>"@beacon126", :text=>"RT @rich_farley: #FridayThe13th #ff #shouties to @F8fulH  @louieZ54 @SawyerFrdrx @ehs54 @TygrHawk @dc82204 @beewee9357  @SharpDadAhead @bea…", :followers=>12114, :user_id=>253220290, :retweet=>1}

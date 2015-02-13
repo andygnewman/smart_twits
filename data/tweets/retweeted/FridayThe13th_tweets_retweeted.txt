@@ -1,3 +1,3 @@
-{:text=>"RT @NHL: #13 doesn't believe in superstitions... #FridayThe13th\nhttps://t.co/W5drL5ql7y", :retweet=>727}
-{:text=>"RT @HotpointUK: #FridayThe13th lucky for some! RT to #WIN a Toaster! Visit http://t.co/w4kVogi9Fz &amp; use #FiftyShadesOfToast to choose http:…", :retweet=>86}
-{:text=>"RT @RecovaContol: #FridayThe13th, #unlucky for some- but we're giving away our super slimming leggings today! #FreebieFriday! Follow&amp;RT htt…", :retweet=>74}
+{:text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :retweet=>2652}
+{:text=>"RT @NHL: #13 doesn't believe in superstitions... #FridayThe13th\nhttps://t.co/W5drL5ql7y", :retweet=>943}
+{:text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :retweet=>528}

@@ -1,3 +1,3 @@
-{:name=>"@phancaakes", :text=>"RT @EvanEdinger: #BritishSexPositions Teabagging", :followers=>5602, :user_id=>410203360, :retweet=>31}
-{:name=>"@letha_dorado", :text=>"TT USA\n3 #STYLEmusicvideo\n4 David Carr\n5 #BritishSexPositions\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/2QFbqDuDQc http://t.co/KTbtK52TqS", :followers=>5585, :user_id=>2922003072, :retweet=>1}
-{:name=>"@5sosnovelli", :text=>"@EvanEdinger #BritishSexPositions Corgi Style", :followers=>5443, :user_id=>415396505, :retweet=>0}
+{:name=>"@KeithBarrett", :text=>"Pumping the Petrol #BritishSexPositions @midnight", :followers=>25021, :user_id=>4298461, :retweet=>0}
+{:name=>"@KeithBarrett", :text=>"Polishing the Crown Jewels #BritishSexPositions @midnight", :followers=>25021, :user_id=>4298461, :retweet=>0}
+{:name=>"@mattyofhonor", :text=>"tweet (#9082) shagging, tea bagging, right rear the Wales #BritishSexPositions", :followers=>17583, :user_id=>62891428, :retweet=>0}
