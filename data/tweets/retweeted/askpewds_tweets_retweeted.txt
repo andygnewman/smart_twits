@@ -1,3 +1,3 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>964}
-{:text=>"RT @5SOSTumblrx: @pewdiepie #askpewds Do you love Michael? @Michael5SOS", :retweet=>24}
-{:text=>"RT @levelphan: @pewdiepie WHAT WOULD YOU REACT IF THERE WAS A MOVIE CALLED 50 SHADES OF KJELLBERG WILL MARZIA BE THE GIRL #askpewds", :retweet=>2}
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1101}
+{:text=>"RT @Emma_Belieber_L: @pewdiepie People Who Look Like Cartoon Characters #askpewds\n==&gt;http://t.co/jdE8jiD3Lb http://t.co/Z5DC4QTzAv", :retweet=>26}
+{:text=>"RT @poppysoods: @pewdiepie #askpewds how many souls did you take to be the most popular youtuber", :retweet=>1}

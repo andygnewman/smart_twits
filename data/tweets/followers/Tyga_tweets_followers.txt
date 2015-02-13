@@ -1,0 +1,3 @@
+{:name=>"@sCooLkidSeun", :text=>"RT @MoyoMaksRM: Drake told Tyga to act 25, not 17. And guess what Tyga did right when he woke up? Yup, tweeted &amp; deleted some shit like a 1…", :followers=>7184, :user_id=>251741323, :retweet=>153}
+{:name=>"@Riihstopher", :text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :followers=>5590, :user_id=>413183871, :retweet=>2116}
+{:name=>"@zaynsrihanna", :text=>"RT @sadkxtty: you can delete you tweet all you want but I still got screenshots @Tyga you acting Kylie's age http://t.co/YOftNHQQ2d", :followers=>2965, :user_id=>1025989052, :retweet=>118}

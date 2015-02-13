@@ -1,3 +1,0 @@
-{:name=>"@HeadlinesToday", :text=>"RT @mail_today: #FiftyShadesOfGrey fails to keep its #ValentinesDay date with India http://t.co/Zq2VekZyc0 http://t.co/nSftGcs2RZ", :followers=>435632, :user_id=>1073676020, :retweet=>1}
-{:name=>"@RnfrstAlliance", :text=>"You can make a difference on #ValentinesDay. Give certified #chocolate &amp; #flowers to your loved ones! #FollowTheFrog http://t.co/KsiARekYUT", :followers=>106197, :user_id=>14786217, :retweet=>0}
-{:name=>"@TWC", :text=>"Special #ValentinesDay Offer! Watch some of your favorite romantic films all weekend long On Demand. #EnjoyBetter http://t.co/uJG5Dcn2jG", :followers=>89039, :user_id=>127975950, :retweet=>0}

@@ -1,3 +1,0 @@
-{:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>28458}
-{:text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :retweet=>3553}
-{:text=>"RT @ComplexMag: YEEZY. [via @virgilabloh]\nhttps://t.co/JEOLqXX4nr", :retweet=>1489}

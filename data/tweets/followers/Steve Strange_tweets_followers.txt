@@ -1,3 +1,3 @@
-{:name=>"@guardian", :text=>"The banishing of the mavericks is pop music’s loss http://t.co/qbs1VkkfCD http://t.co/USkc5FIEu0", :followers=>3257258, :user_id=>87818409, :retweet=>8}
-{:name=>"@The_News_DIVA", :text=>"British New Romantic icon Steve Strange dies at 55 http://t.co/xmNbRCgiCx #RIP", :followers=>106151, :user_id=>15501305, :retweet=>0}
-{:name=>"@KayvonZand", :text=>"RT @i_D: Steve Strange, you'll be missed but won't be forgotten: http://t.co/N35ybg8W5h http://t.co/ZwdueYBxUf", :followers=>42714, :user_id=>15994844, :retweet=>8}
+{:name=>"@WRadioColombia", :text=>"Muere Steve Strange, cantante del grupo de los años 80 Visage http://t.co/fa25PeBsSF", :followers=>2009689, :user_id=>20560294, :retweet=>1}
+{:name=>"@TNTrends", :text=>"Murió Steve Strange, cantante de Visage http://t.co/ZgdyOV55fb vía @tnLaViola", :followers=>231042, :user_id=>15971514, :retweet=>0}
+{:name=>"@moviesndtv", :text=>"Steve Strange, Eighties Pop Icon, Dies at 55 http://t.co/pfgwqm7hf7", :followers=>47966, :user_id=>465329295, :retweet=>0}

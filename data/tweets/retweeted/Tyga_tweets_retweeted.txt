@@ -1,0 +1,3 @@
+{:text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :retweet=>3337}
+{:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>3172}
+{:text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :retweet=>2116}

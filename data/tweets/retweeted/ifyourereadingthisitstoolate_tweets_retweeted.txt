@@ -1,0 +1,3 @@
+{:text=>"RT @WordOnRd: No sleep tonight. We up! WAY UP. #IfYoureReadingThisItsTooLate", :retweet=>848}
+{:text=>"RT @fouseyTUBE: thank you @Drake for giving everyone tweets and instagram captions full of quotes for the next 6 months. #IfYoureReadingThi…", :retweet=>561}
+{:text=>"RT @TheRaceDraft: #ifyourereadingthisitstoolate http://t.co/JNaxRTgeQ4", :retweet=>514}

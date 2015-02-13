@@ -1,3 +1,62 @@
+{:name=>"@Hotladiesxxx", :text=>"New Drake\nYou &amp; the 6\nThe 6ix\nMarzia\n#MuslimLivesMatter", :followers=>1099, :user_id=>2982448012, :retweet=>0}
+{:name=>"@KwinTori", :text=>"Drake - You &amp; The 6", :followers=>526, :user_id=>87726375, :retweet=>0}
+{:name=>"@remy_lazarus", :text=>"RT @_milessmith: You &amp; The 6 🔥", :followers=>349, :user_id=>315545973, :retweet=>2}
+{:name=>"@Lea_Black18", :text=>"Glad I didn't buy it You &amp; the 6, Jungle, and 6 pm in NY was the only 3 that made my playlist you can keep that other shit 😕", :followers=>261, :user_id=>2468291844, :retweet=>0}
+{:name=>"@CorenaHendrix", :text=>"RT @guyjean440: TT UK\n10 You &amp; The 6\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/knelnpBMwQ http://t.co/Jb4NFJlGRJ", :followers=>50, :user_id=>2978216873, :retweet=>1}
+{:name=>"@CassidyJackso", :text=>"RT @DabotaSmith: You &amp; The 6.....speaking real shit to his moms on a mixtape 😩🔥🔥", :followers=>391, :user_id=>2901908950, :retweet=>1}
+{:name=>"@guyjean440", :text=>"TT UK\n10 You &amp; The 6\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/knelnpBMwQ http://t.co/Jb4NFJlGRJ", :followers=>6177, :user_id=>2837580459, :retweet=>1}
+{:name=>"@Askies_Sberbe", :text=>"You &amp; The 6", :followers=>575, :user_id=>1318523342, :retweet=>0}
+{:name=>"@DabotaSmith", :text=>"You &amp; The 6.....speaking real shit to his moms on a mixtape 😩🔥🔥", :followers=>1363, :user_id=>242074590, :retweet=>1}
+{:name=>"@ManyJams", :text=>"Charity Game Jam for You &amp; the 6 #You&amp;the6Jam", :followers=>112, :user_id=>2409784321, :retweet=>0}
+{:name=>"@Cocaine_90s", :text=>"You &amp; the 6 🎶💞", :followers=>1037, :user_id=>797102598, :retweet=>0}
+{:name=>"@___cheyyyy", :text=>"Drake X you &amp; the 6 ❤️", :followers=>2044, :user_id=>1043806970, :retweet=>1}
+{:name=>"@SenyoThaGreat23", :text=>"RT @xoAminata: “@drakesrauhl: Drake and #ifyourereadingthisitstoolate are both trending topics http://t.co/zTwy3VUA3v” don't forget You &amp; T…", :followers=>396, :user_id=>1106357400, :retweet=>2}
+{:name=>"@euancg", :text=>"You &amp; The 6", :followers=>193, :user_id=>1136366658, :retweet=>0}
+{:name=>"@KathrynSmith122", :text=>"RT @jeanpierre1233: TT USA\n9 #LetsNotBeAloneTonight\n10 You &amp; The 6\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/0VzLrIwSO1 http://t.co/A0usXqtFNa", :followers=>51, :user_id=>2978221756, :retweet=>1}
+{:name=>"@jeanpierre1233", :text=>"TT USA\n9 #LetsNotBeAloneTonight\n10 You &amp; The 6\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/0VzLrIwSO1 http://t.co/A0usXqtFNa", :followers=>1232, :user_id=>2597027190, :retweet=>1}
+{:name=>"@SincerelyNiara", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>597, :user_id=>545176002, :retweet=>748}
+{:name=>"@DatBoiiiQuice", :text=>"Drake x You &amp; The 6", :followers=>610, :user_id=>243405856, :retweet=>0}
+{:name=>"@jauregrons", :text=>"MOSTLY YOU &amp; THE 6 THO", :followers=>352, :user_id=>81271887, :retweet=>0}
+{:name=>"@_zeatme", :text=>"You &amp; the 6", :followers=>427, :user_id=>604619185, :retweet=>0}
+{:name=>"@GatkekKueth", :text=>"RT @Dcarrious_22: You &amp; The 6 🎧 🎧 #Drizzy", :followers=>172, :user_id=>918158264, :retweet=>1}
+{:name=>"@c_keia", :text=>"Drake x You &amp; The 6", :followers=>433, :user_id=>1476080096, :retweet=>0}
+{:name=>"@styledbybria", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>1262, :user_id=>436098907, :retweet=>748}
+{:name=>"@jauregrons", :text=>"YOU &amp; THE 6, NO TELLIN, KNOW YOURSELF, AND 6 GOD ARE THE BEST DAMN TRACKS OFF THIS ALBUM", :followers=>352, :user_id=>81271887, :retweet=>0}
+{:name=>"@Cerebrone", :text=>"RT @SizweDhlomo: ...And then, when all the hype dies down, they'll appreciate \"You &amp; The 6\"...", :followers=>1298, :user_id=>296589974, :retweet=>9}
+{:name=>"@EarLofGC", :text=>"Drake's You &amp; The 6. My shit.", :followers=>2208, :user_id=>249562894, :retweet=>0}
+{:name=>"@Dope_diamonds35", :text=>"You &amp; The 6 // Drake 🔥🔥🔥", :followers=>539, :user_id=>785809699, :retweet=>0}
+{:name=>"@trendingshots", :text=>"United Kingdom NEW Trending Topics: #RosesAreRed, Drakes, You &amp; the 6. #TT #TopicsGB http://t.co/inCKlEvfDb", :followers=>3098, :user_id=>815828540, :retweet=>0}
+{:name=>"@Sean_Manieson", :text=>"RT @deezydothis: \"You &amp; The 6\" is so fucking real.", :followers=>428, :user_id=>357204753, :retweet=>1}
+{:name=>"@CorenaHendrix", :text=>"RT @jeanpierre1233: TT USA\n9 #LetsNotBeAloneTonight\n10 You &amp; The 6\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/0VzLrIwSO1 http://t.co/gTt42VEFcD", :followers=>50, :user_id=>2978216873, :retweet=>1}
+{:name=>"@LeahSinclairr", :text=>"You &amp; The 6 tho", :followers=>376, :user_id=>135607513, :retweet=>0}
+{:name=>"@JadeCourtney", :text=>"You &amp; The 6. \nYou &amp; The 6.\nYou &amp; The 6.", :followers=>352, :user_id=>31075963, :retweet=>0}
+{:name=>"@BrightonNcube7", :text=>"You &amp; the 6...6pm in New York...#If you're jus' reading this you too late", :followers=>10, :user_id=>2243252896, :retweet=>0}
+{:name=>"@jeanpierre1233", :text=>"TT USA\n9 #LetsNotBeAloneTonight\n10 You &amp; The 6\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/0VzLrIwSO1 http://t.co/gTt42VEFcD", :followers=>1232, :user_id=>2597027190, :retweet=>1}
+{:name=>"@EricBuonviaggio", :text=>"You &amp; the 6", :followers=>204, :user_id=>717282302, :retweet=>0}
+{:name=>"@lyfeofadon1", :text=>"RT @InAColeworldd: You &amp; the 6 🎧", :followers=>873, :user_id=>436335038, :retweet=>1}
+{:name=>"@BasicGuyBiggz", :text=>"Oh my God.. Drake snapped b.. Damn... You &amp; the 6 is ah killah", :followers=>324, :user_id=>384904815, :retweet=>0}
+{:name=>"@D3D33WA", :text=>"You &amp; the 6 ......👌", :followers=>449, :user_id=>217307491, :retweet=>0}
+{:name=>"@DRIZZYFTGRANDE", :text=>"RT @WordOnRd: \"You &amp; The 6\" ...... Shoutout to Mama Graham!", :followers=>8705, :user_id=>1889529601, :retweet=>257}
+{:name=>"@DimeBanks", :text=>"You &amp; the 6 is good", :followers=>1640, :user_id=>357824417, :retweet=>0}
+{:name=>"@_PerCee", :text=>"#NowPlaying Drake | You &amp; the 6", :followers=>571, :user_id=>2398924565, :retweet=>0}
+{:name=>"@kidrakeuhl", :text=>"RT @WordOnRd: \"You &amp; The 6\" ...... Shoutout to Mama Graham!", :followers=>475, :user_id=>2238285230, :retweet=>257}
+{:name=>"@drakesrauhl", :text=>"RT @xoAminata: “@drakesrauhl: Drake and #ifyourereadingthisitstoolate are both trending topics http://t.co/zTwy3VUA3v” don't forget You &amp; T…", :followers=>5092, :user_id=>259930067, :retweet=>2}
+{:name=>"@InAColeworldd", :text=>"You &amp; the 6 🎧", :followers=>2746, :user_id=>24904626, :retweet=>1}
+{:name=>"@Siphokuhle_", :text=>"You &amp; The 6 ❤", :followers=>2286, :user_id=>2428575215, :retweet=>0}
+{:name=>"@KathrynSmith122", :text=>"RT @letha_dorado: TT USA\n9 You &amp; The 6\n10 #MuslimLivesMatter\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/2QFbqDuDQc http://t.co/17pyqeLd6x", :followers=>51, :user_id=>2978221756, :retweet=>1}
+{:name=>"@Nateesmith11", :text=>"you &amp; the 6🔥", :followers=>322, :user_id=>2215144116, :retweet=>0}
+{:name=>"@rod_da_realone", :text=>"I ain't got no friends in this momma I pull the knife out my back i cut they throat wit it momma I game of thrones in this momma you &amp; the 6", :followers=>141, :user_id=>2722500036, :retweet=>0}
+{:name=>"@letha_dorado", :text=>"TT USA\n9 You &amp; The 6\n10 #MuslimLivesMatter\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/2QFbqDuDQc http://t.co/17pyqeLd6x", :followers=>5586, :user_id=>2922003072, :retweet=>1}
+{:name=>"@cleowilson", :text=>"@hailrakim im fully with you on that, the project overall is quite poor, i only like company, 6pm in NY + you &amp; the 6 (bar used to &amp; 6 god)", :followers=>1123, :user_id=>41663038, :retweet=>0}
+{:name=>"@RashellRoc", :text=>"drake x you &amp; the 6 🔥🔥🔥🔥", :followers=>1695, :user_id=>202170361, :retweet=>0}
+{:name=>"@Ia_moca", :text=>"You &amp; The 6", :followers=>154, :user_id=>1274929080, :retweet=>0}
+{:name=>"@G5_Juan", :text=>"'You &amp; The 6.'", :followers=>573, :user_id=>616830168, :retweet=>0}
+{:name=>"@emilin", :text=>"RT @yllekchase: You &amp; the 6 tho", :followers=>100, :user_id=>18737638, :retweet=>1}
+{:name=>"@that_star_shola", :text=>"You &amp; the 6 is my favorite song so far. \n#DrakeMixtape", :followers=>200, :user_id=>2409992395, :retweet=>0}
+{:name=>"@Nosa_0o7", :text=>"@Drake You &amp; The 6 is so deep af.", :followers=>919, :user_id=>715748852, :retweet=>0}
+{:name=>"@Kathrinee_L", :text=>"6pm in New York &amp; You &amp; The 6 are the only songs that have vestiges of Drake's oldies. #Meh #IThinkIHadHigherExpectations", :followers=>137, :user_id=>28628861, :retweet=>0}
+{:name=>"@DBracciano", :text=>"You &amp; The 6", :followers=>320, :user_id=>437226138, :retweet=>0}
+{:name=>"@glidematrix", :text=>"#ifyoureadingthisitstoolate is ayt...but You &amp; The 6 and 6 Man go hard!!! http://t.co/OE4TcrwPB3", :followers=>1557, :user_id=>124724718, :retweet=>0}
 {:name=>"@kyle_campbell7", :text=>"You &amp; The 6 🙌", :followers=>473, :user_id=>559739840, :retweet=>0}
 {:name=>"@nldxoo", :text=>"RT @jxdior: you &amp; the 6 raised me right, that shit changed my life", :followers=>837, :user_id=>227197869, :retweet=>1}
 {:name=>"@Eveen_X", :text=>"RT @AntDonalson: Hold on: 6 God, You &amp; The 6, 6PM in New York, Star 67! Yaww @Drake what kind of Illuminati bullshit is it here about?! 😒", :followers=>272, :user_id=>93415878, :retweet=>1}
@@ -5,8 +64,8 @@
 {:name=>"@LeviGenzSM", :text=>"You &amp; The 6", :followers=>269, :user_id=>102465578, :retweet=>0}
 {:name=>"@JusticeValoi", :text=>"You &amp; The 6 track, that's the Drake we knew from ComeBack Season and So Far Gone #IfYoureReadingThisItsTooLate", :followers=>73, :user_id=>899331500, :retweet=>0}
 {:name=>"@PartyWeeknd_", :text=>"You &amp; The 6 is the best song on the tape 🔥🔥", :followers=>57, :user_id=>2871973883, :retweet=>0}
-{:name=>"@xoAminata", :text=>"“@drakesrauhl: Drake and #ifyourereadingthisitstoolate are both trending topics http://t.co/zTwy3VUA3v” don't forget You &amp; The 6", :followers=>547, :user_id=>29866656, :retweet=>0}
-{:name=>"@SUCKMYSPIDERDIC", :text=>"RT @alvine__: I definitely love \"You &amp; The 6\".", :followers=>1444, :user_id=>2743678871, :retweet=>2}
+{:name=>"@xoAminata", :text=>"“@drakesrauhl: Drake and #ifyourereadingthisitstoolate are both trending topics http://t.co/zTwy3VUA3v” don't forget You &amp; The 6", :followers=>547, :user_id=>29866656, :retweet=>2}
+{:name=>"@SUCKMYSPIDERDIC", :text=>"RT @alvine__: I definitely love \"You &amp; The 6\".", :followers=>1445, :user_id=>2743678871, :retweet=>2}
 {:name=>"@_itsdalissaxox", :text=>"you &amp; the 6 raised me right &amp; that shit saved my life", :followers=>435, :user_id=>2544328029, :retweet=>0}
 {:name=>"@TaH_BanG", :text=>"You &amp; The 6 :'(:'(:'(", :followers=>383, :user_id=>458604277, :retweet=>0}
 {:name=>"@Lavivicus", :text=>"You &amp; the 6 so good every song with 6 in it is good lmao", :followers=>469, :user_id=>2303922060, :retweet=>0}
@@ -18,7 +77,7 @@
 {:name=>"@trvnkz81", :text=>"You &amp; the 6", :followers=>268, :user_id=>2618139240, :retweet=>0}
 {:name=>"@TheJovanieVelez", :text=>"Okay \" you &amp; the 6 \" his best song hands down", :followers=>640, :user_id=>2203725396, :retweet=>0}
 {:name=>"@azvp_pvrp", :text=>"You &amp; the 6 is my least favorite so far", :followers=>842, :user_id=>192135942, :retweet=>0}
-{:name=>"@waavvy_", :text=>"You &amp; The 6 Raised Me Right", :followers=>1271, :user_id=>298703991, :retweet=>0}
+{:name=>"@waavvy_", :text=>"You &amp; The 6 Raised Me Right", :followers=>1272, :user_id=>298703991, :retweet=>0}
 {:name=>"@TheBLACKMack_MG", :text=>"You &amp; The 6.", :followers=>299, :user_id=>178674345, :retweet=>0}
 {:name=>"@cxdrick", :text=>"You &amp; The 6 is my favorite off this mixtape", :followers=>166, :user_id=>125515745, :retweet=>0}
 {:name=>"@CalvinValentine", :text=>"You &amp; The 6 🙏", :followers=>1593, :user_id=>36009850, :retweet=>0}
@@ -35,66 +94,7 @@
 {:name=>"@babydoll_yanaaa", :text=>"you &amp; the 6 raised me right , that shit saved my life 🙌", :followers=>5853, :user_id=>134241566, :retweet=>0}
 {:name=>"@cali_sb", :text=>"You &amp; The 6 is the best song Drake's released in years", :followers=>1309, :user_id=>288905614, :retweet=>0}
 {:name=>"@lnbshr", :text=>"you &amp; the 6", :followers=>153, :user_id=>1666070148, :retweet=>0}
-{:name=>"@Fatimaaazzz", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>1173, :user_id=>532535566, :retweet=>745}
+{:name=>"@Fatimaaazzz", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>1173, :user_id=>532535566, :retweet=>748}
 {:name=>"@itsTjootju", :text=>"You &amp; The 6 ♡", :followers=>472, :user_id=>2503561587, :retweet=>0}
 {:name=>"@blaccMigo", :text=>"You &amp; the 6⃣", :followers=>175, :user_id=>488915579, :retweet=>0}
 {:name=>"@NatalieDaNaz", :text=>"You &amp; The 6 😂 \"@SizweDhlomo: LOL! Drake said \"that nigga still wearing linen\"... Talking about his dad! 😂\"", :followers=>1198, :user_id=>499932147, :retweet=>0}
-{:name=>"@jxdior", :text=>"you &amp; the 6 raised me right, that shit changed my life", :followers=>1720, :user_id=>250225134, :retweet=>1}
-{:name=>"@_p0eticvib3s", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>752, :user_id=>2288951385, :retweet=>745}
-{:name=>"@Coleone__", :text=>"You &amp; The 6 the hardest to me", :followers=>1418, :user_id=>116805187, :retweet=>0}
-{:name=>"@campahess", :text=>"you &amp; the 6", :followers=>353, :user_id=>373503423, :retweet=>0}
-{:name=>"@Fatimaaazzz", :text=>"RT @WordOnRd: \"You &amp; The 6\" ...... Shoutout to Mama Graham!", :followers=>1173, :user_id=>532535566, :retweet=>254}
-{:name=>"@NatalieDaNaz", :text=>"You &amp; The 6 ♬ || Drake", :followers=>1198, :user_id=>499932147, :retweet=>0}
-{:name=>"@TrePorter5", :text=>"You &amp; The 6 is the story of my life", :followers=>2192, :user_id=>278037780, :retweet=>0}
-{:name=>"@DanDenton1", :text=>"You &amp; The 6 // Drake", :followers=>491, :user_id=>311635342, :retweet=>0}
-{:name=>"@ovosarafina", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>501, :user_id=>222850788, :retweet=>745}
-{:name=>"@sekza", :text=>"RT @SizweDhlomo: ...And then, when all the hype dies down, they'll appreciate \"You &amp; The 6\"...", :followers=>397, :user_id=>272530857, :retweet=>8}
-{:name=>"@bookishglam", :text=>"that song about his conversation with his mom (and they talked about his dad), \"you &amp; the 6\", is bittersweet", :followers=>1291, :user_id=>29419200, :retweet=>0}
-{:name=>"@KlausGohan", :text=>"THE FACT THAT DRAKE ADDED THE LITTLE HUMAN STUTTERS/SIGHS SO IT SOUNDS LIKE A REAL PHONE CONVERSATION WITH HIS MOM &gt;&gt;&gt; \"YOU &amp; THE 6\" SO DOPE", :followers=>416, :user_id=>245297976, :retweet=>0}
-{:name=>"@nolankyt", :text=>"RT @StarlibBright: You &amp; The 6... http://t.co/ujd3S4WkOv", :followers=>197, :user_id=>215185086, :retweet=>10}
-{:name=>"@tworldy", :text=>"You &amp; The 6 now trending in NewYork http://t.co/5tgHtTHXhr", :followers=>1176, :user_id=>2909648091, :retweet=>0}
-{:name=>"@Ben_Wengryn", :text=>"Drizzy x You &amp; The 6", :followers=>667, :user_id=>507812825, :retweet=>0}
-{:name=>"@FireSquadDom", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>139, :user_id=>734147214, :retweet=>745}
-{:name=>"@SeLL_OneM", :text=>"RT @The_Born_Sinner: It's actually the first song I liked RT @SizweDhlomo: ...And then, when all the hype dies down, they'll appreciate \"Yo…", :followers=>425, :user_id=>548280516, :retweet=>4}
-{:name=>"@SEPHIRI_M", :text=>"\"You &amp; The 6\" is something else @joaomatthews_ &amp; @SizweDhlomo", :followers=>579, :user_id=>211114523, :retweet=>0}
-{:name=>"@VanessaDossi", :text=>"RT @The_Born_Sinner: It's actually the first song I liked RT @SizweDhlomo: ...And then, when all the hype dies down, they'll appreciate \"Yo…", :followers=>25, :user_id=>3026190767, :retweet=>4}
-{:name=>"@ayee_zach", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>310, :user_id=>2198771901, :retweet=>745}
-{:name=>"@Perrrrrrryyy", :text=>"You &amp; The 6 - Drake 🔥🔥", :followers=>420, :user_id=>615681032, :retweet=>0}
-{:name=>"@Niks8Fearon", :text=>"YOU &amp; THE 6!!!👏🎤🔥👌 #AbsolutleyBrilliant", :followers=>917, :user_id=>49823594, :retweet=>0}
-{:name=>"@Siphokuhle_", :text=>"RT @el_teee_: you &amp; the 6.", :followers=>2286, :user_id=>2428575215, :retweet=>1}
-{:name=>"@MrWaleedGudluks", :text=>"Drake - You &amp; the 6... Is powerful .. Story telling at its best 👆", :followers=>661, :user_id=>269434267, :retweet=>0}
-{:name=>"@Family_Jules13", :text=>"Drake you the 6 god but your handwriting looks like you needa go back to the 6th grade http://t.co/vzKJa5XAzt", :followers=>234, :user_id=>392935071, :retweet=>0}
-{:name=>"@Jonniebunnie", :text=>"RT @SheScreamFlacko: When you wanna tweet your ex while listening to You &amp; The 6 but she in relationship http://t.co/h0Hdzxmnsk", :followers=>361, :user_id=>543008215, :retweet=>43}
-{:name=>"@tharealkeezy", :text=>"\" you &amp; the 6 \" 🙌", :followers=>651, :user_id=>1370753306, :retweet=>0}
-{:name=>"@itsalldrizzy", :text=>"You &amp; the 6", :followers=>954, :user_id=>424595349, :retweet=>0}
-{:name=>"@ODdZmagenge", :text=>"can't even move in silence past you &amp; the 6 &amp; 6PM in New York... I can't fam !!  Beck needs to give this guy that award !!", :followers=>1388, :user_id=>361171468, :retweet=>0}
-{:name=>"@fcukmo", :text=>"RT @RetiredFilth: You &amp; The 6 &gt; Dear Mama", :followers=>267, :user_id=>375095867, :retweet=>26}
-{:name=>"@cheyannetnoel", :text=>"RT @imtherealronin: You &amp; the 6 the realest song on the tape.", :followers=>653, :user_id=>194971439, :retweet=>44}
-{:name=>"@el_teee_", :text=>"you &amp; the 6.", :followers=>432, :user_id=>2775128025, :retweet=>1}
-{:name=>"@chudnofskie", :text=>"You &amp; the 6\nRealest song I've heard from drake in a long while", :followers=>160, :user_id=>185352784, :retweet=>0}
-{:name=>"@shadeacrobat", :text=>"RT @whoisjaay: After listening to You &amp; the 6 http://t.co/6WzyWCGibE", :followers=>434, :user_id=>167599433, :retweet=>87}
-{:name=>"@ama302", :text=>"überlege gerade, eine abhandlung über die \"mpfh\"-adlibs auf drakes \"you &amp; the 6\" zu schreiben. @JuiceMagazin, macht schon wer die review?", :followers=>1901, :user_id=>23419938, :retweet=>0}
-{:name=>"@AzizSaidThat", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>10270, :user_id=>312297866, :retweet=>745}
-{:name=>"@PJaeSanneh", :text=>"You &amp; The 6 🙌🙌", :followers=>915, :user_id=>411114248, :retweet=>0}
-{:name=>"@laceywalker__", :text=>"You &amp; The 6 🙏", :followers=>2056, :user_id=>1534146379, :retweet=>0}
-{:name=>"@Emanuelcast10", :text=>"You &amp; The 6", :followers=>316, :user_id=>848056092, :retweet=>0}
-{:name=>"@arainetjay", :text=>"You &amp; The 6 🎧💥 #ifyourereadingthisitstoolate", :followers=>193, :user_id=>238257580, :retweet=>0}
-{:name=>"@kingkat__", :text=>"I'm going to call my mom and play you &amp; the 6 for her", :followers=>328, :user_id=>446716502, :retweet=>0}
-{:name=>"@daniellle_kemp", :text=>"You &amp; the 6 raised me right", :followers=>1144, :user_id=>264930865, :retweet=>0}
-{:name=>"@AJChristiansen8", :text=>"RT @brandonscountry: You &amp; the 6 🔥🔥🔥🔥🔥🔥🔥 good god", :followers=>230, :user_id=>188079537, :retweet=>2}
-{:name=>"@slice_uno", :text=>"RT @MattHasTheMusic: You &amp; The 6 is........wow.", :followers=>43, :user_id=>3012862263, :retweet=>1}
-{:name=>"@Wardrobekiller", :text=>"Drake x You &amp; the 6😩🙌", :followers=>787, :user_id=>1636047331, :retweet=>0}
-{:name=>"@D3Bound58", :text=>"So according to you &amp; the 6 drakes back with Voldemort #whatthehellaubrey", :followers=>682, :user_id=>466733452, :retweet=>0}
-{:name=>"@KING_IMPERIAL", :text=>"Drake sounds more like DRAKE on You &amp; the 6 track. This is shocking... #BlewMeAway #ifyourereadingthisitstoolate", :followers=>332, :user_id=>446374328, :retweet=>0}
-{:name=>"@adamm_tazi", :text=>"RT @ThaRealMiles: You &amp; The 6🔥", :followers=>304, :user_id=>1002775452, :retweet=>1}
-{:name=>"@Leiyahh_Shanade", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>1091, :user_id=>410082115, :retweet=>745}
-{:name=>"@IamBiggieSoft", :text=>"RT @baskgod: You &amp; The 6 might as well be me and my mom smh", :followers=>153, :user_id=>418949084, :retweet=>29}
-{:name=>"@ThirdWheelAnt", :text=>"RT @Glen_Da_Gr8: You &amp; The 6", :followers=>680, :user_id=>363805945, :retweet=>1}
-{:name=>"@_Idzz", :text=>"Energy, You &amp; The 6 and 6pm in New York are dope records.. Everything else is 😴😴", :followers=>293, :user_id=>135197695, :retweet=>0}
-{:name=>"@CaraRichardson_", :text=>"You &amp; The 6 raised me right, that shit saved my life.", :followers=>3114, :user_id=>228692084, :retweet=>0}
-{:name=>"@JadeCourtney", :text=>"RT @aLUVleigh123: You &amp; The 6. Swear my heart just broke.", :followers=>352, :user_id=>31075963, :retweet=>1}
-{:name=>"@sonniuhh", :text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :followers=>270, :user_id=>64648795, :retweet=>745}
-{:name=>"@C_Ride_GOG", :text=>"You &amp; The 6", :followers=>426, :user_id=>391468169, :retweet=>0}
-{:name=>"@KeyDefined", :text=>"You &amp; the 6", :followers=>21, :user_id=>3027169857, :retweet=>0}
-{:name=>"@k_wallington", :text=>"Drake x You &amp; the 6 🔥", :followers=>1150, :user_id=>458886087, :retweet=>0}
-{:name=>"@Din_Claire", :text=>"RT @The_Born_Sinner: It's actually the first song I liked RT @SizweDhlomo: ...And then, when all the hype dies down, they'll appreciate \"Yo…", :followers=>602, :user_id=>307311350, :retweet=>4}

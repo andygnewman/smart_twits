@@ -1,0 +1,100 @@
+{:name=>"@moroccanshawtyy", :text=>"RT @itsalldrizzy: #ifyourereadingthisitstoolate", :followers=>454, :user_id=>534979972, :retweet=>2}
+{:name=>"@The_NFamous", :text=>"#ifyourereadingthisitstoolate #Drake", :followers=>355, :user_id=>743491261, :retweet=>0}
+{:name=>"@Eitherpufforpas", :text=>"RT @_ittybittysarah: That new #Drake tho 😏 #IfYoureReadingThisItsTooLate http://t.co/VVVf9HbspI", :followers=>1136, :user_id=>116672476, :retweet=>1}
+{:name=>"@iamDMiller", :text=>"@Drake's \"#Energy\" is amazing. #Memphis10 #6God #ifyourereadingthisitstoolate", :followers=>1172, :user_id=>307861034, :retweet=>0}
+{:name=>"@Monica_0702", :text=>"Well @Drake made my music selection easy this morning #IfYoureReadingThisItsTooLate", :followers=>114, :user_id=>34857649, :retweet=>0}
+{:name=>"@LewisCutmore", :text=>"RT @HuSs__C: @Tyga realised he was acting his girls age after he tweeted it so it got deleted💀😭 #IfYoureReadingThisItsTooLate http://t.co/2…", :followers=>604, :user_id=>570086854, :retweet=>1}
+{:name=>"@JesalTV", :text=>"The new Drake definitely feels like a mixtape lol #ifyourereadingthisitstoolate #GetMeOffThisLabel", :followers=>1023, :user_id=>95858843, :retweet=>0}
+{:name=>"@aminaekic_", :text=>"#ifyourereadingthisitstoolate", :followers=>770, :user_id=>263896015, :retweet=>0}
+{:name=>"@j_lozon", :text=>"@Drake drops a new album overnight! Happy Friday! #ifyourereadingthisitstoolate", :followers=>111, :user_id=>889394689, :retweet=>0}
+{:name=>"@_ittybittysarah", :text=>"That new #Drake tho 😏 #IfYoureReadingThisItsTooLate http://t.co/VVVf9HbspI", :followers=>968, :user_id=>283683509, :retweet=>1}
+{:name=>"@7manskiii", :text=>"RT @Jaynish_Patel_: #IfYoureReadingThisItsTooLate", :followers=>4069, :user_id=>1541476394, :retweet=>239}
+{:name=>"@MickyCarlos", :text=>"RT @VerumBeats: “@Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/pU5hHiLOD5” all types of mad😱", :followers=>2694, :user_id=>87417093, :retweet=>18}
+{:name=>"@MrJamesBassett", :text=>"New drake material 👌 #ifyourereadingthisitstoolate", :followers=>438, :user_id=>153754964, :retweet=>0}
+{:name=>"@Castellano112", :text=>"Woke up to some fire!! 🔥🔥\n#ifyourereadingthisitstoolate", :followers=>261, :user_id=>176039225, :retweet=>0}
+{:name=>"@Middies3", :text=>"@Drake gave me a great bday present ... #ifyourereadingthisitstoolate", :followers=>524, :user_id=>568289002, :retweet=>0}
+{:name=>"@Guatalian", :text=>"🔥🔥🔥 that's all I gotta say #ifyourereadingthisitstoolate #drake http://t.co/IvBHKgm23B", :followers=>198, :user_id=>368663767, :retweet=>0}
+{:name=>"@DeeGotSwaagg", :text=>"#ifyourereadingthisitstoolate", :followers=>223, :user_id=>197552344, :retweet=>0}
+{:name=>"@_DavidMonye_", :text=>"RT @Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/3HDFCkjF0w", :followers=>1063, :user_id=>275080307, :retweet=>282}
+{:name=>"@Mhizz_NewNew", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>1301, :user_id=>57197470, :retweet=>18}
+{:name=>"@kyliekaay", :text=>"I woke up listening to #IfYoureReadingThisItsTooLate 🎶🔥", :followers=>565, :user_id=>129938861, :retweet=>0}
+{:name=>"@29JRG", :text=>"Drakes killing it again 👌🔥 #ifyourereadingthisitstoolate #drake #ovo http://t.co/qrZ9bKOYpV", :followers=>127, :user_id=>2217532969, :retweet=>0}
+{:name=>"@TTT056XYM", :text=>"RT @Josh_Halladay: #IfYoureReadingThisItsTooLate 🙌🙌", :followers=>36, :user_id=>53943045, :retweet=>1}
+{:name=>"@samibernardo", :text=>"oh yeah and don't forget that extra 12.99 for #ifyourereadingthisitstoolate", :followers=>339, :user_id=>269137942, :retweet=>0}
+{:name=>"@monalxsa", :text=>"RT @Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/3HDFCkjF0w", :followers=>135, :user_id=>2273562560, :retweet=>282}
+{:name=>"@DJMarcoMusic", :text=>"#IfYoureReadingThisItsTooLate 🔥🔥🔥🔥🔊", :followers=>224, :user_id=>276697750, :retweet=>0}
+{:name=>"@MikelDeMonte", :text=>"Had to.. #ifyourereadingthisitstoolate #OVOSound @Drake http://t.co/HNwVgJ1RR9", :followers=>276, :user_id=>378276912, :retweet=>0}
+{:name=>"@Hotladiesxxx", :text=>"#askpewds\nHappy Friday the 13th\n#ifyourereadingthisitstoolate\nDavid Carr\n#BritishSexPositions\nNew Drake", :followers=>1099, :user_id=>2982448012, :retweet=>0}
+{:name=>"@KatieeeMH", :text=>"RT @ASOS: UHMAGAWSH. Drake, you've made our Friday! #ifyourereadingthisitstoolate http://t.co/9RUlesQ2v7", :followers=>339, :user_id=>310817895, :retweet=>54}
+{:name=>"@ovoari", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>1102, :user_id=>907063566, :retweet=>18}
+{:name=>"@ASports89", :text=>"6 Man &gt;&gt; #ifyourereadingthisitstoolate", :followers=>305, :user_id=>216774734, :retweet=>0}
+{:name=>"@AtoDaRon", :text=>"Told yall Drake was gonna drop it! #DrizzySeason #ifyourereadingthisitstoolate http://t.co/Zz36lOmcNP", :followers=>574, :user_id=>116816597, :retweet=>0}
+{:name=>"@Maab4president", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>1086, :user_id=>1390812006, :retweet=>18}
+{:name=>"@risaxdelaney", :text=>"RT @thatdudekeaton: Having my headphones in as much as possible today. #ifyourereadingthisitstoolate", :followers=>667, :user_id=>1972416000, :retweet=>2}
+{:name=>"@ADCeasyas123", :text=>"#ifyourereadingthisitstoolate for what?", :followers=>410, :user_id=>101503426, :retweet=>0}
+{:name=>"@edlavelle10", :text=>"RT @OnlyInBOS: #IfYoureReadingThisItsTooLate", :followers=>77, :user_id=>2753033319, :retweet=>11}
+{:name=>"@rosegamal13", :text=>"RT @Olly_Murs_bulge: The trend #ifyourereadingthisitstoolate sounds like some creepy chain message I used to get when I was 12", :followers=>4013, :user_id=>1109368284, :retweet=>6}
+{:name=>"@IanGough10", :text=>"#ifyourereadingthisitstoolate  expecting a mixtape but jhheeezzzzz 🔥🔥🔥🔥", :followers=>141, :user_id=>421547260, :retweet=>0}
+{:name=>"@_alisssaaa_", :text=>"Drake pulled a Beyoncé &amp; I love that about him #ifyourereadingthisitstoolate", :followers=>216, :user_id=>1387859412, :retweet=>0}
+{:name=>"@aglassof_Sherry", :text=>"DRAKONCÉ #ifyourereadingthisitstoolate", :followers=>24, :user_id=>1934565235, :retweet=>0}
+{:name=>"@Man1act", :text=>"RT @JulysVeryOwnXO: @breakfastclubam Mad for what Drake done dropped some 🔥🔥🔥🔥 this mornin #ifyourereadingthisitstoolate", :followers=>126, :user_id=>1115801202, :retweet=>7}
+{:name=>"@faisalkhan22", :text=>"#AskAnne #askpewds  #ifyourereadingthisitstoolate get computer,social media hacking tricks and news at http://t.co/WUqxtgldv1 #webBdx", :followers=>27, :user_id=>99902188, :retweet=>0}
+{:name=>"@AyoBrowniie", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>1353, :user_id=>335637245, :retweet=>18}
+{:name=>"@jr7era", :text=>"Omg omg if I die I'm a legend #ifyourereadingthisitstoolate", :followers=>2821, :user_id=>485220629, :retweet=>0}
+{:name=>"@Scoby20", :text=>"#IfYoureReadingThisitsTooLate &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;", :followers=>757, :user_id=>361027174, :retweet=>0}
+{:name=>"@BJ_Johnson23", :text=>"RT @_KingOVO: I know my boy already got this riding to it. #ifyourereadingthisitstoolate   @BJ_Johnson23 ⌚️", :followers=>857, :user_id=>301821787, :retweet=>1}
+{:name=>"@abdul_1199", :text=>"RT @fouseyTUBE: thank you @Drake for giving everyone tweets and instagram captions full of quotes for the next 6 months. #IfYoureReadingThi…", :followers=>214, :user_id=>2768029043, :retweet=>561}
+{:name=>"@almirantedimas", :text=>"[Album] @Drake - #IfYoureReadingThisItsTooLate :: #GetItLIVE! http://t.co/G0iGXBHYTJ @LiveMixtapes", :followers=>64, :user_id=>1192695720, :retweet=>0}
+{:name=>"@ty_giggles", :text=>"I got people talking down on me like I give a fuck ! #drake #ifyourereadingthisitstoolate", :followers=>133, :user_id=>333071579, :retweet=>0}
+{:name=>"@pegilola", :text=>"RT@_asvpfari_:RT @XXL: Drake drops a new mixtape:  #ifyourereadingthisitstoolate ... \n RT@TaksunT:see&gt;http://t.co/mGgcHkTD3W", :followers=>1258, :user_id=>2157323743, :retweet=>0}
+{:name=>"@7manskiii", :text=>"RT @de__la__rosa: RT @Drake: Make sure you've HEARD http://t.co/7UdjkrJMD2 #drakemixtape #ifyourereadingthisitstoolate #drake #ovo #ovosoun…", :followers=>4069, :user_id=>1541476394, :retweet=>18}
+{:name=>"@VanessaMapfumo", :text=>"I wish I knew what was going on  #ifyourereadingthisitstoolate", :followers=>3292, :user_id=>365545532, :retweet=>0}
+{:name=>"@SmileLeegh", :text=>"RT @TheRapFest: And there you have it... CHESS #Drake #DrakeMixtape #ifyourereadingthisitstoolate http://t.co/x4zLeXmNEA", :followers=>454, :user_id=>403879419, :retweet=>169}
+{:name=>"@BJ_Johnson23", :text=>"@_KingOVO you kno it bruh!! Already on the playlist!!! #ifyourereadingthisitstoolate 🔥🔥", :followers=>857, :user_id=>301821787, :retweet=>0}
+{:name=>"@faisalkhan22", :text=>"#askpewds #AskAnne #ifyourereadingthisitstoolate  computer,social media hacking tricks and news http://t.co/WUqxtgldv1 #DiaMundialdelaRadio", :followers=>27, :user_id=>99902188, :retweet=>0}
+{:name=>"@naftee", :text=>"At Homeland Security, No Money Left Behind, deformity is an advantage to rising. #ifyourereadingthisitstoolate", :followers=>509, :user_id=>88262173, :retweet=>0}
+{:name=>"@Nautica_Scott", :text=>"pissed I can't get drake's album😤 #ifyourereadingthisitstoolate", :followers=>227, :user_id=>902754301, :retweet=>0}
+{:name=>"@irep_drizzy", :text=>"RT @WordOnRd: No sleep tonight. We up! WAY UP. #IfYoureReadingThisItsTooLate", :followers=>2251, :user_id=>429484917, :retweet=>848}
+{:name=>"@kdules8", :text=>"Can someone put that #drake album in my #dropbox ? #ifyourereadingthisitstoolate", :followers=>318, :user_id=>188252880, :retweet=>0}
+{:name=>"@JoelAsante", :text=>"RT @Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/3HDFCkjF0w", :followers=>343, :user_id=>586868478, :retweet=>282}
+{:name=>"@thebowgirl22", :text=>"To buy chicken nuggets after 8:00 pm #ifyourereadingthisitstoolate", :followers=>124, :user_id=>1894616498, :retweet=>0}
+{:name=>"@TfwNoGfDotPng", :text=>"Why don't you stay original? #askpewds #ifyourereadingthisitstoolate", :followers=>664, :user_id=>2201056292, :retweet=>0}
+{:name=>"@Tekera_xo", :text=>"RT @Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/3HDFCkjF0w", :followers=>233, :user_id=>69448763, :retweet=>282}
+{:name=>"@ReekForReal", :text=>"RT @__TJames: This is what a mixtape before your album should sound like. #ifyourereadingthisitstoolate", :followers=>1764, :user_id=>237984928, :retweet=>1}
+{:name=>"@BDA_Chosen_1", :text=>"#IfYoureReadingThisItsTooLate #Drizzy", :followers=>427, :user_id=>287708219, :retweet=>0}
+{:name=>"@_MiahJones", :text=>"RT @sotruep9483: thank you @Drake for giving everyone tweets and instagram captions full of quotes for the next 6 months. #IfYoureReadingTh…", :followers=>2028, :user_id=>417588447, :retweet=>109}
+{:name=>"@AnthonyEchevers", :text=>"RT @TheRaceDraft: #ifyourereadingthisitstoolate http://t.co/JNaxRTgeQ4", :followers=>359, :user_id=>529102755, :retweet=>514}
+{:name=>"@Laileix", :text=>"RT @fouseyTUBE: thank you @Drake for giving everyone tweets and instagram captions full of quotes for the next 6 months. #IfYoureReadingThi…", :followers=>466, :user_id=>185987643, :retweet=>561}
+{:name=>"@7manskiii", :text=>"RT @OMGkee: Somewhere in California, Tyga &amp; Kylie are talking about Drake over the string &amp; can between their treehouses.\n#ifyourereadingth…", :followers=>4069, :user_id=>1541476394, :retweet=>20}
+{:name=>"@the_mavs_fan", :text=>"RT @eli3rd116: Lmao this is great #ifyourereadingthisitstoolate #drake http://t.co/7j0PyFtsKD", :followers=>1117, :user_id=>301207899, :retweet=>447}
+{:name=>"@KissMyChanel", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>876, :user_id=>186978044, :retweet=>18}
+{:name=>"@ladyATee", :text=>"How is anyone's man gonna top this for Valentine's day?!? #DrizzySeason @ChampagnePapi #ifyourereadingthisitstoolate", :followers=>75, :user_id=>2536268150, :retweet=>0}
+{:name=>"@AshVeeCatch_em", :text=>"The strategic planning of @Drake dropping #IfYoureReadingThisItsTooLate on this date I'm just like http://t.co/noDBwECzkN", :followers=>774, :user_id=>30988388, :retweet=>0}
+{:name=>"@Michael_Deery", :text=>"#ifyourereadingthisitstoolate to stop me writing what I have already written", :followers=>22, :user_id=>2737458347, :retweet=>0}
+{:name=>"@JayyM_13", :text=>"Bruhhh!! 💯💯💯\n🔥🔥🔥🔥🔥 @Drake \n#IfYoureReadingThisItsTooLate", :followers=>82, :user_id=>614780456, :retweet=>0}
+{:name=>"@Cynthiarosybel", :text=>"\"...but my acting days are over fuck them niggas for life\" ✌️😎#ifyourereadingthisitstoolate #ThankYouDrake #anditsfriday @Drake", :followers=>84, :user_id=>1862611410, :retweet=>0}
+{:name=>"@jaimeedoiron", :text=>"#Drake dropped an album on iTunes last night 😍 #ifyourereadingthisitstoolate", :followers=>146, :user_id=>90675663, :retweet=>0}
+{:name=>"@shutupjamille_", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>1401, :user_id=>416355277, :retweet=>18}
+{:name=>"@fivshit", :text=>"#ifyourereadingthisitstoolate #sexy #followBack #girl #teamfollowback  http://t.co/RnjOEoSGeM http://t.co/10pDSLEUZr", :followers=>526, :user_id=>2909801126, :retweet=>0}
+{:name=>"@TickleReeds", :text=>"#IfYoureReadingThisItsTooLate...Drake just did a Drake...Fire!", :followers=>27, :user_id=>89987667, :retweet=>0}
+{:name=>"@Dolan_Maho33", :text=>"Moment of silence for the fire that came out last night when we were sleeping 🔥 #ifyourereadingthisitstoolate http://t.co/6rBEj1USTy", :followers=>333, :user_id=>1197078450, :retweet=>0}
+{:name=>"@TylanSenger", :text=>"MAD COW IS BACK!!!! #ifyourereadingthisitstoolate", :followers=>85, :user_id=>601261286, :retweet=>0}
+{:name=>"@faisalkhan22", :text=>"#DiaMundialdelaRadio #ifyourereadingthisitstoolate get computer,social media hacking tricks and news at http://t.co/WUqxtgldv1 #AskAnne", :followers=>27, :user_id=>99902188, :retweet=>0}
+{:name=>"@JulezTheGreat", :text=>"RT @k_m_wat: #ifyourereadingthisitstoolate", :followers=>571, :user_id=>1925096990, :retweet=>1}
+{:name=>"@Wisestepp", :text=>"Be Confident http://t.co/gPGv8mUl80 #ASFashionMarathon #ifyourereadingthisitstoolate   David Carr #ChapelHillShooting http://t.co/22KSvGZWsE", :followers=>4730, :user_id=>132157082, :retweet=>0}
+{:name=>"@jimins_booty", :text=>"RT @Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/3HDFCkjF0w", :followers=>171, :user_id=>928260151, :retweet=>282}
+{:name=>"@jameschambers20", :text=>"RT @JamzLdn: “@Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/UvuNcrhg61” people take rumours fo…", :followers=>389, :user_id=>146025342, :retweet=>7}
+{:name=>"@DJKabir_", :text=>"#ifyourereadingthisitstoolate is why @Drake will always be my favourite artist. Expect the unexpected #wayup", :followers=>188, :user_id=>292549276, :retweet=>0}
+{:name=>"@Goel06", :text=>"RT @BBCNewsbeat: If you love Drake, but you also love grammar, we fixed #ifyourereadingthisitstoolate for you http://t.co/ywScXoXWPH", :followers=>490, :user_id=>247054712, :retweet=>96}
+{:name=>"@Mr_Silavwe", :text=>"RT @ucizi13: Drake just had to release his album right before Valentine's Day #ifyourereadingthisitstoolate", :followers=>228, :user_id=>576419626, :retweet=>1}
+{:name=>"@izkhaliifa", :text=>"RT @AzizSaidThat: it's on repeat. 🙌🙏 #ifyourereadingthisitstoolate #Jungle http://t.co/1Cd8bTZhy6", :followers=>313, :user_id=>810187350, :retweet=>4}
+{:name=>"@xo_toriffic", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>301, :user_id=>959424662, :retweet=>18}
+{:name=>"@ourepictimes", :text=>"Science Wrong Again! Cholesterol-laden Food Now Good 4 You #ifyourereadingthisitstoolate NOT! http://t.co/ccTHsBP9TZ http://t.co/97JSh88c7L", :followers=>1943, :user_id=>1140263227, :retweet=>0}
+{:name=>"@jerrydoyle", :text=>"Science Wrong Again! Cholesterol-laden Food Now Good 4 You #ifyourereadingthisitstoolate NOT! http://t.co/HfSmKdykqA http://t.co/BYVtgrepz5", :followers=>9080, :user_id=>23362301, :retweet=>0}
+{:name=>"@faisalkhan22", :text=>"#ifyourereadingthisitstoolate #venerdi13 #webBdx #Hayatabad condem get computer,social media hacking tricks and news http://t.co/WUqxtgldv1", :followers=>27, :user_id=>99902188, :retweet=>0}
+{:name=>"@xxjewelsndrugs", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>2285, :user_id=>1090090759, :retweet=>18}
+{:name=>"@NourLakkis18", :text=>"PND 👏 #ifyourereadingthisitstoolate gotta love this man", :followers=>311, :user_id=>373282413, :retweet=>0}
+{:name=>"@The_Si_Mamba4", :text=>"Bout time drake put something decent out #ifyourereadingthisitstoolate", :followers=>147, :user_id=>91723999, :retweet=>0}
+{:name=>"@DanteF11", :text=>"RT @JamzLdn: “@Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/UvuNcrhg61” people take rumours fo…", :followers=>450, :user_id=>256248505, :retweet=>7}
+{:name=>"@hamzamal96", :text=>"RT @JamzLdn: “@Atompushers: #ifyourereadingthisitstoolate such a smart move what you think ? http://t.co/UvuNcrhg61” people take rumours fo…", :followers=>230, :user_id=>900175765, :retweet=>7}
+{:name=>"@asha_jenne", :text=>"Fcps #ifyourereadingthisitstoolate I have lost all feeling in my fingers.", :followers=>244, :user_id=>2329272537, :retweet=>0}
