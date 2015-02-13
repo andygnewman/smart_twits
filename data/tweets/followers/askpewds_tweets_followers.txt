@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+{:name=>"@Hnoof76y", :text=>"تعال العب حرب وتحداك تفوز .؟ من يتحدى\n\nسجل : http://t.co/dMZgRNTMZM\n\n#askpewds\n#FreeAJStaff\n#الهلال_الأهلي_نهائي_ولي_العهد\n1SFZ", :followers=>4326, :user_id=>710675024, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/K4G8xkmuCd  #askpewds #askpewds #askpewds #nrkdebatt #2hockey #debatten http://t.co/hppn8CqBJI", :followers=>2557, :user_id=>3000496763, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/rmgzuTioMF  #IsraelIsStillWaitingFor1D #askpewds http://t.co/hppn8CqBJI", :followers=>2557, :user_id=>3000496763, :retweet=>1}
+=======
+<<<<<<< HEAD
 {:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#ألي_يحبك\n#askpewds\n#نهائي_كأس_ولي_العهد\n3R4G http://t.co/8XBSgrwDYT", :followers=>26995, :user_id=>2336221570, :retweet=>0}
 {:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#askpewds\n#السيسي_ينهب_الخليج\n#أفضل_ثنائي_شاهدته\nIMLH http://t.co/bP4EptZSQk", :followers=>26995, :user_id=>2336221570, :retweet=>0}
 {:name=>"@1970Li1970", :text=>"RT @OLEG201414: #Украина отказалась амнистировать лидеров #ДНР и #ЛНР\nhttp://t.co/rteLdkWAhe\n💥#Украина💥#Новороссиия💥#askpewds💯%#хочучитатьв…", :followers=>12341, :user_id=>1111054572, :retweet=>2}
@@ -7,3 +12,4 @@
 {:name=>"@nade3456", :text=>"قفل تطبيق الواتس اب برقم سري\n\nعلى سوق بلاي\n\nhttp://t.co/MBvpYqrTrz\n\nسوي ريتويت فيه ناس محتاجتها\n#askpewds\nOZH0", :followers=>6678, :user_id=>622354992, :retweet=>0}
 {:name=>"@dgatglby", :text=>"حساب مميز وهام\n@DrGl6h\n\n#السيسي_ينهب_الخليج\n#الهلال_الأهلي_نهائي_ولي_العهد\n#تشويش_واضح\n#askpewds\n#حملة_12_ألف_وحداوي_ضد_السد\n2782", :followers=>1231, :user_id=>335764429, :retweet=>0}
 >>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

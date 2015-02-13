@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+{:name=>"@KeithBarrett", :text=>"Pumping the Petrol #BritishSexPositions @midnight", :followers=>25021, :user_id=>4298461, :retweet=>0}
+{:name=>"@KeithBarrett", :text=>"Polishing the Crown Jewels #BritishSexPositions @midnight", :followers=>25021, :user_id=>4298461, :retweet=>0}
+{:name=>"@mattyofhonor", :text=>"tweet (#9082) shagging, tea bagging, right rear the Wales #BritishSexPositions", :followers=>17583, :user_id=>62891428, :retweet=>0}
+=======
+<<<<<<< HEAD
 {:name=>"@adamandeve", :text=>"RT @Astroglide: Mind the gap \n#BritishSexPositions", :followers=>38747, :user_id=>14398700, :retweet=>2}
 {:name=>"@richardhammcnd", :text=>"RT @_IanBeale_: #BritishSexPositions The 'Banksy' I creep up on them, spray all over them, then vanish into the night  #Bealed", :followers=>9171, :user_id=>144588260, :retweet=>282}
 {:name=>"@GPollowitz", :text=>"#BritishSexPositions The \"Let's play Dr. Who\"", :followers=>7597, :user_id=>18493147, :retweet=>0}
@@ -7,3 +12,4 @@
 {:name=>"@letha_dorado", :text=>"TT USA\n3 #STYLEmusicvideo\n4 David Carr\n5 #BritishSexPositions\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/2QFbqDuDQc http://t.co/KTbtK52TqS", :followers=>5585, :user_id=>2922003072, :retweet=>1}
 {:name=>"@5sosnovelli", :text=>"@EvanEdinger #BritishSexPositions Corgi Style", :followers=>5443, :user_id=>415396505, :retweet=>0}
 >>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

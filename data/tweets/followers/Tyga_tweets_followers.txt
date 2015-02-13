@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+{:name=>"@ItsReIatabIe_", :text=>"RT @OfficiaITMZNewz: Kylie Jenner (age 17), Pregnant By Rapper Tyga (25).  \nFull Story here: http://t.co/dCg6VanRZQ\nhttp://t.co/kkwTmxaK9g", :followers=>244554, :user_id=>225625338, :retweet=>61}
+{:name=>"@JasonsTooReal", :text=>"RT @OfficiaITMZNewz: Kylie Jenner (age 17), Pregnant By Rapper Tyga (25).  \nFull Story here: http://t.co/dCg6VanRZQ\nhttp://t.co/kkwTmxaK9g", :followers=>201208, :user_id=>343587342, :retweet=>61}
+{:name=>"@Ietterman", :text=>"RT @OfficiaITMZNewz: Kylie Jenner (age 17), Pregnant By Rapper Tyga (25).  \nFull Story here: http://t.co/dCg6VanRZQ\nhttp://t.co/kkwTmxaK9g", :followers=>186351, :user_id=>887660666, :retweet=>61}
+=======
+<<<<<<< HEAD
 {:name=>"@Missosofine", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>14126, :user_id=>287375746, :retweet=>794}
 {:name=>"@_MusicGeek_LG", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7797, :user_id=>228536599, :retweet=>1008}
 {:name=>"@nomoucbieber2", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>7154, :user_id=>2384668045, :retweet=>1008}
@@ -7,3 +12,4 @@
 {:name=>"@yusufyuie", :text=>"RT @Markaaaay: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nTyga.... http://t.co/…", :followers=>9585, :user_id=>197823320, :retweet=>194}
 {:name=>"@Kontra402", :text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :followers=>4634, :user_id=>141340275, :retweet=>4157}
 >>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

@@ -1,4 +1,106 @@
 <<<<<<< HEAD
+{:name=>"@lotte_schiphuis", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>55, :user_id=>2934053181, :retweet=>78}
+{:name=>"@SolarMolars", :text=>"@Kotaku_UK #Nintendo3DSDay", :followers=>9, :user_id=>2508884559, :retweet=>0}
+{:name=>"@TordiVlogs", :text=>"RT @VideojuegosGAME: #Nintendo3DSDay, qué mejor que celebrarlo ¡que viendo sus inicios! (fechas europeas) @NintendoES http://t.co/ddJR5DQWn9", :followers=>290, :user_id=>165436107, :retweet=>56}
+{:name=>"@RedRoses4", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>5705, :user_id=>120476200, :retweet=>871}
+{:name=>"@XtreamGamezHD", :text=>"Maak #Nintendo3DSDay Trending en @GigCeez GEEFT WAT WEG!", :followers=>215, :user_id=>2782646694, :retweet=>0}
+{:name=>"@EllishaBerwick", :text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :followers=>546, :user_id=>58020932, :retweet=>904}
+{:name=>"@ng528", :text=>"@Kotaku_UK #Nintendo3DSday", :followers=>117, :user_id=>28269661, :retweet=>0}
+{:name=>"@guyjean440", :text=>"TT UK\n3 Friday the 13th\n4 #Nintendo3DSDay\n5 #STYLEmusicvideo\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/EUnRJSOuRP", :followers=>6179, :user_id=>2837580459, :retweet=>0}
+{:name=>"@DelanoRaposo", :text=>"@GigCeez #Nintendo3DSDay", :followers=>45, :user_id=>1543892324, :retweet=>0}
+{:name=>"@LegendsofSky", :text=>"@nintendolife #MH4U #Nintendo3DSDay My favorite minster is the Abyssal Lagiacrus because it is an epic sea monster.", :followers=>0, :user_id=>2388055160, :retweet=>0}
+{:name=>"@annafburns", :text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :followers=>194, :user_id=>972749202, :retweet=>1041}
+{:name=>"@TrendieUK", :text=>"\"Trending UK:02:59 PM GMT\"\n1. #BritishSexPositions\n2. #scottishsexpositions\n3. Friday the 13th\n4. #Nintendo3DSDay", :followers=>4554, :user_id=>2797973256, :retweet=>0}
+{:name=>"@suggletdeyes_", :text=>"RT @JoeyEssex_: Friday The 13th isn't unlucky it's lucky .. Got myself a new Reem 3DS #Nintendo3DSDay  @NintendoUK http://t.co/kwB9DO6gBx", :followers=>428, :user_id=>500201912, :retweet=>50}
+{:name=>"@Octoguin", :text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :followers=>57, :user_id=>484621660, :retweet=>1041}
+{:name=>"@JustMeLuuk", :text=>"@GigCeez SUPER GRAAG #Nintendo3DSDay", :followers=>204, :user_id=>2723285175, :retweet=>0}
+{:name=>"@JohnMayhamm", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>5, :user_id=>2260774021, :retweet=>871}
+{:name=>"@EmoElmoooo", :text=>"@GigCeez Aye ik doemee x3 #Nintendo3DSDay", :followers=>194, :user_id=>163780260, :retweet=>0}
+{:name=>"@Podloot", :text=>"#Nintendo3DSDay leuk", :followers=>208, :user_id=>1241843018, :retweet=>0}
+{:name=>"@kookiharry", :text=>"RT @georgeujworld: Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay…", :followers=>1165, :user_id=>2501335840, :retweet=>376}
+{:name=>"@IanFleming77", :text=>"#Nintendo3DSDay My favourite boss is Vaati (TLOZ Four Swords Adventures) via @N1ntendo", :followers=>1025, :user_id=>42638811, :retweet=>0}
+{:name=>"@JohnMayhamm", :text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :followers=>5, :user_id=>2260774021, :retweet=>904}
+{:name=>"@pep_thefireman", :text=>"@NintenDaan Fire Emblem #Nintendo3DSDay", :followers=>64, :user_id=>1013980555, :retweet=>0}
+{:name=>"@LukeMclean17", :text=>"@NintendoUK #Nintendo3DSDay Smash  Bros is my favourite love the new additions to the character roster. Want a new 3DS so bad it hurts 😄😁😳😮😏", :followers=>5, :user_id=>2899514038, :retweet=>0}
+{:name=>"@dazred", :text=>"@NintendoUK Smash Bros 3DS #Nintendo3DSDay", :followers=>1195, :user_id=>21125885, :retweet=>0}
+{:name=>"@Quatropenotti", :text=>"RT @bol_com_games: Het is #Nintendo3DSDay en om dat te vieren geven we bij de 400 nieuwe volgers een witte NEW 3DS weg! RT, volg en #win ht…", :followers=>5, :user_id=>2499700017, :retweet=>774}
+{:name=>"@garcia1andrix", :text=>"Hopefully buying the New Nintendo 3DS XL today! #Nintendo3DSDay", :followers=>34, :user_id=>1442978268, :retweet=>0}
+{:name=>"@Podloot", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>208, :user_id=>1241843018, :retweet=>78}
+{:name=>"@GideonDM", :text=>"Whoeii #Nintendo3DSDay", :followers=>83, :user_id=>2805954148, :retweet=>0}
+{:name=>"@Slyboy93", :text=>"RT @nintendolife: Tweet us to be in with a chance of winning a limited edition #MH4U New 3DS XL bundle! #Nintendo3DSDay http://t.co/eOFlzVd…", :followers=>80, :user_id=>2729196586, :retweet=>74}
+{:name=>"@SPEastMidlands", :text=>".@NintendoUK #nintendo3DSDay Thinking my favourite game will become Monster Hunter 4 Ultimate as my old fav was MH3U!", :followers=>280, :user_id=>1725051716, :retweet=>0}
+{:name=>"@jacja", :text=>"RT @selltocom: Happy #Nintendo3DSDay what is your favourite 3DS game? Mines got to be Bravely Default or Monster Hunter 4", :followers=>2034, :user_id=>47180329, :retweet=>1}
+{:name=>"@Bradders1620", :text=>"Has to be Fire Emblem Awakening! Amazing! #Nintendo3DSDay", :followers=>217, :user_id=>86338365, :retweet=>0}
+{:name=>"@JPearce1994", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>65, :user_id=>2778886830, :retweet=>871}
+{:name=>"@DelanoRaposo", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>45, :user_id=>1543892324, :retweet=>78}
+{:name=>"@GideonDM", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>83, :user_id=>2805954148, :retweet=>78}
+{:name=>"@oliver12345", :text=>"RT @NintendoDE: Dedede's Drum Dash Deluxe ist jetzt im Nintendo #eShop erhältlich. Video: http://t.co/paMgrInpPQ #Nintendo3DSDay http://t.c…", :followers=>198, :user_id=>16713372, :retweet=>5}
+{:name=>"@oliver12345", :text=>"RT @NintendoDE: Jetzt im #eShop: Kirby Fighters Deluxe! Video: http://t.co/ayL7FmVZ0g #Nintendo3DSDay http://t.co/U2TjLncXBx", :followers=>198, :user_id=>16713372, :retweet=>4}
+{:name=>"@XtreamGamezHD", :text=>"@GigCeez SUPER graag #Nintendo3DSDay", :followers=>215, :user_id=>2782646694, :retweet=>0}
+{:name=>"@XboxTiger", :text=>"RT @nintendolife: Happy #Nintendo3DSDay - How would you like to win a limited edition #MH4U New 3DS XL bundle? Good luck folks! http://t.co…", :followers=>1036, :user_id=>1007296946, :retweet=>33}
+{:name=>"@kur0uzu", :text=>"@NintendoUK #Nintendo3DSDay super smash bros", :followers=>18, :user_id=>2582607539, :retweet=>0}
+{:name=>"@Gamerspalacio", :text=>"Zum #Nintendo3DSDay meldet Nintendo die Downloads der Woche im #eShop - http://t.co/0qgGajh90J", :followers=>41, :user_id=>2476940749, :retweet=>0}
+{:name=>"@MrBraadworst", :text=>"@GigCeez #Nintendo3DSDay", :followers=>43, :user_id=>545804986, :retweet=>0}
+{:name=>"@Pondypond", :text=>"RT @NintendoUK: The time has come... The Legend of #Zelda: Majora's Mask 3D is out now on Nintendo #3DS! #Nintendo3DSDay http://t.co/zaXpIL…", :followers=>120, :user_id=>346011524, :retweet=>138}
+{:name=>"@mankychicken", :text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :followers=>273, :user_id=>56109375, :retweet=>1041}
+{:name=>"@XtreamGamezHD", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>215, :user_id=>2782646694, :retweet=>78}
+{:name=>"@StreamWereld", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>37, :user_id=>2995956713, :retweet=>78}
+{:name=>"@sazza2008", :text=>"@NintendoUK Luigi's Mansion 2! #Nintendo3DSDay", :followers=>571, :user_id=>2166412095, :retweet=>0}
+{:name=>"@ADSTAH", :text=>"@nintendolife fave monster is Pikachu because if you wanna get him onto a crowded bus you have to Pokemon or somthing. #Nintendo3DSDay #MH4U", :followers=>187, :user_id=>20513486, :retweet=>0}
+{:name=>"@TheKootj", :text=>"#Nintendo3DSDay #PU Ik wil de 3DS winnen want dan kan ik lekker eindelijk in 3D naar het leven kijken!!!", :followers=>141, :user_id=>975955020, :retweet=>0}
+{:name=>"@MrBraadworst", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>43, :user_id=>545804986, :retweet=>78}
+{:name=>"@kevin_556", :text=>"RT @WhiteRockMiku: Testons! #Nintendo3DSDay et #ConcoursDeepBluCom http://t.co/TCFzimrQMZ", :followers=>525, :user_id=>368539873, :retweet=>1}
+{:name=>"@WindSlasher1", :text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :followers=>4, :user_id=>2226876967, :retweet=>1041}
+{:name=>"@_INSENSIBLE_", :text=>"RT @AndreaFaulds: oh crap I need to get Majora's Mask 3D #Nintendo3DSDay", :followers=>182, :user_id=>125146065, :retweet=>2}
+{:name=>"@HylianEmiel", :text=>"ZELDA! #Nintendo3DSDay #Gamekings", :followers=>845, :user_id=>162395877, :retweet=>0}
+{:name=>"@arvisai", :text=>"RT @legend_of_zelda: Started a little early... #MajorasMask3D #Nintendo3DSDay http://t.co/LFXKWeflF3", :followers=>19, :user_id=>264635749, :retweet=>34}
+{:name=>"@courtneycaglar", :text=>": @NintendoUK my favourite Nintendo games are zelda and Pokemon because there just awesome!!!#Nintendo3DSDay", :followers=>181, :user_id=>831267546, :retweet=>0}
+{:name=>"@sazza2008", :text=>"RT @NintendoUK: Tell us your favourite #3DS game using #Nintendo3DSDay, before 3pm, and you could win all of this! http://t.co/FvDFhFELr7", :followers=>571, :user_id=>2166412095, :retweet=>196}
+{:name=>"@TheHardcoreHawk", :text=>"@nintendolife #Nintendo3DSDay #MH4U Teostra", :followers=>66, :user_id=>1950485346, :retweet=>0}
+{:name=>"@DijkstraTjerk", :text=>"Majora's Mask Special Edition zou geweldig staan bij m'n Wind Waker Wiiu #Nintendo3DSDay #Gamekings daarom zou ik hem graag willen winnen!", :followers=>2, :user_id=>1129529845, :retweet=>0}
+{:name=>"@_thisbrutallove", :text=>"RT @NintendoUK: Happy #Nintendo3DSDay everyone! The #New3DS and New Nintendo 3DS XL systems are available in stores now! http://t.co/7Yy6tF…", :followers=>62, :user_id=>2361694646, :retweet=>177}
+{:name=>"@WasabiGamer", :text=>"Walked half-way across my city in -37 degree celcius weather just to buy this, I'm so happy now :) #Nintendo3DSDay http://t.co/jUICeyO8LL", :followers=>57, :user_id=>2404990909, :retweet=>0}
+{:name=>"@free2bean67", :text=>"Hij is binnen! 😀 moai no? #Nintendo3DSDay http://t.co/mAY6jKJKsf", :followers=>101, :user_id=>155831302, :retweet=>0}
+{:name=>"@pauln241", :text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :followers=>1141, :user_id=>40188207, :retweet=>904}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/rK84yoGzgS  #vrijdagde13e #Nintendo3DSDay #waterookgebeurt #askpewds http://t.co/hppn8CqBJI", :followers=>2557, :user_id=>3000496763, :retweet=>0}
+{:name=>"@1D4ever_lauren", :text=>"#Nintendo3DSDay my favourite game would be animal crossing cause I love all the things u can do like visit your friends partys clothes etc21", :followers=>405, :user_id=>2232197349, :retweet=>0}
+{:name=>"@XtreamGamezHD", :text=>"@GigCeez #Nintendo3DSDay #Nintendo3DSDay\n#Nintendo3DSDay #Nintendo3DSDay", :followers=>215, :user_id=>2782646694, :retweet=>0}
+{:name=>"@plunkettmonster", :text=>"Moments away from getting my hands on MH4U Collectors Edition! #Nintendo3DSDay", :followers=>80, :user_id=>190161326, :retweet=>0}
+{:name=>"@Max_Elastikboy", :text=>"RT @NintendoFrance: Kirby Fighters Deluxe est disponible sur le #eShop : http://t.co/W7SOxWwsLO #Nintendo3DSDay http://t.co/rHYr48T9MT", :followers=>74, :user_id=>1491156890, :retweet=>8}
+{:name=>"@jorrevernelen", :text=>"RT @4gamershq: RT en volg @4gamershq om dankzij @NintendoBE_NL kans te maken op een exclusieve New 3DS XL + game! #Nintendo3DSDay http://t.…", :followers=>3, :user_id=>2446099849, :retweet=>133}
+{:name=>"@ShaunaAhoy", :text=>"RT @NintendoUK: Happy #Nintendo3DSDay everyone! The #New3DS and New Nintendo 3DS XL systems are available in stores now! http://t.co/7Yy6tF…", :followers=>125, :user_id=>1576156530, :retweet=>177}
+{:name=>"@TheHardcoreHawk", :text=>"RT @nintendolife: Happy #Nintendo3DSDay - How would you like to win a limited edition #MH4U New 3DS XL bundle? Good luck folks! http://t.co…", :followers=>66, :user_id=>1950485346, :retweet=>33}
+{:name=>"@JustMeLuuk", :text=>"@GigCeez #Nintendo3DSDay #Nintendo3DSDay", :followers=>204, :user_id=>2723285175, :retweet=>0}
+{:name=>"@jeanpierre1233", :text=>"TT UK\n3 Friday the 13th\n4 #Nintendo3DSDay\n5 #STYLEmusicvideo\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/tEAvVRQHdO http://t.co/5h83Wb6ujI", :followers=>1238, :user_id=>2597027190, :retweet=>0}
+{:name=>"@joan580", :text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :followers=>178, :user_id=>19819380, :retweet=>1041}
+{:name=>"@AngeltFour", :text=>"#Nintendo3DSDay ❤ #RT #Nintendo3DSDay: Freitag, der 13 # Gl�ckstag f�r alle Handheld-Fans - Games #ch  http://t.co/2YseFsxbSy", :followers=>694, :user_id=>2909795444, :retweet=>0}
+{:name=>"@TomCuster", :text=>"@nintendolife Nibelsnarf is the best monster because it's a leviathan--in the desert. That's terrifyingly cool. #MH4U #Nintendo3DSDay", :followers=>111, :user_id=>414242988, :retweet=>0}
+{:name=>"@GanbatteN", :text=>"RT @NintendoFrance: Kirby Fighters Deluxe est disponible sur le #eShop : http://t.co/W7SOxWwsLO #Nintendo3DSDay http://t.co/rHYr48T9MT", :followers=>23, :user_id=>2677587678, :retweet=>8}
+{:name=>"@JustMeLuuk", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>204, :user_id=>2723285175, :retweet=>78}
+{:name=>"@marivi925", :text=>"RT @georgeujworld: Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay…", :followers=>39, :user_id=>2869625736, :retweet=>376}
+{:name=>"@XBOXONEFIGHTER", :text=>"RT @nintendolife: Happy #Nintendo3DSDay - How would you like to win a limited edition #MH4U New 3DS XL bundle? Good luck folks! http://t.co…", :followers=>41, :user_id=>1683167510, :retweet=>33}
+{:name=>"@Stackzyyy", :text=>"RT @Rylan: Being a very big kid playing mario kart on the 3ds proper going to town #Nintendo3DSDay x", :followers=>47, :user_id=>2502556236, :retweet=>8}
+{:name=>"@bruniebox", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>619, :user_id=>89978757, :retweet=>871}
+{:name=>"@razansayyad15", :text=>"#Nintendo3DSDay\n \nPlease vote for the best singer Laith Abu joda 😃\n👉 he has an amazing voice\n http://t.co/Hc0OhxQmR7", :followers=>891, :user_id=>2855606989, :retweet=>0}
+{:name=>"@Depsi_88", :text=>"Got my New 3DS! It's beautiful.... Along with my favourite game Majora's Mask! #Nintendo3DSDay", :followers=>9, :user_id=>2499880928, :retweet=>0}
+{:name=>"@WingedVoX", :text=>"RT @nintendolife: Tweet us to be in with a chance of winning a limited edition #MH4U New 3DS XL bundle! #Nintendo3DSDay http://t.co/eOFlzVd…", :followers=>95, :user_id=>452481642, :retweet=>74}
+{:name=>"@psnILOVESTELLA", :text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :followers=>0, :user_id=>389451008, :retweet=>1041}
+{:name=>"@TheSmashKing", :text=>"@NintendoUK #Nintendo3DSDay so many to pick from, but I'd have to go with Kingdom hearts dream drop distance!", :followers=>1357, :user_id=>479926821, :retweet=>0}
+{:name=>"@mycactusandme", :text=>"Finally got it!!!! Hopefully I'll finish it this time (: #MajorasMask3D #Nintendo3DSDay http://t.co/B7fbCPMCUO", :followers=>91, :user_id=>30077557, :retweet=>0}
+{:name=>"@LuNeTakaneko", :text=>"@nintendolife Rathalos because of the memories of hunting it with friends! #MH4U #Nintendo3DSDay", :followers=>153, :user_id=>2189484656, :retweet=>0}
+{:name=>"@michaelslater22", :text=>"I wish I was getting the New Nintendo 3DS today 😞 #Nintendo3DSDay #nomoney", :followers=>321, :user_id=>492113994, :retweet=>0}
+{:name=>"@Sharonabc_", :text=>"RT @XGNnl: @Sharonabc_ Gevonden! Echt heel mooi zeg! Wat een creatief zusje heb jij zeg! Ook nog een echte #Zelda fan! #Nintendo3DSDay", :followers=>816, :user_id=>219671223, :retweet=>1}
+{:name=>"@FinaI_Smasher", :text=>"@NintenDaan I would say Ocarina of Time 3D. Although nostalgic for me now, it would be a hell of an adventure on the NN3DS. #Nintendo3DSDay", :followers=>393, :user_id=>1695300212, :retweet=>0}
+{:name=>"@worldwarL", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>696, :user_id=>201259143, :retweet=>871}
+{:name=>"@LauraLive1998", :text=>"RT @GigCeez: Boyz, ik mag dit weg geven, wat moet je doen? ervoor zorgen dat #Nintendo3DSDay trending word, mij volgen en dit RTen http://t…", :followers=>157, :user_id=>392691992, :retweet=>78}
+{:name=>"@1D4ever_lauren", :text=>"#Nintendo3DSDay my favourite game would be animal crossing cause I love all the things u can do like visit your friends partys clothes etc20", :followers=>405, :user_id=>2232197349, :retweet=>0}
+{:name=>"@Lissssas", :text=>"#Nintendo3DSDay #news Nintendo 3DS Day: ecco tutte le uscite - Eurogamer  http://t.co/Od7DwlVALD", :followers=>865, :user_id=>2869572173, :retweet=>0}
+{:name=>"@dayglo44", :text=>"@IGNUK #Nintendo3DSDay #MH4U", :followers=>682, :user_id=>1542917918, :retweet=>0}
+{:name=>"@Ricklink6", :text=>"Mijn favoriete hoofdbaas uit de Zelda serie is Ganon uit de wind waker! Ben benieuwd naar de andere hun favo's ;D\n#Nintendo3DSDay @N1ntendo", :followers=>1, :user_id=>2882962126, :retweet=>0}
+{:name=>"@Max_Elastikboy", :text=>"RT @NintendoFrance: Dedede's Drum Dash Deluxe est disponible sur le Nintendo #eShop. Vidéo : http://t.co/KazdSUl74x #Nintendo3DSDay http://…", :followers=>74, :user_id=>1491156890, :retweet=>4}
+{:name=>"@1D4ever_lauren", :text=>"#Nintendo3DSDay my favourite game would be animal crossing cause I love all the things u can do like visit your friends partys clothes etc19", :followers=>405, :user_id=>2232197349, :retweet=>0}
+=======
+<<<<<<< HEAD
 {:name=>"@CreativeMoron", :text=>"RT @NintendoUK: Happy #Nintendo3DSDay everyone! The #New3DS and New Nintendo 3DS XL systems are available in stores now! http://t.co/7Yy6tF…", :followers=>1781, :user_id=>517430442, :retweet=>170}
 {:name=>"@jangerretzen", :text=>"@N1ntendo Geen twijfel: mijn favoriet is Gohdan uit The Wind Waker! Dat hoofd met twee handen die loskomen uit de muur :) #Nintendo3DSDay", :followers=>27, :user_id=>564356155, :retweet=>0}
 {:name=>"@GutsFun", :text=>"[Concours] Console New 3DS XL collector #MajorasMask #Zelda + goodies à gagner!  #Nintendo3DSDay #ConcoursDeepBluCom http://t.co/5iOCIeeYg8", :followers=>43, :user_id=>75792140, :retweet=>0}
@@ -200,3 +302,4 @@
 {:name=>"@MegaManModelAAA", :text=>"RT @NintendoUK: Dedede's Drum Dash Deluxe is out now on Nintendo #eShop! Trailer: http://t.co/yibvEGDkFo #Nintendo3DSDay http://t.co/rJwKtH…", :followers=>148, :user_id=>1432319407, :retweet=>5}
 {:name=>"@brevemangas", :text=>"RT @NintendoES: ¡Dedede's Drum Dash Deluxe ya está en Nintendo #eShop! Tráiler: http://t.co/c89NAFNeWr #Nintendo3DSDay http://t.co/I3zwTAHU…", :followers=>311, :user_id=>2827577223, :retweet=>5}
 >>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb
