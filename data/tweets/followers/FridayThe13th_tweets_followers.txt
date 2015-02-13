@@ -1,3 +1,3 @@
-{:name=>"@VirginRadioTO", :text=>"RT @KellaOnair: I was born on the #13th so loving today #FridayThe13th 🙌", :followers=>30874, :user_id=>23775585, :retweet=>1}
-{:name=>"@casiestewart", :text=>"I like to get tattooed on #FridayThe13th but not today. Here's one of my favs, reminds me of my Nana in NZ. http://t.co/dzImW3Ritr", :followers=>21443, :user_id=>14661313, :retweet=>0}
-{:name=>"@ChiveOnChicago", :text=>"RT @TheChiveIL: Happy #FridayThe13th http://t.co/glVGWAv1Z4", :followers=>7771, :user_id=>628470074, :retweet=>3}
+{:name=>"@paulm_official", :text=>"Rain, rain go away come again another day. Or better still rain when we are all asleep 👍 #FridayThe13th", :followers=>177149, :user_id=>381633083, :retweet=>1}
+{:name=>"@eBooksGOT", :text=>"RT @UviPoznansky: Uvi Poznansky: Let the blood in my caldron boil \nhttp://t.co/fbhIvqeZWO\n#FridayThe13th\nhttp://t.co/X5wC3fLunw", :followers=>40883, :user_id=>1733223890, :retweet=>18}
+{:name=>"@FamousFrocks", :text=>"Yessssss #ItsFriday #FridayThe13th #thatfridayfeeling http://t.co/bgGPQF3JSW", :followers=>31512, :user_id=>1182764150, :retweet=>0}

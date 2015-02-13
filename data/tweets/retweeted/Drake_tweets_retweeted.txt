@@ -1,3 +1,3 @@
-{:text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :retweet=>89669}
-{:text=>"RT @camerondallas: Drake mixtape just dropped 🔥", :retweet=>6606}
-{:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4486}
+{:text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :retweet=>90834}
+{:text=>"RT @Miggi_DoubleM: Drake's Album cover look like a suicide note from a Chick-Fil-A cow 💀 http://t.co/IaWilrtCi6", :retweet=>3362}
+{:text=>"RT @SAVAGETVVITTER: WHEN YOU REALIZED DRAKE JUST FINESSED YOU http://t.co/W8Wm4gK77j", :retweet=>3359}

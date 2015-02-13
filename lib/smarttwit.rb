@@ -16,6 +16,7 @@ class SmartTwit < Sinatra::Base
     @followers = tweets.find_followers("./data/tweets/followers/#{trend_ref}_tweets_followers.txt")
     @mentions = tweets.find_mentions(5, "./data/tweets/tweets/#{trend_ref}_tweets.txt")
     @words = tweets.find_words(10, "./data/tweets/tweets/#{trend_ref}_tweets.txt")
+    @media = tweets.find_media("./data/tweets/media/#{trend_ref}_med.txt")
     erb :layout
   end
   # start the server if ruby file executed directly

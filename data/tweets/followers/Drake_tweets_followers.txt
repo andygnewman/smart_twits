@@ -1,3 +1,3 @@
-{:name=>"@ZacksPosts", :text=>"RT @medzzzx: Twitter and Instagram about to be full of quotes from Drake's mixtape for the next 3 months🔥🔥🔥", :followers=>81305, :user_id=>220770296, :retweet=>492}
-{:name=>"@Ivan_splash", :text=>"RT @__allSHEwrote: “@Ivan_splash: Tyga heard Drake's diss when he was changing Kylie's diaper and he lost it” 😂😂", :followers=>11515, :user_id=>303805862, :retweet=>1}
-{:name=>"@LavishWaysEnt", :text=>"Drake &amp; Nas To Perform At Sprite NBA All-Star Weekend Show: Hold the presses. In the final hour, after Drake’s... http://t.co/y9CwOzeylA", :followers=>10599, :user_id=>386421647, :retweet=>0}
+{:name=>"@StonedVines", :text=>"RT @69Pixelz: @Drake http://t.co/6kxMgM0VSP", :followers=>63065, :user_id=>466589317, :retweet=>57}
+{:name=>"@THEALIENMESSIAH", :text=>"RT @69Pixelz: @Drake http://t.co/6kxMgM0VSP", :followers=>61349, :user_id=>2178782821, :retweet=>57}
+{:name=>"@THCMOONMAN", :text=>"RT @69Pixelz: @Drake http://t.co/6kxMgM0VSP", :followers=>55274, :user_id=>449614269, :retweet=>57}

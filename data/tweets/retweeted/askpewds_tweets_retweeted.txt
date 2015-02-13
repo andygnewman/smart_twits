@@ -1,3 +1,3 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1652}
-{:text=>"RT @gamingmukexx: Do you ship lashton or Muke #askpewds http://t.co/VH1XJAXnPc", :retweet=>24}
-{:text=>"RT @Yopika21: #askpewds Bonjour Marine Le Pen. Vous n'avez pas honte ?", :retweet=>14}
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1695}
+{:text=>"RT @MYNARRYCREW: #askpewds how do you feel about this http://t.co/22JlRtZpon", :retweet=>71}
+{:text=>"RT @thebrosdaily: That moment when I'm asleep and poods does a Q&amp;A and I miss it. #askpewds", :retweet=>47}

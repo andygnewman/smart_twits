@@ -31,4 +31,8 @@ class Tweets
     filter_top_results(number, frequnecy_hash)
   end
 
+  def find_media(file_path)
+    find_args(file_path, [:media, :tweet])
+  end
+
 end

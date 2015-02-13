@@ -1,3 +1,3 @@
-{:name=>"@GtaNoble", :text=>"You &amp; The 6 - @Drake #Momma #ItsReal  #RAW", :followers=>20571, :user_id=>223280880, :retweet=>0}
-{:name=>"@AlxvnderMcqueen", :text=>"you &amp; the 6 ✊", :followers=>13437, :user_id=>263377019, :retweet=>1}
-{:name=>"@popmeez", :text=>"you &amp; the 6 @Drake 🔥✋", :followers=>7907, :user_id=>124056348, :retweet=>0}
+{:name=>"@OfficialCPrince", :text=>"You &amp; The 6 is so right with it....i feel like i known Drake's family 4 time G", :followers=>175661, :user_id=>372922600, :retweet=>0}
+{:name=>"@illmindPRODUCER", :text=>"Scoop that.\nhttps://t.co/82Aa9DPGtt\nDrake \"You &amp; The 6\" (Prod. by Boi1da x !llmind x 40) http://t.co/B5N2mxjcAr", :followers=>51823, :user_id=>18408253, :retweet=>2}
+{:name=>"@TrendieWW", :text=>"\"You &amp; The 6\" shows up as trending topic world wide at rank 10", :followers=>13312, :user_id=>2793605047, :retweet=>0}

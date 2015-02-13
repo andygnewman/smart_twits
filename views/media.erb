@@ -1,0 +1,5 @@
+<ul>
+  <% @media.each do |media| %>
+    <li><a href="http://twitter.com/<%= media[0] %>"><%= media[0] %></a> <%= media[1] %></li>
+  <% end %>
+</ul>

@@ -1,3 +1,3 @@
-{:name=>"@Awesomenezz", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/xj7EZ51iMH", :followers=>45864, :user_id=>24080811, :retweet=>0}
-{:name=>"@Ivan_splash", :text=>"RT @__allSHEwrote: “@Ivan_splash: Tyga heard Drake's diss when he was changing Kylie's diaper and he lost it” 😂😂", :followers=>11515, :user_id=>303805862, :retweet=>1}
-{:name=>"@EvilJeanyis", :text=>"Yo @tyga youza bitch", :followers=>8705, :user_id=>26612737, :retweet=>0}
+{:name=>"@Wasanga_Mayhem", :text=>"😂😂😂😂😂 RT @drizzyxcole: Never forget. @Tyga http://t.co/9UmY5VzWjO”\"", :followers=>15221, :user_id=>155477336, :retweet=>0}
+{:name=>"@AdmireMissMarie", :text=>"\"@JaywanInc: Haaaaaaaa!  @Tyga is oh so hurt. http://t.co/g1oUyTuLEx\" omg 😂", :followers=>12594, :user_id=>34343960, :retweet=>0}
+{:name=>"@90stiffany", :text=>"RT @ParvesKoyes: When Drake said this about @Tyga http://t.co/gnlGWZmwuB", :followers=>7423, :user_id=>1587662599, :retweet=>1263}

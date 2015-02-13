@@ -48,5 +48,3 @@ module Helper
     array
   end
 end
-
-
