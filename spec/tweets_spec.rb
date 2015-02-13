@@ -66,7 +66,9 @@ describe 'Tweets' do
   end
 
   context 'find media' do
-    xit "can read a media file and return an array of"
+    it "can read a media file and return an array of trending tweets from media organisations" do
+      expect(tweets.find_media('spec/test_data/media.txt')).to include(["@Independent", "RT @thei100: The unluckiest things that have happened on Friday 13 http://t.co/p4Aj50FH0N #FridayThe13th http://t.co/HU2xu3nyhf"])
+    end
   end
 
 end
