@@ -1,3 +1,0 @@
-{:name=>"@SizweDhlomo", :text=>"RT @The_Born_Sinner: It's actually the first song I liked RT @SizweDhlomo: ...And then, when all the hype dies down, they'll appreciate \"Yo…", :followers=>389297, :user_id=>36061357, :retweet=>2}
-{:name=>"@SizweDhlomo", :text=>"...And then, when all the hype dies down, they'll appreciate \"You &amp; The 6\"...", :followers=>389297, :user_id=>36061357, :retweet=>7}
-{:name=>"@BrandonLumpkins", :text=>"RT @DCBABY: Got @Drake - You &amp; The 6 on #repeat tho.\n🔥🎶💽💯", :followers=>20028, :user_id=>307503445, :retweet=>9}

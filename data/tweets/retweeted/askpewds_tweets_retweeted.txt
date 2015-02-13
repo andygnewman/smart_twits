@@ -1,3 +1,0 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>680}
-{:text=>"RT @JaySyko_: #askpewds Wrap yourself in your bed covers, with Edgar on your head and scream at @MarziaPie", :retweet=>1}
-{:text=>"RT @EdgarsPoo: @pewdiepie why am I tired @twerkingpoods #askpewds", :retweet=>1}
