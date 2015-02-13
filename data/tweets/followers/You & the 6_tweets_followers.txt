@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 {:name=>"@MistaBadBoi", :text=>"Drake - You &amp; The 6", :followers=>49330, :user_id=>266391735, :retweet=>1}
 {:name=>"@MistaBadBoi", :text=>"10 Bands. You &amp; The 6. Best songs on the album. #IfYoureReadingThisItsTooLate", :followers=>49330, :user_id=>266391735, :retweet=>0}
 {:name=>"@JaredEvan", :text=>".@illmindPRODUCER produced potentially one of Drake's best records ever. Give it up for this dude. You &amp; the 6.", :followers=>36700, :user_id=>21094661, :retweet=>2}
+=======
+<<<<<<< HEAD
+{:name=>"@MissMandii", :text=>"you &amp; the 6 raised me right. no lie.", :followers=>11742, :user_id=>186497228, :retweet=>0}
+{:name=>"@InFamE_Xclusive", :text=>"You &amp; The 6 is equivalent to everything from Take Care but evolved into a more reflective point of view. Sequel to Look What You've Done", :followers=>5783, :user_id=>326980514, :retweet=>0}
+{:name=>"@letha_dorado", :text=>"TT USA\n6 #askpewds\n7 You &amp; The 6\n8 10 Bands\n9 6 Man\n10 Drake\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/2QFbqDuDQc http://t.co/H6qWM99r0z", :followers=>5585, :user_id=>2922003072, :retweet=>0}
+=======
+{:name=>"@TrendieWW", :text=>"\"You &amp; The 6\" shows up as trending topic world wide at rank 10", :followers=>13311, :user_id=>2793605047, :retweet=>0}
+{:name=>"@WANIMINAJ", :text=>"You &amp; the 6", :followers=>6197, :user_id=>172076945, :retweet=>0}
+{:name=>"@InFamE_Xclusive", :text=>"You &amp; The 6 is equivalent to everything from Take Care but evolved into a more reflective point of view. Sequel to Look What You've Done", :followers=>5784, :user_id=>326980514, :retweet=>0}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

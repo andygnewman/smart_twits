@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 {:name=>"@YoungSpittah92", :text=>"RT @THEREALEVK: I think @YoungSpittah92 is so dope and hot with them bars #RespectTheUnit Happy Birthday btw #FridayThe13th", :followers=>23216, :user_id=>35891464, :retweet=>1}
 {:name=>"@MiamiBeach411", :text=>"Happy #FridayThe13th. Love from #Miami ❤️ http://t.co/zDOAOM9jvn", :followers=>15156, :user_id=>14083211, :retweet=>0}
 {:name=>"@beacon126", :text=>"RT @rich_farley: #FridayThe13th #ff #shouties to @F8fulH  @louieZ54 @SawyerFrdrx @ehs54 @TygrHawk @dc82204 @beewee9357  @SharpDadAhead @bea…", :followers=>12114, :user_id=>253220290, :retweet=>1}
+=======
+<<<<<<< HEAD
+{:name=>"@Daily_Star", :text=>"How many people are afraid of flying on #FridayThe13th ?http://t.co/KKjuVHD4Dd", :followers=>108332, :user_id=>20442930, :retweet=>0}
+{:name=>"@ItsMajicBaby", :text=>"Here's to Friday! Friday the 13th #Majic #MajicCityNetowrk #MCN #Music #LWA #Miami #TGIF #FridayThe13th #YesWeekend http://t.co/lf7xFUN3Sd", :followers=>64411, :user_id=>108101397, :retweet=>0}
+{:name=>"@XFilesFanaticus", :text=>"RT @MrLender: With #FridayThe13th upon us, it may be unlucky for some ... but not for our #BigFridayGiveaway winners! Stay tuned... http://…", :followers=>15083, :user_id=>92235951, :retweet=>43}
+=======
+{:name=>"@bloodyvengeance", :text=>"RT @mosh13505: #FridayThe13th @Vincenza15 @bloodyvengeance @DieBoogeyManDie @ZombitchNY @M4GN0L1A @mooredog82 @sarah_samedi http://t.co/idG…", :followers=>13476, :user_id=>54899121, :retweet=>5}
+{:name=>"@SonyPicturesCan", :text=>"Break out the fangs - it's #FridayThe13th! @HotelT #HotelT2 #HotelTransylvania2 #comingsoon #September2015 #movie http://t.co/R4oF9twdJg", :followers=>9194, :user_id=>73460068, :retweet=>0}
+{:name=>"@Jackson4s", :text=>"Where are you Jason Voorhees? #FridayThe13th", :followers=>5867, :user_id=>218979633, :retweet=>0}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

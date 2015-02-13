@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 {:name=>"@guyjean440", :text=>"TT UK\n3 Friday the 13th\n4 #Nintendo3DSDay\n5 #STYLEmusicvideo\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/EUnRJSOuRP", :followers=>6179, :user_id=>2837580459, :retweet=>0}
 {:name=>"@RedRoses4", :text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :followers=>5705, :user_id=>120476200, :retweet=>871}
 {:name=>"@TrendieUK", :text=>"\"Trending UK:02:59 PM GMT\"\n1. #BritishSexPositions\n2. #scottishsexpositions\n3. Friday the 13th\n4. #Nintendo3DSDay", :followers=>4554, :user_id=>2797973256, :retweet=>0}
+=======
+<<<<<<< HEAD
+{:name=>"@NintendoES", :text=>"¡Dedede's Drum Dash Deluxe ya está en Nintendo #eShop! Tráiler: http://t.co/c89NAFNeWr #Nintendo3DSDay http://t.co/I3zwTAHUXI", :followers=>125242, :user_id=>494308508, :retweet=>1}
+{:name=>"@NintendoEurope", :text=>"Dedede's Drum Dash Deluxe is out now on Nintendo #eShop! Trailer: http://t.co/fUIf28p1r8 #Nintendo3DSDay http://t.co/parhk2CCXv", :followers=>113823, :user_id=>493980491, :retweet=>2}
+{:name=>"@NintendoUK", :text=>"Dedede's Drum Dash Deluxe is out now on Nintendo #eShop! Trailer: http://t.co/yibvEGDkFo #Nintendo3DSDay http://t.co/rJwKtH6ZcS", :followers=>98028, :user_id=>493974431, :retweet=>5}
+=======
+{:name=>"@Gamekings", :text=>"Je maakt nog steeds kans op deze Special Edition van Majora's Mask! Tweet mee op #Nintendo3DSDay en #Gamekings http://t.co/lSYhdJ35gl", :followers=>28063, :user_id=>21334955, :retweet=>0}
+{:name=>"@lu_castillo321", :text=>"RT @georgeujworld: Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay…", :followers=>4817, :user_id=>430311966, :retweet=>365}
+{:name=>"@AreaGames", :text=>"RT @nintendolife: Don't miss our amazing #MH4U competition! You could win a copy of the game or an awesome New 3DS XL. #Nintendo3DSDay http…", :followers=>2078, :user_id=>19586827, :retweet=>7}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb
