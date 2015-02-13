@@ -1,0 +1,3 @@
+{:text=>"RT @BBCBreaking: Steve Strange, lead singer of 1980s pop band Visage, has died aged 55 following heart attack, his record label says http:/…", :retweet=>2117}
+{:text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :retweet=>908}
+{:text=>"RT @garyjkemp: Spandau in tears tonight. We dedicated our performance to Steve Strange. Without him we would never have been here. A maveri…", :retweet=>507}

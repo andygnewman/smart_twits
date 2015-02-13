@@ -1,0 +1,100 @@
+{:name=>"@hummeryk", :text=>"British singer Steve Strange dies at 55 http://t.co/e8n3LqLFQ1", :followers=>721, :user_id=>1975367341, :retweet=>0}
+{:name=>"@nestorbova", :text=>"RT @tnLaViola: Murió Steve Strange, cantante de Visage. http://t.co/sarXoMIZUb http://t.co/TxY7CagIWH", :followers=>672, :user_id=>154001686, :retweet=>16}
+{:name=>"@fryattstreet", :text=>"BBC News - Steve Strange: The New Romantic from the valleys http://t.co/Cn09Q3KmdT", :followers=>885, :user_id=>1641577164, :retweet=>0}
+{:name=>"@Matthew_Wright", :text=>"RT @Telegraph: Following the death of New Romantic pioneer Steve Strange, we document his life in pictures http://t.co/o4XYeVMajB http://t.…", :followers=>28522, :user_id=>2193949099, :retweet=>3}
+{:name=>"@notiziedioggi", :text=>"Muore Steve Strange, cantante dei Visage, fu il mentore del New Romantic http://t.co/oQd96JR7eT", :followers=>218, :user_id=>1513362168, :retweet=>0}
+{:name=>"@m80radio_", :text=>"Nos ha dejado Steve Strange de #Visage R.I.P. http://t.co/BC8obvbjT2 @TheRealVisage http://t.co/PooKz4ciQm", :followers=>17968, :user_id=>346611425, :retweet=>0}
+{:name=>"@TwittPublic", :text=>"New Romantic pioneer Steve Strange dies of heart attack aged 55 http://t.co/dFFvXkllXq", :followers=>1693, :user_id=>189602488, :retweet=>0}
+{:name=>"@TailoredTV", :text=>"New Romantic pioneer Steve Strange dies of heart attack aged 55 http://t.co/0DowzcQ8Oj", :followers=>4410, :user_id=>155209649, :retweet=>0}
+{:name=>"@tulbrai", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/D2CpC6eT43", :followers=>3, :user_id=>490861515, :retweet=>0}
+{:name=>"@rhinebaer", :text=>"RT @tagesspiegel: #Visage-Sänger Steve Strange ist tot. Unser Nachruf:  http://t.co/vckGrsfsfw http://t.co/apAgGEWTGo", :followers=>77, :user_id=>410909451, :retweet=>4}
+{:name=>"@ebonyrq", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/VF4E1wAJen", :followers=>2, :user_id=>492713995, :retweet=>0}
+{:name=>"@KFDes", :text=>"Steve Strange, mort d'un nouveau romantique: Le chanteur du groupe Visage avait connu un énorme succès avec Fa... http://t.co/Raelk0XHEP", :followers=>374, :user_id=>2293425548, :retweet=>0}
+{:name=>"@culture_fr", :text=>"Steve Strange, mort d'un nouveau romantique: Le chanteur du groupe Visage avait connu un énorme succès avec Fa... http://t.co/flcbc1qK3K", :followers=>2271, :user_id=>166555204, :retweet=>0}
+{:name=>"@marcellocarlin", :text=>"RT @TheCSullivan: A couple of thoughts about Steve Strange:\nhttp://t.co/cKpnT6OoLt", :followers=>551, :user_id=>68929576, :retweet=>1}
+{:name=>"@billybozzio", :text=>"RT @visage_jp: VisageのフロントマンSteve Strangeが2015年2月12日にエジプトの病院にて心臓発作が原因でお亡くなりになったそうです。享年55歳。ご冥福をお祈りいたします。http://t.co/bYu1NFBxXp #visage_jp", :followers=>121, :user_id=>113048434, :retweet=>149}
+{:name=>"@SGPPOLICEMIDIPY", :text=>"Notre jingle d'accueil du site régional : \"Fade to grey\" (VISAGE - 1980) à la mémoire de Steve Strange, décédé à l'âge de 53 ans.", :followers=>382, :user_id=>534067398, :retweet=>0}
+{:name=>"@billybozzio", :text=>"RT @jage_jp: ああ、オフィシャルサイトにも載ってしまった…。\n\nSTEVE STRANGE RIP 1959-2015\nhttp://t.co/cPDCCkFJZz http://t.co/uZo8uhrylG", :followers=>121, :user_id=>113048434, :retweet=>42}
+{:name=>"@Orbacious", :text=>"The untimely death of Steve Strange prompted me to search for this one off docu-drama from 2010.. https://t.co/wINa4RbGPC", :followers=>195, :user_id=>2750268433, :retweet=>0}
+{:name=>"@lizzybizzg", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/oyCHe8sBZo", :followers=>16, :user_id=>490398682, :retweet=>0}
+{:name=>"@splumbXx", :text=>"R.i.p Steve Strange, such sad news. ✨ http://t.co/sAiJ5xmRsu", :followers=>98, :user_id=>289948276, :retweet=>0}
+{:name=>"@dearg1974", :text=>"RT @Telegraph: Following the death of New Romantic pioneer Steve Strange, we document his life in pictures http://t.co/o4XYeVMajB http://t.…", :followers=>96, :user_id=>28202230, :retweet=>3}
+{:name=>"@shudenea", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/JsAZQ1Pitz", :followers=>57, :user_id=>491496509, :retweet=>0}
+{:name=>"@emilybugx", :text=>"So gutted Steve Strange has died, absolute legend and icon, always wished me Happy Birthday 😪💕 #RIPSteveStrange http://t.co/pc8XjDqh0l", :followers=>1366, :user_id=>40673891, :retweet=>0}
+{:name=>"@ChandNidhi04", :text=>"RT @SkyNews: Eighties pop star Steve Strange has died of a heart attack in Egypt at the age of 55 http://t.co/vMiC0qqXsP http://t.co/4yOvLE…", :followers=>53, :user_id=>2998585740, :retweet=>52}
+{:name=>"@fistmonh", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/PYPDzBrX4M", :followers=>61, :user_id=>491546768, :retweet=>0}
+{:name=>"@TheCSullivan", :text=>"A couple of thoughts about Steve Strange:\nhttp://t.co/cKpnT6OoLt", :followers=>1073, :user_id=>281031118, :retweet=>1}
+{:name=>"@GiorgioValletta", :text=>"http://t.co/B6t8pdHAmB http://t.co/RzNMSI9BEZ", :followers=>824, :user_id=>8926812, :retweet=>0}
+{:name=>"@erickbecerra1", :text=>"RT @Sintesisweb: Fallece Steve Strange vocalista de la banda 'Visage' http://t.co/q6pPPAZ9h0 http://t.co/tkx7WzIvDX", :followers=>2625, :user_id=>107280900, :retweet=>1}
+{:name=>"@MemberD", :text=>"TOTP 80: RIP Steve Strange http://t.co/06KtbRYP4Q", :followers=>187, :user_id=>36616297, :retweet=>0}
+{:name=>"@billybozzio", :text=>"RT @hanagata884: 心の兄貴Steve Strangeが亡くなった。また日本に行けるようにするよ。次はより多くの場所でライブをしたいと連絡を貰ったのは今年の始め。パーティーボーイの裏の顔はとても繊細な気持ちの持ち主だった。ありがとうスティーヴ。全てが宝物 http…", :followers=>121, :user_id=>113048434, :retweet=>38}
+{:name=>"@chibitomg", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/MbA1wzmX3U", :followers=>35, :user_id=>493247970, :retweet=>0}
+{:name=>"@tenkakk", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/lsnAK3s3I1", :followers=>46, :user_id=>492879222, :retweet=>0}
+{:name=>"@leriomaggio", :text=>"RT @IL0VEthe80s: Steve Strange ~ Visage The 1980s New Romantic Pioneer https://t.co/2w4yxUZlwm", :followers=>84, :user_id=>2646154070, :retweet=>26}
+{:name=>"@Telegraph", :text=>"Following the death of New Romantic pioneer Steve Strange, we document his life in pictures http://t.co/o4XYeVMajB http://t.co/uVufx6EJOv", :followers=>836758, :user_id=>16343974, :retweet=>3}
+{:name=>"@jacqmum50", :text=>"Visage - Fade To Grey: http://t.co/hmh4YHd8u5 via @YouTube. so sad to hear that Steve Strange has died. :(", :followers=>31, :user_id=>141320042, :retweet=>0}
+{:name=>"@JOWEBB7", :text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :followers=>97, :user_id=>497979067, :retweet=>908}
+{:name=>"@debseeHH", :text=>"RT @RobertElms: Click below if you'd like to hear Robert's tribute to Steve Strange, who died yesterday aged 55 http://t.co/lKrGXI6Ugk", :followers=>161, :user_id=>53761757, :retweet=>3}
+{:name=>"@TheRobMo", :text=>"RT @DJRustyEgan: 2015 ➤ Original Blitz Kids say farewell to Steve Strange, their host, pivot, style icon, frie… http://t.co/rd1f6YeLl2 via …", :followers=>43, :user_id=>367132078, :retweet=>5}
+{:name=>"@80sDuranGirl", :text=>"RT @DJRustyEgan: 2015 ➤ Original Blitz Kids say farewell to Steve Strange, their host, pivot, style icon, frie… http://t.co/rd1f6YeLl2 via …", :followers=>634, :user_id=>492565295, :retweet=>5}
+{:name=>"@JustLikeAstaire", :text=>"RT @realshanerichie: My friend Steve strange The peacock prince RIP lovely man, you were the real deal xxx http://t.co/zvcH9IJS3R", :followers=>801, :user_id=>316848530, :retweet=>90}
+{:name=>"@aquatag", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/dkJsQwoemQ", :followers=>33, :user_id=>489695156, :retweet=>0}
+{:name=>"@EstadioDiario", :text=>"Fallece Steve Strange, vocalista de la banda “Visage” http://t.co/nuOhhExGIW http://t.co/qLLpeOV9SX", :followers=>61596, :user_id=>129364127, :retweet=>0}
+{:name=>"@CelebrityShout", :text=>"British New Romantic Icon Steve Strange Dies http://t.co/17nIVL82BT", :followers=>1059, :user_id=>582723109, :retweet=>0}
+{:name=>"@garciajoy", :text=>"RIP Steve Strange", :followers=>130, :user_id=>149869864, :retweet=>0}
+{:name=>"@Schroedinger99", :text=>"Oh dear, Steve Strange has died http://t.co/Q0iqBjdnTj :-(", :followers=>1325, :user_id=>23420217, :retweet=>0}
+{:name=>"@Popkontext", :text=>"R.I.P. Steve Strange http://t.co/dvuGIPWoEY", :followers=>1007, :user_id=>29968426, :retweet=>0}
+{:name=>"@nKLRZ", :text=>"RT @BreakingNews: Steve Strange, lead singer of 1980s band Visage, has died following heart attack, record label says - @BBCBreaking http:/…", :followers=>1151, :user_id=>21457777, :retweet=>124}
+{:name=>"@realmadchester", :text=>"RT @NWAttitude_: R.I.P Steve Strange - https://t.co/mjOrCcCS5G", :followers=>627, :user_id=>2221437727, :retweet=>1}
+{:name=>"@Ernst33", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/a4RoDaPnoz", :followers=>461, :user_id=>52947034, :retweet=>0}
+{:name=>"@JustLikeAstaire", :text=>"RT @BBC6Music: #nowplaying Visage 'Fade to Grey' for Steve Strange http://t.co/cpQUr0GBBB", :followers=>801, :user_id=>316848530, :retweet=>44}
+{:name=>"@nKLRZ", :text=>"RT @BBCBreaking: Steve Strange, lead singer of 1980s pop band Visage, has died aged 55 following heart attack, his record label says http:/…", :followers=>1151, :user_id=>21457777, :retweet=>2117}
+{:name=>"@mbootyspoon", :text=>"so weird about Steve Strange I watched that doc that focuses on him at the end and his clean up :(", :followers=>1367, :user_id=>23829271, :retweet=>0}
+{:name=>"@JustLikeAstaire", :text=>"RT @garyjkemp: Spandau in tears tonight. We dedicated our performance to Steve Strange. Without him we would never have been here. A maveri…", :followers=>801, :user_id=>316848530, :retweet=>507}
+{:name=>"@ChabaKhan", :text=>"Listen to Visage - Moon Over Moscow (Chaba Khan Sexy Mix) #np on #SoundCloud RIP Steve Strange...😥😘 Forever https://t.co/SUlOWiY1qq", :followers=>20, :user_id=>2975541223, :retweet=>0}
+{:name=>"@JonathanMKemp", :text=>"The banishing of the mavericks is pop music’s loss http://t.co/7dPjq9rgTZ", :followers=>1427, :user_id=>249190827, :retweet=>1}
+{:name=>"@CasLondon", :text=>"BLESS THE GREAT STEVE STRANGE AND THE LATE DESMOND DEKKER REGGAE MUSIC AT THE SAVOY AND JERK CHICKEN http://t.co/saOXLsN5Av", :followers=>653, :user_id=>26425188, :retweet=>0}
+{:name=>"@AngusE99", :text=>"@seanny02 @ElginHK84 in the words of @nige_cornwell58  #Visage are my favourite!  Will be playing their music all weekend RIP Steve Strange", :followers=>81, :user_id=>1431535974, :retweet=>0}
+{:name=>"@tonicbell", :text=>"I've just found out about Steve strange, can't believe It. I loved visage xxxx RIP Steve", :followers=>376, :user_id=>360766984, :retweet=>0}
+{:name=>"@QbanKendy", :text=>"RT @guardian: Steve Strange: one of pop's secret architects http://t.co/o1Ej4nIKQ0", :followers=>758, :user_id=>1692174140, :retweet=>22}
+{:name=>"@TweetsAndSounds", :text=>"British New Romantic Icon Steve Strange Dies http://t.co/AzpCoDuFZb #tours #concerts", :followers=>7579, :user_id=>925720404, :retweet=>0}
+{:name=>"@LED_Sign_Truck", :text=>"British New Romantic Icon Steve Strange Dies http://t.co/GFaO6uLb65", :followers=>62, :user_id=>2959150241, :retweet=>0}
+{:name=>"@NovedadesAca", :text=>"#Música Fallece Steve Strange vocalista de la banda \"Visage\" http://t.co/NobRXDpcYb", :followers=>41837, :user_id=>227487320, :retweet=>0}
+{:name=>"@diariodfmx", :text=>"Fallece Steve Strange vocalista de la banda “Visage” http://t.co/FgLzGXtGqu http://t.co/29ocVRwRbH", :followers=>11563, :user_id=>462273118, :retweet=>0}
+{:name=>"@ToxicTerror13", :text=>"Túuuuuuuuuuuuu, que se ha muerto Steve Strange.", :followers=>767, :user_id=>631529715, :retweet=>0}
+{:name=>"@sarah13360280", :text=>"Demise of Steve Strange, sad, my memories of the 80's no smiling, pity... my teeth looked better in those days.", :followers=>5, :user_id=>2598342204, :retweet=>0}
+{:name=>"@tenkostark", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/AjrCfTDdDc", :followers=>2, :user_id=>493186915, :retweet=>0}
+{:name=>"@megpickard", :text=>"Just a reminder: Steve Strange was *a* maverick, not *in the* Mavericks. Though I'd quite like to hear his cover of Dance The Night Away.", :followers=>11711, :user_id=>20056740, :retweet=>0}
+{:name=>"@K_Johnson4788", :text=>"RT @japicegirl: RIP Steve Strange \nIt was just an year ago. You were here for your first and last shows in Tokyo. http://t.co/UgW1vASBrG", :followers=>40, :user_id=>1025704370, :retweet=>1}
+{:name=>"@flacky38", :text=>"RT @utv: Stars pay tribute to Steve Strange: Stars including Boy George, Simon Le Bon and Billy Idol have paid tribute ... http://t.co/HxYr…", :followers=>293, :user_id=>736963784, :retweet=>1}
+{:name=>"@McZOMBI", :text=>"REP, STEVE STRANGE http://t.co/rPfZwycHd5", :followers=>482, :user_id=>91626472, :retweet=>0}
+{:name=>"@lupuscanh", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/68qkUIDaSd", :followers=>2, :user_id=>490473779, :retweet=>0}
+{:name=>"@BeatrizMCruz", :text=>"RT @ChooseDigital: New Romantic icon Steve Strange dies http://t.co/h6UW9MX5d3", :followers=>35, :user_id=>891460692, :retweet=>1}
+{:name=>"@roryd", :text=>"Sad news... Steve Strange dies at 55 #seminal #eightiesicon #fadetogrey http://t.co/9Dcu0qwJbF", :followers=>83, :user_id=>16502652, :retweet=>0}
+{:name=>"@JusticeMack", :text=>"Steve Strange, rest in peace. Visage lead singer dies aged 55 http://t.co/PRzJSVR6au", :followers=>1140, :user_id=>22490226, :retweet=>0}
+{:name=>"@akinaokap", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/0p6E97OFgW", :followers=>5, :user_id=>490850483, :retweet=>0}
+{:name=>"@cobrablv", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/SBw0HDoghz", :followers=>20, :user_id=>493143923, :retweet=>0}
+{:name=>"@lazycunt", :text=>"BBC News - Steve Strange: The New Romantic from the valleys http://t.co/NmOisq02LH", :followers=>563, :user_id=>140821265, :retweet=>0}
+{:name=>"@KTB96", :text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :followers=>197, :user_id=>457801062, :retweet=>908}
+{:name=>"@melamorsicata", :text=>"E’ morto Steve Strange, noto cantante dei Visage. Qui la loro bellissima Fade To Grey http://t.co/QthK878wQX", :followers=>25660, :user_id=>640073, :retweet=>0}
+{:name=>"@Marek48553557", :text=>"Nie żyje Steve Strange. Lider zespołu Visage nie żyje. - http://t.co/M54KXZe9tF przez http://t.co/ezI6eNPOMH", :followers=>72, :user_id=>2350061262, :retweet=>0}
+{:name=>"@UKClubNews", :text=>"RT @DJDaveClarke: Sad to hear that Steve Strange died , very influential with some timeless 12 inches being very influential on me and the …", :followers=>6321, :user_id=>1385454276, :retweet=>14}
+{:name=>"@badassbri59", :text=>"RIP Steve Strange \nhttps://t.co/MMVk0KUzcE", :followers=>167, :user_id=>216108995, :retweet=>0}
+{:name=>"@KTB96", :text=>"STEVE STRANGE IS DEAD :-(", :followers=>197, :user_id=>457801062, :retweet=>0}
+{:name=>"@sandungacat", :text=>"RT @marcellocarlin: Funny how all the music writers who hated Steve Strange in 1981 love him now. Or maybe they still hate him.", :followers=>55, :user_id=>323824783, :retweet=>1}
+{:name=>"@MisterTeahawk", :text=>"#NowPlaying Fade to Grey\nVisage • Fade to Grey on #Spotify &gt; R.I.P. Steve Strange LEGEND!!!!  http://t.co/eayz146NNX", :followers=>1323, :user_id=>74758515, :retweet=>0}
+{:name=>"@EmergingIbiza", :text=>"RT @DJDaveClarke: Sad to hear that Steve Strange died , very influential with some timeless 12 inches being very influential on me and the …", :followers=>2615, :user_id=>2290027868, :retweet=>14}
+{:name=>"@isilrr", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/PD0A9Z6aSh", :followers=>15, :user_id=>490829370, :retweet=>0}
+{:name=>"@TomFoolerySays", :text=>"R.I.P Steve Strange, a sometimes troubled but still creative genius of a man. http://t.co/RXNlkL0X2b", :followers=>180, :user_id=>1257806102, :retweet=>0}
+{:name=>"@rowe55a", :text=>"RT @MarcAlmond: Steve Strange a person who made the World a more colourful and wonderfully mad place, was always so sweet to me from way ba…", :followers=>87, :user_id=>773402568, :retweet=>53}
+{:name=>"@yvonne_courtney", :text=>"'DIY glamour..fabulous nobodies..'Sigh. #bygonememories MT @petepaphides Nail-on-the-head piece about Steve Strange.. http://t.co/v8dCMFy954", :followers=>461, :user_id=>213822750, :retweet=>0}
+{:name=>"@bexxyd", :text=>"RT @MissBeehive: Steve Strange always so sweet when I saw him. Remembering 80's fun at Camden Palace. Very sad.", :followers=>3014, :user_id=>16707818, :retweet=>3}
+{:name=>"@HollywoodZoom", :text=>"Eighties Icons Mourn The Sudden Death Of Visage Frontman Steve Strange:  http://t.co/ll4LTnAEb9", :followers=>964, :user_id=>470466452, :retweet=>0}
+{:name=>"@bexxyd", :text=>"“@MissBeehive: Steve Strange always so sweet when I saw him. Remembering 80's fun at Camden Palace. Very sad.” What a shock #RIP", :followers=>3014, :user_id=>16707818, :retweet=>0}
+{:name=>"@London__Fashion", :text=>"RT @DaiIyLONDON: CAMDEN: Steve Strange: The custodian of New Romantic pop - BBC News http://t.co/SK9sRA4zV7 #London", :followers=>197, :user_id=>2924712817, :retweet=>1}
+{:name=>"@salatielreal", :text=>"Morre cantor Steve Strange, ídolo dos anos 80 com o grupo Visage - http://t.co/RXa9OhtMn7", :followers=>9285, :user_id=>359933307, :retweet=>0}
+{:name=>"@NWAttitude_", :text=>"R.I.P Steve Strange - https://t.co/mjOrCcCS5G", :followers=>703, :user_id=>2870606189, :retweet=>1}
+{:name=>"@studioabg", :text=>"David Bowie (Official) заедно с лондонските #BlitzKids ( #BlitzClub, Steve Strange )  в един от най-скъпите за... http://t.co/qtKUogZCYt", :followers=>13, :user_id=>2903073200, :retweet=>0}
+{:name=>"@ninjakoq", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/Pzulu8IhSF", :followers=>4, :user_id=>490371044, :retweet=>0}
+{:name=>"@hatoritosk", :text=>"Steve Strange: The custodian of New Romantic pop http://t.co/gBUymgXSHl", :followers=>17, :user_id=>492648929, :retweet=>0}
+{:name=>"@ZaineGriffOffic", :text=>"RT @visage_jp: Steve Strange's Legacy - A Club for Heroes \nhttp://t.co/efu77KeVcq #visage_jp", :followers=>203, :user_id=>1258905512, :retweet=>9}
