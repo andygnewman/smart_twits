@@ -1,3 +1,3 @@
-{:name=>"@RoddyGUITAR", :text=>"A safe and happy Friday the 13th to ALL! #FridayThe13th http://t.co/nitIvUcOdO", :followers=>19403, :user_id=>152291277, :retweet=>0}
-{:name=>"@guyjean440", :text=>"TT UK\n1 #BritishSexPositions\n2 #FridayThe13th\n3 #askpewds\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/mld8ZwB9ua", :followers=>6177, :user_id=>2837580459, :retweet=>0}
-{:name=>"@cerysww", :text=>"#FridayThe13th 's tip:\n\nMake Time to manage your #time ! http://t.co/pK2EPi6W1g", :followers=>4429, :user_id=>1243847930, :retweet=>0}
+{:name=>"@LA_SLASHER", :text=>"It's #FridayThe13th people. You know what the means. Do something nice for a complete stranger today #LA... I'll be watching.", :followers=>116491, :user_id=>860176891, :retweet=>0}
+{:name=>"@LALPUSHP", :text=>"RT @LVNancy: @abitx2u TY 🍀HAGD all🍀#FridayThe13th🍀 @lupash7 @scdorn @NWhist @PatsyO1963 @Yvonne33333 @lissa3213love @Doodisgirl @mayday2744…", :followers=>20703, :user_id=>83346193, :retweet=>2}
+{:name=>"@Fresno_State", :text=>"Happy #FridayThe13th! Don't worry - this Bulldog's got your back. #TimeOut #FresnoState http://t.co/LTkqy6HCpg", :followers=>19700, :user_id=>67497155, :retweet=>0}

@@ -1,3 +1,0 @@
-{:text=>"RT @WorldDutyFree: Win the perfect gift she'll LOVE this Valentine's. RT &amp; follow @WorldDutyFree to #win this lovely @Radley_London set htt…", :retweet=>2170}
-{:text=>"RT @JoshUJWorld: London Town 👍 http://t.co/HEnegA3VaE", :retweet=>606}
-{:text=>"RT @History_Pics: Telephone Engineer, London, 1920s. http://t.co/PIVT3kHkWz", :retweet=>311}

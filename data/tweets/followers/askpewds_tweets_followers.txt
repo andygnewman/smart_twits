@@ -1,3 +1,3 @@
-{:name=>"@jdbwhitesidxs", :text=>"@pewdiepie are you coming back to Göteborg soon ?  #askpewds", :followers=>63368, :user_id=>180703202, :retweet=>0}
-{:name=>"@liamsfudgecake_", :text=>"fave thing about denmark? #askpewds", :followers=>22007, :user_id=>812788056, :retweet=>0}
-{:name=>"@TrendieWW", :text=>"\"Trending World Wide:12:14 PM GMT\"\n1. #askpewds\n2. #AskAnne\n3. #BritishSexPositions\n4. Happy Friday the 13th", :followers=>13303, :user_id=>2793605047, :retweet=>0}
+{:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#askpewds\n#حملة_محاربي_السرطان\n#أفضل_ثنائي_شاهدته\n1WPZ http://t.co/IVVAMdtvX2", :followers=>26995, :user_id=>2336221570, :retweet=>0}
+{:name=>"@saf_lolo", :text=>"العرض المدهش  فتره محدوده يوجد 15 الف متابع خليجي ب 200 ريال فقط \n\n#Friday the 13th\n#askpewds\nhttp://t.co/XBCVWwyOEh\n74", :followers=>10983, :user_id=>2883236340, :retweet=>0}
+{:name=>"@guyjean440", :text=>"TT France\n3 #roidetwitter\n4 #webBdx\n5 #askpewds\n6 Drake\n7 Kendji\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/juojnWLbua", :followers=>6179, :user_id=>2837580459, :retweet=>0}

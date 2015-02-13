@@ -1,3 +1,3 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1101}
-{:text=>"RT @Emma_Belieber_L: @pewdiepie People Who Look Like Cartoon Characters #askpewds\n==&gt;http://t.co/jdE8jiD3Lb http://t.co/Z5DC4QTzAv", :retweet=>26}
-{:text=>"RT @poppysoods: @pewdiepie #askpewds how many souls did you take to be the most popular youtuber", :retweet=>1}
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1699}
+{:text=>"RT @gamingmukexx: Do you ship lashton or Muke #askpewds http://t.co/VH1XJAXnPc", :retweet=>25}
+{:text=>"RT @MrJulesElite: #askpewds Can you say for your french fans \" J'aime beaucoup la France, et allez l'OM \" ? :)\nTkanks Bro !\n#BroFirst", :retweet=>4}

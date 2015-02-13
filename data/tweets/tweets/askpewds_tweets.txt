@@ -1,100 +1,100 @@
-{:name=>"@PurplexxBear", :text=>"@pewdiepie  What made you want to become a youtuber. how does it feel to be the No.1 most Subscribed channel on youtube. #askpewds", :followers=>5, :user_id=>2933024522, :retweet=>0}
-{:name=>"@TrendieWW", :text=>"\"Trending World Wide:12:14 PM GMT\"\n1. #askpewds\n2. #AskAnne\n3. #BritishSexPositions\n4. Happy Friday the 13th", :followers=>13303, :user_id=>2793605047, :retweet=>0}
-{:name=>"@flyingswift_", :text=>"#askpewds can u do a react video on taylor swift's style mv? x59", :followers=>1201, :user_id=>2934766117, :retweet=>0}
-{:name=>"@Thoma5Ochoa", :text=>"Next time, make another Q&amp;A in here, but you are not gonna make any q&amp;a video. Troll? @pewdiepie #askpewds", :followers=>55, :user_id=>1895549286, :retweet=>0}
-{:name=>"@mfguz22", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>111, :user_id=>2940729461, :retweet=>1101}
-{:name=>"@oakleycupcake", :text=>"cookies? #askpewds", :followers=>15, :user_id=>2974929188, :retweet=>0}
-{:name=>"@Ashmonkey1234", :text=>"@pewdiepie If vampires can't see their reflections, why is their hair always so neat? \n#askpewds", :followers=>151, :user_id=>315471277, :retweet=>0}
-{:name=>"@JulieBean666", :text=>"@pewdiepie: @pewdiepie IF YOU WERE A WOMAN FOR A DAY WHAT WOULD YOU DO? 😸 #askpewds", :followers=>19, :user_id=>2754836932, :retweet=>0}
-{:name=>"@AiyJayeMee", :text=>"@pewdiepie #Askpewds lay an egg or give birth to a platypus?", :followers=>545, :user_id=>2192582083, :retweet=>0}
-{:name=>"@ScepticLlama", :text=>"@pewdiepie #askpewds If 9+10=21 what equals 19???", :followers=>557, :user_id=>2962482768, :retweet=>0}
-{:name=>"@ATOMIC_BOOM_", :text=>"@pewdiepie  #askpewds do you think you will get to 10000000000000000000000000000 subs? I needs to know", :followers=>13, :user_id=>3029448106, :retweet=>0}
-{:name=>"@Brenda_moon25", :text=>"@pewdiepie #askpewds why?", :followers=>721, :user_id=>558193636, :retweet=>0}
-{:name=>"@cancellouis", :text=>"Can you play an instrument #askpewds", :followers=>2518, :user_id=>2345833238, :retweet=>0}
-{:name=>"@Vip1997", :text=>"@pewdiepie can you photoshop me as you? I wanna feel like senpai for once! #askpewds (3)", :followers=>46, :user_id=>114038268, :retweet=>0}
-{:name=>"@MikaelaClifford", :text=>"@pewdiepie what kind of makeup do you use? #askpewds", :followers=>3, :user_id=>303258046, :retweet=>0}
-{:name=>"@LetTonyRiot", :text=>"@pewdiepie how come you don't play any fighting games? #askpewds", :followers=>10, :user_id=>2988448623, :retweet=>0}
-{:name=>"@Calucum", :text=>"#askpewds give birth to something", :followers=>1037, :user_id=>1923477540, :retweet=>0}
-{:name=>"@sukmamirandaa", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>439, :user_id=>315111093, :retweet=>1101}
-{:name=>"@ChrissDiller", :text=>"#askpewds are you a woman?", :followers=>8, :user_id=>2866223915, :retweet=>0}
-{:name=>"@IamSafadi", :text=>"@pewdiepie what is the first thing you'll if you're invisible #askpewds", :followers=>4, :user_id=>2985836444, :retweet=>0}
-{:name=>"@loveghada13", :text=>"hi guys please vote for ghada her and thanks \n#askpewds \n#GhadaJreidi \nhttp://t.co/BoCdp1oCQO", :followers=>75, :user_id=>2976180615, :retweet=>0}
-{:name=>"@abbiegreen12345", :text=>"@pewdiepie would you rather be Harry styles or Harry Potter?  #askpewds", :followers=>48, :user_id=>3024890769, :retweet=>0}
-{:name=>"@flyingswift_", :text=>"#askpewds can u do a react video on taylor swift's style mv? x58", :followers=>1201, :user_id=>2934766117, :retweet=>0}
-{:name=>"@SUCKMYSPIDERDIC", :text=>"RT @poppysoods: @pewdiepie #askpewds how many souls did you take to be the most popular youtuber", :followers=>1445, :user_id=>2743678871, :retweet=>1}
-{:name=>"@NARRYAUSSIES", :text=>"how would u react if u get pregnant? #askpewds", :followers=>8534, :user_id=>280400975, :retweet=>0}
-{:name=>"@Lois_It", :text=>"@pewdiepie can you dance like a ballerina? lol #askpewds", :followers=>23, :user_id=>2268870919, :retweet=>0}
-{:name=>"@Leeyum_M8", :text=>"@pewdiepie #askpewds hi :)", :followers=>17, :user_id=>2856063024, :retweet=>0}
-{:name=>"@JarianaIsMyOTP", :text=>"@pewdiepie What would you do if Justin Bieber walked up to you and said that he watches your videos and is a bro? #askpewds x50", :followers=>5464, :user_id=>1573386493, :retweet=>0}
-{:name=>"@muarafatan", :text=>"RT@ayusaaras:@pewdiepie what would you do if my grandma want to marry you? #askpewds... \n RT@Ayangbeb:see&gt;http://t.co/zNLg6oNWPr", :followers=>1481, :user_id=>2154193748, :retweet=>0}
-{:name=>"@adipospechtas", :text=>"Was war dein Lieblingstor von Nicolas Farina? Das 1:0 gegen Paderborn 2012 oder das 1:0 bei der Hertha 2013? #askpewds", :followers=>2, :user_id=>2927340099, :retweet=>0}
-{:name=>"@Vip1997", :text=>"@pewdiepie can you photoshop me as you? I wanna feel like senpai for once! #askpewds (2)", :followers=>46, :user_id=>114038268, :retweet=>0}
-{:name=>"@Buhda0802", :text=>"@pewdiepie #askpewds What are your future plans?", :followers=>6, :user_id=>2858487522, :retweet=>0}
-{:name=>"@delusionalmuke", :text=>"@pewdiepie #askpewds do u watch any tv series?", :followers=>3983, :user_id=>2920221679, :retweet=>0}
-{:name=>"@xmuminka", :text=>"@pewdiepie is this your lipstick? #askpewds x135 http://t.co/Dl9MwMXpDc", :followers=>458, :user_id=>561428811, :retweet=>0}
-{:name=>"@FearMeIAmLag", :text=>"@pewdiepie The barrels are after me, how do I defend myself? #askpewds", :followers=>125, :user_id=>719950158, :retweet=>0}
-{:name=>"@guyjean440", :text=>"TT UK\n1 #BritishSexPositions\n2 #FridayThe13th\n3 #askpewds\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/mld8ZwB9ua", :followers=>6177, :user_id=>2837580459, :retweet=>0}
-{:name=>"@cool_meggs", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>93, :user_id=>3027356885, :retweet=>1101}
-{:name=>"@toxiclwt91", :text=>"@pewdiepie #askpewds how to eat a banana with ur ass", :followers=>1661, :user_id=>2741442009, :retweet=>0}
-{:name=>"@SuhairMurr", :text=>"#askpewds don't u just hate it when spaghetti falls out of your pocket? http://t.co/B8Tyaludfy", :followers=>46, :user_id=>2952515658, :retweet=>0}
-{:name=>"@casslyoutube", :text=>"@pewdiepie #askpewds Who is your favourite ship?", :followers=>42, :user_id=>2745910601, :retweet=>0}
-{:name=>"@flyingswift_", :text=>"#askpewds can u do a react video on taylor swift's style mv? x57", :followers=>1201, :user_id=>2934766117, :retweet=>0}
-{:name=>"@LivPerssson", :text=>"Why r u so bad at games??? #askpewds @pewdiepie", :followers=>56, :user_id=>635591685, :retweet=>0}
-{:name=>"@_yaaas_ahs_tw_", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>5, :user_id=>2956910454, :retweet=>1101}
-{:name=>"@boriboune", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>3, :user_id=>1623555703, :retweet=>1101}
-{:name=>"@louistomlil", :text=>"#askpewds\n\nWhy am I hot?", :followers=>7549, :user_id=>934075202, :retweet=>0}
-{:name=>"@AuttyTum", :text=>"@pewdiepie  Can you teach me how to be a fabulous piece of crap? #AskPewds", :followers=>10, :user_id=>3010140037, :retweet=>0}
-{:name=>"@qatar_23", :text=>"@pewdiepie #askpewds what is your drug game? As in so addictive", :followers=>13, :user_id=>364719480, :retweet=>0}
-{:name=>"@HajiIshak1", :text=>"RT@Verrrrrnon:What the pewds #askpewds is tremdimg worldwide hahaha bro army fyw... \n RT@Stupid_Learner:see&gt;http://t.co/IeQYGG1lqC", :followers=>968, :user_id=>1013404638, :retweet=>0}
-{:name=>"@MikeDuellJr", :text=>"@pewdiepie #askpewds What kind of vehicle do you drive?", :followers=>170, :user_id=>2383991160, :retweet=>0}
-{:name=>"@ZerefCrimson", :text=>"@pewdiepie #askpewds do you still have more pekachu card? If yes give me one senpai...", :followers=>19, :user_id=>1518857857, :retweet=>0}
-{:name=>"@MursuFIN", :text=>"#askpewds What is your biggest addiction?", :followers=>8, :user_id=>1730824213, :retweet=>0}
-{:name=>"@Mannyy_Os", :text=>"@pewdiepie why can't you notice me #askpewds", :followers=>338, :user_id=>427118858, :retweet=>0}
-{:name=>"@laraajailat_", :text=>"#askpewds would you rather be with Harry styles or Niall horan ? @pewdiepie", :followers=>85, :user_id=>3030673114, :retweet=>0}
-{:name=>"@Calucum", :text=>"#askpewds can you drown me in your tears", :followers=>1037, :user_id=>1923477540, :retweet=>0}
-{:name=>"@ethelliongson", :text=>"How to be a duck #askpewds @pewdiepie", :followers=>373, :user_id=>751370413, :retweet=>0}
-{:name=>"@MrAsianTwinkies", :text=>"@pewdiepie have you ever witnessed a dinosaur standing on an airplane, with lasers and stripper poles sticking out of it?! #askpewds", :followers=>356, :user_id=>1921255464, :retweet=>0}
-{:name=>"@flyingswift_", :text=>"#askpewds can u do a react video on taylor swift's style mv? x56", :followers=>1201, :user_id=>2934766117, :retweet=>0}
-{:name=>"@xmuminka", :text=>"@pewdiepie is this your lipstick? #askpewds x134 http://t.co/ZW5HzKmhHO", :followers=>458, :user_id=>561428811, :retweet=>0}
-{:name=>"@sasspanda", :text=>"@pewdiepie #askpewds what are you going to do for valentine's day?", :followers=>116, :user_id=>1665771050, :retweet=>0}
-{:name=>"@JarianaIsMyOTP", :text=>"@pewdiepie What would you do if Justin Bieber walked up to you and said that he watches your videos and is a bro? #askpewds x49", :followers=>5464, :user_id=>1573386493, :retweet=>0}
-{:name=>"@DMC73v", :text=>"I hear you beatbox a lot, are you planning on making a song with, for example: taylor Swift? #askpewds", :followers=>106, :user_id=>574865383, :retweet=>0}
-{:name=>"@eXotic_conceit", :text=>"#askpewds make up tutorial video pls x73", :followers=>673, :user_id=>1051575240, :retweet=>0}
-{:name=>"@BootyBrehh", :text=>"RT @xChaarm: #askpewds do you like it up the butt?", :followers=>544, :user_id=>2291112411, :retweet=>1}
-{:name=>"@Ashmonkey1234", :text=>"@pewdiepie If McDonald's new food was a hotdog, would it be called a McWiener?\n#askpewds", :followers=>151, :user_id=>315471277, :retweet=>0}
-{:name=>"@delusionalmuke", :text=>"@pewdiepie do u watch any tv series? #askpewds", :followers=>3983, :user_id=>2920221679, :retweet=>0}
-{:name=>"@AisuuIceElf", :text=>"RT @kanekisshy: @pewdiepie WOULD YOU PREFER TO HAVE BOOBS WITHOUT NIPPLES OR BUTTS WITH NIPPLES #askpewds", :followers=>157, :user_id=>1030736366, :retweet=>1}
-{:name=>"@WeLove1D_23_7", :text=>"#askpewds @pewdiepie \nI have seen few videos of yours only 1D ones so do more so I can see more,lol.", :followers=>1223, :user_id=>1277882000, :retweet=>0}
-{:name=>"@patrews", :text=>"#askpewds @pewdiepie hairstyle you wanted to try?", :followers=>553, :user_id=>463821038, :retweet=>0}
-{:name=>"@fangirlinanshit", :text=>"@pewdiepie who r u? #askpewds", :followers=>58, :user_id=>2864183362, :retweet=>0}
-{:name=>"@P_YouDie_P", :text=>"@pewdiepie #askpewds what is difference between your ass and Kim kardashians ass", :followers=>8, :user_id=>2814806852, :retweet=>0}
-{:name=>"@NurulAsyiah", :text=>"@pewdiepie are you already fabulous since the day you were born? #askpewds", :followers=>188, :user_id=>275548507, :retweet=>0}
-{:name=>"@bismanpal", :text=>"@pewdiepie  Will you ever play games suggested by us on twitter? #askpewds", :followers=>14, :user_id=>2926472244, :retweet=>0}
-{:name=>"@KatieKjellberg", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>178, :user_id=>1787578795, :retweet=>1101}
-{:name=>"@flyingswift_", :text=>"#askpewds can u do a react video on taylor swift's style mv? x55", :followers=>1201, :user_id=>2934766117, :retweet=>0}
-{:name=>"@Ccristaaaa", :text=>"@pewdiepie #askpewds  how you get so many subs on yt", :followers=>1, :user_id=>2955587170, :retweet=>0}
-{:name=>"@jdbwhitesidxs", :text=>"@pewdiepie are you coming back to Göteborg soon ?  #askpewds", :followers=>63368, :user_id=>180703202, :retweet=>0}
-{:name=>"@JarianaIsMyOTP", :text=>"@pewdiepie What would you do if Justin Bieber walked up to you and said that he watches your videos and is a bro? #askpewds x48", :followers=>5464, :user_id=>1573386493, :retweet=>0}
-{:name=>"@cirius81", :text=>"#askpewds will you be playing the order 1886 on ps4?", :followers=>13, :user_id=>345287560, :retweet=>0}
-{:name=>"@neversaynevre", :text=>"@pewdiepie #askpewds are you from Gryffindor, Ravenclaw, HufflePuff or Slytherin?", :followers=>573, :user_id=>633978808, :retweet=>0}
-{:name=>"@xmuminka", :text=>"@pewdiepie is this your lipstick? #askpewds x133 http://t.co/VqQshLYmVA", :followers=>458, :user_id=>561428811, :retweet=>0}
-{:name=>"@CyberMegan", :text=>"@pewdiepie r u friends with Taylor swift yet #askpewds", :followers=>226, :user_id=>1608844922, :retweet=>0}
-{:name=>"@AH_GamerFreak", :text=>"@pewdiepie what would be ur female name if u had choose one? #askpewds", :followers=>92, :user_id=>1015637220, :retweet=>0}
-{:name=>"@CorganBall", :text=>"@pewdiepie If you had to choose between Edgar or Marzia who would you choose? #askpewds", :followers=>35, :user_id=>2858154053, :retweet=>0}
-{:name=>"@zakillaofall", :text=>"@pewdiepie #askpewds have u ever seen your gf naked has she seen u naked", :followers=>7, :user_id=>2975644726, :retweet=>0}
-{:name=>"@david198593", :text=>"@pewdiepie  #askpewds how did you and marzia meet and are you planning on getting married", :followers=>7, :user_id=>1589224285, :retweet=>0}
-{:name=>"@Vip1997", :text=>"@pewdiepie can you photoshop me as you? I wanna feel like senpai for once! #askpewds", :followers=>46, :user_id=>114038268, :retweet=>0}
-{:name=>"@crueloise", :text=>"@pewdiepie #askpewds can you do the Macarena while eating yoghurt", :followers=>703, :user_id=>2235775747, :retweet=>0}
-{:name=>"@Hotladiesxxx", :text=>"#askpewds\nHappy Friday the 13th\n#ifyourereadingthisitstoolate\nDavid Carr\n#BritishSexPositions\nNew Drake", :followers=>1099, :user_id=>2982448012, :retweet=>0}
-{:name=>"@amarena_99", :text=>"@pewdiepie can you please try to say chuchichäschtli? It's a very famous swissgerman word😂 #askpewds x8", :followers=>110, :user_id=>2738254246, :retweet=>0}
-{:name=>"@liamsfudgecake_", :text=>"fave thing about denmark? #askpewds", :followers=>22007, :user_id=>812788056, :retweet=>0}
-{:name=>"@vagANNAsaur", :text=>"@lotsoflester #askpewds prove to us you can handle the bantz", :followers=>1291, :user_id=>2651673427, :retweet=>0}
-{:name=>"@PunkRxck101", :text=>"Have you ever splashed water on a pigeon? #askpewds", :followers=>80, :user_id=>613915671, :retweet=>0}
-{:name=>"@JulieBean666", :text=>"@pewdiepie : @pewdiepie IF YOU WERE A WOMAN FOR A DAY WHAT WOULD YOU DO? 😸 #askpewds", :followers=>19, :user_id=>2754836932, :retweet=>0}
-{:name=>"@flyingswift_", :text=>"#askpewds can u do a react video on taylor swift's style mv? x54", :followers=>1201, :user_id=>2934766117, :retweet=>0}
-{:name=>"@eXotic_conceit", :text=>"#askpewds make up tutorial video pls x72", :followers=>673, :user_id=>1051575240, :retweet=>0}
-{:name=>"@VillanVictoria", :text=>"What are your thoughts on the trend #SaveTheFish ? #askpewds @pewdiepie", :followers=>6, :user_id=>2882749081, :retweet=>0}
-{:name=>"@JanaSchlomsine", :text=>"@pewdiepie Will you ever come to germany/austria/switzerland? #askpewds", :followers=>12, :user_id=>2700667221, :retweet=>0}
-{:name=>"@_thevampsfp", :text=>"Will you be my valentine's day date?  #askpewds", :followers=>117, :user_id=>2520924067, :retweet=>0}
-{:name=>"@MOlgera85", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>20, :user_id=>950396359, :retweet=>1101}
-{:name=>"@leena_jackas", :text=>"RT @Emma_Belieber_L: @pewdiepie People Who Look Like Cartoon Characters #askpewds\n==&gt;http://t.co/jdE8jiD3Lb http://t.co/Z5DC4QTzAv", :followers=>123, :user_id=>2914734764, :retweet=>26}
+{:name=>"@BokuNoFemto", :text=>"#askpewds could you say for your french fans \"j'aime le caca dans ma bouche\" who means \"i love you\"\n:)\nThanks Bro !\n#brofist", :followers=>378, :user_id=>502804756, :retweet=>0}
+{:name=>"@LiyaRobison", :text=>"@pewdiepie  how do you be a real life bread? #askpewds", :followers=>6, :user_id=>2990389848, :retweet=>0}
+{:name=>"@Vaquensence", :text=>"#askpewds Be my valentine.......\n\nJust kidding....", :followers=>135, :user_id=>886678112, :retweet=>0}
+{:name=>"@HashsArb", :text=>"الهاشتاقات العربية النشطة :\n\n#حملة_محاربي_السرطان\n#السيسي_ينهب_الخليج\n#أفضل_ثنائي_شاهدته\n#askpewds\n#نهائي_كأس_ولي_العهد\n4778", :followers=>312, :user_id=>2321155507, :retweet=>0}
+{:name=>"@halima50394", :text=>"#askpewds \nVote For Mina Atta Because He Deserve It 👇\nhttp://t.co/X42czdZg8o\nThank You 🌷 http://t.co/LTUWI3uqNu", :followers=>402, :user_id=>2867806699, :retweet=>0}
+{:name=>"@StephenEamonn", :text=>"I'm loving the #IrishSexPositions hashtag! I'm sure the gf will be more fond of #askpewds though!", :followers=>537, :user_id=>24593461, :retweet=>0}
+{:name=>"@Yst7qM", :text=>"من #السودان\nتابع @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n#الهلال_الأهلي_نهائي_ولي_العهد\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/YMmR7Ac9Dl  #CRUvREB #BritishSexPositions #NRLAllStars #askpewds http://t.co/hppn8CqBJI", :followers=>2558, :user_id=>3000496763, :retweet=>0}
+{:name=>"@retweetcraft", :text=>"RT @titaniumxash: Would you play minecraft just to kick someone's ass #askpewds", :followers=>2860, :user_id=>2509023511, :retweet=>1}
+{:name=>"@BrokoliReborn", :text=>"#askpewds c est quoi le comble de lelectricien", :followers=>345, :user_id=>577908199, :retweet=>0}
+{:name=>"@nancy12267", :text=>"@pewdiepie How long have you and Marzia been together? ???????😍 #askpewds", :followers=>445, :user_id=>2264941338, :retweet=>0}
+{:name=>"@tizzidixon", :text=>"Can I have Edgar for Valentine's Day? #askpewds", :followers=>75, :user_id=>1211780028, :retweet=>0}
+{:name=>"@rarsitni", :text=>"#askpewds do you accept GabeN as your saviour? @pewdiepie", :followers=>177, :user_id=>1140498571, :retweet=>0}
+{:name=>"@itm91006", :text=>"خويي اذا راح يخطب ويسألوني أهل البنت عنه\nأبي اعطيهم برنت عن ذا المخنس ☻\nhttp://t.co/QD6CqKwsQT\nههههههههههههههههه\n#askpewds\nc36b", :followers=>228, :user_id=>2421020706, :retweet=>0}
+{:name=>"@sammysan711", :text=>"#askpewds can u be my butthole's valentine?", :followers=>103, :user_id=>584204668, :retweet=>0}
+{:name=>"@ChocLove14", :text=>"@pewdiepie am I too late to ask? #askpewds", :followers=>78, :user_id=>201521876, :retweet=>0}
+{:name=>"@Yst7qM", :text=>"ما راح تصدق !!\nادخل وشوف !!\n@DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@___gamer4life__", :text=>"@pewdiepie do you have ever cheated on Marzia with Bob striper? #askpewds", :followers=>33, :user_id=>1917101816, :retweet=>0}
+{:name=>"@BrokoliReborn", :text=>"RT @MrJulesElite: #askpewds Can you say for your french fans \" J'aime beaucoup la France, et allez l'OM \" ? :)\nTkanks Bro !\n#BroFirst", :followers=>345, :user_id=>577908199, :retweet=>4}
+{:name=>"@franinator", :text=>"#askpewds How many ice cubes can you fit down your underpants? Inspired by @danisnotonfire", :followers=>63, :user_id=>285550806, :retweet=>0}
+{:name=>"@sassyblossom123", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>26, :user_id=>2993132243, :retweet=>1699}
+{:name=>"@Vaquensence", :text=>"#askpewds Unicorns or Ducks? Wait... You're a duck in disguise am I right?", :followers=>135, :user_id=>886678112, :retweet=>0}
+{:name=>"@bat_mango", :text=>"#askpewds why are you Swedish", :followers=>246, :user_id=>2209768815, :retweet=>0}
+{:name=>"@Yst7qM", :text=>"من #السعودية\nتابع @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n#الهلال_الأهلي_نهائي_ولي_العهد\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@Juliet_Rosita", :text=>"@pewdiepie what is your favorite thing about Edgar? #askpewds", :followers=>139, :user_id=>573174561, :retweet=>0}
+{:name=>"@TheAnnaShow101", :text=>"@pewdiepie #askpewds  Can you do a death scene with Marzia and a banana??", :followers=>5, :user_id=>2940287268, :retweet=>0}
+{:name=>"@unicorn_papi", :text=>"@pewdiepie #askpewds  when ever you shake that booty do you get the same tickle that I do", :followers=>27, :user_id=>2953239565, :retweet=>0}
+{:name=>"@mcpixel15", :text=>"@pewdiepie  #askpewds how do i get to my final form", :followers=>7, :user_id=>3029430484, :retweet=>0}
+{:name=>"@WlaNfas", :text=>"من #سوريا\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>399, :user_id=>2812578054, :retweet=>0}
+{:name=>"@SherylDzn", :text=>"what's with valentines day? #askpewds", :followers=>448, :user_id=>107654875, :retweet=>0}
+{:name=>"@Yst7qM", :text=>"من #الامارات\nتابع @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n#الهلال_الأهلي_نهائي_ولي_العهد\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@letha_dorado", :text=>"TT USA\n6 You &amp; The 6\n7 #askpewds\n8 10 Bands\n9 6 Man\n10 Drake\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/WPXUyuW6B2 http://t.co/otVJaKhpzH", :followers=>5585, :user_id=>2922003072, :retweet=>0}
+{:name=>"@nathanlovemusic", :text=>"@pewdiepie #askpewds what do you think of this fabulous cat http://t.co/IXRy0UcvQk", :followers=>6, :user_id=>2727746665, :retweet=>0}
+{:name=>"@itm91006", :text=>"برودكاست عرب\nآيفون:\nhttp://t.co/zhMxa0sbOS\nللاندرويد:\nhttp://t.co/QVbuUqqe1G\n#askpewds\n757f", :followers=>228, :user_id=>2421020706, :retweet=>0}
+{:name=>"@Diagear", :text=>"@pewdiepie #askpewds how do i Twerk to dog And Cats'?", :followers=>5, :user_id=>3026717536, :retweet=>0}
+{:name=>"@dgatglby", :text=>"يا عااالم شاهدوا هذا الحساب\n@DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@Yst7qM", :text=>"تبحث عن متابعين !\nتابع : @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@Hurma_Malinovna", :text=>"@pewdiepie how to make that fabulous pony tail of yours? #askpewds", :followers=>3, :user_id=>2882235849, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/xjF8hQjlA5  #junobleibtbremer #askpewds #ccn3 #kommmit #wasichnichthab http://t.co/hppn8CqBJI", :followers=>2558, :user_id=>3000496763, :retweet=>0}
+{:name=>"@BokuNoFemto", :text=>"RT @MrJulesElite: #askpewds Can you say for your french fans \" J'aime beaucoup la France, et allez l'OM \" ? :)\nTkanks Bro !\n#BroFirst", :followers=>378, :user_id=>502804756, :retweet=>4}
+{:name=>"@wretzky", :text=>"RT @MrJulesElite: #askpewds Can you say for your french fans \" J'aime beaucoup la France, et allez l'OM \" ? :)\nTkanks Bro !\n#BroFirst", :followers=>183, :user_id=>2504586516, :retweet=>4}
+{:name=>"@dgatglby", :text=>"من #قطر\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@Yst7qM", :text=>"ترغب بزيادة متابعينك !!\nتابع : @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@Vaquensence", :text=>"#askpewds Please let me be in your video or I'll give you a duck as a birthday present", :followers=>135, :user_id=>886678112, :retweet=>0}
+{:name=>"@Chief_nationz", :text=>"@pewdiepie #askpewds  Are you ever going to change your hair style?", :followers=>31, :user_id=>2957617777, :retweet=>0}
+{:name=>"@dgatglby", :text=>"من #ليبيا\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@Ankrier", :text=>"RT @MrJulesElite: #askpewds Can you say for your french fans \" J'aime beaucoup la France, et allez l'OM \" ? :)\nTkanks Bro !\n#BroFirst", :followers=>183, :user_id=>466797115, :retweet=>4}
+{:name=>"@Yst7qM", :text=>"من #الإمارات\nتابع @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n#الهلال_الأهلي_نهائي_ولي_العهد\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@saf_lolo", :text=>"العرض المدهش  فتره محدوده يوجد 15 الف متابع خليجي ب 200 ريال فقط \n\n#Friday the 13th\n#askpewds\nhttp://t.co/XBCVWwyOEh\n74", :followers=>10983, :user_id=>2883236340, :retweet=>0}
+{:name=>"@dgatglby", :text=>"من #السودان\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@UnicornLynx8", :text=>"@pewdiepie When will you cut your hair? #askpewds", :followers=>5, :user_id=>2820023073, :retweet=>0}
+{:name=>"@LUVORATORRRRRY", :text=>"RT @knifenuffnice: #askpewds ARE U A LOLICON", :followers=>587, :user_id=>291302845, :retweet=>4}
+{:name=>"@Yst7qM", :text=>"من #سوريا\nتابع @DrGl6h\n\n#السيسي_ينهب_الخليج\n#askpewds\n#الذهب_روح_ولعب\n#السيسي_ينهب_الخليج\n#الهلال_الأهلي_نهائي_ولي_العهد\n2853", :followers=>58, :user_id=>2347195537, :retweet=>0}
+{:name=>"@I1_Frozen_1I", :text=>"@pewdiepie #askpewds how to have sex with duck?", :followers=>3, :user_id=>1118696167, :retweet=>0}
+{:name=>"@DublinBoy18", :text=>"@pewdiepie #askpewds Can you eat a sugary donut without licking your lips?", :followers=>32, :user_id=>3014341683, :retweet=>0}
+{:name=>"@dgatglby", :text=>"تبحث عن متابعين !\nتابع : @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@dgatglby", :text=>"#دكتور_جلطه ..\n@DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@Happy_Yassine", :text=>"@pewdiepie #askpewds  U HAVE A LOT OF ARABS FAN!! PLEASE CAN U TRY TO SPEAK ARABIC FOR US ? PLEASE ???? LOVE U BRO &lt;3 #HugeFAN XxXx", :followers=>269, :user_id=>286690518, :retweet=>0}
+{:name=>"@mes96145", :text=>"سعودي يهدي زوجته بمناسبة الراتبين !\nhttp://t.co/aOeZDa7Fln\nالله يكثر من أمثاله هههه &amp;gt; ما أضن :)\n#askpewds\na600", :followers=>685, :user_id=>2456495432, :retweet=>0}
+{:name=>"@Vaquensence", :text=>"#askpewds If Marzia was secretly a guy what would you do?", :followers=>135, :user_id=>886678112, :retweet=>0}
+{:name=>"@dgatglby", :text=>"من #الإمارات\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@elisasarablue", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>3235, :user_id=>2454508777, :retweet=>1699}
+{:name=>"@n00bDJ", :text=>"@pewdiepie #askpewds #ask How to become cool", :followers=>12, :user_id=>2215652822, :retweet=>0}
+{:name=>"@dgatglby", :text=>"من #الكويت\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@CobSkeeter", :text=>"RT @Happy_Yassine: @pewdiepie #askpewds  U HAVE A LOT OF ARABS FAN!! PLEASE CAN U TRY TO SPEAK ARABIC FOR US ? PLEASE ???? LOVE U BRO &lt;3 #H…", :followers=>2998, :user_id=>2161636996, :retweet=>1}
+{:name=>"@Happy_Yassine", :text=>"@pewdiepie #askpewds  U HAVE A LOT OF ARABS FAN!! PLEASE CAN U TRY TO SPEAK ARABIC FOR US ? PLEASE ???? LOVE U BRO &lt;3 #HugeFAN Xoxo", :followers=>269, :user_id=>286690518, :retweet=>0}
+{:name=>"@bbmspecial_1com", :text=>"موقع تعارف بلاك بيري http://t.co/XlkDDO2wXJ انشر البن كود الان\n1967\n Friday the 13th #حملة_12_ألف_وحداوي_ضد_السد #askpewds سعيد الكثيري", :followers=>73, :user_id=>414791751, :retweet=>0}
+{:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#askpewds\n#حملة_محاربي_السرطان\n#أفضل_ثنائي_شاهدته\n1WPZ http://t.co/IVVAMdtvX2", :followers=>26995, :user_id=>2336221570, :retweet=>0}
+{:name=>"@Vaquensence", :text=>"#askpewds Edgar or Maya?", :followers=>135, :user_id=>886678112, :retweet=>0}
+{:name=>"@dgatglby", :text=>"من #الجزائر\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@Fu11xOFxFLAVoR", :text=>"@pewdiepie #askpewds what is your favorite color?", :followers=>8, :user_id=>2331193662, :retweet=>0}
+{:name=>"@_phanforever", :text=>"@pewdiepie when will you admit your working with the ducks? #askpewds", :followers=>34, :user_id=>2265866457, :retweet=>0}
+{:name=>"@mes96145", :text=>"ببغاء متعقد من رجل وزجته بس يتهاوشون ☺ !!\nhttp://t.co/Wrgakit7l9\nشوفوا كيف يقلدهم هههههههههههههه\n#askpewds\n0678", :followers=>685, :user_id=>2456495432, :retweet=>0}
+{:name=>"@Happy_Yassine", :text=>"@pewdiepie #askpewds  U HAVE A LOT OF ARABS FAN!! PLEASE CAN U TRY TO SPEAK ARABIC FOR US ? PLEASE ???? LOVE U BRO &lt;3 #HugeFAN xx", :followers=>269, :user_id=>286690518, :retweet=>0}
+{:name=>"@muarafatan", :text=>"RT@IsalSiKuma:@pewdiepie #askpewds will you like taylor swift if she is an giraffe ? :( answer :v... \n RT@dccell:see&gt;http://t.co/3OSdow1W7C", :followers=>1481, :user_id=>2154193748, :retweet=>0}
+{:name=>"@cyscokane1", :text=>"Have you ever wanted to turn into a bird just so you can swim @pewdiepie  #askpewds", :followers=>5, :user_id=>2249656290, :retweet=>0}
+{:name=>"@dgatglby", :text=>"من #مصر\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@Happy_Yassine", :text=>"@pewdiepie #askpewds  U HAVE A LOT OF ARABS FAN!! PLEASE CAN U TRY TO SPEAK ARABIC FOR US ? PLEASE ???? LOVE U BRO &lt;3 #HugeFAN", :followers=>269, :user_id=>286690518, :retweet=>1}
+{:name=>"@kutluan52", :text=>"@pewdiepie why Are You sooooooo bad ass #askpewds", :followers=>11, :user_id=>1628953657, :retweet=>0}
+{:name=>"@_bJoo_3", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>601, :user_id=>184230129, :retweet=>1699}
+{:name=>"@xotaevalik", :text=>"Актуальные темы: Россия ·\nПятница 13\n#askpewds\nЗавтра 14\n#GlamourDakota\nСпанч Боба\nValentine's Day\nRussia\nТейлор\nВалентина\nСавченко", :followers=>650, :user_id=>2657816971, :retweet=>0}
+{:name=>"@dgatglby", :text=>"ترغب بزيادة متابعينك !!\nتابع : @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/rmgzuTioMF  #IsraelIsStillWaitingFor1D #askpewds http://t.co/hppn8CqBJI", :followers=>2558, :user_id=>3000496763, :retweet=>0}
+{:name=>"@LockDaArianator", :text=>"@pewdiepie Can you dance? #askpewds", :followers=>4, :user_id=>2350221000, :retweet=>0}
+{:name=>"@SamuelDiCristo1", :text=>"@pewdiepie do you will play wolfenstein? #askpewds", :followers=>1, :user_id=>2951604237, :retweet=>0}
+{:name=>"@Vaquensence", :text=>"#askpewds Can I be in your next video?", :followers=>135, :user_id=>886678112, :retweet=>0}
+{:name=>"@guyjean440", :text=>"TT France\n3 #roidetwitter\n4 #webBdx\n5 #askpewds\n6 Drake\n7 Kendji\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/juojnWLbua", :followers=>6179, :user_id=>2837580459, :retweet=>0}
+{:name=>"@hashtagtopics_", :text=>"TRENDING CLICK THE LINK http://t.co/5WtUdV6nze  #askpewds #Todaysor #askpewds #Todaysor #WorldCup #askpewds http://t.co/hppn8CqBJI", :followers=>2558, :user_id=>3000496763, :retweet=>0}
+{:name=>"@dgatglby", :text=>"ما راح تصدق !!\nادخل وشوف !!\n@DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@OriginalKoKoKen", :text=>"RT @OliverAge24: #askpewds Pewds, I challenge you to a drawing competition... do you accept? @pewdiepie", :followers=>39, :user_id=>442222620, :retweet=>1}
+{:name=>"@clareee98", :text=>"WHAT TYPE OF GAMES DO YOU PLAY THE MOST? @pewdiepie  #askpewds", :followers=>140, :user_id=>1491895682, :retweet=>0}
+{:name=>"@nathanlovemusic", :text=>"@pewdiepie #askpewds what do you think of this fabulous cat http://t.co/oJZonzQasN", :followers=>6, :user_id=>2727746665, :retweet=>0}
+{:name=>"@dgatglby", :text=>"من #عمان\nتابع @DrGl6h\n\n#نهائي_كأس_ولي_العهد\n#askpewds\n#السيسي_يحتقر_الخليج\n#أفضل_ثنائي_شاهدته\n#FreeAJStaff\n2849", :followers=>1232, :user_id=>335764429, :retweet=>0}
+{:name=>"@jyotiranand", :text=>"How to get answers to your comments!  #askpewds", :followers=>14, :user_id=>367037093, :retweet=>0}
+{:name=>"@shannons_coffee", :text=>"#askpewds what do u think about Russia and Russians?", :followers=>489, :user_id=>2189871627, :retweet=>0}
+{:name=>"@_phanforever", :text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :followers=>34, :user_id=>2265866457, :retweet=>1699}
+{:name=>"@Hnoof76y", :text=>"تعال العب حرب وتحداك تفوز .؟ من يتحدى\n\nسجل : http://t.co/dMZgRNTMZM\n\n#askpewds\n#FreeAJStaff\n#حملة_12_ألف_وحداوي_ضد_السد\nGEOX", :followers=>4326, :user_id=>710675024, :retweet=>0}
+{:name=>"@nathanlovemusic", :text=>"@pewdiepie #askpewds what do you think of this fabulous cat http://t.co/ACbdKK0hNQ", :followers=>6, :user_id=>2727746665, :retweet=>0}
+{:name=>"@RainHovey", :text=>"RT @gamingmukexx: Do you ship lashton or Muke #askpewds http://t.co/VH1XJAXnPc", :followers=>1663, :user_id=>167513343, :retweet=>25}
+{:name=>"@thoughtsamber", :text=>"TT РОССИЯ 17:44\n1.Пятница 13\n2.#askpewds\n3.Завтра 14\n4.#GlamourDakota\n5.Спанч Боба\n6.Valentine&amp;amp;#39;s Day\n7.Russia\n8.Валентина\n9.Савченко", :followers=>2814, :user_id=>306226492, :retweet=>0}

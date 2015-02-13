@@ -1,3 +1,3 @@
-{:text=>"RT @_IanBeale_: #BritishSexPositions The 'Banksy' I creep up on them, spray all over them, then vanish into the night  #Bealed", :retweet=>236}
-{:text=>"RT @TheKopMagazine: The dodgy tackle from behind #BritishSexPositions #LFC http://t.co/iC641YsMHV", :retweet=>227}
-{:text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :retweet=>181}
+{:text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :retweet=>456}
+{:text=>"RT @iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/PX20hylqfY", :retweet=>391}
+{:text=>"RT @BillBailey: Quantitative Easing #BritishSexPositions", :retweet=>268}

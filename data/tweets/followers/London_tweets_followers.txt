@@ -1,3 +1,0 @@
-{:name=>"@VirginTrains", :text=>"#VTUpdates Due to signalling problems between #MiltonKeynes #London please check before you travel - http://t.co/PSvEoFnybr", :followers=>160825, :user_id=>63681020, :retweet=>0}
-{:name=>"@THEJamesWhale", :text=>"“@PeterStraker1: http://t.co/N9J4dlegWQ Hope to see you all tonight @St_JamesStudio”\n\nSee you there.", :followers=>85627, :user_id=>472923501, :retweet=>0}
-{:name=>"@homes_antiques", :text=>"Have you read about Lauren Bacall's collection in our March issue? See the pieces in London  from Sunday @bonhams1793 http://t.co/Wvi0SM3rPo", :followers=>24185, :user_id=>110958846, :retweet=>0}

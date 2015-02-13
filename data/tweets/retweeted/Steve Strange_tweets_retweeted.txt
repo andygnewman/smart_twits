@@ -1,3 +1,3 @@
-{:text=>"RT @SimonJCLeBON: I'm very sad to announce that our friend Steve Strange has died in Egypt today. He was the leading edge of New Romantic. …", :retweet=>1696}
-{:text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :retweet=>849}
-{:text=>"RT @garyjkemp: Spandau in tears tonight. We dedicated our performance to Steve Strange. Without him we would never have been here. A maveri…", :retweet=>490}
+{:text=>"RT @SimonJCLeBON: I'm very sad to announce that our friend Steve Strange has died in Egypt today. He was the leading edge of New Romantic. …", :retweet=>1723}
+{:text=>"RT @BBC6Music: “One man on a lonely platform.” R.I.P Steve Strange. http://t.co/7LCkin7ati", :retweet=>902}
+{:text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :retweet=>902}
