@@ -9,4 +9,3 @@ Makeathon Team: Andy Newman, Emily Sas, Bibiana Cristofol, Marcin Wal, Richard
 
 Setting up a remote
 remember don't do git push origin master!!!
-
