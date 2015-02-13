@@ -50,7 +50,8 @@
 }
 
 .row-5-18 {
- height: 15em;
+ min-height: 12em;
+ max-height: 15em;
  border: 2px solid white;
 }
 
