@@ -22,12 +22,14 @@ class Tweets
     retwit_array = read_file(file_path)
     array = []
     retwit_array.map{|el| array << [el[:text], el[:retweet]]}
+    array
   end
 
   def find_followers(file_path)
     followers_array = read_file(file_path)
     array = []
     followers_array.map{|el| array << [el[:name], el[:text], el[:followers]]}
+    array
   end
 
   def find_mentions(number, file_path)

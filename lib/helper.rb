@@ -1,6 +1,6 @@
 module Helper
 
-    REJECT_WORDS = ['rt', 'it', 'was', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now", "your", "you're", "this"]
+    REJECT_WORDS = ['rt', 'it', 'was', 'i','a', 'to', 'the', 'on', 'for', 'am','at', 'of', 'do', 'you', 'be', 'in', 'and', 'he', 'with', 'that', 'what', 'are', 'as', 'an', 'all', 'we', "is", "", "can", "this", "now", "your", "you're", "this", "by", "http", "htt"]
 
 
   def read_file(file_path)
@@ -41,16 +41,16 @@ module Helper
     filter_top_results(number, frequency_hash)
   end
 
-  def find_args(file_path, *args)
-    text_array = read_file(file_path)
-    array = []
-    args_array = []
-    text_array.map do |el| 
-      args.each {|arg| args_array << el[args_array[args_array.index(arg)]]}
-      array << args_array
-    end
-    array
-  end
+  # def find_args(file_path, *args)
+  #   text_array = read_file(file_path)
+  #   array = []
+  #   args_array = []
+  #   text_array.map do |el| 
+  #     args.each {|arg| args_array << el[args_array[args_array.index(arg)]}
+  #     array << args_array
+  #   end
+  #   array
+  # end
 end
 
 
