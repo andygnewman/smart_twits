@@ -4,5 +4,5 @@ public/.DS_Store
 features/.DS_Store
 data/tweets/.DS_Store
 .coveralls.yml
-data
+./data/*
 
