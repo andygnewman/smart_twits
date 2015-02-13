@@ -1,6 +1,5 @@
 credentials.md
 features/.DS_Store
-data/tweets/.DS_Store
-data
+./data/*
 .DS_Store
 public/.DS_Store
