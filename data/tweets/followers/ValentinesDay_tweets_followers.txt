@@ -1,3 +1,3 @@
-{:name=>"@SonyMusicSouth", :text=>"Here's @anirudhofficial inviting you personally for the launch of #EnakennaYaarumIllaye from #Aakko on #ValentinesDay http://t.co/nSRg4o1iqI", :followers=>116900, :user_id=>163787110, :retweet=>0}
-{:name=>"@EffctveOpinions", :text=>"RT @mintelnews: Can’t buy me #love? 55% of Brits spent money on goods and services for #ValentinesDay in 2014", :followers=>62133, :user_id=>2394429170, :retweet=>3}
-{:name=>"@projectpop", :text=>"RT @KlikKlipMusik: Pengen nembak tapi nggak berani? Kata @projectpop, #ValentinesDay besok harus berani nyatain! \"SAMA-SAMA\" http://t.co/MP…", :followers=>50165, :user_id=>49287025, :retweet=>1}
+{:name=>"@terrycrews", :text=>"RT @POPSUGARBeauty: The ultimate man @terrycrews talks men's grooming tips for #ValentinesDay: http://t.co/HbQ7GXqCFK http://t.co/qaM0Wkd5ik", :followers=>371769, :user_id=>16305370, :retweet=>1}
+{:name=>"@KiSS925", :text=>"#RozAndMocha @KiSS925: 9-10am we're playing #Maurieoke for @NKOTB tix! Love songs today because tomorrow is #ValentinesDay! 416-870-88-88!!", :followers=>61504, :user_id=>47618120, :retweet=>0}
+{:name=>"@WestYorksPolice", :text=>"Don’t be a victim of romance fraud this #valentinesday.  For online dating safety advice visit http://t.co/BpC5KWrFHa #police #romancefraud", :followers=>58742, :user_id=>20038272, :retweet=>0}

@@ -1,3 +1,3 @@
-{:name=>"@TheBexStar", :text=>"When you politely ask for a tea bag, but get a face full of balls. #BritishSexPositions", :followers=>65753, :user_id=>20199266, :retweet=>0}
-{:name=>"@FreeThinkingUK", :text=>"RT @mrdaveturner: Unexpected Item in the Bagging Area #BritishSexPositions", :followers=>52039, :user_id=>357440566, :retweet=>98}
-{:name=>"@TrendieWW", :text=>"\"Trending World Wide:10:28 AM GMT\"\n1. #BuCumaGünü\n2. #DiaMundialdelaRadio\n3. #BritishSexPositions\n4. #FridayThe13th", :followers=>13299, :user_id=>2793605047, :retweet=>0}
+{:name=>"@InsideManmedia", :text=>"RT @pippatuckwell: Mind the gap. #BritishSexPositions hahaha", :followers=>24089, :user_id=>1322016853, :retweet=>6}
+{:name=>"@zixllhorlikk", :text=>"RT @Paradisexlouis: #BritishSexPositions\n\nTwo British lads getting kinky onstage! http://t.co/e9RUIvzUsp", :followers=>15303, :user_id=>1585670479, :retweet=>4}
+{:name=>"@stratholic", :text=>"RT @FoxyLustyGrover: The Boom Boom! #BritishSexPositions http://t.co/IK740uFyRb", :followers=>14401, :user_id=>183607664, :retweet=>16}

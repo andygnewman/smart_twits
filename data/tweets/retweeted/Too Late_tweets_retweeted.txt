@@ -1,3 +1,0 @@
-{:text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :retweet=>19963}
-{:text=>"RT @onedirection: Aussies! The guys are in your country for #OnTheRoadAgain tour – it’s not too late to see them http://t.co/HVab4kGVwp htt…", :retweet=>18459}
-{:text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :retweet=>7108}

@@ -1,3 +1,3 @@
-{:name=>"@TreyP0UND", :text=>"RT @jay_grant11: THIS NEW DRAKE!", :followers=>18917, :user_id=>47793888, :retweet=>1}
-{:name=>"@giustssa", :text=>"RT @brownjenjen: → http://t.co/JuMkMuI5O4 J. Prince Threatens Diddy Over Fight With Drake #JPrince  877", :followers=>9802, :user_id=>2361872202, :retweet=>29}
-{:name=>"@KieranCPhoto", :text=>"@gjcxafc any idea where i can get the new drake album?", :followers=>8252, :user_id=>1161048176, :retweet=>0}
+{:name=>"@BrandonKing617", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>49814, :user_id=>307646743, :retweet=>135}
+{:name=>"@SwagLik3Ohio", :text=>"RT @Danny__Hendrix: \"Drake ain't shit, &amp; his music sucks.\" Drops mixtape out of nowhere, &amp; made just about as much as rappers first sales w…", :followers=>26110, :user_id=>47425856, :retweet=>4}
+{:name=>"@_sisiEKO", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/paygvzeaLB #Via @TheENTonline", :followers=>22691, :user_id=>454408558, :retweet=>0}

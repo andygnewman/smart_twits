@@ -1,250 +1,250 @@
-{:name=>"@raymondperez081", :text=>"Drake mixtape free on Spotify 🙌 you the real mvp Spotify", :followers=>110, :user_id=>2706470866, :retweet=>0}
-{:name=>"@jagovitch", :text=>"Die nieuwe #drake ook...", :followers=>83, :user_id=>59483375, :retweet=>0}
-{:name=>"@aventdroy", :text=>"RT @markleggett: Drake sounds like a stupid little whiny baby, and I only just figured out why people like him: They're stupid little whiny…", :followers=>41, :user_id=>445687930, :retweet=>51}
-{:name=>"@Hood90_", :text=>"Getting ready for all the Drake quotes of his new album on Twitter WhatsApp Instagram 😴😴", :followers=>142, :user_id=>263878657, :retweet=>0}
-{:name=>"@big_war_beats", :text=>"@dareeno_ Have you heard ‘Drake(Inspired Beat) - Now You Know Snippet’ by @big_war_beats https://t.co/YwrpdNzBld  #Drake", :followers=>806, :user_id=>2362122809, :retweet=>0}
-{:name=>"@leecoops_", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>898, :user_id=>236576127, :retweet=>80110}
-{:name=>"@DBoFive9", :text=>"New Drake mixtape is tough tho.", :followers=>65, :user_id=>837362154, :retweet=>0}
-{:name=>"@CranberryNessa", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>254, :user_id=>209029759, :retweet=>631}
-{:name=>"@NickRetallick", :text=>"RT @drzhmby95: “@FunnyWorIdStar: Can iTunes put Drake's album on everyone's phone for free like they did that trash U2 album?” Deadass tho …", :followers=>284, :user_id=>746327953, :retweet=>1}
-{:name=>"@LOV_N_BsktBALL", :text=>"#heatblast Lil Wayne - Love Me (Explicit) ft. Drake, Future http://t.co/IDYC82erXb", :followers=>48, :user_id=>165786191, :retweet=>0}
-{:name=>"@camsbubblebutt", :text=>"RT @skatemaloley: Damn Drake just hit us with an album like its nothin.", :followers=>3323, :user_id=>1170967254, :retweet=>799}
-{:name=>"@johnR_13", :text=>"RT @channelAKA385: NEW @Drake! He dropped the tape out of the blue &amp; has sold over 1 million copies already.... http://t.co/u31RR61eWm", :followers=>1399, :user_id=>417408956, :retweet=>12}
-{:name=>"@__Dotty", :text=>"Drake x Energy😍", :followers=>2357, :user_id=>1056868478, :retweet=>0}
-{:name=>"@rhiannonjpg", :text=>"drake's new mixtape is a 10", :followers=>140, :user_id=>494044169, :retweet=>0}
-{:name=>"@TeamReTweets__", :text=>"RT @Drew_Denton: this new drake album is 🔥🔥🔥 http://t.co/R5Et2jua6E", :followers=>3455, :user_id=>2931467302, :retweet=>13}
-{:name=>"@aeipaaesayole", :text=>"i listen to drake but i like Jalen McMillan more x4 #PopSuperStarJalenMcMillan @jalenmcmillan", :followers=>0, :user_id=>2987161258, :retweet=>0}
-{:name=>"@minaashxo", :text=>"RT @JonRichard: Drake should've just pulled a U2 and put his album \"If Your Reading This Its Too Late\" in our iTunes.", :followers=>3167, :user_id=>265387762, :retweet=>2}
-{:name=>"@TeamReTweets__", :text=>"RT @headchanges: Drake album 👌🔥💯 #realistrapper", :followers=>3455, :user_id=>2931467302, :retweet=>10}
-{:name=>"@BowToMahone", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>1615, :user_id=>1235112072, :retweet=>80110}
-{:name=>"@BennyHunnas", :text=>"RT @ComplexMag: A hand-written letter from @Drake. #IYRTITL http://t.co/joIJ4I7wvs", :followers=>938, :user_id=>107252669, :retweet=>750}
-{:name=>"@becca_mts", :text=>"Oh Drake 🙈🙆", :followers=>271, :user_id=>1446337045, :retweet=>0}
-{:name=>"@Mr_rugamba", :text=>"If you are reading this on FB it happened on twitter a week agoRT @masiyemwanza Someone please tell the guys on Facebook about the new Drake", :followers=>1039, :user_id=>265994985, :retweet=>0}
-{:name=>"@_LynashaDevona", :text=>"RT @LeanandCuisine: Paid for drake album and it's on spinrilla http://t.co/64GcvcHnho", :followers=>825, :user_id=>58390753, :retweet=>151}
-{:name=>"@katie_johnsonxx", :text=>"RT @ComplexMag: Finally! Here’s @Drake’s “If You’re Reading This It’s Too Late” project. http://t.co/Mj0AzBXvyG http://t.co/W0AKSGpL6s", :followers=>486, :user_id=>921354458, :retweet=>2194}
-{:name=>"@ferrarijo0", :text=>"I love you forever, @Drake", :followers=>429, :user_id=>258569978, :retweet=>0}
-{:name=>"@Bordering_crazy", :text=>"the state of #drake #ifyourereadingthisitstoolate cover shows the state of #music now the artists jus dont care slap anythin on it n release", :followers=>74, :user_id=>2402038525, :retweet=>0}
-{:name=>"@Koldarms", :text=>"RT @_AdonisRafaeL: !\"@Koldarms: J.Cole k.dot wale and drake are like real Madrid players all are world class that play different positions …", :followers=>1138, :user_id=>220698850, :retweet=>2}
-{:name=>"@GodsSon_Chris", :text=>"Drake dropped an album. It's Friday the 13th... Illuminati, etc etc", :followers=>73, :user_id=>30747658, :retweet=>0}
-{:name=>"@JVCOBE", :text=>"Chief Keef heard Drake shit and had to put something out. I ain't complaining tho 👀 http://t.co/jp2A8RFosO", :followers=>1347, :user_id=>211054589, :retweet=>0}
-{:name=>"@TheKidFarx", :text=>"New Drake music *rubs hands like Birdman*", :followers=>1544, :user_id=>311328705, :retweet=>0}
-{:name=>"@connoryarwood9", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>115, :user_id=>2922013439, :retweet=>80110}
-{:name=>"@queenswidows", :text=>"RT @Nashgrier: Thank you @Drake for creating some good ass music for me to listen to for the next couple of months 🎧😌", :followers=>57, :user_id=>3028143748, :retweet=>2847}
-{:name=>"@AnitaaDeez_", :text=>"RT @HotmixRadio: Le rappeur @Drake ​ a sorti son nouvel album #ifyourereadingthisitstoolate par surprise cette nuit ! http://t.co/WQLCGsBWLC", :followers=>858, :user_id=>1143352686, :retweet=>8}
-{:name=>"@drealmissbehave", :text=>"RT @Osi_Suave: Drake is KING. Damnnnnn", :followers=>1761, :user_id=>133076073, :retweet=>8}
-{:name=>"@LuxuryShaynae", :text=>"Ok drake babyyyy damn", :followers=>1276, :user_id=>100153386, :retweet=>0}
-{:name=>"@Mr_AkperiRTW", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>108, :user_id=>1702431146, :retweet=>186}
-{:name=>"@AR_SOLE_", :text=>"RT @thacerealkillah: Waking up to the new Drake tape...this weekend is already awesome.", :followers=>1142, :user_id=>734341231, :retweet=>2}
-{:name=>"@_iniyeee", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>314, :user_id=>2417703234, :retweet=>80110}
-{:name=>"@ShahidCruz", :text=>"RT @SleepIsForRich: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>151, :user_id=>550476489, :retweet=>920}
-{:name=>"@TeamSuckerFree", :text=>"A new favorite: Drake ~ Preach by octobersveryown https://t.co/JaNPWgCLNk on #SoundCloud", :followers=>6581, :user_id=>92333460, :retweet=>0}
-{:name=>"@Dim_GF", :text=>"Mais Couniamamanw  @Drake 🙌🙌🙌🙌🙌🔥🔥🔥🔥🔥😂✋", :followers=>430, :user_id=>774500179, :retweet=>0}
-{:name=>"@iamjordangrant_", :text=>"RT @Dreamville402: after listening to drake's entire album...lawd. http://t.co/f2iGfIy0RF", :followers=>5994, :user_id=>268751128, :retweet=>87}
-{:name=>"@Melstarr18", :text=>"RT @w00d_pecker: 50 SHADES OF GREY AND A NEW DRAKE ALBUM AND VALENTINES DAY ALL IN THE SAME WEEKEND SO MANY GIRLS FINNA GET PREGNANT", :followers=>494, :user_id=>286606035, :retweet=>108}
-{:name=>"@LiIsOnTw", :text=>"RT @JacobWhitesides: Drake dropped his album see you in an hour", :followers=>716, :user_id=>995795498, :retweet=>1385}
-{:name=>"@danijaniece", :text=>"company // drake", :followers=>1123, :user_id=>45065329, :retweet=>0}
-{:name=>"@SpotifyNowPlay", :text=>"RT @rosstafarianJ: #NowPlaying ♫ If You're Reading This It's Too Late – Drake http://t.co/Go50UdtnO6", :followers=>6649, :user_id=>531585656, :retweet=>1}
-{:name=>"@StaggaSays", :text=>"#Tyga #Drake http://t.co/Inpw2T1UcY", :followers=>8193, :user_id=>40018680, :retweet=>0}
-{:name=>"@Adam_Sayers", :text=>"When Drake drops a mixtape, you just immediately stop everything else that you're doing. #drizzy", :followers=>164, :user_id=>231827066, :retweet=>0}
-{:name=>"@TreyP0UND", :text=>"RT @jay_grant11: THIS NEW DRAKE!", :followers=>18917, :user_id=>47793888, :retweet=>1}
-{:name=>"@lilia_knz", :text=>"ahhhhhh la mixtape de Drake elle est trop lourde", :followers=>172, :user_id=>2311637989, :retweet=>0}
-{:name=>"@JennsThrone", :text=>"RT @i_PunchHoes: Drake like \"Yall thought it was over Huh?\" http://t.co/n7KXnHn9tw", :followers=>370, :user_id=>836784110, :retweet=>550}
-{:name=>"@NanaDlamini1", :text=>"RT @RapFavorites: Rumor Alert: Drake to drop his mixtape at midnight in honor of the 6 year anniversary of \"So Far Gone\" http://t.co/J1k5l7…", :followers=>295, :user_id=>1459378322, :retweet=>5158}
-{:name=>"@Dolapo_King", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>520, :user_id=>139209736, :retweet=>2930}
-{:name=>"@suckalikedat", :text=>"And fuck Drake and his new mix tape. Although I do fuck with Drake. Minimally.", :followers=>482, :user_id=>22036389, :retweet=>0}
-{:name=>"@maighdlinshea", :text=>"RT @whiteandfaded: new drake is 🔥🔥🔥 http://t.co/zz6E913vh5", :followers=>174, :user_id=>1559563789, :retweet=>312}
-{:name=>"@OfficialMetric", :text=>"Ffs...🙊 @Drake done did it again #VFT6 #6ixSide #WayUp ⤴ http://t.co/57hNUwctjK", :followers=>2708, :user_id=>38187111, :retweet=>0}
-{:name=>"@dale_1402", :text=>"RT @JacobWhitesides: Turn that new drake on and let's go 🔥", :followers=>1014, :user_id=>2887044695, :retweet=>699}
-{:name=>"@Moeez300", :text=>"Drake dropped 17 pure fire tracks", :followers=>218, :user_id=>572648553, :retweet=>0}
-{:name=>"@7Silva7", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>387, :user_id=>253056580, :retweet=>80110}
-{:name=>"@RyleyThor", :text=>"RT @MarkieMogul: Drake .... Legend http://t.co/0Ccs6ZLVu9", :followers=>1541, :user_id=>252876954, :retweet=>97}
-{:name=>"@TeamReTweets__", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>3455, :user_id=>2931467302, :retweet=>1150}
-{:name=>"@_vinnyboyyy_", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>525, :user_id=>216524653, :retweet=>80110}
-{:name=>"@beautybecause", :text=>"Drake is keeping me up right now", :followers=>1410, :user_id=>268039527, :retweet=>0}
-{:name=>"@Da_Non_Vide", :text=>"#NL Drake - If You're Reading This It's Too Late", :followers=>206, :user_id=>377259441, :retweet=>0}
-{:name=>"@IamChief87", :text=>"RT @StaggaSays: #Tyga #Drake http://t.co/oQdDKD0zh9", :followers=>359, :user_id=>128870600, :retweet=>1}
-{:name=>"@KatieShurmur", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>252, :user_id=>2942125309, :retweet=>80110}
-{:name=>"@Nnennaya_x", :text=>"RT @BmoreNigerian: Drake really Beyoncé'd us. Hian.", :followers=>455, :user_id=>443744829, :retweet=>7}
-{:name=>"@SlothBoyShope", :text=>"RT @RapFavorites: On this day 6 years ago, Drake released his third mixtape \"So Far Gone\" http://t.co/kvSqzQ5UH4", :followers=>1228, :user_id=>545653389, :retweet=>2173}
-{:name=>"@nrxtulain", :text=>"RT @specificbieber: im just gonna download Drake's new album illegally bc broke af", :followers=>337, :user_id=>447523061, :retweet=>1}
-{:name=>"@Trends_US", :text=>"Rang 1-5 :: \n1) Drake \n2) Alyson Stoner \n3) David Carr \n4) The Slap \n5) Amanda Knox \n #Trends_US #US #Trend #Trends", :followers=>529, :user_id=>1326254833, :retweet=>0}
-{:name=>"@MyNiggaVitty", :text=>"Drake go B", :followers=>404, :user_id=>350499055, :retweet=>0}
-{:name=>"@bramruiter", :text=>"Goal for today:\n- Walk around the city, sulking to that new Drake", :followers=>360, :user_id=>3053101, :retweet=>0}
-{:name=>"@SuperwomanLIVE", :text=>"RT @JustinCrew: Justin x Drake http://t.co/mBU3NAQMtu", :followers=>54, :user_id=>2819494824, :retweet=>92}
-{:name=>"@TeamReTweets__", :text=>"RT @de__la__rosa: RT@Drake: Make sure you've HEARD http://t.co/7UdjkrJMD2 #drakemixtape #ifyourereadingthisitstoolate #drake #ovo #ovosound…", :followers=>3455, :user_id=>2931467302, :retweet=>10}
-{:name=>"@VignyLeRoi", :text=>"Nan le nouvel album de Drake qui est sorti hier jle valide", :followers=>264, :user_id=>1201736251, :retweet=>0}
-{:name=>"@don_jide", :text=>"@Mustafayadigg of course but drake stans r strong", :followers=>2081, :user_id=>123047274, :retweet=>0}
-{:name=>"@LauraRobinson26", :text=>"RT @VH1PNUT: NEW DRAKE AND VALENTINES DAY... EVERYBODY GONNA BE PREGNANT  NEXT WEEK", :followers=>853, :user_id=>453881148, :retweet=>2111}
-{:name=>"@StaggyLeotlela", :text=>"Know Yourself🔥 - @drake", :followers=>223, :user_id=>250973076, :retweet=>0}
-{:name=>"@ThatNIGGA_Jazz", :text=>"Drake all day", :followers=>790, :user_id=>328081336, :retweet=>0}
-{:name=>"@LeedsShaq", :text=>"Skepta been certi from day ppl acting confused that drake biggin him up real recognise real 💯💯", :followers=>43, :user_id=>3001699284, :retweet=>0}
-{:name=>"@MirriamJones", :text=>"RT @BiggyBravo_: If Drake performs this mixtape at wireless I'll be very haps", :followers=>148, :user_id=>344635143, :retweet=>1}
-{:name=>"@_shxwna", :text=>"RT @Brown29_: Lord knows @Drake is the best in the game 🔥🔥🔥🔥", :followers=>396, :user_id=>376323058, :retweet=>3}
-{:name=>"@Hazie_Haze", :text=>"RT @BET: .@Drake just dropped a surprise album on us like we don't got work in the morning: http://t.co/Q6qohENpYe  http://t.co/rdrsJEGM…", :followers=>170, :user_id=>408004169, :retweet=>806}
-{:name=>"@vinylcyrus", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>1149, :user_id=>1459757604, :retweet=>1150}
-{:name=>"@KingDavidd_", :text=>"RT @xN0STALGIA: Drake makes cruising music. J.Cole makes music for studying..", :followers=>3260, :user_id=>395405335, :retweet=>63}
-{:name=>"@KaterinSeverino", :text=>"RT @Youngg_White: When will Drake ever make a remotely bad song? \n#QuestionsThatDontHaveAnswers", :followers=>224, :user_id=>2495528416, :retweet=>82}
-{:name=>"@oohcareless", :text=>"“@DJSIDEREAL: NEW DRAKE AND VALENTINES DAY... EVERYBODY GONNA BE PREGNANT  NEXT WEEK” 😂😏", :followers=>3076, :user_id=>2752873719, :retweet=>0}
-{:name=>"@gona_k", :text=>"bästa känslan att vakna och se att Drake släppt sin mixtape 🙌👌 #IfYoureReadingThisItsTooLate", :followers=>78, :user_id=>528626237, :retweet=>0}
-{:name=>"@Shahwaizzz", :text=>"Wait is this the @Drake album?", :followers=>628, :user_id=>296448173, :retweet=>0}
-{:name=>"@emilyylovee13", :text=>"Wait did Drake drop a new album?? I can't tell since no one is tweeting about it....", :followers=>64, :user_id=>951822782, :retweet=>0}
-{:name=>"@Jubertsss", :text=>"\"Started from the Bottom\"\n-@Drake \n\"Started from the MIDWEST, now we about to take all OVER THE WORLD\"\n-@TechN9ne \nstarted both at bottom .", :followers=>33, :user_id=>2781718369, :retweet=>0}
-{:name=>"@SupremeChillers", :text=>"Drake - If You're Reading This It's Too Late (Full Mixtape REVIEW) http://t.co/YMWkhGRuGf", :followers=>127, :user_id=>594080004, :retweet=>0}
-{:name=>"@NontzMkhize", :text=>"RT @joaomatthews_: Text from my sister: \"What? I'm busy downloading the Drake album right now and it's already a classic!\" My family is hil…", :followers=>315, :user_id=>142032752, :retweet=>16}
-{:name=>"@TweetsOfIsaac", :text=>"RT @TheaGajic: Drake is a genre", :followers=>884, :user_id=>258444301, :retweet=>7}
-{:name=>"@Atika_MJ", :text=>"RT @JBCrewdotcom: Justin Bieber via Fahlo: With my brother Drake celebrating this music http://t.co/erXs8tN622", :followers=>517, :user_id=>1133117484, :retweet=>418}
-{:name=>"@Prepare4Tremere", :text=>"Drake fans are getting like Beyoncé fans...", :followers=>1142, :user_id=>25992769, :retweet=>0}
-{:name=>"@ms_cremonae", :text=>"This drake tho", :followers=>154, :user_id=>354624257, :retweet=>0}
-{:name=>"@BuchetteWtf", :text=>"Nouveau #Drake \"surprise\". Bon c'est qd même moins risqué de pas annoncer un album quand on a 18 milliions de fans;) https://t.co/j05JXt6lrg", :followers=>981, :user_id=>37488562, :retweet=>0}
-{:name=>"@JustKRenee", :text=>"Please know that I will be quoting the ish out of Drake", :followers=>204, :user_id=>23195528, :retweet=>0}
-{:name=>"@NZEPLTN", :text=>"If your reading this is too late - drake 🙌🙌 too talented !", :followers=>264, :user_id=>317937237, :retweet=>0}
-{:name=>"@JacobHailey24", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>73, :user_id=>553736845, :retweet=>2930}
-{:name=>"@JesssAjose", :text=>"RT @NIGGERTWlTTER: \"I THOUGHT MIXTAPES WERE FREE?\"\n\nDRAKE: http://t.co/xZsFAMbJcU", :followers=>235, :user_id=>130614779, :retweet=>2077}
-{:name=>"@drealmissbehave", :text=>"RT @TheRealNamz: Drake surely going platinum \nBy the end of the week", :followers=>1761, :user_id=>133076073, :retweet=>2}
-{:name=>"@babyjaas", :text=>"I AM DRAKE FAN FOR LIFE", :followers=>281, :user_id=>874176836, :retweet=>0}
-{:name=>"@andrewjamesajie", :text=>"Drake's ballin' now", :followers=>364, :user_id=>2231928839, :retweet=>0}
-{:name=>"@NOTYPESAM", :text=>"Drake #Energy 💯", :followers=>469, :user_id=>801684216, :retweet=>0}
-{:name=>"@HJDarger", :text=>"DRAKE que letra de mierda http://t.co/UvtY5BesAy", :followers=>1202, :user_id=>513680022, :retweet=>0}
-{:name=>"@justinaeena", :text=>"Company // Drake 💎", :followers=>345, :user_id=>270024480, :retweet=>0}
-{:name=>"@nathalybabyy", :text=>"RT @UncleBlazer: and yes i am currently high listening to the new Drake", :followers=>747, :user_id=>157228705, :retweet=>1584}
-{:name=>"@MykoVu", :text=>"Most of Drake's album is like \"ye I go hard\" but \"You &amp; the 6\" is like an honest letter to his mom, I respect that so much", :followers=>117, :user_id=>1511944596, :retweet=>0}
-{:name=>"@Kaos_100", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>1217, :user_id=>446572533, :retweet=>19962}
-{:name=>"@SPACEDGODNASA", :text=>"RT @FACTmag: .@Drake thanks @Skepta, @JODYHiGHROLLER and more in his mixtape liner notes: http://t.co/rds0EWdqYH http://t.co/5EYJMinG33", :followers=>475, :user_id=>2222866453, :retweet=>2}
-{:name=>"@RVMMY_FLO", :text=>"RT @ChampagneJaviii: Drake's Album cover look like a suicide note from a Chick-Fil-A cow 😂😭 http://t.co/yZVSXpeekO", :followers=>435, :user_id=>37752562, :retweet=>840}
-{:name=>"@_amirahjamal", :text=>"Preach // Drake ft. PND ✨", :followers=>308, :user_id=>1023732666, :retweet=>0}
-{:name=>"@RobynnXO", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>1349, :user_id=>278877203, :retweet=>80110}
-{:name=>"@GJGillespie", :text=>"RT @yemzstar: Tyga after hearing @drake Diss http://t.co/TNNRe5o01D", :followers=>350, :user_id=>369397404, :retweet=>21}
-{:name=>"@kirby_frederick", :text=>"Drake's released an album so I guess I'm not going to speak to anyone for a few months.", :followers=>294, :user_id=>1380076699, :retweet=>0}
-{:name=>"@Gaskell9", :text=>"RT @Ezzmundo: Drake has just gone and dropped his new album !!!!!!!! http://t.co/SF3DWVXBCe", :followers=>367, :user_id=>941352756, :retweet=>1}
-{:name=>"@shakieraxo", :text=>"RT @Tcapone_online: Zonin to drake new mixtape like 👀 @shakieraxo http://t.co/4oLZjKwNam", :followers=>2754, :user_id=>701170830, :retweet=>1}
-{:name=>"@abigailtoothill", :text=>"“@J4CKMULL: When Drake drops a mixtape out of nowhere http://t.co/lzTRlyTPWU”@codeorvnge", :followers=>150, :user_id=>317188131, :retweet=>0}
-{:name=>"@sonnyflannigan", :text=>"Stfu drake is shit", :followers=>330, :user_id=>240152243, :retweet=>0}
-{:name=>"@EssEyyEmm", :text=>"RT @geneva_isabelle: “@EssEyyEmm: Drake released an album yesterday did you know? If you're reading this it's too late.” Trust you to tweet…", :followers=>272, :user_id=>65609799, :retweet=>1}
-{:name=>"@HarryGoldsack", :text=>"Drake's gotta have dyslexia with handwriting like that", :followers=>255, :user_id=>51819224, :retweet=>0}
-{:name=>"@ahpuuqizayada", :text=>"drake cant even compare x6 #Lust @jalenmcmillan", :followers=>2, :user_id=>3004734711, :retweet=>0}
-{:name=>"@CesarRomero6", :text=>"RT @Dustolo: Drake-Miguel-Kid Ink-Lupe Fiasco-Joey Bada$$-Asap Rocky-Wale-Earl Sweatshirt-KendrickLamar-KidCudi-LilWayne &amp; MacMiller all dr…", :followers=>207, :user_id=>297773573, :retweet=>1}
-{:name=>"@DannyMomentaii", :text=>"Drake is a great love him or hate him.", :followers=>1329, :user_id=>354972115, :retweet=>0}
-{:name=>"@JUNIOR_SAMPLE", :text=>"Did drake fire shots at anybody relevant or????? http://t.co/1jaD6FMCBg", :followers=>198, :user_id=>235816657, :retweet=>0}
-{:name=>"@JossABabyGirl", :text=>"Drake is something else man to much", :followers=>425, :user_id=>563987940, :retweet=>0}
-{:name=>"@StuckOnYoung", :text=>"6 God - @Drake", :followers=>1901, :user_id=>48119942, :retweet=>0}
-{:name=>"@KingBlue616", :text=>"I hope that's not Drake's real handwriting on that cover...", :followers=>996, :user_id=>544949657, :retweet=>0}
-{:name=>"@xsundian", :text=>"Memoirs Of Us (Thank You For Your Time) Drake x Jeni Suk x (Produced By \"The Scientist!\") [http://t.co/2W2VhdDTgc] http://t.co/RgFoV9u5kk", :followers=>5096, :user_id=>232482224, :retweet=>0}
-{:name=>"@glennthompson8", :text=>"Can't wait to give this @Drake mixtape a listen after work", :followers=>484, :user_id=>254950700, :retweet=>0}
-{:name=>"@cantbelowkey", :text=>"RT @realwords: So, Drake is releasing this as an \"album\" in order to complete his four-album contract with Cash Money records.", :followers=>1557, :user_id=>627330571, :retweet=>2704}
-{:name=>"@Gbig_Mike", :text=>"I know its Drake, but lets all relax and stop pretending this mixtape/album is anything more than decent please", :followers=>247, :user_id=>322942943, :retweet=>0}
-{:name=>"@Respect_da_Gawd", :text=>"RT @RespectMyMAC: Drake definitely saved a life.. Thank you ❤️", :followers=>355, :user_id=>2481654191, :retweet=>1}
-{:name=>"@hallejasmin", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>472, :user_id=>922373862, :retweet=>80110}
-{:name=>"@ICEPIC91", :text=>"Drizzy Drake #OVO http://t.co/B9XcSXuW7l", :followers=>242, :user_id=>122982447, :retweet=>0}
-{:name=>"@TaiyonJ", :text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :followers=>774, :user_id=>1968840800, :retweet=>1872}
-{:name=>"@MC_Twerker_", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>69, :user_id=>2551210183, :retweet=>80110}
-{:name=>"@Madiha_rehmannn", :text=>"When you find out drake just released a new album  http://t.co/d9yIvgoUIl", :followers=>362, :user_id=>599504245, :retweet=>0}
-{:name=>"@timothymalinzi", :text=>"RT @BBCNewsbeat: If you love Drake, but you also love grammar, we fixed #ifyourereadingthisitstoolate for you http://t.co/ywScXoXWPH", :followers=>244, :user_id=>366181411, :retweet=>33}
-{:name=>"@LinkzArtist", :text=>"Oh my days. @Drake just reminded man he has \"a decade to go\". Just left that sink in..", :followers=>223, :user_id=>233327840, :retweet=>0}
-{:name=>"@wanenavy", :text=>"RT @ImaniKahlo: “You need to act your age and not your girls age…”\nDrake on 6pm in New York. Scalping the fuck out of Tyga.", :followers=>1221, :user_id=>506623654, :retweet=>36}
-{:name=>"@meshalayxo", :text=>"RT @_somethinPretty: Drake never let me down !!", :followers=>119, :user_id=>2595489198, :retweet=>1}
-{:name=>"@MC_Twerker_", :text=>"RT @Drake: http://t.co/a0b67CTncU", :followers=>69, :user_id=>2551210183, :retweet=>14360}
-{:name=>"@chlo_tay", :text=>"RT @JoeyM___: Drake new mixtape is 🔥🔥 of course", :followers=>957, :user_id=>281196781, :retweet=>3}
-{:name=>"@JenniferRaby", :text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :followers=>423, :user_id=>142741239, :retweet=>1872}
-{:name=>"@UnicornAsh__", :text=>"“@Rene: Why Drake just released a new album. http://t.co/tATRAYCKG4” @KiddSpiff_", :followers=>479, :user_id=>388255493, :retweet=>0}
-{:name=>"@joichristina", :text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :followers=>329, :user_id=>417954872, :retweet=>1872}
-{:name=>"@marianna49496", :text=>"RT @Tsilva79: https://t.co/rZqkCaypWK", :followers=>405, :user_id=>2895667654, :retweet=>1}
-{:name=>"@FactThatAreTrue", :text=>"RT @HouseOfSabrina: Here..stop crying. New Drake. http://t.co/AkJoQXfhqG", :followers=>254, :user_id=>2311953364, :retweet=>24}
-{:name=>"@pvpichulopache", :text=>"Drake a funny nigga . Dropped that album unannounced 👌💯", :followers=>98, :user_id=>2909431969, :retweet=>0}
-{:name=>"@MizzyNel", :text=>"Drake. Why you do it to them", :followers=>854, :user_id=>59084430, :retweet=>0}
-{:name=>"@hallejasmin", :text=>"RT @alexfolgo: DID DRAKE JUST BLESS US ALL WITH AN ALBUM?!? HELP", :followers=>472, :user_id=>922373862, :retweet=>1}
-{:name=>"@jeannotjon", :text=>"RT @Miggi_DoubleM: Drake's Album cover look like a suicide note from a Chick-Fil-A cow 💀 http://t.co/IaWilrtCi6", :followers=>1231, :user_id=>71225655, :retweet=>1808}
-{:name=>"@sugacaneXo", :text=>"@Drake OPEN YOUR NZ SHOW WITH \"SORRY FOR THE WAIT 2!!!!!!!!\" 🙌🙌🙌🙌🙌 IT WOULD BE BEYOND LEGENDARY!!!!!", :followers=>70, :user_id=>2794976221, :retweet=>0}
-{:name=>"@KieranCPhoto", :text=>"@gjcxafc any idea where i can get the new drake album?", :followers=>8252, :user_id=>1161048176, :retweet=>0}
-{:name=>"@ohhNeka_", :text=>"I like Drake music 😍 , but Drake ? Naw , he a lame 😂✋ ..", :followers=>1862, :user_id=>484486221, :retweet=>0}
-{:name=>"@MrPOONsoaker", :text=>"Drake dropped this album only to get outta contract with Cash Money. Which is why it was presented like a mixtape.", :followers=>5715, :user_id=>222502863, :retweet=>2}
-{:name=>"@Love_DLovato_", :text=>"RT @ddlovato: Here's another thing I want you to know; I love you Drake.", :followers=>1692, :user_id=>2296739232, :retweet=>1076}
-{:name=>"@AbibosOriginals", :text=>"sitting around with Blake,Bryan a, and Jess,and Allanya with New Drake on", :followers=>131, :user_id=>2265235836, :retweet=>0}
-{:name=>"@Jessica_Redman", :text=>"Is 'urgh' a recognized mood. Also new Drake is still on Soundcloud because I'm listening to it. Is that just me or.. https://t.co/LeZe7yHeEM", :followers=>493, :user_id=>22384738, :retweet=>0}
-{:name=>"@cha0ticaptain", :text=>"RT @t0p_w4nker: I don't understand how people take drake seriously", :followers=>74, :user_id=>956395562, :retweet=>4}
-{:name=>"@mrmakeittwitch", :text=>"RT @NIGGERTWlTTER: \"I THOUGHT MIXTAPES WERE FREE?\"\n\nDRAKE: http://t.co/xZsFAMbJcU", :followers=>274, :user_id=>1437186630, :retweet=>2077}
-{:name=>"@FancyKaryNutts", :text=>"I could have downloaded Drake's mixtape for free but I bought it 💁", :followers=>82, :user_id=>208362384, :retweet=>0}
-{:name=>"@SofieBolton", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>778, :user_id=>88411093, :retweet=>80110}
-{:name=>"@aventdroy", :text=>"RT @markleggett: I've never listened to a Drake song all the way through because I'm not interested in hearing a grown man read out a tween…", :followers=>41, :user_id=>445687930, :retweet=>58}
-{:name=>"@vianca_soto", :text=>"RT @TooSweet___: “@iWizOnYaKhalifa: drake is all up and down my tl.”", :followers=>344, :user_id=>792356502, :retweet=>1}
-{:name=>"@crispywhiteboi", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>2436, :user_id=>237597085, :retweet=>19962}
-{:name=>"@hallejasmin", :text=>"RT @alexfolgo: I'm so emotional over this new Drake no one understands he's WILD", :followers=>472, :user_id=>922373862, :retweet=>1}
-{:name=>"@ollie_piggott", :text=>"RT @willdarbyshire: NEW DRAKE MIXTAPE", :followers=>84, :user_id=>49301084, :retweet=>62}
-{:name=>"@King_Eog1984", :text=>"\"@TreSmitty: Shout out to Drake for pulling a Beyonce\" WTF you been", :followers=>1163, :user_id=>439833566, :retweet=>0}
-{:name=>"@_Laady20", :text=>"I don't fw drake but I'll listen", :followers=>744, :user_id=>1562217577, :retweet=>0}
-{:name=>"@uweezy_b", :text=>"DRAKE!!!", :followers=>214, :user_id=>2967580996, :retweet=>0}
-{:name=>"@Kickin_Chris", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>380, :user_id=>721028107, :retweet=>80110}
-{:name=>"@Tobinator_", :text=>"RT @TampaxUK: Standby for Drake lyrics from every song on his new mixtape used for quotes on Twitter.", :followers=>1551, :user_id=>26721092, :retweet=>1}
-{:name=>"@Abdirahmancarab", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>223, :user_id=>301378600, :retweet=>80110}
-{:name=>"@hwing_net", :text=>"Stream #Drake’s New Mixtape, “If You’re Reading This It’s Too Late” http://t.co/uoHAeFn3m3 #music #news", :followers=>1415, :user_id=>258775894, :retweet=>0}
-{:name=>"@LFitzpatrick33", :text=>"RT @WorldStarFunny: Can iTunes put Drake's album on everyone's phone for free like they did that trash U2 album?", :followers=>337, :user_id=>342690431, :retweet=>3104}
-{:name=>"@Omizzleeee", :text=>"RT @VH1PNUT: NEW DRAKE AND VALENTINES DAY... EVERYBODY GONNA BE PREGNANT  NEXT WEEK", :followers=>92, :user_id=>2765864483, :retweet=>2111}
-{:name=>"@ASAP_Ranger", :text=>"RT @jstchillwhitt: “@CHlLDHOODRUINER: drake made over $360,000 within the first 20 min of his new album release http://t.co/q6ZfuTKdNL” 😭", :followers=>190, :user_id=>519000503, :retweet=>2}
-{:name=>"@SipheS_Sindane", :text=>"RT @Cherry01_: 🙌 RT @hlonir: Im not even tryna be a dick but nobody cares about your semi nude and selfie today its all about this Drake al…", :followers=>146, :user_id=>2474570691, :retweet=>2}
-{:name=>"@SloppyBoyXan", :text=>"RT @YungGodd_: DRAKE DROPPED A MIXTAPE NOT A ALBUM CHILL NIGGAS", :followers=>569, :user_id=>405052975, :retweet=>1}
-{:name=>"@aiyanajtabb", :text=>"bouta download this drake album boy😍", :followers=>394, :user_id=>2230701034, :retweet=>0}
-{:name=>"@Paul_123ffc", :text=>"@JNorman_FFC @Drake If I had £12... I would", :followers=>638, :user_id=>1019758910, :retweet=>0}
-{:name=>"@AyeChrisp", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>146, :user_id=>433901356, :retweet=>1150}
-{:name=>"@Joshbats", :text=>"Drake just come through outta no where 🙌", :followers=>1089, :user_id=>292302986, :retweet=>0}
-{:name=>"@__hiphop__", :text=>"【new】MP3シングル　TOP10→ ６位： Truffle Butter [feat. Drake] [Explicit] http://t.co/LD1Rkxyi6e #mp3　#シングル　#ダウンロード　 #HIPHOP　#RAP　#ヒップホップ", :followers=>2826, :user_id=>559356540, :retweet=>0}
-{:name=>"@JayDee_Cuban", :text=>"No matter what Drake don't never disappoint when it comes to dropping new music 🙌", :followers=>1095, :user_id=>27347197, :retweet=>0}
-{:name=>"@giustssa", :text=>"RT @brownjenjen: → http://t.co/JuMkMuI5O4 J. Prince Threatens Diddy Over Fight With Drake #JPrince  877", :followers=>9802, :user_id=>2361872202, :retweet=>29}
-{:name=>"@5secsofJLS", :text=>"(Not in the film obvs but I need to listen to @Drake's new mixtape)", :followers=>6237, :user_id=>453396429, :retweet=>0}
-{:name=>"@ethan_t0", :text=>"RT @GummyBeatz: This new drake tho", :followers=>1117, :user_id=>285010871, :retweet=>2}
-{:name=>"@NathKelly_", :text=>"RT @Brown29_: Lord knows @Drake is the best in the game 🔥🔥🔥🔥", :followers=>353, :user_id=>199311461, :retweet=>3}
-{:name=>"@Hayxt_", :text=>"RT @KiranDavid_: Drake got 700,000 in two hours.\nBeyonce did 800,000 in a week.\n\nLet that sink in. http://t.co/8m75CfnEPs", :followers=>390, :user_id=>220092460, :retweet=>914}
-{:name=>"@IamSheldon1", :text=>"RT @CapitalXTRA: Drake just dropped his new mixtape. http://t.co/UivDitLDM9 http://t.co/7y9rIsCGlF", :followers=>5436, :user_id=>157715900, :retweet=>5}
-{:name=>"@Marijana_xox", :text=>"RT @thallya__ah: wow RT @HipHopxHotspot:Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http:…", :followers=>6327, :user_id=>499568043, :retweet=>1}
-{:name=>"@Str88ovo", :text=>"RT @OneYSL: Drake dropped a throwaway mixtape, sold it as an album, and went platinum in 3 hours. It's not even a discussion anymore.", :followers=>235, :user_id=>626604555, :retweet=>234}
-{:name=>"@_phucku", :text=>"Drake dropped a new album just in time for Valentine's Day so all us single folk can feel worse about life 🙋", :followers=>1209, :user_id=>394738833, :retweet=>0}
-{:name=>"@OnAndOnMusic", :text=>"Drake stuns with surprise album release http://t.co/IXahFOkZxv", :followers=>100, :user_id=>2424129836, :retweet=>0}
-{:name=>"@AjShehata", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>689, :user_id=>415801049, :retweet=>80110}
-{:name=>"@theBOTGroup", :text=>"░░ 2 #NEW #Drake Songs ░░█► Drake \"#6God #HeatOfTheMoment &amp; New #StCyr \"Hold Up\" (Prod by #BOnTheBeat) ► http://t.co/d2b9ysbPv3 ◀ Bruce…", :followers=>1013, :user_id=>1288915794, :retweet=>0}
-{:name=>"@jaeslv", :text=>"@Drake 6⃣🙏", :followers=>1249, :user_id=>1092385350, :retweet=>0}
-{:name=>"@JackieT87787587", :text=>"#мненравится Drake - If Youre Reading This Its Too Late (2015): Название: Drake - If Youre Reading This Its… http://t.co/ygRD9dsbah #мьюзик", :followers=>412, :user_id=>1624865730, :retweet=>0}
-{:name=>"@toneill92", :text=>"DRAKE JUST BEYONCE'D US", :followers=>382, :user_id=>113733381, :retweet=>0}
-{:name=>"@dhill9225", :text=>"RT @GETRI6HT: Drake just dropped a whole 6 months of Instagram captions for y'all 😂", :followers=>181, :user_id=>325731324, :retweet=>4}
-{:name=>"@jaimus_", :text=>"i got out of bed just to get the drake album.", :followers=>173, :user_id=>231947719, :retweet=>0}
-{:name=>"@snpstr", :text=>"If You're Reading This It's Too Late http://t.co/ImIXP84Oo5 #DDL #Drake (via @Drake)", :followers=>1179, :user_id=>28574871, :retweet=>0}
-{:name=>"@TwerkMag", :text=>"░░ 2 #NEW #Drake Songs ░░█► Drake \"#6God #HeatOfTheMoment &amp; New #StCyr \"Hold Up\" (Prod by #BOnTheBeat) ► http://t.co/M5IgOpsq6n ◀ Bruce…", :followers=>717, :user_id=>1672029229, :retweet=>0}
-{:name=>"@FemalesAreCrazy", :text=>"My internet connection doesn't allow me to view new Drake mixtape smh", :followers=>2557, :user_id=>622349024, :retweet=>0}
-{:name=>"@realkonnecx", :text=>"New Video: Drake - Jungle (Short Film) | http://t.co/J8UPhiAx86\"", :followers=>3559, :user_id=>1908575047, :retweet=>0}
-{:name=>"@brit_bedford", :text=>"RT @MoyoMaksRM: Drake told Tyga to act 25, not 17. And guess what Tyga did right when he woke up? Yup, tweeted &amp; deleted some shit like a 1…", :followers=>2559, :user_id=>467624104, :retweet=>104}
-{:name=>"@JSwiss1", :text=>"The one time I fall asleep early drake drops a mixtape", :followers=>559, :user_id=>325002581, :retweet=>0}
-{:name=>"@Breezy_LouWhoo", :text=>"@KamKasteIIano bye drake", :followers=>1545, :user_id=>348928817, :retweet=>0}
-{:name=>"@calumMUsimons", :text=>"This mixtape is something special, @Drake ma God", :followers=>184, :user_id=>379353498, :retweet=>0}
-{:name=>"@LaLalala1991", :text=>"RT @SheLovesMeachie: Watch twitter be flooded with Drake lyrics 😂😂", :followers=>23, :user_id=>3000481843, :retweet=>1}
-{:name=>"@ASAP_Ranger", :text=>"RT @CHlLDHOODRUINER: No school tomorrow Drake dropped his album", :followers=>190, :user_id=>519000503, :retweet=>1305}
-{:name=>"@literalporn", :text=>"RT @LILJONNA: guys stop stressing me out about the drake album or send me a zip", :followers=>4897, :user_id=>408175066, :retweet=>1}
-{:name=>"@lavasheriff", :text=>"I'm so excited to see @Drake at Wireless", :followers=>1350, :user_id=>2647758005, :retweet=>0}
-{:name=>"@Trippy_Chazz", :text=>"Drake is the best rapper alive fuck it", :followers=>1612, :user_id=>368649842, :retweet=>0}
-{:name=>"@LoveHerFit", :text=>"░░ 2 #NEW #Drake Songs ░░█► Drake \"#6God #HeatOfTheMoment &amp; New #StCyr \"Hold Up\" (Prod by #BOnTheBeat) ► http://t.co/qHfPoB3tg8 ◀ Bruce…", :followers=>446, :user_id=>2189250254, :retweet=>0}
-{:name=>"@MajorSlander", :text=>"That drake album was dope.", :followers=>1021, :user_id=>219284591, :retweet=>0}
-{:name=>"@Sanabd_", :text=>"@Drake jtm", :followers=>72, :user_id=>2233302643, :retweet=>0}
-{:name=>"@lsk_pkc", :text=>"I need that Drake new tape Asap", :followers=>2362, :user_id=>175376107, :retweet=>0}
-{:name=>"@HipHopSnack", :text=>"░░ 2 #NEW #Drake Songs ░░█► Drake \"#6God #HeatOfTheMoment &amp; New #StCyr \"Hold Up\" (Prod by #BOnTheBeat) ► http://t.co/xflvpJqtFx ◀ Bruce…", :followers=>511, :user_id=>3014630580, :retweet=>0}
-{:name=>"@sophia_kayyy", :text=>"RT @MarcusCruz__: The reason @Drake released the mixtape as an album! #Loyalty http://t.co/qBy0UXzAyt", :followers=>752, :user_id=>311737331, :retweet=>49}
-{:name=>"@Hayden_101_", :text=>"RT @Trevornoah: Drake pulled a Beyonce on us. New album out on iTunes just like that.", :followers=>390, :user_id=>277237347, :retweet=>143}
-{:name=>"@jsmooth_24", :text=>"@iiAM_unwritten 😑😑😑😑 find some business and listen to Drake.... just don't hmu and realize you love me.", :followers=>717, :user_id=>233314009, :retweet=>0}
-{:name=>"@JustChastai", :text=>"RT @TaliaArtrice: Can we get a 7:13 in Houston or like a 8:32 in Houston? @Drake", :followers=>1667, :user_id=>62716005, :retweet=>21}
-{:name=>"@shalaynam_", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>493, :user_id=>229893270, :retweet=>80110}
-{:name=>"@boringwhitegal", :text=>"RT @desusnice: New Drake and cold temperatures. Valentines day weekend gonna be so full of the feels", :followers=>834, :user_id=>269251929, :retweet=>817}
-{:name=>"@andatokhm", :text=>"RT @Burrgos: drake just dropped 6 months worth of Instagram captions", :followers=>151, :user_id=>2343565048, :retweet=>1016}
-{:name=>"@K_RICH53", :text=>"RT @FightsOnVine: Me: DRAKE JUST DROPPED HIS MIXTAPE\nBros: WE TAKING THE SHORTCUT HOME https://t.co/LBM7Nmqrco", :followers=>91, :user_id=>2584811035, :retweet=>461}
-{:name=>"@DrizzyRabidFan", :text=>"Stream Drake's Surprise Mixtape \"If You're Reading This It's Too Late\" http://t.co/LlhkCehWyD", :followers=>928, :user_id=>1105703906, :retweet=>0}
-{:name=>"@Saint_Oswald", :text=>"RT @xCODFATHER4x: 4:20am and listening to Drake like http://t.co/iYdFnuBZte", :followers=>2102, :user_id=>574339531, :retweet=>3}
-{:name=>"@Oh_So_Amazin", :text=>"RT @FrenchiseProd: Drake got me tryna remember my ex's number", :followers=>275, :user_id=>362875580, :retweet=>3}
-{:name=>"@MusicBattleNOW", :text=>"░░ 2 #NEW #Drake Songs ░░█► Drake \"#6God #HeatOfTheMoment &amp; New #StCyr \"Hold Up\" (Prod by #BOnTheBeat) ► http://t.co/EayNCYaCR0 ◀ Bruce…", :followers=>968, :user_id=>1488863126, :retweet=>0}
-{:name=>"@codiesbul", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>191, :user_id=>255405674, :retweet=>80110}
-{:name=>"@CathysSon", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>921, :user_id=>1626476065, :retweet=>781}
-{:name=>"@Anoweezy", :text=>"RT @SheswantstheD: Kanye seeing the new Drake album on his timeline http://t.co/nbnvtEPLZG", :followers=>401, :user_id=>390022909, :retweet=>92}
-{:name=>"@Tabby_129", :text=>"RT @Nspire_x3: RT @EgregiouslyDope: Feel like I'm the only person on the TL that ain't heard this Drake project. I'll get around to that sh…", :followers=>592, :user_id=>69061734, :retweet=>1}
-{:name=>"@K_Leinese", :text=>"Drake handwriting is terrible.", :followers=>483, :user_id=>2343704829, :retweet=>0}
-{:name=>"@kikkyd", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/DObpNty9YC", :followers=>304, :user_id=>49287449, :retweet=>0}
-{:name=>"@KushtieMutsie", :text=>"RT @CoryTownes: Kendrick’s new song. Kanye’s new shoe. Drake’s new tape. All in 72 hours. Frank Ocean drops a single tomorrow and the Matri…", :followers=>803, :user_id=>259694762, :retweet=>570}
-{:name=>"@IamSheldon1", :text=>"Drake killed it", :followers=>5436, :user_id=>157715900, :retweet=>0}
-{:name=>"@menicPrath", :text=>"Drake - If Youre Reading This Its Too Late (320 kbps) (2015): Name: Drake - If You're Reading This… http://t.co/ptBPt1NPOR #новинки #музыки", :followers=>425, :user_id=>1646022769, :retweet=>0}
-{:name=>"@MiaZarring", :text=>"░░ 2 #NEW #Drake Songs ░░█► Drake \"#6God #HeatOfTheMoment &amp; New #StCyr \"Hold Up\" (Prod by #BOnTheBeat) ► http://t.co/pBooK2dUkB ◀ Bruce…", :followers=>1428, :user_id=>1353067405, :retweet=>0}
-{:name=>"@menicPrath", :text=>"Drake - If Youre Reading This Its Too Late (2015): Название: Drake - If Youre Reading This Its Too… http://t.co/KqTKPNgeCA #новинки #музыки", :followers=>425, :user_id=>1646022769, :retweet=>0}
-{:name=>"@EllaDecember", :text=>"RT @TheaGajic: Drake is a genre", :followers=>6870, :user_id=>125808202, :retweet=>7}
-{:name=>"@big_war_beats", :text=>"@Darnell_JThomas Have you heard ‘Drake(Inspired Beat) - Now You Know Snippet’ by @big_war_beats https://t.co/YwrpdNzBld  #Drake", :followers=>806, :user_id=>2362122809, :retweet=>0}
-{:name=>"@herbertmarc7", :text=>"RT @ShitPussiesSay: Yo Drake just gave me a month's worth of IG quotes", :followers=>257, :user_id=>1105879855, :retweet=>30}
+{:name=>"@mstwotimes", :text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :followers=>971, :user_id=>2205679399, :retweet=>1956}
+{:name=>"@TeyonaLove_PINK", :text=>"Drake new shit &gt;&gt;&gt;&gt;😍", :followers=>924, :user_id=>73106885, :retweet=>0}
+{:name=>"@cbs_x", :text=>"RT @deray: Oh, and here's a link to stream the newest Drake album: http://t.co/blX3WKIGwS", :followers=>244, :user_id=>275192138, :retweet=>64}
+{:name=>"@Ms_Milliiee", :text=>"RT @warren_alexnder: beyonce dropped an album unexpectedly...now drake...Ye album will automatically be downloaded to your phone and charge…", :followers=>2092, :user_id=>305518459, :retweet=>2059}
+{:name=>"@Jbb_77", :text=>"Drake - Jungle 🎧", :followers=>375, :user_id=>490315134, :retweet=>0}
+{:name=>"@only1jsaun", :text=>"Woke up to drake new mixtape #motivation", :followers=>406, :user_id=>47635254, :retweet=>0}
+{:name=>"@beyxqueen", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>1789, :user_id=>270965113, :retweet=>684}
+{:name=>"@high_imheather", :text=>"Drake-ing it this morning ayeeee.😏 #MADONNA http://t.co/og0gGSpzk9", :followers=>371, :user_id=>1585472929, :retweet=>0}
+{:name=>"@groovyyjacks", :text=>"RT @jackgilinsky: Thank you Drake 🙌", :followers=>569, :user_id=>2905685023, :retweet=>3971}
+{:name=>"@Ammanyyyy", :text=>"RT @jassysims_: Meek, nicki, french &amp; khloe all dropped Instagram pics 😩😍 and drake dropped a mixtape. 'Twas the night before valentines 💕💞", :followers=>245, :user_id=>1864025190, :retweet=>2}
+{:name=>"@eyekelley", :text=>"#17 (6PM in New York) 🔥🔥 \n\n\"Your content so aggressive lately, what's urkin' you?\" \n\nDrake was trying to be on his Jay Z....", :followers=>875, :user_id=>524562107, :retweet=>0}
+{:name=>"@_BeautifulBrea", :text=>"I loveeeee Drake man 😫", :followers=>2230, :user_id=>294863520, :retweet=>0}
+{:name=>"@_Profiles_", :text=>"RT @Jevontae_P: “@KiranDavid_: Drake got 700,000 in two hours.\nBeyonce did 800,000 in a week.\n\nLet that sink in. ” http://t.co/rcrprLQFzE", :followers=>298, :user_id=>358957891, :retweet=>2}
+{:name=>"@joycelabelle", :text=>"Lol I must be the only who thinks that a lot of Drake's recent music sounds mad similar.", :followers=>2921, :user_id=>210502238, :retweet=>0}
+{:name=>"@GrimmieFrands", :text=>"Drake new album is alright", :followers=>1717, :user_id=>332348489, :retweet=>0}
+{:name=>"@tybbrittany", :text=>"oh shit drake's mixtape 😩😩😩😩", :followers=>580, :user_id=>621545138, :retweet=>0}
+{:name=>"@ADEYIJNRR", :text=>"Drake Disses Tyga In New Song: ‘Act Your Age, Not Your Girl’s Age’ http://t.co/LppgeaPRre", :followers=>1199, :user_id=>1319982116, :retweet=>0}
+{:name=>"@Ioouijucobali", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>2989895476, :retweet=>309}
+{:name=>"@ArlynnJahh", :text=>"RT @OneYSL: Drake dropped a throwaway mixtape, sold it as an album, and went platinum in 3 hours. It's not even a discussion anymore.", :followers=>211, :user_id=>2298630190, :retweet=>266}
+{:name=>"@RickRollon", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>234, :user_id=>2537438214, :retweet=>81473}
+{:name=>"@nicolefiore4", :text=>"RT @TTLYTEALA: Drake is so great👌", :followers=>965, :user_id=>532576724, :retweet=>125}
+{:name=>"@_ladyshiftt", :text=>"RT @TheGreatest_7: Btw j Cole better than drake #FunFact", :followers=>328, :user_id=>2745965999, :retweet=>25}
+{:name=>"@dylangerr3", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>677, :user_id=>860444359, :retweet=>81473}
+{:name=>"@T_AfrikanPrince", :text=>"The first song uses a Ginuwine sample, reasons why Drake is my dawg bruh", :followers=>605, :user_id=>113437998, :retweet=>0}
+{:name=>"@GodRawldough", :text=>"Leaving Wayne &amp; Nicki to deal with this on their own is actually a super Drake thing to do if true lol", :followers=>297, :user_id=>2943995133, :retweet=>0}
+{:name=>"@danatherton7", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>612, :user_id=>2679531622, :retweet=>81473}
+{:name=>"@HeardJake", :text=>"RT @ImaniKahlo: “@Tyga: @Drake u still a bitch. All that sneak dissing is weak. Just pull up. I know where u live and u know my ... ” http:…", :followers=>162, :user_id=>364970223, :retweet=>5}
+{:name=>"@B_rodx333", :text=>"I knew drake was dropping his mixtape 😌😛", :followers=>1126, :user_id=>554696861, :retweet=>0}
+{:name=>"@JR_Writ3r", :text=>"Lol RT @mikeapedia101 Drake dropped new music? That's nice", :followers=>213, :user_id=>419026118, :retweet=>0}
+{:name=>"@PaolaVillafane", :text=>"RT @HoodBibIe: Drake gotta chill http://t.co/cczhivlORU", :followers=>483, :user_id=>152283018, :retweet=>1044}
+{:name=>"@DaanWhiite", :text=>"RT @WirelessFest: !!! RT @Drake: http://t.co/Ov1EEEvADH http://t.co/1DwcOxq53J", :followers=>97, :user_id=>493017823, :retweet=>21}
+{:name=>"@MoneyyFirstt", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>792, :user_id=>799527702, :retweet=>135}
+{:name=>"@Jay__FAM", :text=>"RT @nonso_16: Omo if drake is seeing this.. It's already too late. http://t.co/gxPND38wbC", :followers=>400, :user_id=>1715677358, :retweet=>11}
+{:name=>"@JCarterSE", :text=>"Drake's new material is a bit mad 👌👌👌", :followers=>216, :user_id=>1064350316, :retweet=>0}
+{:name=>"@fcukasmile", :text=>"RT @OfficialKojo: 'You &amp; The 6' by @Drake 👏👏👏👏👏", :followers=>875, :user_id=>231423304, :retweet=>2}
+{:name=>"@malaurent94", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>567, :user_id=>474405567, :retweet=>135}
+{:name=>"@DiandreRhodes", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>1131, :user_id=>262019185, :retweet=>205}
+{:name=>"@valhysingur", :text=>"NAMMI NAMM DRAKE MIX DAT SHITT UP", :followers=>315, :user_id=>383455864, :retweet=>0}
+{:name=>"@mwizieuhu", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>2990302025, :retweet=>309}
+{:name=>"@Silentkilla10", :text=>"Headphones plugged in listening to @Drake If you're Reading This Its Too Late Album", :followers=>99, :user_id=>253966921, :retweet=>0}
+{:name=>"@pagnepapi", :text=>"RT @6V6Sound: “@OVOPerla: SORRY EVERYONE BUT DRAKE JUST MURDERED YALLS CAREERS FOR THE NEXT 5 YEARS HAHAHA” anddd this wasnt even the OFFIC…", :followers=>1749, :user_id=>759629202, :retweet=>7}
+{:name=>"@boy_ego", :text=>"bout to download dat new drake !", :followers=>1221, :user_id=>607552419, :retweet=>0}
+{:name=>"@dx2wo", :text=>"RT @MTVUK: .@Drake has 'done a @Beyonce' and released a surprise album on iTunes! Give it a listen here: http://t.co/PGzumZqLBg http://t.co…", :followers=>212, :user_id=>207157242, :retweet=>100}
+{:name=>"@PrinceNegative", :text=>"RT @alfieav: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\" \n\n@Tyga are you okay fam?", :followers=>4259, :user_id=>23428963, :retweet=>75}
+{:name=>"@MrsKarmeel", :text=>"RT @FatsOwD: Drake vient de se faire un paquet de thunes, mais il va pas me garantir mon avenir, sur ce, je vais réviser. Bye.", :followers=>2563, :user_id=>284334078, :retweet=>1}
+{:name=>"@LongLiveDeuce", :text=>"Waking up to a new drake album😦", :followers=>365, :user_id=>1881363126, :retweet=>0}
+{:name=>"@naseehhh", :text=>"Jammin to Drake on a Drizzy night ahak", :followers=>54, :user_id=>2962971942, :retweet=>0}
+{:name=>"@EzraDescartes", :text=>"Everybody prepare themselves RT “@freebootyrubs: Get ready for the Drake captions”", :followers=>510, :user_id=>100787073, :retweet=>0}
+{:name=>"@BlogXilla", :text=>"It's like Drake album dropped and the world stopped.", :followers=>20643, :user_id=>12710012, :retweet=>0}
+{:name=>"@elle_addict", :text=>"RT @BBCNewsbeat: Drake releases surprise album. You might like his music, but he isn't fond of apostrophes. http://t.co/hO1h8tWZBO", :followers=>212, :user_id=>392837866, :retweet=>188}
+{:name=>"@UpNextA1Ace", :text=>"RT @ConorBurton10: New Drake album! 👏😏", :followers=>1133, :user_id=>51456100, :retweet=>3}
+{:name=>"@VicenzoGomez", :text=>"@Drake 's new suprise album \"If you're reading this it's too late\" is sick!! #ifyourereadingthisitstoolate #NEWHIPHOP #NewAlbum2015", :followers=>65, :user_id=>2479852662, :retweet=>0}
+{:name=>"@RikkeCPH", :text=>"RT @HYPEBEAST: New @Drake, tune in now.\nhttp://t.co/afsgb6xpoH http://t.co/nCejOAvVkF", :followers=>23, :user_id=>917348101, :retweet=>1131}
+{:name=>"@mannymolina97", :text=>"RT @BIGNOAH256: Me: But I thought the mixtape was free?\n\n@Drake: http://t.co/8fps4862hO", :followers=>117, :user_id=>2155087742, :retweet=>3675}
+{:name=>"@garyvallier", :text=>"RT @sothekid: Woke up to a new Drake tape!", :followers=>366, :user_id=>2722284190, :retweet=>1}
+{:name=>"@ImAyanaaChanel_", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>1970, :user_id=>104036353, :retweet=>135}
+{:name=>"@pipoleactu", :text=>"Drake Drops New Album on Sleeping Internet: If You're Reading This It's Too Late! http://t.co/2G6Msq8SdF #people #star", :followers=>1147, :user_id=>72379591, :retweet=>0}
+{:name=>"@Msanty_", :text=>"#NP 6PM RT @DjSthenjwa: #NP 10 Bands RT @Puli_Doll: #NP Drake - Know Yourself", :followers=>1433, :user_id=>550899895, :retweet=>0}
+{:name=>"@vfprodriguez", :text=>"RT @Nashgrier: Thank you @Drake for creating some good ass music for me to listen to for the next couple of months 🎧😌", :followers=>113, :user_id=>2939376743, :retweet=>3006}
+{:name=>"@Jay_DePina10", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>256, :user_id=>1365437510, :retweet=>20067}
+{:name=>"@Leanna_Alyssa", :text=>"RT @karizzasanchez: When the new Drake drops on Yeezi day http://t.co/Cj0eMONUNK", :followers=>214, :user_id=>30170653, :retweet=>3419}
+{:name=>"@Jamie_Caulton", :text=>"Drake's lack of apostrophes on his new album make me feel very uncomfortable", :followers=>95, :user_id=>2203125976, :retweet=>0}
+{:name=>"@HeyMr_Carter91", :text=>"Drake- energy 🔥🔥🔥🔥🔥", :followers=>702, :user_id=>339014790, :retweet=>0}
+{:name=>"@_simranxx", :text=>"Drake ft pnd// wednesday night😻", :followers=>348, :user_id=>2745487892, :retweet=>0}
+{:name=>"@Twizzytwist7", :text=>"If You're Reading This it's Too Late #DRAKE", :followers=>645, :user_id=>1931516521, :retweet=>0}
+{:name=>"@dianamorenordz", :text=>"RT @Nashgrier: Thank you @Drake for creating some good ass music for me to listen to for the next couple of months 🎧😌", :followers=>1346, :user_id=>308653688, :retweet=>3006}
+{:name=>"@CamWhite100", :text=>"When you first hear about Drake's new mixtape http://t.co/nKM16cW2wC", :followers=>167, :user_id=>598571613, :retweet=>0}
+{:name=>"@its_opey", :text=>"RT @Nathanhector_: Drake allow Tyga man shit 😩 http://t.co/FDbE7GbiBC", :followers=>1488, :user_id=>294273617, :retweet=>133}
+{:name=>"@Arix_tha_b3st", :text=>"RT @_iAmFemi: RT @MrRedMartian: Soon as Tyga drop Kylie off at school tmr he comin for you bro @drake &lt; LOOOOOL", :followers=>530, :user_id=>42981866, :retweet=>9}
+{:name=>"@_oyinda_m", :text=>"RT @SAVAGETVVITTER: WHEN YOU REALIZED DRAKE JUST FINESSED YOU http://t.co/W8Wm4gK77j", :followers=>712, :user_id=>753069498, :retweet=>2198}
+{:name=>"@Daniel_Pitter", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>224, :user_id=>566219758, :retweet=>7267}
+{:name=>"@Aye_IsThatChris", :text=>"@SVOXO9 what that drake sound like?", :followers=>278, :user_id=>286032224, :retweet=>0}
+{:name=>"@blindbaewatch", :text=>"“@oddsaiah: @blindbaewatch drake just dropped” concerns me why", :followers=>599, :user_id=>2168666477, :retweet=>0}
+{:name=>"@_allisoonn_", :text=>"\"@Heff_856: Drake called tyga a lil lil homie then told him he should grow up and not act his girl age\" 😂💀", :followers=>240, :user_id=>171988823, :retweet=>0}
+{:name=>"@MCCANNSTRINITY", :text=>"Drake mixtape straight up fire my nigga you killin it 🙌💯", :followers=>1744, :user_id=>2187878646, :retweet=>0}
+{:name=>"@chiisom__", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>219, :user_id=>901692170, :retweet=>1340}
+{:name=>"@dgone_ZALES", :text=>"RT @kassandraRaye: Thank you @Drake", :followers=>749, :user_id=>385727597, :retweet=>6}
+{:name=>"@JHaddouni", :text=>"Drake just realised a new album 😁😁😁", :followers=>38, :user_id=>1672946029, :retweet=>0}
+{:name=>"@lllipstickris", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>136, :user_id=>3009072355, :retweet=>135}
+{:name=>"@cute_matches", :text=>"😘 #xxx #ingerie  8| Drake  🐻 Meet new People here &gt;&gt;  http://t.co/MAHxxk1aQs http://t.co/6Y2zVcicx7", :followers=>26, :user_id=>3005656332, :retweet=>0}
+{:name=>"@justicejordin", :text=>"so drake released the mixtape as an album to get out of cash money so he can release views from the 6 no problem \n\ncrazzzzyyyyyyyyy", :followers=>359, :user_id=>50614339, :retweet=>0}
+{:name=>"@MCalvey5", :text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :followers=>274, :user_id=>390347741, :retweet=>3103}
+{:name=>"@dlhnoaemaho", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>2990355814, :retweet=>309}
+{:name=>"@Prince_Akiem18", :text=>"“@Drake: http://t.co/xKhofhw33t http://t.co/atzEOxQwbE” drizzy my nigga why you gotta do this to me outta nowhere??", :followers=>218, :user_id=>579444062, :retweet=>0}
+{:name=>"@Millerrr", :text=>"RT @BIGNOAH256: Me: But I thought the mixtape was free?\n\n@Drake: http://t.co/8fps4862hO", :followers=>472, :user_id=>256549706, :retweet=>3675}
+{:name=>"@_Wilkins300", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>1081, :user_id=>734672882, :retweet=>135}
+{:name=>"@hitmansonline", :text=>"Way Donny's be tweeting bout drake so much is Suspect are u a gyal ??? Lol", :followers=>9499, :user_id=>91376463, :retweet=>0}
+{:name=>"@ovoxoCHRISTINA", :text=>"@Drake never disappoints", :followers=>309, :user_id=>294209571, :retweet=>0}
+{:name=>"@_RitaDominic", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/BdECYQj6j5 Via @TheENTonline", :followers=>11218, :user_id=>1942586646, :retweet=>0}
+{:name=>"@camohnash", :text=>"RT @camerondallas: Drake mixtape just dropped 🔥", :followers=>282, :user_id=>516455292, :retweet=>5801}
+{:name=>"@TrendieCA", :text=>"\"Trending Canada:07:15 AM AST\"\n1. Drake\n2. #ifyourereadingthisitstoolate\n3. Friday the 13th\n4. #BritishSexPositions", :followers=>1877, :user_id=>2798021756, :retweet=>0}
+{:name=>"@HarryyyDuffell", :text=>"RT @its_opey: Drake's new mixtape is pure fire🔥🔥", :followers=>458, :user_id=>703271178, :retweet=>1}
+{:name=>"@Kitoixofi", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>2990583009, :retweet=>309}
+{:name=>"@BrandonKing617", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>49814, :user_id=>307646743, :retweet=>135}
+{:name=>"@BradMetlin", :text=>"After I heard drake's new mixtape http://t.co/W77hPgAp7n", :followers=>310, :user_id=>358810961, :retweet=>0}
+{:name=>"@OfficialMaheeda", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/3smVf0ACDR Via @TheENTonline", :followers=>6329, :user_id=>283915773, :retweet=>0}
+{:name=>"@rchosewood", :text=>"You're welcome. 🎶 http://t.co/sdRVpa2ItX 🎶", :followers=>130, :user_id=>233549190, :retweet=>0}
+{:name=>"@MaxCorrea_", :text=>"Drake really rapping with the power of 10 million fire emojis #ifyourereadingthisitstoolate", :followers=>385, :user_id=>154167024, :retweet=>0}
+{:name=>"@Kizqyeaviti", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>3001018187, :retweet=>309}
+{:name=>"@helenblaine", :text=>"Drake dropped a new album.\n\nYes, yes he did.", :followers=>367, :user_id=>89690524, :retweet=>0}
+{:name=>"@karycuen", :text=>"Yesssssss #drake #drizzy #youngmoney http://t.co/RarSmgMaIv", :followers=>652, :user_id=>30378359, :retweet=>0}
+{:name=>"@_loucrative", :text=>"Wonder if Drake listens to bashment 💭", :followers=>556, :user_id=>257442835, :retweet=>0}
+{:name=>"@RonzLdn", :text=>"RT @ImJustThtNigga_: iTunes needs to put Drake's mixtape on everyone's phone like they did with that U2 album nobody wanted", :followers=>117, :user_id=>2727968919, :retweet=>161}
+{:name=>"@Nanymariexo", :text=>"RT @theprophetjosh: “@Burrgos: drake just dropped 6 months worth of Instagram captions” greatest drake tweet of my life", :followers=>35, :user_id=>2955910875, :retweet=>2}
+{:name=>"@tweetshotusa", :text=>"#Drizzy is trending : http://t.co/CWfx25LSZG http://t.co/13y5VSeF6w", :followers=>3978, :user_id=>1100268493, :retweet=>0}
+{:name=>"@danelmeow", :text=>"NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE NEW DRAKE", :followers=>227, :user_id=>394644907, :retweet=>0}
+{:name=>"@Get2GetherGroup", :text=>"Le projet surprise de @Drake pour l'anniversaire de \"SO FAR GONE\" à écouter ici http://t.co/2rQNqHvHHE", :followers=>325, :user_id=>1618358238, :retweet=>1}
+{:name=>"@Dineo_Maine", :text=>"RT @OneYSL: Drake dropped a throwaway mixtape, sold it as an album, and went platinum in 3 hours. It's not even a discussion anymore.", :followers=>764, :user_id=>33468892, :retweet=>266}
+{:name=>"@OoRITE_Kieran", :text=>"RT @NIGGERTWlTTER: DRAKE A GENIUS http://t.co/dMIzTn53HU", :followers=>440, :user_id=>390090240, :retweet=>2073}
+{:name=>"@DjSthenjwa", :text=>"LMAO Yoh RT @UglyHeaux_: Oh Lorrrrrd  \"@1BLKDYMOND: When Drake said this about @Tyga http://t.co/uwWBQaS67u\"", :followers=>4390, :user_id=>285623017, :retweet=>0}
+{:name=>"@B10Amanda", :text=>"RT @ParvesKoyes: When Drake said this about @Tyga http://t.co/gnlGWZmwuB", :followers=>99, :user_id=>1650553159, :retweet=>97}
+{:name=>"@5LettersYMCMB_", :text=>"This @Drake smacking", :followers=>1295, :user_id=>54835434, :retweet=>0}
+{:name=>"@DanielPromise_", :text=>"[@TheENTonline]: Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/tSKAr6iEmg", :followers=>3184, :user_id=>1079114780, :retweet=>0}
+{:name=>"@kubaspencer", :text=>"Why the fuck did drake take his tracks down?!?!? :(:(", :followers=>156, :user_id=>840386106, :retweet=>0}
+{:name=>"@YourTorrent11", :text=>"Drake If You’re Reading This It’s Too Late 2015 album MP3 Download Torrent http://t.co/sV8JZ933F5", :followers=>0, :user_id=>3006596067, :retweet=>0}
+{:name=>"@Kilooooo_", :text=>"RT @Bigpapibeez: Drake clowned Tyga \"Its childish calling my name on a world stage. You need to act your age and not your girl’s age.” http…", :followers=>79, :user_id=>2968485244, :retweet=>456}
+{:name=>"@ryuftiixudaki", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>3004052824, :retweet=>309}
+{:name=>"@trishypeightal", :text=>"drake while I yoga just doesn't seem right #but #but #but", :followers=>325, :user_id=>167673753, :retweet=>0}
+{:name=>"@t_reid88", :text=>"Let's see what this @Drake album is all about", :followers=>130, :user_id=>2957544196, :retweet=>0}
+{:name=>"@Supernova_tash", :text=>"http://t.co/FIyk18bGNV has the new Drake FYI.", :followers=>700, :user_id=>1581548168, :retweet=>0}
+{:name=>"@KarimChahoula", :text=>"Drake - Wednesday Night Interlude feat PARTYNEXTDOOR 🎵", :followers=>266, :user_id=>484267695, :retweet=>0}
+{:name=>"@Albinopornstar", :text=>"RT @UncleBlazer: and yes i am currently high listening to the new Drake", :followers=>257, :user_id=>329912932, :retweet=>1639}
+{:name=>"@GuerrierPacifik", :text=>"Madame Drake hahaa !!\nDamako fan nak mom khamna légui mou séyyi.", :followers=>335, :user_id=>108934840, :retweet=>0}
+{:name=>"@OfficialMaheeda", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/MZAdNoo6iQ #Via @TheENTonline", :followers=>6329, :user_id=>283915773, :retweet=>0}
+{:name=>"@Cazorla_C10", :text=>"RT @YasminDiaz_: Drake.", :followers=>9, :user_id=>2953737641, :retweet=>1}
+{:name=>"@MichiganBoyAA", :text=>"RT @Rene: Why Drake just released a new album. http://t.co/LnA7q5xMAO", :followers=>6, :user_id=>2970451840, :retweet=>2572}
+{:name=>"@cavimallyGHOST", :text=>"I love you drake", :followers=>275, :user_id=>362306827, :retweet=>0}
+{:name=>"@FatsMoneyMafia", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>299, :user_id=>239082128, :retweet=>135}
+{:name=>"@devkane", :text=>"Surprise album from drake ??? Ohhhhh okkkkk", :followers=>409, :user_id=>143162473, :retweet=>0}
+{:name=>"@LeMasterFlow", :text=>"RT @HakimDeluca: Ah ok ça sort les uzis sur \"Energy\", t'es dans cet état d'esprit @Drake ? http://t.co/oHPuhZCjJP", :followers=>569, :user_id=>121813023, :retweet=>1}
+{:name=>"@wtvrjeanne", :text=>"drake's new album is bomb af", :followers=>540, :user_id=>2501493968, :retweet=>0}
+{:name=>"@kelseymacd13", :text=>"RT @WeLoveRobDyrdek: Drake dropped this album knowing Valentine's Day is tomorrow .. 😒\n\nhttp://t.co/wYTuhwtkFG", :followers=>274, :user_id=>400979740, :retweet=>413}
+{:name=>"@YourAmigoDeHaai", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>574, :user_id=>459714377, :retweet=>7267}
+{:name=>"@MattBottomley96", :text=>"RT @realwords: So, Drake is releasing this as an \"album\" in order to complete his four-album contract with Cash Money records.", :followers=>360, :user_id=>367092588, :retweet=>2748}
+{:name=>"@hoodgudda", :text=>"RT @benadryI: drake's beats make me wanna ride some dick tbh", :followers=>247, :user_id=>1889870761, :retweet=>111}
+{:name=>"@_sisiEKO", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/paygvzeaLB #Via @TheENTonline", :followers=>22691, :user_id=>454408558, :retweet=>0}
+{:name=>"@tharealmanxane", :text=>"Every body willing to that new drake damn.need to get it.", :followers=>598, :user_id=>754111364, :retweet=>0}
+{:name=>"@awesomeLie", :text=>"With this new Drake album &amp; Valentine's Day. Everybody getting pregnant.", :followers=>669, :user_id=>363225529, :retweet=>0}
+{:name=>"@ckA_mara", :text=>"RT @HipHopxHotspot: Drake's new album \"If You're Reading This It's Too Late\" has already raked in over $1,000,000 http://t.co/RdqMYGvqZJ", :followers=>1877, :user_id=>526471429, :retweet=>685}
+{:name=>"@BNWATL09", :text=>"#futurology Facebook offers after-death controls  http://t.co/7njCECXe9f", :followers=>121, :user_id=>517074361, :retweet=>0}
+{:name=>"@Sosa_Glo300", :text=>"RT @AsapAlar: Drizzy drake 🔥", :followers=>512, :user_id=>2277201231, :retweet=>1}
+{:name=>"@JackKozie", :text=>"Drake the real", :followers=>859, :user_id=>1137976136, :retweet=>0}
+{:name=>"@BNWATL03", :text=>"#futurology Facebook offers after-death controls  http://t.co/9Oxn5RVb3F", :followers=>162, :user_id=>2924821874, :retweet=>0}
+{:name=>"@SoFollowLil", :text=>"I need to hear drake new album", :followers=>923, :user_id=>301123587, :retweet=>0}
+{:name=>"@FriscoGod", :text=>"RT @verge: Drake drops surprise mixtape on unsuspecting internet http://t.co/2k6aRaZiXv http://t.co/qdRFSvPjMx", :followers=>130, :user_id=>2829346232, :retweet=>74}
+{:name=>"@BigTwee", :text=>"Yesssss DRAKE", :followers=>15666, :user_id=>34282111, :retweet=>0}
+{:name=>"@shelby_fraser", :text=>"RT @UncleBlazer: and yes i am currently high listening to the new Drake", :followers=>248, :user_id=>274203450, :retweet=>1639}
+{:name=>"@IpostFeeds", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/ppSZVCHCek #Via @TheENTonline", :followers=>871, :user_id=>1719558422, :retweet=>0}
+{:name=>"@HeightsMediaNg", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/Egl6PPthYo #Via @TheENTonline", :followers=>2111, :user_id=>1205767268, :retweet=>0}
+{:name=>"@faoacaawi", :text=>"drake cant even compare 💚💞💞💞6 #PopSuperStarJalenMcMillan @jalenmcmillan", :followers=>0, :user_id=>3001109477, :retweet=>0}
+{:name=>"@mgihaqigoqoya", :text=>"drake cant even compare 💚💞💞💞8 #PopSuperStarJalenMcMillan @jalenmcmillan", :followers=>0, :user_id=>3001633576, :retweet=>0}
+{:name=>"@HenleyFresh", :text=>"\"@GeierMonsta: http://t.co/3GajHDiD8C RT @KrystalJeva: Anybody wanna send me the link to download the drake mixtape?!\" @WalesWavey", :followers=>498, :user_id=>118388719, :retweet=>0}
+{:name=>"@IYADONJAZZY", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/xpB4tBh2EJ #Via @TheENTonline", :followers=>2548, :user_id=>1866878750, :retweet=>0}
+{:name=>"@JOwensBB", :text=>"Appreciate that @Drake http://t.co/SdC0H8KdJa", :followers=>211, :user_id=>351902399, :retweet=>0}
+{:name=>"@_RitaDominic", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/3xBQ0t5hmi #Via @TheENTonline", :followers=>11218, :user_id=>1942586646, :retweet=>0}
+{:name=>"@WeAllNeedPeace_", :text=>"RT @WolfOfNewStreet: When they're still sending you mails for student loans, but you've moved back to Nigeria.   http://t.co/G8FOqVHurV", :followers=>388, :user_id=>393984388, :retweet=>171}
+{:name=>"@MICherieAmour_", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>281, :user_id=>242142259, :retweet=>205}
+{:name=>"@matthewgedrni", :text=>"RT @ImAngelaPowers: The new Drake  http://t.co/3R3R7wUr5Y", :followers=>102, :user_id=>2896968693, :retweet=>534}
+{:name=>"@Ioovizagimi", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>2990078086, :retweet=>309}
+{:name=>"@thatblaqboi", :text=>"RT @NkanyeziKubheka: When KANYE just found out @Drake stole the spotlight with that new album http://t.co/Ny7gGIcc5e", :followers=>102, :user_id=>211645819, :retweet=>40}
+{:name=>"@EssayOT", :text=>"“@ImJustThtNigga_: iTunes needs to put Drake's mixtape on everyone's phone like they did with that U2 album nobody wanted” tbh", :followers=>1610, :user_id=>285780724, :retweet=>0}
+{:name=>"@Soldier4BlkMen", :text=>"Drake's last decent album was Take Care. This current album is garbage. Love him but no. Can't extol trash....", :followers=>1971, :user_id=>169967483, :retweet=>0}
+{:name=>"@Zahra3__", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/4PjPFDQYOd #Via @TheENTonline", :followers=>7999, :user_id=>437639555, :retweet=>0}
+{:name=>"@_freakydallas", :text=>"DRAKE DROPPED HIS MIXTAPE IM CRYING http://t.co/Oz75zdj99e", :followers=>1190, :user_id=>2682217115, :retweet=>0}
+{:name=>"@juliaashaye", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>334, :user_id=>2183297250, :retweet=>81473}
+{:name=>"@p0cahotness", :text=>"drake 😭😍", :followers=>1002, :user_id=>189942285, :retweet=>0}
+{:name=>"@Zahra3__", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS): Drake said he'd be r... http://t.co/eNh8CuCI9L #Via @TheENTonline", :followers=>7999, :user_id=>437639555, :retweet=>0}
+{:name=>"@hoodgudda", :text=>"RT @RAHQUISEBOWEN: If drake really loved his fans like he said he do, he'll just put his album on all our phones like U2 did", :followers=>247, :user_id=>1889870761, :retweet=>379}
+{:name=>"@alyssawalter", :text=>"RT @Drake: http://t.co/a0b67CTncU", :followers=>993, :user_id=>256790361, :retweet=>14427}
+{:name=>"@OneFo_BeLo", :text=>"RT @Rene: Why Drake just released a new album. http://t.co/LnA7q5xMAO", :followers=>368, :user_id=>2252050404, :retweet=>2572}
+{:name=>"@ashleymariahhh", :text=>"RT @WORIDSTARHlPHOP: Drake dropped this album knowing Valentine's Day is tomorrow .. 😒\n\nhttp://t.co/gQlWBTRDk1", :followers=>36, :user_id=>2932681835, :retweet=>984}
+{:name=>"@_sisiEKO", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS): Drake said he'd be r... http://t.co/TjhqItxVBL #Via @TheENTonline", :followers=>22691, :user_id=>454408558, :retweet=>0}
+{:name=>"@daniibronsonn", :text=>"I have a snow day and Drake came out with a new album 🙌🙌🙌", :followers=>650, :user_id=>1891537129, :retweet=>0}
+{:name=>"@Coffdkehi", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>3003985241, :retweet=>309}
+{:name=>"@dope_kidd_", :text=>"Drake Disses Tyga In New Song: ‘Act Your Age, Not Your Girl’s Age’ http://t.co/nwQN1xpDiz", :followers=>379, :user_id=>369852194, :retweet=>0}
+{:name=>"@KingDWalk", :text=>"@Drake #6Man is that shitttt!!!! 🔥", :followers=>323, :user_id=>67705844, :retweet=>0}
+{:name=>"@EDMTrapMusic", :text=>"#np Drake – Energy", :followers=>1122, :user_id=>1261518282, :retweet=>0}
+{:name=>"@MaTThew_Renouf", :text=>"Drake.....", :followers=>273, :user_id=>31692606, :retweet=>0}
+{:name=>"@watch_myfeet", :text=>"RT @BBCNewsbeat: If you love Drake, but you also love grammar, we fixed #ifyourereadingthisitstoolate for you http://t.co/ywScXoXWPH", :followers=>9944, :user_id=>1033778420, :retweet=>51}
+{:name=>"@QuietStormJY", :text=>"RT @Phranchize19: Whoever texting you bumping Drake too. RT “@TheDrakeJackson: Getting the Mixtape 👊👌✊ http://t.co/dLG42x1KC3””", :followers=>236, :user_id=>401568560, :retweet=>14}
+{:name=>"@Its_TherealGibz", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>570, :user_id=>487776983, :retweet=>20067}
+{:name=>"@LoVahlstrom", :text=>"Kan blocka tweets med ordet \"Drake\"?", :followers=>81, :user_id=>709068319, :retweet=>0}
+{:name=>"@CocaineDollCasa", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>1703, :user_id=>233103621, :retweet=>135}
+{:name=>"@demingsiders", :text=>"RT @JacobWhitesides: Turn that new drake on and let's go 🔥", :followers=>11140, :user_id=>2300389891, :retweet=>743}
+{:name=>"@ifuckedrih", :text=>"RT @TeamFentyDaBest: Mdr Nelly elle me demande si j'ai écouté l'album de Drake✋", :followers=>1000, :user_id=>2447842075, :retweet=>1}
+{:name=>"@kkatherinee__x3", :text=>"RT @DanaIM5: And that's why I love @Drake 🙏", :followers=>761, :user_id=>2342557553, :retweet=>58}
+{:name=>"@SamThorntonTPN", :text=>"RT @StephyStephyB: “@WirelessFest: When @Drake plays his new album at #Wireless 😃😆😝” 💃💃💃", :followers=>8277, :user_id=>148133684, :retweet=>1}
+{:name=>"@Nkah_Mfusi", :text=>"Drake says he don't make music that don't get pussy.", :followers=>1009, :user_id=>736875337, :retweet=>0}
+{:name=>"@_teeCheifington", :text=>"Get for free off MyMixtapez 👌 \"@TAisDOPE: im mad late where this new drake at?\"", :followers=>1021, :user_id=>324645099, :retweet=>0}
+{:name=>"@JazzSoulpl", :text=>"Drake zrobił niespodziankę fanom! http://t.co/Aw6CCJ0QlH", :followers=>898, :user_id=>458800101, :retweet=>0}
+{:name=>"@SwagLik3Ohio", :text=>"RT @Danny__Hendrix: \"Drake ain't shit, &amp; his music sucks.\" Drops mixtape out of nowhere, &amp; made just about as much as rappers first sales w…", :followers=>26110, :user_id=>47425856, :retweet=>4}
+{:name=>"@DRICKISZN", :text=>"RT @Mul_OVO: It's my first time listening to #IfYouAreReadingThisItsTooLate cause if you ain't talking about Drake today don't talk to me!", :followers=>1821, :user_id=>2860753657, :retweet=>6}
+{:name=>"@HHRFD", :text=>"Drake: ‘Jungle’ (Short Film) (@Drake) http://t.co/1KB4kwasfo", :followers=>5314, :user_id=>204352747, :retweet=>0}
+{:name=>"@overlyespinosa", :text=>"I WOKE UP TO DRAKE RELEASING A NEW ALBUM WHAT A GOOD DAY", :followers=>1472, :user_id=>2426195576, :retweet=>0}
+{:name=>"@Gabrielllle__", :text=>"RT @trinidadtaedo_: Drake new mixtape &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;", :followers=>2846, :user_id=>590582995, :retweet=>1}
+{:name=>"@GregyMc", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>392, :user_id=>118814642, :retweet=>81473}
+{:name=>"@pmlcstr", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>261, :user_id=>276768315, :retweet=>81473}
+{:name=>"@DannyPhillips18", :text=>"My TL is full of people dripping because drake dropped a new album 😂👀", :followers=>384, :user_id=>81381522, :retweet=>0}
+{:name=>"@Detroit_player7", :text=>"RT @malikjthomas: Drake tape is alright", :followers=>333, :user_id=>243866389, :retweet=>1}
+{:name=>"@socialntwrkthug", :text=>"I love the love that Drake gets.", :followers=>121, :user_id=>2899468587, :retweet=>0}
+{:name=>"@kennific", :text=>"RT @ShitPussiesSay: Yo Drake just gave me a month's worth of IG quotes", :followers=>185, :user_id=>1132627172, :retweet=>57}
+{:name=>"@kimkamdashian", :text=>"RT @asiahh__: drake did dat 😩 http://t.co/t0BcDGAP9b", :followers=>2298, :user_id=>203618526, :retweet=>1885}
+{:name=>"@CARPEFVCKINDIEM", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>538, :user_id=>594283545, :retweet=>135}
+{:name=>"@IAMABBIE", :text=>"RT @WolfOfNewStreet: When they're still sending you mails for student loans, but you've moved back to Nigeria.   http://t.co/G8FOqVHurV", :followers=>488, :user_id=>20678485, :retweet=>171}
+{:name=>"@ShannonLH_97", :text=>"RT @camerondallas: Drake mixtape just dropped 🔥", :followers=>1210, :user_id=>2755253735, :retweet=>5801}
+{:name=>"@Veekillla", :text=>"RT @WestCoastAce__: Drake &amp; PND .", :followers=>714, :user_id=>596171783, :retweet=>1}
+{:name=>"@eileen_doverr", :text=>"RT @best_coast: Thank you @Drake for the best Valentine's Day gift of all time", :followers=>340, :user_id=>1608315846, :retweet=>265}
+{:name=>"@CamoGang_Geno", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>25, :user_id=>2999985386, :retweet=>135}
+{:name=>"@OrbinWalcott", :text=>"RT @Dart_Adams: Drake sounds bored. If the mainstream wasn't scared of letting real emcees into the game he'd actually have some competitio…", :followers=>60, :user_id=>207813474, :retweet=>8}
+{:name=>"@RPowell15_", :text=>"Everyone is going to be like 🙇 listening to Drake today", :followers=>366, :user_id=>1571972389, :retweet=>1}
+{:name=>"@beth56beth", :text=>"RT @WirelessFest: When @Drake plays his new album at #Wireless 😃😆😝", :followers=>325, :user_id=>293638088, :retweet=>70}
+{:name=>"@blazexstark", :text=>"RT @MeninistTweet: Drake dropped a mixtape just in time so I know what to text my ex on Valentine's Day", :followers=>122, :user_id=>305664115, :retweet=>1413}
+{:name=>"@ayeee_Hernandez", :text=>"RT @DanJones222: When drake said this about tyga http://t.co/AJ3tyQSHTD", :followers=>679, :user_id=>1016420142, :retweet=>5}
+{:name=>"@RoronoaJosef", :text=>"Drake - Energy", :followers=>227, :user_id=>974329585, :retweet=>0}
+{:name=>"@ShoutMyMF_Name", :text=>"RT @DontBlameH: I woke up to say Drake one of the smartest niggas of all time... To drop an album of mixtape material to get out of a contr…", :followers=>615, :user_id=>326461904, :retweet=>3}
+{:name=>"@__gerttt", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>161, :user_id=>2359273737, :retweet=>1341}
+{:name=>"@glolizabeth", :text=>"RT @bka_jai: Drake owed Cash Money 4 albums.. \n\nHe dropped this one to get out of his contract so he could stick with Wayne..\n\nThat's Loyal…", :followers=>2267, :user_id=>60613456, :retweet=>73}
+{:name=>"@PiffLighty", :text=>"Let me roll up and check this drizzy drake @Drake  out", :followers=>910, :user_id=>21711676, :retweet=>0}
+{:name=>"@MiguelChines", :text=>"Drake needs to work with @phontigallo so people will actually know where or from who did Drake stole his style/flow from..  \n\n#Drake", :followers=>704, :user_id=>266850189, :retweet=>0}
+{:name=>"@2mgdonnie", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>792, :user_id=>2176410578, :retweet=>135}
+{:name=>"@Feltonnnnn", :text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :followers=>628, :user_id=>2616520285, :retweet=>3103}
+{:name=>"@Stephanieeee_27", :text=>"RT @Jadah_Doll: DRAKE JUST SLAYED MY LIFE OMG I NEED LIFE ALERT ASDGHJKK", :followers=>136, :user_id=>1270599528, :retweet=>54}
+{:name=>"@NaomiG4L", :text=>"Encore 15 mins, je rentre, je finis d'écouter l'album de Drake, je mange, je télécharge Empire EP06 et j'essaie de faire ma valise", :followers=>908, :user_id=>116484327, :retweet=>0}
+{:name=>"@2mz__", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>964, :user_id=>2274975832, :retweet=>81474}
+{:name=>"@AnthonyjRenton", :text=>"Know Yourself. Drake, you killed it bro.", :followers=>581, :user_id=>146474050, :retweet=>0}
+{:name=>"@RV_Clare", :text=>"RT @BIGNOAH256: Me: But I thought the mixtape was free?\n\n@Drake: http://t.co/8fps4862hO", :followers=>357, :user_id=>54238605, :retweet=>3675}
+{:name=>"@Zahra3__", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/4PjPFDQYOd Via @TheENTonline", :followers=>7999, :user_id=>437639555, :retweet=>0}
+{:name=>"@afifiles", :text=>"RT @DailyRapFacts: In the first 20 minutes of releasing his new project \"If You’re Reading This It’s Too Late\" @Drake has made $360,000 htt…", :followers=>667, :user_id=>2782375025, :retweet=>20067}
+{:name=>"@hoodgudda", :text=>"RT @possiblynasri: drake was the one man I was supposed to trust to always treat me right....the one person to never let me down....he lied…", :followers=>247, :user_id=>1889870761, :retweet=>37}
+{:name=>"@Kbrown207", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>151, :user_id=>2900593019, :retweet=>135}
+{:name=>"@_RitaDominic", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/3xBQ0t5hmi Via @TheENTonline", :followers=>11218, :user_id=>1942586646, :retweet=>0}
+{:name=>"@BaelessNigga", :text=>"[Mixtape] If You're Reading This It's Too Late - Drake via the Spinrilla App. http://t.co/RSHzeTjPcS", :followers=>233, :user_id=>1023408636, :retweet=>0}
+{:name=>"@sweez_steady", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/5DO7xpI1A3 Via @TheENTonline", :followers=>1275, :user_id=>156551376, :retweet=>0}
+{:name=>"@_xDopeFeen", :text=>"RT @WifiOverHoes: wayne wants out , drake rushes to complete his contract , nicki minaj blocks you from her Grammy party... hmm 🙇 #RIPCashM…", :followers=>868, :user_id=>701934312, :retweet=>14}
+{:name=>"@TyneeNdlovu", :text=>"WOAH! \"@1BLKDYMOND: When Drake said this about @Tyga http://t.co/Id2ZoWYkjj\"", :followers=>574, :user_id=>1082530898, :retweet=>0}
+{:name=>"@M_aria96", :text=>"RT @JamzLdn: Drake dropped a tape and 50 shades is out today. Girls are just gonna explode", :followers=>438, :user_id=>995908231, :retweet=>100}
+{:name=>"@LilRonkiss", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/6fksnxfgN3 Via @TheENTonline", :followers=>1502, :user_id=>463177481, :retweet=>0}
+{:name=>"@Monkerland", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>355, :user_id=>53924827, :retweet=>1341}
+{:name=>"@king_leray", :text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :followers=>409, :user_id=>76327239, :retweet=>7267}
+{:name=>"@rthcogewe", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>2989968749, :retweet=>309}
+{:name=>"@olosholee", :text=>"Drake Just Put Out A Surprise 17-Song Album Via Twitter (SEE DETAILS) http://t.co/7IAhZQyphF Via @TheENTonline", :followers=>107, :user_id=>2189542372, :retweet=>0}
+{:name=>"@Ouxiizawevaqo", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>3002932924, :retweet=>309}
+{:name=>"@TeamFentyDaBest", :text=>"Mdr Nelly elle me demande si j'ai écouté l'album de Drake✋", :followers=>2012, :user_id=>446600978, :retweet=>1}
+{:name=>"@AwesomeeAllyy", :text=>"Are we done talking about Drake now?", :followers=>608, :user_id=>67230063, :retweet=>0}
+{:name=>"@Vanillaa_waferr", :text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :followers=>327, :user_id=>975095126, :retweet=>81474}
+{:name=>"@ChandlerJamesK", :text=>"Why i gotta go to work right when i find out a new drake album dropped?", :followers=>157, :user_id=>446316546, :retweet=>0}
+{:name=>"@alex__cook", :text=>"🙏 #drake #newalbum #whatthewhat #music #rapgamestrong #YAAAS #PullinABey #IfYoureReafingThisItsTooLate @Drake http://t.co/ciYspzdTIN", :followers=>75, :user_id=>627707106, :retweet=>0}
+{:name=>"@Iqmuddoloxa", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>1, :user_id=>2990148749, :retweet=>309}
+{:name=>"@uililfuzixemi", :text=>"RT @TeknowMusic: #HotNews Drake \"If Youre Reading This Its Too Late\" Album… http://t.co/gZ5g0wUqqg #news http://t.co/RcAcBImuua http://t.co…", :followers=>0, :user_id=>2989546583, :retweet=>309}
+{:name=>"@Khorsss", :text=>"RT @lildurk_: Gotta salute @Drake rns", :followers=>95, :user_id=>708603333, :retweet=>135}

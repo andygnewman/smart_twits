@@ -1,3 +1,3 @@
-{:name=>"@kolisi1", :text=>"RT @bakedtheblog: Yeezy season has arrived 😭🎄 I love everything he does people. Still annoyed about the Adidas collab but whatever I can ge…", :followers=>23449, :user_id=>209549732, :retweet=>2}
-{:name=>"@JordanMarkGrant", :text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :followers=>19509, :user_id=>411569732, :retweet=>1601}
-{:name=>"@Aussie_Kardash", :text=>"“@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/SwAhBYFjc5”slay queen", :followers=>14675, :user_id=>417395419, :retweet=>1}
+{:name=>"@NLVogue", :text=>"Breaking! Bekijk de show van @KanyeWest voor @Adidas, mét Kylie en Yeezy sneakers: http://t.co/rKzTZUMgJi http://t.co/Hf4zk6x1Uc", :followers=>46785, :user_id=>448677397, :retweet=>0}
+{:name=>"@jlawftzain", :text=>"Y'a pas un concours pour gagner des yeezy 750 pcq wlh c la hess", :followers=>42656, :user_id=>508095633, :retweet=>0}
+{:name=>"@TeamKyIie", :text=>"RT @khloekardashian: So proud of you Yeezy!!!! #YeezySeason http://t.co/BSi2oIkDvm", :followers=>27242, :user_id=>223225237, :retweet=>263}

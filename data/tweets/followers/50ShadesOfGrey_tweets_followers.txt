@@ -1,3 +1,3 @@
-{:name=>"@TheRealRodeo", :text=>"Wow @JosephMorgan #Klaus in #TheOriginals is more #AnotherFollowTrain ChristianGrey then #ChristianGrey in #50ShadesOfGrey! You guys Rock!", :followers=>227585, :user_id=>543761086, :retweet=>0}
-{:name=>"@joss_mooney", :text=>"100 million book copies sold. Every girl has waited 2yrs for the #50ShadesOfGrey movie &amp; they didn't even use @DGandyOfficial #nopressure 🙈", :followers=>74941, :user_id=>367830647, :retweet=>1}
-{:name=>"@glerysbet", :text=>"Se los DIJE!!!!!!! Weekend intenso Por aquello del amooooollllll y #50ShadesofGrey busca el #látigo y... http://t.co/q6yjaFR7Fp", :followers=>32282, :user_id=>64840030, :retweet=>0}
+{:name=>"@KiSS925", :text=>"#RozAndMocha @KiSS925: Alright, who saw the #50ShadesOfGrey movie last night? We want your review at 416-870-88-88!", :followers=>61504, :user_id=>47618120, :retweet=>0}
+{:name=>"@dorcel", :text=>"RT @HugoBaiardi: \"#50ShadesOfGrey C'est quand meme plus proche de Marc Levy que de Marc @dorcel \" Sebastien Thoen", :followers=>43594, :user_id=>28584373, :retweet=>7}
+{:name=>"@mochafrap", :text=>"#RozAndMocha @KiSS925: Alright, who saw the #50ShadesOfGrey movie last night? We want your review at 416-870-88-88!", :followers=>18565, :user_id=>27982422, :retweet=>0}

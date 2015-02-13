@@ -1,3 +1,0 @@
-{:name=>"@Shelter", :text=>"Could you race up a skyscraper for Shelter?\nIt's not too late to join us for #VerticalRush\nhttp://t.co/36LNMCn0ef http://t.co/eKFhxog9vu", :followers=>123453, :user_id=>3704391, :retweet=>1}
-{:name=>"@ShawttyNatt", :text=>"Drake Drops Secret New Album ‘If You’re Reading This It’s Too Late’ http://t.co/HFuzRJvOba", :followers=>51465, :user_id=>466514153, :retweet=>0}
-{:name=>"@JonRichard", :text=>"Drake should've just pulled a U2 and put his album \"If Your Reading This Its Too Late\" in our iTunes.", :followers=>21570, :user_id=>367273019, :retweet=>2}

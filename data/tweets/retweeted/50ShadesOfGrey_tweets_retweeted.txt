@@ -1,3 +1,3 @@
-{:text=>"RT @ENews: Babe alert: Dakota Johnson &amp; Jamie Dornan looked gorgeous at the London premiere of #50ShadesofGrey! http://t.co/SOMROny4Rb", :retweet=>718}
-{:text=>"RT @robboma3: VIP seats fitted for #50ShadesOfGrey 👌😂 http://t.co/IsL9aoEHdm", :retweet=>652}
-{:text=>"RT @ENews: Only ONE DAY left: Get ready for #50ShadesofGrey with us on E! News tonight! http://t.co/KCvIvDq5Jl", :retweet=>200}
+{:text=>"RT @paydekd: ในเพจ #50ShadesOfGrey บอกว่าสำหรับอายุ 20+ ขึ้นไป\nมีคอมเม้นนึงบอกว่า หนูอายุไม่ถึง แต่ลูกหนึ่งแล้วค่ะพี่ ผ่านมา100เฉดแล้ว\n5555…", :retweet=>695}
+{:text=>"RT @Ardral_Kirby: Watch 50 Shades of Grey trailer &gt;&gt; http://t.co/mbKG9QehAo\n\n#50ShadesOfGrey  #50Shades #FiftyShadesOfGrey #FiftyShades #ne…", :retweet=>542}
+{:text=>"RT @Ardral_Kirby: 50 Shades of Grey trailer &gt;&gt; https://t.co/Buevk5ve21\n\n#50ShadesOfGrey  #50Shades #FiftyShadesOfGrey #FiftyShades #news #E…", :retweet=>540}
