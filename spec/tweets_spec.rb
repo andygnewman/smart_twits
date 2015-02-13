@@ -50,8 +50,16 @@ describe 'Tweets' do
 
   context 'find followers' do
 
-    xit 'can read a tweets file and return an array of tweets from users with the most followers' do
-      expect(tweets.find_followers('')).to include([])
+    it 'can read a tweets file and return an array of tweets from users with the most followers' do
+      expect(tweets.find_followers('spec/test_data/followers.txt')).to include(["@HaitiNewsNet", "Miliband accuses Fink of U-turn - Ed Miliband accuses Lord Fink of an \"extraordinary U-turn\" after the Tory donor ... http://t.co/2Esxo0R6RU", 63743 ])
+    end
+
+  end
+
+  context 'find mentions' do
+
+    it "can read a tweets file and return an array of users who've had most mentions" do
+      expect(tweets.find_mentions(5, 'spec/test_data/test.txt')).to include(["@FentimansLtd", 1])
     end
 
   end
