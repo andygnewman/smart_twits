@@ -63,11 +63,11 @@ class APITwitter
       @trends << {:name => el[:name], :query => el[:query], :filename => el[:name].gsub('#','')}
     end
     delete_files_from_directory(PATH_TRENDS)
-
     save_data(PATH_TRENDS+'toptrends.txt', @trends)
+    @trends
   end
 
-  def save_tweets_per_trend(query_number = 250,trends = @trends)
+  def save_tweets_per_trend(query_number = 100,trends = @trends)
     delete_files_from_directory(PATH_TWEETS)
     trends.each do |trend|
       tweets = get_tweets(trend[:query],query_number)
@@ -89,11 +89,14 @@ class APITwitter
 
   def save_tweet_text_per_trend(trends = @trends)
     delete_files_from_directory(PATH_TWEETS_TEXT)
+    filesaved = 0
     trends.each do |trend|
       tweets = get_tweet_from_file(PATH_TWEETS+trend[:filename]+'_tweets.txt')
       tweet_text = merge_tweets(tweets)
       save_data(PATH_TWEETS_TEXT+trend[:filename]+'_tweets_text.txt', tweet_text)
+      filesaved +=1
     end
+    filesaved
   end
 
   def merge_tweets(array_of_hash)

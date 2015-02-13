@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {:name=>"@Weddingmagazine", :text=>"t's #FridayThe13th - so here's how to avoid DISASTER on your #wedding day: http://t.co/UAXnZpD14G http://t.co/VfxQHWFww7", :followers=>108100, :user_id=>47612430, :retweet=>0}
 {:name=>"@madamTARAY", :text=>"RT @Just_Tisoy: So, it's still Friday the 13th. \nAnyone feeling lucky 😜 #FridayThe13th", :followers=>93897, :user_id=>1384496605, :retweet=>11}
 {:name=>"@craigwilde", :text=>"What Katie said next! Love it! @thismorningitv @MissKatiePrice .... #katiehopkins #honest #FridayThe13th", :followers=>93660, :user_id=>21774418, :retweet=>0}
+=======
+{:name=>"@OnlyInBOS", :text=>"I don't care if it's #FridayThe13th... http://t.co/IwWhMbbkgW", :followers=>71159, :user_id=>700903452, :retweet=>1}
+{:name=>"@LiquidChefs_SA", :text=>"Whats for lunch? check out our food menu, we have something for everyone. #Fridaythe13th", :followers=>10462, :user_id=>85774702, :retweet=>0}
+{:name=>"@JasonTheNewsGuy", :text=>"Sunrise and shine! @WESH 2 News #FridayThe13th #Valentine'sDay http://t.co/ggCvUfHGK4", :followers=>6526, :user_id=>54678489, :retweet=>0}
+>>>>>>> development

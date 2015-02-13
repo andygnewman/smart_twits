@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {:name=>"@InsideManmedia", :text=>"RT @pippatuckwell: Mind the gap. #BritishSexPositions hahaha", :followers=>24089, :user_id=>1322016853, :retweet=>6}
 {:name=>"@zixllhorlikk", :text=>"RT @Paradisexlouis: #BritishSexPositions\n\nTwo British lads getting kinky onstage! http://t.co/e9RUIvzUsp", :followers=>15303, :user_id=>1585670479, :retweet=>4}
 {:name=>"@stratholic", :text=>"RT @FoxyLustyGrover: The Boom Boom! #BritishSexPositions http://t.co/IK740uFyRb", :followers=>14401, :user_id=>183607664, :retweet=>16}
+=======
+{:name=>"@corrie_corfield", :text=>"Knew it wouldn't take long for that most British of institutions, #TheShippingForecast to prove a treasure trove of #BritishSexPositions 😳", :followers=>21764, :user_id=>20132589, :retweet=>0}
+{:name=>"@ComedyQuotesTV", :text=>"The moan #BritishSexPositions", :followers=>14330, :user_id=>361404225, :retweet=>0}
+{:name=>"@Gary_Bainbridge", :text=>"Hilda Ogden's Muriel. #BritishSexPositions", :followers=>11642, :user_id=>14509754, :retweet=>0}
+>>>>>>> development

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>28246}
 {:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>28245}
 {:text=>"RT @KimKardashian: #YEEZY #ADIDAS #NYFW http://t.co/A1g9fujmSn", :retweet=>2873}
+=======
+{:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>28379}
+{:text=>"RT @KimKardashian: YEEZY FRONT ROW #WangRihCassPuffJayBeyKimAnna http://t.co/FQZ8PYdnPW", :retweet=>3278}
+{:text=>"RT @KimKardashian: #YEEZY #ADIDAS #NYFW http://t.co/A1g9fujmSn", :retweet=>2891}
+>>>>>>> development

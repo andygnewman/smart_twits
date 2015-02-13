@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {:text=>"RT @SimonJCLeBON: I'm very sad to announce that our friend Steve Strange has died in Egypt today. He was the leading edge of New Romantic. …", :retweet=>1677}
 {:text=>"RT @BBCBreaking: Family &amp; friends \"distraught\" at sudden death of pop star Steve Strange, who's died aged 55 http://t.co/8DyTZtdA0V http://…", :retweet=>985}
 {:text=>"RT @BBC6Music: “One man on a lonely platform.” R.I.P Steve Strange. http://t.co/7LCkin7ati", :retweet=>890}
+=======
+{:text=>"RT @SimonJCLeBON: I'm very sad to announce that our friend Steve Strange has died in Egypt today. He was the leading edge of New Romantic. …", :retweet=>1688}
+{:text=>"RT @BoyGeorge: Heartbroken about the death of my friend Steve Strange. So bloody sad. Such a big part of my life!", :retweet=>837}
+{:text=>"RT @garyjkemp: Spandau in tears tonight. We dedicated our performance to Steve Strange. Without him we would never have been here. A maveri…", :retweet=>487}
+>>>>>>> development

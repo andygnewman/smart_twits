@@ -1,0 +1,3 @@
+{:text=>"RT @fouseyTUBE: thank you @Drake for giving everyone tweets and instagram captions full of quotes for the next 6 months. #IfYoureReadingThi…", :retweet=>551}
+{:text=>"RT @eli3rd116: Lmao this is great #ifyourereadingthisitstoolate #drake http://t.co/7j0PyFtsKD", :retweet=>429}
+{:text=>"RT @Underrated_Dom: iTunes needs to put Drakes album on everyone's phone like they did that U2 album nobody wanted. #IfYoureReadingThisItsT…", :retweet=>268}

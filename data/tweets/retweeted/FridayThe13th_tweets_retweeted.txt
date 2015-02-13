@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {:text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :retweet=>2432}
 {:text=>"RT @eigacom: バレンタイン前日の本日、13日の金曜日。来月ホワイトデーの前日、13日の金曜日。ジェイソンフル稼働により、2015年は血に染まる模様。いいね！　#fridaythe13th http://t.co/vWTtj4clfV", :retweet=>595}
 {:text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :retweet=>293}
+=======
+{:text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :retweet=>2458}
+{:text=>"RT @NutzAudio: #FridayThe13th #ValentinesDay #FreebieFriday #competition @nutzaudio #WIN  #headphones ENDS 2nite RT&amp;Follow2enter http://t.c…", :retweet=>327}
+{:text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :retweet=>306}
+>>>>>>> development
