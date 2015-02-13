@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+{:text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :retweet=>1041}
+{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>904}
+{:text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :retweet=>871}
+=======
+<<<<<<< HEAD
+{:text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :retweet=>993}
+{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>886}
+{:text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :retweet=>838}
+=======
+{:text=>"RT @IGNUK: RT &amp; you could win a New Nintendo 3DS XL Monster Hunter 4 edition or a copy of the game. T&amp;C's: http://t.co/6GGFJfKPpJ #Nintendo…", :retweet=>999}
+{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>889}
+{:text=>"RT @PocketGamer: UK crew! Win this New 3DS XL or a copy of #MH4U for #Nintendo3DSDay! Follow + RT to enter - http://t.co/43ctk3yGYF http://…", :retweet=>842}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb

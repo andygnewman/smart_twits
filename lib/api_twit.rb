@@ -31,7 +31,6 @@ class APITwitter
   def initialize
     hash_with_passes = load_passes
     @client = init_twit(hash_with_passes)
-    # @client_streaming = init_twit_streaming(hash_with_passes)
     @trends = []
   end
 
@@ -83,7 +82,7 @@ class APITwitter
                   :followers => el.user.followers_count,
                   :user_id => el.user.id, :retweet => el.retweet_count}
     end
-    return result
+    result
   end
 
   def get_tweets_by_user(user,subject,how_many = 1)
@@ -97,9 +96,15 @@ class APITwitter
       tweets = {}
       medias.each do |media|
         result = get_tweets_by_user(media,trend[:name])
-        tweets[media] = result[0] unless result.count == 0
+        if result.count != 0
+          tweets[:media] = media
+          tweets[:text] = result[0] 
+        end
       end
-      tweets['news'] = "No news" if tweets.empty?
+      if tweets.empty?
+        tweets[:media] = "ALL" 
+        tweets[:text] = "No news"
+      end
       save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',tweets)
     end
   end

@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+{:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4996}
+{:text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :retweet=>4274}
+{:text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :retweet=>2575}
+=======
+<<<<<<< HEAD
+{:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4618}
+{:text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :retweet=>4126}
+{:text=>"RT @itsRealCole: drake just fired huge shots at tyga: \"calling my name out on the world stage... you need to act your own age and not your …", :retweet=>3726}
+=======
+{:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4691}
+{:text=>"RT @bIackbones: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime of de…", :retweet=>4157}
+{:text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :retweet=>2524}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
+>>>>>>> 58860882ddbe21889cbeed93405147cad29a7aeb
