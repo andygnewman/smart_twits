@@ -1,3 +1,3 @@
-{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>38840}
-{:text=>"RT @FifthHarmony: Talk about a #THROWBACK... #valentinesday talk with @BOPandTigerBeat http://t.co/1GMDUuYQoC", :retweet=>1790}
-{:text=>"RT @ParisHilton: If u can't b w ur crush on #ValentinesDay wknd, use #LINE to call them no matter where u r! http://t.co/bjWNmyHjfk http://…", :retweet=>219}
+{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>42463}
+{:text=>"RT @ANA_travel_info: フォロー&amp;このツイートをリツイートで抽選で1組2名様に国内線航空券をプレゼント☆ #ANAバレンタイン2015\n詳細は⇒http://t.co/QQsM3QOitA\n#バレンタイン #ValentinesDay http://t.co/…", :retweet=>1928}
+{:text=>"RT @BusyBeeCandles: Win a #ValentinesDay treat! Fllw &amp; RT &amp; it could be you loving fab scent, sound and sparkle! \nhttp://t.co/kzd7UmEb9p ht…", :retweet=>1072}

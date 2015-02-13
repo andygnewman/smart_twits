@@ -1,0 +1,3 @@
+{:text=>"RT @hot_girlsonl: 💝 #beautiful #chat  ❌ \"Victor Gregg\"  👢 Meet new People here &gt;&gt;  http://t.co/ofpvmreYlI http://t.co/JwoSWPfebk", :retweet=>145}
+{:text=>"RT @carly_will: Un unexpectedly powerful and harrowing interview on @BBCNews breakfast. Thank you Victor Gregg for your openness and honest…", :retweet=>6}
+{:text=>"RT @dmv501: #bbcbreakfast His name is Victor Gregg and he should be in every school telling of his experience. #dresden1945", :retweet=>5}

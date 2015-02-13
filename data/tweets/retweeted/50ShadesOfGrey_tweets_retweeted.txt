@@ -1,0 +1,3 @@
+{:text=>"RT @ReallyRee: RT &amp; Follow to win this OPI 6 Piece #50ShadesOfGrey Nail Lacquer @qvcuk exclusive collection http://t.co/AutrLK7oJY http://t…", :retweet=>132}
+{:text=>"RT @KatieWeasel: Cinema closed down for repair after showing #50ShadesOfGrey http://t.co/omyfXWfKkc", :retweet=>74}
+{:text=>"RT @HotpointUK: RT to #win a toaster! Visit http://t.co/w4kVogi9Fz &amp; use #FiftyShadesOfToast to say which you'd like #50ShadesOfGrey http:/…", :retweet=>52}

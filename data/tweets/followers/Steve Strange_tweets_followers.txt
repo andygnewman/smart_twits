@@ -1,0 +1,3 @@
+{:name=>"@NicoSavi", :text=>"RT @Peppi_Nocera: Twitter obituary: Party-goer and doer, One hit shooter, Master of tacky queer extravaganza, Mr Steve Strange http://t.co/…", :followers=>1176602, :user_id=>228264692, :retweet=>3}
+{:name=>"@ARAcultura", :text=>"Mor Steve Strange, cantant del grup dels anys 80 'Visage' http://t.co/A58lPvx2B6 http://t.co/a7bRZrHqlF", :followers=>28274, :user_id=>194149922, :retweet=>0}
+{:name=>"@OOR", :text=>"Nieuws: Visage-frontman Steve Strange (55) overleden http://t.co/dQ5hnLGKw7 http://t.co/IqNZ65tjzu", :followers=>24342, :user_id=>21484910, :retweet=>0}

@@ -1,3 +1,0 @@
-{:name=>"@ulkum_vatan", :text=>"RT @Haberhergun: #ChapelHillShooting\n\nABD'de öldürülen 3 müslüman genç için tepkiler çığ gibi büyüyor! http://t.co/PWnPWnZGjc http://t.co/a…", :followers=>15024, :user_id=>1644878227, :retweet=>2}
-{:name=>"@Ra7mani", :text=>"RT @DrGilbert: #Sydneysiege:Global coverage Muslims blamed\n#CharlieHebdo: All muslims labeled terrorists\n#ChapelHillShooting: Just a fight …", :followers=>6670, :user_id=>302180242, :retweet=>453}
-{:name=>"@Ra7mani", :text=>"RT @DrGilbert: \"I guess Muslims are newsworthy only when behind the gun, not in front.\"  #ChapelHillShooting", :followers=>6670, :user_id=>302180242, :retweet=>698}

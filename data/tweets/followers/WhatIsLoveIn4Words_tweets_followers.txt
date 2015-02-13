@@ -1,3 +1,0 @@
-{:name=>"@ThreeTwins", :text=>"RT @PaulaAbdul: Acceptance, forgiveness, compassion, gratitude! #WhatIsLoveIn4Words", :followers=>62268, :user_id=>18292600, :retweet=>54}
-{:name=>"@ThreeTwins", :text=>"Organic Ice Cream Please #WhatIsLoveIn4Words", :followers=>62268, :user_id=>18292600, :retweet=>0}
-{:name=>"@EXPERTJOINTS", :text=>"#WhatIsLoveIn4Words - '#Women that #Smoke #Weed!' http://t.co/pX90vppzm2", :followers=>30973, :user_id=>2290413098, :retweet=>0}

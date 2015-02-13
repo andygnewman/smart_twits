@@ -1,3 +1,0 @@
-{:text=>"RT @LabourEoin: Things just got very serious. Here is a deal a Tory Minister signed with the Swiss government in 2012. #HSBC http://t.co/ys…", :retweet=>302}
-{:text=>"RT @chunkymark: Police on their way to raid to pensioners house at 6.30am on suspicion of benefit fraud #HSBC http://t.co/1H0eoYwODL", :retweet=>174}
-{:text=>"RT @LabourEoin: Retweet if your opinion of Ed Miliband has improved in recent days. #HSBC", :retweet=>156}

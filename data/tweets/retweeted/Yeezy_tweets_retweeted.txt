@@ -1,0 +1,3 @@
+{:text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :retweet=>27996}
+{:text=>"RT @KimKardashian: ⬅️YEEZY http://t.co/FSqJNdaHz6", :retweet=>4699}
+{:text=>"RT @adidasoriginals: Yeezy Season One. #YEEZYBOOST http://t.co/jAzKAOL1TJ", :retweet=>2359}

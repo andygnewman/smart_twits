@@ -128,7 +128,7 @@ class APITwitter
       media_tweets = []
       tweets.each do |tweet|
         intersection = tweet.split(' ') & media
-        media_tweets << "#{intersection[0]}:#{tweet}" if intersection.count != 0
+        media_tweets << "{:media=>'#{intersection.join(',')}',:tweet=>'#{tweet}'}" if intersection.count != 0
       end
       save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',media_tweets)
     end  

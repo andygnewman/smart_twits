@@ -1,3 +1,0 @@
-{:name=>"@Good_Beard", :text=>"Lord Fink says EVERYBODY avoids tax but how do those those earning too little to pay tax do it? Perhaps Lord Fink thinks they're not anybody", :followers=>11346, :user_id=>83860499, :retweet=>0}
-{:name=>"@GeorgeFoulkes", :text=>"I understand @Dannythefink wishes it to be known that Lord Fink is not short for Lord Finkelstein.", :followers=>6671, :user_id=>18725209, :retweet=>0}
-{:name=>"@GeorgeFoulkes", :text=>"RT @Channel4News: Ed Miliband: \"the difference between today and yesterday is that today Lord Fink is saying what I said about Lord Fink.\" …", :followers=>6671, :user_id=>18725209, :retweet=>34}

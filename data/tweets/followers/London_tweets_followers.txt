@@ -1,3 +1,0 @@
-{:name=>"@greensboro_nc", :text=>"RT @ArabianPages: 🍃🌹🌻🍃🌺🌼🍃🌸🌷🍃\n🚀F⭕LL⭕W THIS FLIGHT🚀\n🔥Ꭿℒℒ #BeautifulPeople🔥\nℳⓊᎦŦ F⭕LL⭕W➛\n🚀@RT2EAT\n🚀@kazaston\n🚀@Alicelovelb\n🚀@thecinemafan\n🚀@gr…", :followers=>210305, :user_id=>28918980, :retweet=>2}
-{:name=>"@PhenomenalMag", :text=>"RT @LDNFashionNews: @MaggsSmithX new face of Africa Fashion Week London 2015. http://t.co/KnIaMtSxrc  @AFWL_PR #AFWL http://t.co/D3aMmCbe6o", :followers=>147272, :user_id=>395061884, :retweet=>0}
-{:name=>"@DNAinfoCHI", :text=>"The hotel opening in London Guarantee building at Michigan and Wacker now has a name http://t.co/2w7GtNge9h http://t.co/VSE6mdJwfm", :followers=>23324, :user_id=>552151606, :retweet=>0}

@@ -1,3 +1,0 @@
-{:text=>"RT @SAPoliceNews: Have you seen missing woman Lucy Duldig in the Waterfall Gully area today? https://t.co/GVeMQfT1Kp http://t.co/YzDc1WQDet", :retweet=>267}
-{:text=>"RT @AIanHangover: im a random tweeter.. one tweet i can be explaining some deep life shit, and the next tweet im telling you to go fuck you…", :retweet=>211}
-{:text=>"RT @ElNacionalWeb: [Fotos] Tensión: Fuerte contingente de la GNB impide pasó de marcha hacia Los Símbolos http://t.co/p3be5gGvcm (Vía: @elp…", :retweet=>55}

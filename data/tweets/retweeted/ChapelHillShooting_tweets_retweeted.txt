@@ -1,3 +1,0 @@
-{:text=>"RT @piersmorgan: If a Muslim executed 3 Christian students in U.S., it would get a LOT more media coverage than I'm seeing right now. \n\n#Ch…", :retweet=>27150}
-{:text=>"RT @sallykohn: UPDATED re #ChapelHillShooting — \n\nMuslim shooter = terrorist\n\nBlack shooter = thug\n\nWhite shooter = just a tiff about a par…", :retweet=>11920}
-{:text=>"RT @KeeganNYC: 87% of U.S. mass shooting are committed by caucasians 13-56. Why don't we spy on this community? #ChapelHillShooting http://…", :retweet=>8655}

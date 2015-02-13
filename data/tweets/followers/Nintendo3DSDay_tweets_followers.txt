@@ -1,0 +1,3 @@
+{:name=>"@NintendoES", :text=>"Ha llegado la hora... ¡The Legend of #Zelda: Majora's Mask 3D ya está en Nintendo #3DS! #Nintendo3DSDay http://t.co/uqVa8VkWrq", :followers=>125212, :user_id=>494308508, :retweet=>11}
+{:name=>"@NintendoEurope", :text=>"The time has come... The Legend of #Zelda: Majora's Mask 3D is out now on Nintendo #3DS! #Nintendo3DSDay http://t.co/zibUMvcHk2", :followers=>113785, :user_id=>493980491, :retweet=>10}
+{:name=>"@NintendoUK", :text=>"The time has come... The Legend of #Zelda: Majora's Mask 3D is out now on Nintendo #3DS! #Nintendo3DSDay http://t.co/zaXpIL4O24", :followers=>97711, :user_id=>493974431, :retweet=>9}

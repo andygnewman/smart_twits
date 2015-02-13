@@ -1,0 +1,100 @@
+{:name=>"@Imed_Breezy", :text=>"J'sais pas quoi en penser des dernières Yeezy", :followers=>255, :user_id=>1043379049, :retweet=>0}
+{:name=>"@ChiCo_rreia", :text=>"RT @Sadekniuum: elles sont degeulasses les Yeezy 3 , on dirait les shoes a Zelda c'est des Baskets pour lutins mdr", :followers=>103, :user_id=>2262744033, :retweet=>84}
+{:name=>"@ohmychixtokyo", :text=>"Ri and Bey❤️💙 #YEEZY http://t.co/B1r8cPuuE3", :followers=>673, :user_id=>1710313464, :retweet=>0}
+{:name=>"@King_Ry93", :text=>"“@petra_jdf: \"@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/ww75qxdrom\" 😍” FAM 😩 😍", :followers=>280, :user_id=>250769036, :retweet=>0}
+{:name=>"@17blxckk_", :text=>"The outerwear in yeezy x Adidas is fuckn amazing", :followers=>869, :user_id=>268210889, :retweet=>1}
+{:name=>"@drewxkills", :text=>"nn sah justin arrête tout de suite les yeezy elles vont qu'à Kayne Mdrrr @justinbieber", :followers=>1477, :user_id=>547539502, :retweet=>0}
+{:name=>"@iamCarlKeegan", :text=>"RT @SoleCollector: Kanye West x adidas Yeezy Boost low model spotted at #NYFW (via @TheRealTBlake) http://t.co/zdtq8M6yLY http://t.co/WfVbq…", :followers=>833, :user_id=>84378657, :retweet=>1451}
+{:name=>"@JamesyDD", :text=>"So how does everyone feel about @kanyewest's new @adidasoriginals collab?See the pictures here! #fashion #yeezy http://t.co/xezTvTCtS6", :followers=>634, :user_id=>21763339, :retweet=>0}
+{:name=>"@m_sean34", :text=>"RT @sneaker_wars: 【2月28日発売予定】 カニエ・ウェスト × アディダス イージー 750 ブースト\n⇒http://t.co/isrO3opCE0\n#sneakerwars #スニーカー #yeezy http://t.co/hRQZILGWzq", :followers=>109, :user_id=>2728814280, :retweet=>123}
+{:name=>"@cost_mc", :text=>"Так еще и в НЙ выступает “@DondaCreate: YEEZY http://t.co/NdATqQ4K4E” http://t.co/KIUgMzXyJC", :followers=>101, :user_id=>229142506, :retweet=>0}
+{:name=>"@dude_itsKevin", :text=>"RT @DondaCreate: DONDA| YEEZY #RocCityClassic http://t.co/KupoEV9Oeh", :followers=>118, :user_id=>495353299, :retweet=>125}
+{:name=>"@dude_itsKevin", :text=>"RT @DondaCreate: 2 CHAINZ| BIG SEAN| YEEZY #RocCityClassic http://t.co/m8WWP7Xapk", :followers=>118, :user_id=>495353299, :retweet=>115}
+{:name=>"@palesister", :text=>"RT @StylistMagazine: Anna Wintour's reaction to North West's frow tantrum is the BEST thing we have seen this week http://t.co/Rug5zIqYIw h…", :followers=>65, :user_id=>254594541, :retweet=>8}
+{:name=>"@yeezy_crownII", :text=>"She sounded so devastated😂😂😂😂😂 \"@WORLDSTARVlNE: NOOO NOT GARY 😔 http://t.co/P7ZBsqGRD4\"", :followers=>336, :user_id=>497612425, :retweet=>0}
+{:name=>"@lynseybrownlie_", :text=>"Yeezy season 1 looks like Sia - Chandeliers music video http://t.co/aeS2Jgk6AX", :followers=>428, :user_id=>374794202, :retweet=>0}
+{:name=>"@yaboykarny", :text=>"RT @calebnstuff: it's yeezy season", :followers=>93, :user_id=>1188524028, :retweet=>1}
+{:name=>"@geezy_officiel", :text=>"Les Yeezy Boost sont sortie ?", :followers=>1095, :user_id=>191834021, :retweet=>0}
+{:name=>"@eGistNG", :text=>"\"All Yeezy Everything - Kim K Steps Out In Leotard &amp; Leggings Outfit Designed By Kanye West At His Debut Fashion Show http://t.co/9F779a3NmW", :followers=>3178, :user_id=>316363337, :retweet=>0}
+{:name=>"@SizweDhlomo", :text=>"They are... RT @theelui: The Yeezy Boost Lows are better http://t.co/mvhHRqs2DL", :followers=>389261, :user_id=>36061357, :retweet=>0}
+{:name=>"@Harry1Davis", :text=>"New Yeezy and Drake, We've been blessed", :followers=>244, :user_id=>59891516, :retweet=>0}
+{:name=>"@thoughtofjdrewb", :text=>"I wish I was invited to watch the Yeezy fashion show", :followers=>741, :user_id=>2187926880, :retweet=>0}
+{:name=>"@Taahirah_Martin", :text=>"RT @KimKanyeKimyeFC: Justin wearing his pair of Yeezy Boost http://t.co/033Kr2Bvq7", :followers=>2554, :user_id=>815978790, :retweet=>22}
+{:name=>"@seIewnz", :text=>"yeezy season http://t.co/FG1W0DIWJT", :followers=>2036, :user_id=>493333045, :retweet=>0}
+{:name=>"@holymarcellax", :text=>"RT @KimKardashian: ⬅️YEEZY http://t.co/FSqJNdaHz6", :followers=>25, :user_id=>2896111949, :retweet=>4699}
+{:name=>"@GRAZIASAmag", :text=>"Uh, oh! Someone at the show was not happy about Kane West debuting his Adidas x Yeezy collection last night http://t.co/7CzmroeDWD", :followers=>60236, :user_id=>522078597, :retweet=>0}
+{:name=>"@ShaferScott_LVL", :text=>"RT @TeamKanyeDaily: FULL VIDEO: adidas Originals x Kanye West | Yeezy Season 1 https://t.co/UzXLxfHD4U", :followers=>365, :user_id=>245172900, :retweet=>161}
+{:name=>"@shumulali", :text=>"KANYE WEST - WOLVES (FT. VIC MENSA  https://t.co/8yMtpP8dUk - *** NEW KANYE ***", :followers=>344, :user_id=>816091296, :retweet=>0}
+{:name=>"@iffirepublic", :text=>"Kim Kardashian steps out to Kanye West's Yeezy fashion show in a bizarre brown leotard and leggin... http://t.co/txHPyj5p3i #TheIrfanism", :followers=>619, :user_id=>1687062295, :retweet=>0}
+{:name=>"@TanyaHamilton4", :text=>"Kim Kardashian steps out to Kanye West's Yeezy fashion show in a bizarre brown leotard and leggings outfit he ... http://t.co/afELlfdlLJ", :followers=>1194, :user_id=>495828769, :retweet=>0}
+{:name=>"@CodyStolz", :text=>"Damn Yeezy they all gotta be dimes? Well Adam gave up a rib so mine better be prime.", :followers=>172, :user_id=>1284656312, :retweet=>0}
+{:name=>"@JrsKjr", :text=>"RT @sneaker_wars: 【2月28日発売予定】 カニエ・ウェスト × アディダス イージー 750 ブースト\n⇒http://t.co/isrO3opCE0\n#sneakerwars #スニーカー #yeezy http://t.co/hRQZILGWzq", :followers=>111, :user_id=>2186474352, :retweet=>123}
+{:name=>"@nhlexygal", :text=>"Too much money there by the front row... Yeezy x Adidas http://t.co/eSv6xvLaQg", :followers=>1352, :user_id=>264738768, :retweet=>0}
+{:name=>"@ch1k3n1nj4", :text=>"I liked a @YouTube video http://t.co/nZonfVevwv Yeezy heats up New York's Flatiron District for the First Annual Roc City Classic", :followers=>58, :user_id=>200691520, :retweet=>0}
+{:name=>"@phuckdrvw", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>1553, :user_id=>627227885, :retweet=>27996}
+{:name=>"@HelpOnTheWay23", :text=>"“@SneakerNews: adidas unveils YEEZY Season 1 http://t.co/CUUYa4qPbO http://t.co/B5KcATk1Bx” how to dress like a bum 101 🙈👎👎", :followers=>347, :user_id=>77753615, :retweet=>0}
+{:name=>"@trendinaliaPR", :text=>"6. Puñeta\n7. Ponce\n8. Yeezy\n9. Rose\n10. Valentine's Day\n\n2015/2/13 05:55 AST #trndnl2015 http://t.co/Q2h6KsMyr0", :followers=>1638, :user_id=>2343372140, :retweet=>0}
+{:name=>"@areyouravi", :text=>"how is drake gonna just throw this out when it was meant to be yeezy season?! sheer bravado 👏😂", :followers=>295, :user_id=>44999459, :retweet=>0}
+{:name=>"@justinxxmendes", :text=>"RT @biebersmaniabr: ugomozie via IG: \"#JustinBieber X NYFW | Jaqueta Biker: balmainparis. Tênis: #Yeezy. #StyledByUgo.\" http://t.co/JX7jXYu…", :followers=>6191, :user_id=>624625118, :retweet=>210}
+{:name=>"@billitimbo", :text=>"RT @sneaker_wars: 【2月28日発売予定】 カニエ・ウェスト × アディダス イージー 750 ブースト\n⇒http://t.co/isrO3opCE0\n#sneakerwars #スニーカー #yeezy http://t.co/hRQZILGWzq", :followers=>446, :user_id=>261611886, :retweet=>123}
+{:name=>"@Amber_Alexia", :text=>"What the hell was Kim Kardashian wearing to the Yeezy fashion show?!😷😷😷😷", :followers=>546, :user_id=>414953443, :retweet=>0}
+{:name=>"@pessimism", :text=>"@SaraFrost_ Har du set de nye sko, tho? http://t.co/Br9CMf4UuI", :followers=>512, :user_id=>14492810, :retweet=>0}
+{:name=>"@trendinaliaNG", :text=>"6. #APCyouthparticipation\n7. Yeezy\n8. Valentines\n9. Vals\n10. Tyga\n\n2015/2/13 10:55 WAT #trndnl2015 http://t.co/RztqeSY2ZJ", :followers=>5130, :user_id=>1408370630, :retweet=>0}
+{:name=>"@KicksStop", :text=>"visit www.kickstopsneakers for the lowest preorder and add to cart service.\n#nike #airjordan #sneakers #retro #preorder #swag #yeezy", :followers=>127, :user_id=>2380976267, :retweet=>0}
+{:name=>"@Galagowear", :text=>"Video: Yeezy x Adidas season1 http://t.co/s0Vhdb35tc", :followers=>783, :user_id=>32172588, :retweet=>0}
+{:name=>"@Erzengel_Sieben", :text=>"A First Look at the adidas Originals Yeezy Boost Low | HYPEBEAST https://t.co/5bP8RQP8Ek", :followers=>1208, :user_id=>1039687591, :retweet=>0}
+{:name=>"@Val_rdgz", :text=>"RT @Sadekniuum: elles sont degeulasses les Yeezy 3 , on dirait les shoes a Zelda c'est des Baskets pour lutins mdr", :followers=>1007, :user_id=>1392371725, :retweet=>84}
+{:name=>"@grp_LoL", :text=>"😂😂😂😂😂HOWEVER... I rather like some of the yeezy trainers 🙈🙊 http://t.co/NtC8oyfIfT", :followers=>38, :user_id=>3024674200, :retweet=>0}
+{:name=>"@k1ngbains", :text=>"RT @PUSHA_T: Yeezy X KingPush X Adidas = Success #BackstageBeforeTheMadness #Family http://t.co/rRHyixiOlO", :followers=>251, :user_id=>2298200545, :retweet=>304}
+{:name=>"@BeautifulFeet_", :text=>"RT @KhidKhordi: They look so depressed RT @BoozeBumps: Lmao oh God. “@Jessyrooy: Is that Kylie @TheGoldVision: Yeezy Season 1 http://t.co/v…", :followers=>784, :user_id=>92370873, :retweet=>2}
+{:name=>"@Ouali_Camelia", :text=>"RT @CarlaBlachowiak: Vu que j'étais invitée au défilé Yeezy Season 1 hier soir j'suis arrivée un peu en retard en cours, je m'en excuse j'é…", :followers=>1234, :user_id=>461059149, :retweet=>2}
+{:name=>"@TZE_XO", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>168, :user_id=>47453467, :retweet=>27996}
+{:name=>"@iammotivated", :text=>"Yeezy is the new Jordan. \"Awesome is possible.\" — Kanye West.", :followers=>340, :user_id=>153010209, :retweet=>0}
+{:name=>"@nellie_wu0408", :text=>"RT @BazaarUK: See Kanye West's debut catwalk collection for @adidasoriginals #NYFW http://t.co/9AvYJQSdZE http://t.co/kls2yfjRLO", :followers=>1300, :user_id=>2711453359, :retweet=>6}
+{:name=>"@LailasBlog", :text=>"Memo to ALL the Good Nigerian Men Who Are Tempted to Cheat - http://t.co/8fmt750o01  #Kanye Valentine's Day #Valentine's Day #Yeezy #Nigeria", :followers=>7662, :user_id=>504207204, :retweet=>0}
+{:name=>"@__RunDMC", :text=>"RT @KeemOfKings: Yeezy sneakers is trash the FOH 🚮🚮🚮🚮", :followers=>1574, :user_id=>203820439, :retweet=>1}
+{:name=>"@SaeeduH", :text=>"Check your calendar @whatsgoodhenry. Yeezy season - Wolves https://t.co/ASfrja2haq", :followers=>352, :user_id=>61552437, :retweet=>0}
+{:name=>"@Xamunity", :text=>"Kanye West Debuts Yeezy adidas Collection at New York Fashion Week http://t.co/Xn7KIK5Uwy", :followers=>276, :user_id=>2736564023, :retweet=>0}
+{:name=>"@marissaciera", :text=>"RT @DondaCreate: YEEZY http://t.co/tZpMYC5jRw", :followers=>100, :user_id=>2327266709, :retweet=>115}
+{:name=>"@Romeo_Sphe", :text=>"RT @lulu_luwela: Yeezy season collection is how you dress your stepchild when you want the whole world to know it's not your kid, like Jose…", :followers=>153, :user_id=>139144788, :retweet=>11}
+{:name=>"@xo___a", :text=>"RT @KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/BbYsUZwdiu", :followers=>482, :user_id=>81279519, :retweet=>27996}
+{:name=>"@Xamunity", :text=>"Kanye West Debuts Yeezy adidas Collection at New York Fashion Week http://t.co/liRM5URhwy", :followers=>276, :user_id=>2736564023, :retweet=>0}
+{:name=>"@__kaatelyn__", :text=>"RT @MeganCawe: I absolutely LOVED the Yeezy collection at NYFW!!! 😍😩", :followers=>290, :user_id=>2936125799, :retweet=>5}
+{:name=>"@fcknbaddie", :text=>"RT @turntkanye: “@KimKardashian: My look for the Yeezy show!!!!!! Yeezy head to toe!!!!! http://t.co/wYRXgSrPGD”fuck me", :followers=>1992, :user_id=>477680227, :retweet=>1}
+{:name=>"@robjohnsonmusic", :text=>"Unbelievably this isn't a joke, it's actually real...\nhttp://t.co/Dcmnt72YJu \nWhat a crock of pretentious bullshit.\n#yeezy", :followers=>522, :user_id=>18533620, :retweet=>0}
+{:name=>"@buscemifanclub", :text=>"im gna buy everything from the adidas x yeezy collection aha ha ahaha h", :followers=>17, :user_id=>2975264271, :retweet=>0}
+{:name=>"@MarcHattar", :text=>"adidas Originals x Kanye West | YEEZY SEASON 1 http://t.co/UYW06vUxGU", :followers=>54, :user_id=>2347631354, :retweet=>0}
+{:name=>"@Takkong2", :text=>"RT @sneaker_wars: 【2月28日発売予定】 カニエ・ウェスト × アディダス イージー 750 ブースト\n⇒http://t.co/isrO3opCE0\n#sneakerwars #スニーカー #yeezy http://t.co/hRQZILGWzq", :followers=>29, :user_id=>383498701, :retweet=>123}
+{:name=>"@Diilated", :text=>"RT @lucyukpong: LOL! Yeezy collection: I'd probably cop a couple of stuff off of that collection, but I'm not that rich so finna thrift sto…", :followers=>2433, :user_id=>44370004, :retweet=>1}
+{:name=>"@StuntMurphy_", :text=>"They look like the Air Yeezy but uglier @Lady_KayGee", :followers=>3211, :user_id=>207073334, :retweet=>0}
+{:name=>"@hamana19990707", :text=>"RT @sneaker_wars: 【2月28日発売予定】 カニエ・ウェスト × アディダス イージー 750 ブースト\n⇒http://t.co/isrO3opCE0\n#sneakerwars #スニーカー #yeezy http://t.co/hRQZILGWzq", :followers=>255, :user_id=>1348845421, :retweet=>123}
+{:name=>"@EM1Tree", :text=>"RT @adidasoriginals: Yeezy Season One. #YEEZYBOOST http://t.co/jAzKAOL1TJ", :followers=>143, :user_id=>96331004, :retweet=>2359}
+{:name=>"@bizzle_I", :text=>"Fashion show Kanye Yeezy Season 1 for Adidas in New York (12 February 2015) (there Hailey Baldwin) http://t.co/KBCKu9xKEg", :followers=>3542, :user_id=>809071652, :retweet=>0}
+{:name=>"@Giac7J", :text=>"RT @MontaigneStreet: Yeezy Season. #adidas #kanyewest #fashionshow http://t.co/ELVGyW34NN", :followers=>123, :user_id=>969639913, :retweet=>1}
+{:name=>"@Entertain_Video", :text=>"Kanye West On Adidas Yeezy 750 Boost | On Air with Ryan Seacrest http://t.co/HzuptxIv19", :followers=>363, :user_id=>1517376138, :retweet=>0}
+{:name=>"@cemoksz", :text=>"RT @TeamKanyeDaily: \"Talking Bout Clothes, I'll Mothafuckin' Embarrass You!\" #YEEZY #COLD #RocCityClassic", :followers=>20, :user_id=>2987480812, :retweet=>52}
+{:name=>"@AndreZane", :text=>"RT @AmthaFknMONSTA_: Just copped my Yeezy's. It's official http://t.co/GYSRhsPIM5", :followers=>76, :user_id=>116411558, :retweet=>161}
+{:name=>"@Tecomoakisses", :text=>"RT @SickPair: Adidas x Yeezy Boost Low http://t.co/zDkItXFMFh", :followers=>487, :user_id=>1473102079, :retweet=>32}
+{:name=>"@Thuly_Thulz", :text=>"RT @Tusa_Mamba: \"Versace is in Hyde park\" 😂😂😂 but we can't get a Yeezy", :followers=>790, :user_id=>83403970, :retweet=>1}
+{:name=>"@Goldmaa", :text=>"RT @EricCanda4: I'm in Love with The Yeezy's 🙌", :followers=>556, :user_id=>2243132887, :retweet=>1}
+{:name=>"@JFan_himself", :text=>"In my opinion La Flamme does the Yeezy collection better than anyone. My nigga @trvisXX does it better. Fucking Fire http://t.co/UBznuCVJCW", :followers=>485, :user_id=>314929262, :retweet=>0}
+{:name=>"@MzCrys", :text=>"RT @ComplexMag: Yeezy Season 1 is here. Here's the entire Kanye West x adidas collection:  http://t.co/LdOuY7e24H", :followers=>4613, :user_id=>26854840, :retweet=>238}
+{:name=>"@enarems", :text=>"RT @BazaarUK: See Kanye West's debut catwalk collection for @adidasoriginals #NYFW http://t.co/9AvYJQSdZE http://t.co/kls2yfjRLO", :followers=>149, :user_id=>2888371716, :retweet=>6}
+{:name=>"@FRALondon", :text=>"RT @BazaarUK: See Kanye West's debut catwalk collection for @adidasoriginals #NYFW http://t.co/9AvYJQSdZE http://t.co/kls2yfjRLO", :followers=>1669, :user_id=>89218863, :retweet=>6}
+{:name=>"@HelenLolaa", :text=>"These pieces from the yeezy line are 👌🔥 http://t.co/lr2mqzTE3Z", :followers=>448, :user_id=>392248946, :retweet=>0}
+{:name=>"@bcurrentmag", :text=>"#FashionFridays | The Adidas - Yeezy Shredded Jumper - Would You Rock This?\nhttp://t.co/DVcDbwh49V http://t.co/Og1ZBkL9Zr", :followers=>988, :user_id=>171883103, :retweet=>0}
+{:name=>"@yeezy_crownII", :text=>"@ArianaAreli late night showers are the best! Lol", :followers=>336, :user_id=>497612425, :retweet=>0}
+{:name=>"@FuckYoDJ", :text=>"RT @kylegotjokes: Hmu if you want that new Yeezy attire all sweaters on sale $300 http://t.co/LDJAplA35X", :followers=>2836, :user_id=>99230303, :retweet=>159}
+{:name=>"@_kennethbinan", :text=>"Yeezy season 😍😍", :followers=>19, :user_id=>2982347330, :retweet=>0}
+{:name=>"@Giac7J", :text=>"RT @HYPEBEAST: The most detailed look you will find of the @kanyewest for @adidasoriginals Yeezy 750 Boost.\nhttp://t.co/CSqFc1Ox0V http://t…", :followers=>123, :user_id=>969639913, :retweet=>134}
+{:name=>"@MattMarenic", :text=>"Adidas Originals Yeezy 750 Boost  http://t.co/ddwE88YZQd", :followers=>1450, :user_id=>14254161, :retweet=>0}
+{:name=>"@TheUsNewz", :text=>"With a celebrity front row, Kanye West rolls out Yeezy shoes #Boston http://t.co/xFTt1JzSSB", :followers=>1562, :user_id=>1418807532, :retweet=>0}
+{:name=>"@adultsplayland", :text=>"Kanye West Reveals Adidas Yeezy Season During NYFW http://t.co/4xijFPyIEM", :followers=>148, :user_id=>250456709, :retweet=>0}
+{:name=>"@Giac7J", :text=>"RT @highsnobiety: .@kanyewest Debuts More @adidasoriginals Yeezy Boost Footwear at NYFW. See all styles here: http://t.co/lOEAI0Jif4 http:/…", :followers=>123, :user_id=>969639913, :retweet=>48}
+{:name=>"@EricCanda4", :text=>"I'm in Love with The Yeezy's 🙌", :followers=>108, :user_id=>2921502907, :retweet=>1}
+{:name=>"@nelsonnabor", :text=>"RT @HYPEBEAST: A first look at the @adidasoriginals #Yeezy Boost Low.\nhttp://t.co/C4Ngq7kXXN http://t.co/uQv0JVBfG3", :followers=>218, :user_id=>1693430546, :retweet=>260}
+{:name=>"@Tusa_Mamba", :text=>"\"Versace is in Hyde park\" 😂😂😂 but we can't get a Yeezy", :followers=>601, :user_id=>132532007, :retweet=>1}
+{:name=>"@lucyukpong", :text=>"But at least, rich and famous hobos can now express themselves fashionably through the Yeezy collection.", :followers=>2061, :user_id=>96209743, :retweet=>0}
+{:name=>"@Giac7J", :text=>"RT @highsnobiety: Hear @KanyeWest, @VicMensa &amp; @Sia 's \"Wolves\" in the adidas Yeezy Season 1 Show Video here: http://t.co/74SQsTiF1b http:/…", :followers=>123, :user_id=>969639913, :retweet=>37}
+{:name=>"@DanielRNDM", :text=>"RT @LuloRNDM: Yeezy season 1 collection #2 http://t.co/7k0BGRrRc2", :followers=>164, :user_id=>375612119, :retweet=>1}
+{:name=>"@DanielRNDM", :text=>"RT @LuloRNDM: Yeezy season 1 collection #1 http://t.co/WwvGlyMTGN", :followers=>164, :user_id=>375612119, :retweet=>1}

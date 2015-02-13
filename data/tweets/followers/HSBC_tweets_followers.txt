@@ -1,3 +1,0 @@
-{:name=>"@maxkeiser", :text=>"RT @BanksterNews: #HSBC files: Swiss bank hid money for suspected criminals http://t.co/ZivnKpxUei", :followers=>126118, :user_id=>20374262, :retweet=>12}
-{:name=>"@ger_mccann", :text=>"RT @BanksterNews: #HSBC files: Swiss bank hid money for suspected criminals http://t.co/ZivnKpxUei", :followers=>11240, :user_id=>2721410961, :retweet=>12}
-{:name=>"@recriweb", :text=>"#HSBC et les 100 000 voleurs http://t.co/mDKtpwm5h2", :followers=>7878, :user_id=>16628468, :retweet=>0}

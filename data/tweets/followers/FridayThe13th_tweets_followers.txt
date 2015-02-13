@@ -1,0 +1,3 @@
+{:name=>"@otepofficial", :text=>"Tomorrow night. #fridaythe13th thewhiskyagogo GET READY TO RIOT!! 🔥 #OTEP http://t.co/5eUMQgkSJd", :followers=>41727, :user_id=>15053754, :retweet=>0}
+{:name=>"@Zayntastick", :text=>"@Zayntastick #FridayThe13th aha", :followers=>30046, :user_id=>826677182, :retweet=>0}
+{:name=>"@IWM_Centenary", :text=>"Since it's #FridayThe13th, here are ‘5 Lucky Objects Of #WW1’ from @I_W_M, including a Bible, coal &amp; a camisole: http://t.co/bbn8w0nE4P", :followers=>18286, :user_id=>274931442, :retweet=>0}

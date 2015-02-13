@@ -1,0 +1,3 @@
+{:name=>"@notsofamous2day", :text=>"Instead of #50ShadesOfGrey why not read http://t.co/AmhjxZCrDP \"can't get better\" #TheOnlyWayIsEssex", :followers=>390323, :user_id=>1414904730, :retweet=>0}
+{:name=>"@houseoffraser", :text=>"Never be underdressed. #50ShadesofGrey http://t.co/txmqcsXbsg http://t.co/2XqCgr6sPT", :followers=>215496, :user_id=>63196333, :retweet=>0}
+{:name=>"@BILD_Promis", :text=>"RT @oliverpocher: #Geschmacklos #50ShadesOfGrey http://t.co/9CyICJKieG", :followers=>108653, :user_id=>9330602, :retweet=>14}

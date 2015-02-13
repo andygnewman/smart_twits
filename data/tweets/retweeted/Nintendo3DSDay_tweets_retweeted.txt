@@ -1,0 +1,3 @@
+{:text=>"RT @VideoGamerCom: Follow &amp; RT for a chance to win a New 3DS XL Majora's Mask 3D Edition\n #Nintendo3DSDay UK Only, closes 9am Feb 14 http:/…", :retweet=>408}
+{:text=>"RT @NintendoUK: Tell us your favourite #3DS game using #Nintendo3DSDay, before 3pm, and you could win all of this! http://t.co/FvDFhFELr7", :retweet=>74}
+{:text=>"RT @NintendoUK: Happy #Nintendo3DSDay everyone! The #New3DS and New Nintendo 3DS XL systems are available in stores now! http://t.co/7Yy6tF…", :retweet=>47}

@@ -1,3 +1,0 @@
-{:name=>"@CalumInAHood", :text=>"@Samkingftw I think @samkspizzabitch should win #SamKingYoutube sam king if u dont pick sammi ill unsubscribe", :followers=>27136, :user_id=>423706656, :retweet=>0}
-{:name=>"@CalumInAHood", :text=>"@Samkingftw I think @samkspizzabitch should win bc she never wins anything lmao #SamKingYoutube  pick sammi lad", :followers=>27136, :user_id=>423706656, :retweet=>0}
-{:name=>"@HB_mutungi", :text=>"RT @asotoyre: #SamKingYouTube #follow Shooting the messenger: Abbott slams HRC report - Brisbane Times  http://t.co/CBFcRfJwNp", :followers=>7201, :user_id=>2648145426, :retweet=>1}

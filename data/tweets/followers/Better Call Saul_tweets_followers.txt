@@ -1,3 +1,0 @@
-{:name=>"@TextoPerfecto", :text=>"RT @Estrofalario: Casual, aquí esperando nuevos episodios de Better Call Saul: http://t.co/IEbHvjcUKE", :followers=>113384, :user_id=>1327271454, :retweet=>51}
-{:name=>"@ReyDelChistuit", :text=>"RT @Estrofalario: Casual, aquí esperando nuevos episodios de Better Call Saul: http://t.co/IEbHvjcUKE", :followers=>110962, :user_id=>883309512, :retweet=>51}
-{:name=>"@PoetaProhibida", :text=>"RT @Estrofalario: Casual, aquí esperando nuevos episodios de Better Call Saul: http://t.co/IEbHvjcUKE", :followers=>100217, :user_id=>461323152, :retweet=>51}

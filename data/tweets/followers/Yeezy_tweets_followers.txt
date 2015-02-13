@@ -1,0 +1,3 @@
+{:name=>"@SizweDhlomo", :text=>"They are... RT @theelui: The Yeezy Boost Lows are better http://t.co/mvhHRqs2DL", :followers=>389261, :user_id=>36061357, :retweet=>0}
+{:name=>"@GRAZIASAmag", :text=>"Uh, oh! Someone at the show was not happy about Kane West debuting his Adidas x Yeezy collection last night http://t.co/7CzmroeDWD", :followers=>60236, :user_id=>522078597, :retweet=>0}
+{:name=>"@LailasBlog", :text=>"Memo to ALL the Good Nigerian Men Who Are Tempted to Cheat - http://t.co/8fmt750o01  #Kanye Valentine's Day #Valentine's Day #Yeezy #Nigeria", :followers=>7662, :user_id=>504207204, :retweet=>0}
