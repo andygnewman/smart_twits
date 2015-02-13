@@ -1,0 +1,5 @@
+{:name=>"@ShipleysGrant", :text=>"Looking for a special #ValentinesDay dinner? We know a great place… http://t.co/VpcvLH6TcQ http://t.co/Kua5VhtWIr", :followers=>83, :user_id=>2584023444, :retweet=>0}
+{:name=>"@AbooodTJ", :text=>"#SoixaNteneuf by #MassiveUrbanFridays #ValentinesDay Special @ #Sensation Club #Dubai Featuring #Smash… http://t.co/Dfw6XyqYAO", :followers=>927, :user_id=>74377808, :retweet=>0}
+{:name=>"@Tearoze", :text=>"RT @CNJohansens: What's better than roses this #ValentinesDay? A Rose Petal Body Polish treatment at Armani Hotel Dubai! http://t.co/eD4wIR…", :followers=>77858, :user_id=>34722352, :retweet=>2}
+{:name=>"@StyleByMi", :text=>"Still don't know what you're wearing on #ValentinesDay? Maybe this will help Check out my new blog post http://t.co/HJ41bNaI2m", :followers=>457, :user_id=>459682626, :retweet=>0}
+{:name=>"@breakneckbandit", :text=>"RT @FentimansLtd: COMPETITION RT &amp; FOLLOW to enter.Win an iPod shuffle and a case of Rose Lemonade #SayitWithaRose #Day5 #ValentinesDay htt…", :followers=>70, :user_id=>211446018, :retweet=>112}

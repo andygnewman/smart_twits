@@ -1,0 +1,7 @@
+<ul>
+  <% @retweets.each do |tweet| %>
+    <li>
+      <%= "#{tweet[0]}. <span>Retweets: #{tweet[1]}</span>" %>
+    </li>
+  <% end %>
+<ul>

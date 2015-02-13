@@ -1,0 +1,5 @@
+{:name=>"@HaitiNewsNet", :text=>"Miliband accuses Fink of U-turn - Ed Miliband accuses Lord Fink of an \"extraordinary U-turn\" after the Tory donor ... http://t.co/2Esxo0R6RU", :followers=>63743, :user_id=>24481831, :retweet=>0}
+{:name=>"@regalmagazine", :text=>"RT @standardnews: Everyone avoids tax, says former Tory Treasurer after he was named by Miliband in Commons row http://t.co/dUpKoVErHl http…", :followers=>38237, :user_id=>228033113, :retweet=>18}
+{:name=>"@LabourLeft", :text=>"RT @JoshFG: \"Everyone does it\" - Tory donor on tax avoidance. Not everyone I know. Makes me wonder who this government represent http://t.c…", :followers=>22049, :user_id=>283706081, :retweet=>15}
+{:name=>"@LawrenceWGray", :text=>"George Galloway V Tory Tarquin: http://t.co/fcH0akLIcO via @YouTube", :followers=>13155, :user_id=>36404972, :retweet=>0}
+{:name=>"@mosabbir", :text=>"RT @donsview: Axed top Tory Michael Gove uses taxpayers cash to be chauffeured 400 YARDS http://t.co/SYieOk2qj8", :followers=>6902, :user_id=>58258157, :retweet=>4}
