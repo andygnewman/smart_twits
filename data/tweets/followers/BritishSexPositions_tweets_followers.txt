@@ -1,3 +1,0 @@
-{:name=>"@hollybrocks", :text=>"RT @gimpyblog: Come on Tim  #BritishSexPositions", :followers=>8287, :user_id=>7555262, :retweet=>8}
-{:name=>"@AsianGirlsWiki", :text=>"RT @DebraDiGiovanni: The British Pound #britishsexpositions @midnight", :followers=>8188, :user_id=>2284447543, :retweet=>60}
-{:name=>"@guyjean440", :text=>"TT UK\n1 #BritishSexPositions\n2 #FridayThe13th\n3 #askpewds\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/mld8ZwB9ua", :followers=>6177, :user_id=>2837580459, :retweet=>0}

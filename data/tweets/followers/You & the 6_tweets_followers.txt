@@ -1,3 +1,0 @@
-{:name=>"@OfficialKojo", :text=>"'You &amp; The 6' by @Drake 👏👏👏👏👏", :followers=>60018, :user_id=>20169712, :retweet=>2}
-{:name=>"@DCBABY", :text=>"Drake - You &amp; The 6 | Up 5:49a #listening", :followers=>19761, :user_id=>242592926, :retweet=>0}
-{:name=>"@DCBABY", :text=>"Got @Drake - You &amp; The 6 on #repeat tho.\n🔥🎶💽💯", :followers=>19761, :user_id=>242592926, :retweet=>0}

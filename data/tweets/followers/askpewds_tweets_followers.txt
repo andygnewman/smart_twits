@@ -1,3 +1,0 @@
-{:name=>"@jdbwhitesidxs", :text=>"@pewdiepie are you coming back to Göteborg soon ?  #askpewds", :followers=>63368, :user_id=>180703202, :retweet=>0}
-{:name=>"@liamsfudgecake_", :text=>"fave thing about denmark? #askpewds", :followers=>22007, :user_id=>812788056, :retweet=>0}
-{:name=>"@TrendieWW", :text=>"\"Trending World Wide:12:14 PM GMT\"\n1. #askpewds\n2. #AskAnne\n3. #BritishSexPositions\n4. Happy Friday the 13th", :followers=>13303, :user_id=>2793605047, :retweet=>0}

@@ -1,3 +1,0 @@
-{:name=>"@WRadioColombia", :text=>"Muere Steve Strange, cantante del grupo de los años 80 Visage http://t.co/fa25PeBsSF", :followers=>2009689, :user_id=>20560294, :retweet=>1}
-{:name=>"@TNTrends", :text=>"Murió Steve Strange, cantante de Visage http://t.co/ZgdyOV55fb vía @tnLaViola", :followers=>231042, :user_id=>15971514, :retweet=>0}
-{:name=>"@moviesndtv", :text=>"Steve Strange, Eighties Pop Icon, Dies at 55 http://t.co/pfgwqm7hf7", :followers=>47966, :user_id=>465329295, :retweet=>0}

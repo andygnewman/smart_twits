@@ -1,3 +1,0 @@
-{:name=>"@RoddyGUITAR", :text=>"A safe and happy Friday the 13th to ALL! #FridayThe13th http://t.co/nitIvUcOdO", :followers=>19403, :user_id=>152291277, :retweet=>0}
-{:name=>"@guyjean440", :text=>"TT UK\n1 #BritishSexPositions\n2 #FridayThe13th\n3 #askpewds\nads:\n\n🚩FLAPPY IS BACK!\nhttp://t.co/1D3HgLA0OU http://t.co/mld8ZwB9ua", :followers=>6177, :user_id=>2837580459, :retweet=>0}
-{:name=>"@cerysww", :text=>"#FridayThe13th 's tip:\n\nMake Time to manage your #time ! http://t.co/pK2EPi6W1g", :followers=>4429, :user_id=>1243847930, :retweet=>0}

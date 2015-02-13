@@ -1,0 +1,16 @@
+{:name=>"#BritishSexPositions", :query=>"%23BritishSexPositions", :filename=>"BritishSexPositions"}
+{:name=>"#FridayThe13th", :query=>"%23FridayThe13th", :filename=>"FridayThe13th"}
+{:name=>"#Nintendo3DSDay", :query=>"%23Nintendo3DSDay", :filename=>"Nintendo3DSDay"}
+{:name=>"#ifyourereadingthisitstoolate", :query=>"%23ifyourereadingthisitstoolate", :filename=>"ifyourereadingthisitstoolate"}
+{:name=>"Steve Strange", :query=>"%22Steve+Strange%22", :filename=>"Steve Strange"}
+{:name=>"#askpewds", :query=>"%23askpewds", :filename=>"askpewds"}
+<<<<<<< HEAD
+{:name=>"Steve Strange", :query=>"%22Steve+Strange%22", :filename=>"Steve Strange"}
+{:name=>"#50ShadesOfGrey", :query=>"%2350ShadesOfGrey", :filename=>"50ShadesOfGrey"}
+{:name=>"Drake", :query=>"Drake", :filename=>"Drake"}
+{:name=>"You & The 6", :query=>"%22You+%26+The+6%22", :filename=>"You & The 6"}
+{:name=>"Tyga", :query=>"Tyga", :filename=>"Tyga"}
+{:name=>"Too Late", :query=>"%22Too+Late%22", :filename=>"Too Late"}
+=======
+
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73

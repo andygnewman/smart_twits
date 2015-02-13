@@ -1,3 +1,0 @@
-{:name=>"@jerrydoyle", :text=>"Science Wrong Again! Cholesterol-laden Food Now Good 4 You #ifyourereadingthisitstoolate NOT! http://t.co/HfSmKdykqA http://t.co/BYVtgrepz5", :followers=>9080, :user_id=>23362301, :retweet=>0}
-{:name=>"@Wisestepp", :text=>"Be Confident http://t.co/gPGv8mUl80 #ASFashionMarathon #ifyourereadingthisitstoolate   David Carr #ChapelHillShooting http://t.co/22KSvGZWsE", :followers=>4730, :user_id=>132157082, :retweet=>0}
-{:name=>"@7manskiii", :text=>"RT @Jaynish_Patel_: #IfYoureReadingThisItsTooLate", :followers=>4069, :user_id=>1541476394, :retweet=>239}

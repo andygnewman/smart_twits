@@ -1,3 +1,0 @@
-{:name=>"@hitafall", :text=>"RT @JBCrewdotcom: Justin Bieber via Fahlo: With my brother Drake celebrating this music http://t.co/erXs8tN622", :followers=>11684, :user_id=>1673466884, :retweet=>527}
-{:name=>"@TheMedizine", :text=>"Drake nos regala por sorpresa un nuevo disco 'If You're Reading This It's Too Late'. Píllatelo en http://t.co/PHNsMW2N1x", :followers=>6037, :user_id=>150829277, :retweet=>0}
-{:name=>"@Riihstopher", :text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :followers=>5590, :user_id=>413183871, :retweet=>2116}
