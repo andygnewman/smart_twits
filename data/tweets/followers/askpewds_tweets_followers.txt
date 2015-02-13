@@ -1,3 +1,3 @@
-{:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#إضراب_الإباء\n#FreeAJStaff\n#askpewds\nZUTR http://t.co/ZYgMSxe2Rg", :followers=>26995, :user_id=>2336221570, :retweet=>0}
-{:name=>"@arisniall", :text=>"@pewdiepie do you love me #askpewds", :followers=>11126, :user_id=>923450810, :retweet=>0}
-{:name=>"@arisniall", :text=>"@pewdiepie can you do the chicken dance #askpewds", :followers=>11126, :user_id=>923450810, :retweet=>0}
+{:name=>"@Alooraby", :text=>"قفل تطبيق الواتس اب برقم سري\n\nعلى سوق بلاي\n\nhttp://t.co/7gIxVCHlVo\n\nسوي ريتويت فيه ناس محتاجتها\n#askpewds\nFIYM", :followers=>39934, :user_id=>595760471, :retweet=>0}
+{:name=>"@nade3456", :text=>"قفل تطبيق الواتس اب برقم سري\n\nعلى سوق بلاي\n\nhttp://t.co/MBvpYqrTrz\n\nسوي ريتويت فيه ناس محتاجتها\n#askpewds\nOZH0", :followers=>6678, :user_id=>622354992, :retweet=>0}
+{:name=>"@dgatglby", :text=>"حساب مميز وهام\n@DrGl6h\n\n#السيسي_ينهب_الخليج\n#الهلال_الأهلي_نهائي_ولي_العهد\n#تشويش_واضح\n#askpewds\n#حملة_12_ألف_وحداوي_ضد_السد\n2782", :followers=>1231, :user_id=>335764429, :retweet=>0}
