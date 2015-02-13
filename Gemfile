@@ -14,5 +14,5 @@ group :development, :test do
   gem 'rspec'
   gem 'shotgun'
   gem 'byebug'
-  gem "codeclimate-test-reporter", require: nil
+  gem 'coveralls', require: false
 end

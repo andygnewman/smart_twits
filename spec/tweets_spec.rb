@@ -64,4 +64,8 @@ describe 'Tweets' do
     
   end
 
+  context 'find media' do
+    xit "can read a media file and return an array of"
+  end
+
 end
