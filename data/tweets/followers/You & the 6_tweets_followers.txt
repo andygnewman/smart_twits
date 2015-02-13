@@ -1,3 +1,0 @@
-{:name=>"@Danny__Hendrix", :text=>"@MegYuup I'm liking you &amp; the 6 a lot so far", :followers=>16562, :user_id=>226847192, :retweet=>0}
-{:name=>"@TrendieWW", :text=>"\"You &amp; The 6\" shows up as trending topic world wide at rank 9", :followers=>13314, :user_id=>2793605047, :retweet=>0}
-{:name=>"@KIRK_Era", :text=>"You &amp; The 6 x Drake 🔥🔥🔥🙌🙌💯", :followers=>8713, :user_id=>466108363, :retweet=>1}

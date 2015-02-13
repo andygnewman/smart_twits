@@ -1,3 +1,3 @@
-{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>43092}
-{:text=>"RT @LGUK: RT &amp; Follow @LGUK and U could WIN 6 months free of @SpotifyUK premium for #ValentinesDay! http://t.co/CKMjzJa2vO http://t.co/VG5n…", :retweet=>838}
-{:text=>"RT @parragonbooks: #Follow &amp; #RT for the chance to #win our picture book 'I Love You When...' #FreebieFriday #ValentinesDay http://t.co/RNV…", :retweet=>696}
+{:text=>"RT @MTVMusicUK: Send us your #Valentines messages using #MTVLove for a chance to get your tweets on TV on #ValentinesDay @ 11am LIVE! http:…", :retweet=>43126}
+{:text=>"RT @IloveHQ: It's nearly #ValentinesDay and we've got an big bundle of Duo #Love for you! RT+Follow to enter! #Win #FreebieFriday http://t.…", :retweet=>965}
+{:text=>"RT @rootscrisps: Share the love this #ValentinesDay with some tasty treats! Follow &amp; RT to #win! #FreebieFriday http://t.co/KeUJ7JKiBo http…", :retweet=>738}

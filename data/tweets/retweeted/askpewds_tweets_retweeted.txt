@@ -1,3 +1,3 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1734}
-{:text=>"RT @doctorwho6313: #askpewds how do you feel about this http://t.co/jBwEdvhdxI", :retweet=>174}
-{:text=>"RT @Mangaminx: #askpewds Have you ever tried to insert an entire aubergine/eggplant into your nostrils? If so what colour was your skin aft…", :retweet=>37}
+{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1757}
+{:text=>"RT @Yopika21: #askpewds Bonjour Marine Le Pen. Vous n'avez pas honte ?", :retweet=>17}
+{:text=>"RT @hashtagtopics_: TRENDING CLICK THE LINK http://t.co/rmgzuTioMF  #IsraelIsStillWaitingFor1D #askpewds http://t.co/hppn8CqBJI", :retweet=>2}

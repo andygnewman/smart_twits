@@ -1,3 +1,3 @@
-{:name=>"@FedExOffice", :text=>"RT @FedEx: Love is in the air! Show us a photo of your #ValentinesDay gift for the #TicketToLoveContest http://t.co/cppiMBsQaa http://t.co/…", :followers=>21813, :user_id=>550351704, :retweet=>12}
-{:name=>"@BHpub", :text=>"4 Lies About Love - by @tonymerida #valentinesday http://t.co/ogAisjfTD5", :followers=>12017, :user_id=>24691525, :retweet=>0}
-{:name=>"@iBookLove", :text=>"RT @StephNuss13: #IARTG Valentine’s Day Special: Love in the City | Steph Nuss http://t.co/E3xo3hgtqI #LoveintheCity #ValentinesDay #romanc…", :followers=>11341, :user_id=>2244804276, :retweet=>2}
+{:name=>"@visitlondon", :text=>"101 romantic things to do in London, incl. drinks @Loungelover2003 http://t.co/z0ho2vztG6 #ValentinesDay http://t.co/F3dyHTyXv7", :followers=>300782, :user_id=>36054262, :retweet=>0}
+{:name=>"@thequote", :text=>"We need not think alike to love alike. - Francis David #ValentinesDay", :followers=>280404, :user_id=>30767393, :retweet=>0}
+{:name=>"@MiamiNewTimes", :text=>"The best eats and drinks for the #ValentinesDay weekend ahead. http://t.co/OXxcz9aV6C http://t.co/H5NDt7VjGV", :followers=>79675, :user_id=>16861311, :retweet=>0}
