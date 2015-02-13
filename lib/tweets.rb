@@ -4,7 +4,6 @@ class Tweets
 
   include Helper
 
-  
   def find_trends(file_path)
     find_args(file_path, [:name, :filename])
   end
@@ -32,12 +31,4 @@ class Tweets
     filter_top_results(number, frequnecy_hash)
   end
 
-  # def find_links(number, file_path)
-  #   array = parse_file(file_path, /https?:\/\/[A-Za-z0-9._\/&?#]+/)
-  #   frequency_hash = count_freq(array)
-  #   filter_top_results(number, frequency_hash)
-  # end
-
 end
-
-

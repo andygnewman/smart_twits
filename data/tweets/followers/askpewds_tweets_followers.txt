@@ -1,0 +1,3 @@
+{:name=>"@Juatrna", :text=>"تعال العب حرب وتحداك فوز .؟ من يتحدى\n\nhttp://t.co/vqNnUyX85Z\n\n#إضراب_الإباء\n#FreeAJStaff\n#askpewds\nZUTR http://t.co/ZYgMSxe2Rg", :followers=>26995, :user_id=>2336221570, :retweet=>0}
+{:name=>"@arisniall", :text=>"@pewdiepie do you love me #askpewds", :followers=>11126, :user_id=>923450810, :retweet=>0}
+{:name=>"@arisniall", :text=>"@pewdiepie can you do the chicken dance #askpewds", :followers=>11126, :user_id=>923450810, :retweet=>0}

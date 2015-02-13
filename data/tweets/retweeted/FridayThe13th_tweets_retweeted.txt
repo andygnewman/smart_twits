@@ -1,0 +1,3 @@
+{:text=>"RT @eigacom: 明日はバレンタインのようですが、本日は13日の金曜日です。血のバレンタイン！ということで、20名様にジェイソンステッカーをプレゼント。本ツイートを公式RT&amp;フォローで応募完了！締め切りは今日いっぱい。 #fridaythe13th http://t.c…", :retweet=>2561}
+{:text=>"RT @NHL: #13 doesn't believe in superstitions... #FridayThe13th\nhttps://t.co/W5drL5ql7y", :retweet=>576}
+{:text=>"RT @StyleAromaCo: #FridayThe13th, unlucky for some, but not for you! Its #FreebieFriday &amp; we're giving away some Sleep Drift! Follow&amp;RT htt…", :retweet=>496}

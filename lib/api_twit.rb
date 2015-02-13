@@ -15,9 +15,9 @@ PATH_TWEETS = './data/tweets/tweets/'
 PATH_TWEETS_TEXT = './data/tweets/text/'
 PATH_TWEETS_FOLLOWERS = './data/tweets/followers/'
 PATH_TWEETS_RETWEETED = './data/tweets/retweeted/'
-MEDIA_GROUP = ['@BBCBreaking','@BBCSport','@BBCNews',
-         '@guardian','@guardian_sport','@guardiannews','@BBC',
-        '@MailOnline','@Independent','@HuffPostUK','@SkyNews']
+MEDIA_GROUP = ['@BBCBreaking','@BBCNews',
+         '@guardian','@guardiannews',
+        '@MailOnline','@Independent','@SkyNews']
 
 PATH_TWEETS_MEDIA = './data/tweets/media/'
 
@@ -54,7 +54,7 @@ class APITwitter
     save_tweet_text_per_trend
     save_tweets_most_followers_per_trend
     save_tweets_most_retweeted_per_trend
-    save_media_in_tweets_trend
+    save_news_media_on_trends
   end
 
   def save_trends(id_g = LONDON)
@@ -75,7 +75,7 @@ class APITwitter
     end
   end
 
-  def get_tweets(hash_tag_g,query_number = 10)
+  def get_tweets(hash_tag_g,query_number = 100)
     tweets = @client.search(hash_tag_g).take(query_number)
     result=[]
     tweets.each do |el|
@@ -86,6 +86,23 @@ class APITwitter
     return result
   end
 
+  def get_tweets_by_user(user,subject,how_many = 1)
+    tweets = @client.search("#{subject} from:#{user}").take(how_many)
+    tweets.map{|el| el.attrs[:text]} unless tweets == nil
+  end
+
+  def save_news_media_on_trends(trends=@trends,medias = MEDIA_GROUP)
+    delete_files_from_directory(PATH_TWEETS_MEDIA)
+    trends.each do |trend|
+      tweets = {}
+      medias.each do |media|
+        result = get_tweets_by_user(media,trend[:name])
+        tweets[media] = result[0] unless result.count == 0
+      end
+      tweets['news'] = "No news" if tweets.empty?
+      save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',tweets)
+    end
+  end
 
   def save_tweet_text_per_trend(trends = @trends)
     delete_files_from_directory(PATH_TWEETS_TEXT)
@@ -122,22 +139,5 @@ class APITwitter
     return top_retweeted_deduped
   end
 
-  def save_media_in_tweets_trend(media = MEDIA_GROUP,trends=@trends) 
-
-    delete_files_from_directory(PATH_TWEETS_MEDIA)
-
-    trends.each do |trend|
-      tweets = get_tweet_text_from_file(PATH_TWEETS_TEXT+trend[:filename]+'_tweets_text.txt')
-      media_tweets = []
-      tweets.each do |tweet|
-        intersection = tweet.split(' ') & media
-        media_tweets << "{:media=>'#{intersection.join(',')}',:tweet=>'#{tweet}'}" if intersection.count != 0
-      end
-      save_data(PATH_TWEETS_MEDIA+trend[:filename]+'_med.txt',media_tweets)
-    end  
-  end  
 
 end
-
-
-

@@ -1,0 +1,100 @@
+{:name=>"@ChldlikeEmperor", :text=>"Drake is definitely my Scorpio brethren -- We do not countenance personal slights and may respond with disproportionate force. #Tyga #Kylie", :followers=>93, :user_id=>1310884650, :retweet=>0}
+{:name=>"@TakeYouToRome", :text=>"RT @Danny__Hendrix: YO BEFORE @TYGA DELETED HIS TWEET http://t.co/KjNIhR7vmw", :followers=>1220, :user_id=>70882546, :retweet=>46}
+{:name=>"@____SAMO", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>698, :user_id=>760479974, :retweet=>4487}
+{:name=>"@Keraloveee", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>747, :user_id=>1706529242, :retweet=>4487}
+{:name=>"@VeuveAndCouture", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>1002, :user_id=>307177897, :retweet=>704}
+{:name=>"@breanniechantel", :text=>"“@TMZ: Drake -- Puts Tyga on Blast For Relationship with Underage Kylie Jenner http://t.co/ziOuIVlAhV” LMAOOO", :followers=>1373, :user_id=>328826754, :retweet=>0}
+{:name=>"@yungcmoney_", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>2026, :user_id=>217963787, :retweet=>739}
+{:name=>"@MijoClark", :text=>"RT @KevinWonkaHart: when Drake said \"You need to act your age and not your girl's age\" to Tyga http://t.co/mrX2eQUumm", :followers=>459, :user_id=>1573369224, :retweet=>70}
+{:name=>"@EvilJeanyis", :text=>"Yo @tyga youza bitch", :followers=>8705, :user_id=>26612737, :retweet=>0}
+{:name=>"@69gabriel005", :text=>"RT @BestOfWorldStar: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime …", :followers=>257, :user_id=>1180982287, :retweet=>946}
+{:name=>"@FreeDieselTrill", :text=>"RT @GoalsOverHoes: *jumps out window* RT @iStoleFreeHugs: The Game. RT @NatePrater: Tyga said sneak dissing like there's someone else datin…", :followers=>473, :user_id=>217438222, :retweet=>27}
+{:name=>"@Namastaywoke", :text=>"RT @the_blueprint: you know fighting drake won't make your girlfriend of a legal age, right @Tyga?", :followers=>844, :user_id=>254624520, :retweet=>91}
+{:name=>"@bgyucky", :text=>"can't wait for that new Tyga to drop . #GoldAlbum but Cash Money on that fufu shit 😴", :followers=>784, :user_id=>2270562866, :retweet=>0}
+{:name=>"@_ShawntheDon", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>305, :user_id=>2647906750, :retweet=>4487}
+{:name=>"@MinnieFlaw", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>1225, :user_id=>86808746, :retweet=>4487}
+{:name=>"@CourtFulch", :text=>"RT @BestOfWorldStar: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime …", :followers=>129, :user_id=>281306436, :retweet=>946}
+{:name=>"@StevenRodrgz", :text=>"Despertar escuchando a @wizkhalifa  y a @Tyga  we dem boyz", :followers=>771, :user_id=>285390868, :retweet=>0}
+{:name=>"@CheefQueef", :text=>"RT @Markaaaay: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nTyga.... http://t.co/…", :followers=>726, :user_id=>119553477, :retweet=>154}
+{:name=>"@JaySkillz", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/OBXQhfJsiS", :followers=>466, :user_id=>103677877, :retweet=>0}
+{:name=>"@aflo97", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>389, :user_id=>2256103242, :retweet=>4487}
+{:name=>"@inkberrycream", :text=>"RT @TMZ: Drake -- Puts Tyga on Blast For Relationship with Underage Kylie Jenner http://t.co/vwFiVZOuvX", :followers=>1247, :user_id=>621861835, :retweet=>42}
+{:name=>"@_JayRano", :text=>"He did. And he is. RT @EvilJeanyis: If Tyga tweeted that then deleted he a pansy", :followers=>1795, :user_id=>121610276, :retweet=>0}
+{:name=>"@Ivan_splash", :text=>"RT @__allSHEwrote: “@Ivan_splash: Tyga heard Drake's diss when he was changing Kylie's diaper and he lost it” 😂😂", :followers=>11515, :user_id=>303805862, :retweet=>1}
+{:name=>"@Lladouks", :text=>"RT @K_Messias_: “You need to act your age and not your girls age” @Drake \n\nLMAOOOOOO @Tyga http://t.co/99E0wVzGNn", :followers=>189, :user_id=>508138309, :retweet=>1475}
+{:name=>"@HeismanDiego", :text=>"RT @MoyoMaksRM: Drake told Tyga to act 25, not 17. And guess what Tyga did right when he woke up? Yup, tweeted &amp; deleted some shit like a 1…", :followers=>386, :user_id=>1777282610, :retweet=>226}
+{:name=>"@_menmyson", :text=>"RT @yousorude_: Bwaaaa 😂 “@Angel_Mufasa: Tyga looks like the the worm that drives the apple on pbs fuck that child molester”", :followers=>205, :user_id=>713643857, :retweet=>1}
+{:name=>"@Camille_Breezy_", :text=>"chris brown ft tyga // ayo", :followers=>635, :user_id=>1563075084, :retweet=>0}
+{:name=>"@tayloroffline", :text=>"RT @NickyTheProphet: When Tyga heard drake say this http://t.co/4xUVLG8bgg", :followers=>844, :user_id=>115810561, :retweet=>2}
+{:name=>"@joeymammarelli", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>515, :user_id=>508065454, :retweet=>4487}
+{:name=>"@Juice4DaThirsty", :text=>"Tyga's Career Was Over After Rack City..", :followers=>1601, :user_id=>249967323, :retweet=>0}
+{:name=>"@aerialelisee", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>683, :user_id=>1247578008, :retweet=>4487}
+{:name=>"@iHitKids", :text=>"RT @GPL_: Someone should tell @Tyga to not use tmi if he's going to delete a tweet. Not the same servers bro http://t.co/N7dmNAzqik", :followers=>1334, :user_id=>26267363, :retweet=>19}
+{:name=>"@SingerBoyK", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>1100, :user_id=>1853122176, :retweet=>4487}
+{:name=>"@Bobbi_MeanAss", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>1751, :user_id=>187813977, :retweet=>4487}
+{:name=>"@gupiixo", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>106, :user_id=>1456512577, :retweet=>704}
+{:name=>"@KillaMaamari", :text=>"RT @Hakuna_Mujtaba: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>248, :user_id=>338030381, :retweet=>9}
+{:name=>"@yosoymalinche", :text=>"RT @K_Messias_: “You need to act your age and not your girls age” @Drake \n\nLMAOOOOOO @Tyga http://t.co/99E0wVzGNn", :followers=>124, :user_id=>44675914, :retweet=>1475}
+{:name=>"@PaparazziiReady", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/U56Dl9Gb2v", :followers=>1305, :user_id=>2397597613, :retweet=>0}
+{:name=>"@Mr_IceBillion", :text=>"RT @ThePenseur: Drake was spiritually slapping tyga multiple times over the 6pm in New York beat tho", :followers=>1171, :user_id=>516109409, :retweet=>6}
+{:name=>"@winning_jah", :text=>"RT @ShutYoDumbAssUp: Ended Tha Nigga Life 😂😂 \"@IamTrevin: - When @Drake said this about Tyga http://t.co/ODo3M2D2g6\"", :followers=>311, :user_id=>319330290, :retweet=>24}
+{:name=>"@_Nannnnna", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>965, :user_id=>1300739150, :retweet=>4487}
+{:name=>"@MirandaLaPanda", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>296, :user_id=>325690401, :retweet=>4487}
+{:name=>"@badgirlshauna", :text=>"tyga offended by that line 😂😂😂 he said u ducking the fade from brown", :followers=>1259, :user_id=>94702219, :retweet=>0}
+{:name=>"@msbonita_", :text=>"RT @malaynap: \"You need to act your age and not your girls age\" @Tyga @KylieJenner @Drake http://t.co/Th3gfqHg8U", :followers=>674, :user_id=>2181107276, :retweet=>39}
+{:name=>"@sameogrande", :text=>"RT @the_blueprint: you know fighting drake won't make your girlfriend of a legal age, right @Tyga?", :followers=>405, :user_id=>2267314316, :retweet=>91}
+{:name=>"@lexpiscitelli", :text=>"RT @GoatRapLines: When Tyga heard drake say this http://t.co/sscFvMrix4", :followers=>320, :user_id=>2872334862, :retweet=>2489}
+{:name=>"@KidrauhlDBreezy", :text=>"SEE YOU IN 3 DAYS BABIES 😩🙌 chrisbrownofficial @treysongz @tyga #BTSTour http://t.co/DBvTHraRtt", :followers=>4710, :user_id=>154147986, :retweet=>0}
+{:name=>"@Teevenchy", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>208, :user_id=>290806632, :retweet=>4487}
+{:name=>"@ErvinnAlicc", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>420, :user_id=>915634394, :retweet=>4487}
+{:name=>"@TripleHQBlog", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/tAdX1MKfqp", :followers=>110, :user_id=>2326229864, :retweet=>0}
+{:name=>"@emma_rose7000", :text=>"RT @mtvhiphop: Drake uses Kylie Jenner to diss Tyga http://t.co/dJrv2aaDCY", :followers=>840, :user_id=>2664109093, :retweet=>102}
+{:name=>"@savannahgiles_", :text=>"RT @MrRedMartian: Soon as Tyga drop Kylie off at school tmr he comin for you bro @drake", :followers=>538, :user_id=>722165984, :retweet=>703}
+{:name=>"@Kaysandra_x3", :text=>"RT @ParvesKoyes: When Drake said this about @Tyga http://t.co/gnlGWZmwuB", :followers=>509, :user_id=>351383528, :retweet=>1049}
+{:name=>"@Jane_Aloud", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>2161, :user_id=>972309336, :retweet=>4487}
+{:name=>"@mackenzie_renay", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>1103, :user_id=>535810744, :retweet=>4487}
+{:name=>"@_maliyaaa", :text=>"RT @TMZ: Drake -- Puts Tyga on Blast For Relationship with Underage Kylie Jenner http://t.co/vwFiVZOuvX", :followers=>515, :user_id=>260927867, :retweet=>42}
+{:name=>"@OhVIKES", :text=>"@HiMimz right! tyga is a flop", :followers=>398, :user_id=>308687292, :retweet=>0}
+{:name=>"@evenaayyee", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>750, :user_id=>715392379, :retweet=>704}
+{:name=>"@qwaelon", :text=>"RT @_TonyHilfiger: You couldnt delete it quick enough @Tyga @Drake http://t.co/QFYnEZfFVK", :followers=>538, :user_id=>2236683594, :retweet=>739}
+{:name=>"@malonza_007", :text=>"hahaha RT @LechaLKR: LOL RT @Skighwalker: when Drake said \"You need to act your age and not your girl's age\" to Tyga http://t.co/aEPNXKA0Ox", :followers=>1162, :user_id=>263638711, :retweet=>0}
+{:name=>"@Triggamike_23", :text=>"So ain't nobody catch that diss to tyga on 6pm in New York?", :followers=>268, :user_id=>350659994, :retweet=>0}
+{:name=>"@MiddleFingers2U", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>2129, :user_id=>430325504, :retweet=>4487}
+{:name=>"@yolisvet_maya", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>638, :user_id=>1922438960, :retweet=>2236}
+{:name=>"@STASSPAC", :text=>"RT @MrRedMartian: Soon as Tyga drop Kylie off at school tmr he comin for you bro @drake", :followers=>1992, :user_id=>142040643, :retweet=>703}
+{:name=>"@trabaka", :text=>"RT @CreateLex: When @Drake said this about Tyga http://t.co/VGQyFhj2nx", :followers=>1459, :user_id=>126352148, :retweet=>140}
+{:name=>"@SayHi2DaBadGuyy", :text=>"RT @TheSlimGoddess: The SHADE😭 RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/fWRmZu85NL", :followers=>25, :user_id=>2968878671, :retweet=>45}
+{:name=>"@SGriff2013", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>3199, :user_id=>143674312, :retweet=>4487}
+{:name=>"@_Zayzilla", :text=>"RT @Lil_Skee: Tyga right at my nigga @Drake http://t.co/mMM7Q5QzMJ", :followers=>274, :user_id=>2363638391, :retweet=>1}
+{:name=>"@TripleHQLove", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/TUZBcQHKxy", :followers=>78, :user_id=>2326247142, :retweet=>0}
+{:name=>"@TransformedGirl", :text=>"RT @RealRaymondJ: Drake: \"You need to act your age not your girls age\"\nTyga: http://t.co/0OKxq8aprX", :followers=>3231, :user_id=>69990842, :retweet=>973}
+{:name=>"@MistressOfSham", :text=>"#Beta RT @TMZ: Drake -- Puts Tyga on Blast For Relationship with Underage Kylie Jenner http://t.co/mqEFwwTIu3", :followers=>441, :user_id=>2149111369, :retweet=>0}
+{:name=>"@Yelli_Dolo", :text=>"RT @ShutYoDumbAssUp: Ended Tha Nigga Life 😂😂 \"@IamTrevin: - When @Drake said this about Tyga http://t.co/ODo3M2D2g6\"", :followers=>1961, :user_id=>333434271, :retweet=>24}
+{:name=>"@Laurenenoble_", :text=>"RT @KidDooley: \"@K_Messias_: “You need to act your age and not your girls age” @Drake \n\nLMAOOOOOO @Tyga http://t.co/PifNc86WXp\"\n\n😭😭😭😭😭😭😭", :followers=>593, :user_id=>547064957, :retweet=>31}
+{:name=>"@STASSPAC", :text=>"“@MrRedMartian: Soon as Tyga drop Kylie off at school tmr he comin for you bro @drake”😂😂😂😂", :followers=>1992, :user_id=>142040643, :retweet=>0}
+{:name=>"@Andrew_Avz", :text=>"RT @SugarTitss__: When drake said this about Tyga 😂👋✌️🔥 http://t.co/e30lxpUY23", :followers=>252, :user_id=>564722091, :retweet=>48}
+{:name=>"@QtheJuiceMan", :text=>"Why drake come so hard at Tyga? 😂😂😂", :followers=>1292, :user_id=>349405455, :retweet=>0}
+{:name=>"@D_ouglasss", :text=>"RT @J4CKMULL: When Drake said \"Start acting your age and not your girls age\" dissin Tyga http://t.co/Rdpb6bMm8z", :followers=>467, :user_id=>258699777, :retweet=>361}
+{:name=>"@RustCohl3", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>225, :user_id=>456226261, :retweet=>4487}
+{:name=>"@dbv_87", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>285, :user_id=>2460073916, :retweet=>4487}
+{:name=>"@WatsonByNature", :text=>"RT @iKeepItTooReal: R.I.P Tyga 😭😭😭", :followers=>522, :user_id=>583553067, :retweet=>12}
+{:name=>"@NikNaks_x", :text=>"RT @Lastkxngs: NAAAAAAAA RIP TYGA HOW CAN DRAKE SAY \n\"calling my name out on the world stage, you need to act your own age not your girls a…", :followers=>582, :user_id=>123954932, :retweet=>10}
+{:name=>"@EricBisPrez", :text=>"@copywrittenlove Tyga should've just shut up. Now he gonna get these bars", :followers=>956, :user_id=>37617480, :retweet=>0}
+{:name=>"@SincerelyLegit", :text=>"RT @PICASSOpainted: 😭😩“@GPL_: Someone should tell @Tyga to not use tmi if he's going to delete a tweet. Not the same servers bro http://t.c…", :followers=>1764, :user_id=>33092338, :retweet=>2}
+{:name=>"@Ziggy_MOB", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>814, :user_id=>175542708, :retweet=>4487}
+{:name=>"@ProcityVault", :text=>"Drake Disses Tyga, Mentions Kylie Jenner On ‘6 PM In New York.’ Tyga Fires Back “U Still A Bitch” (Video/Audio/Pics) http://t.co/9WWCIsE5uj", :followers=>1309, :user_id=>20534099, :retweet=>0}
+{:name=>"@GirlDatsBosh", :text=>"RT @Cuntformityy: @Tyga was sick when he heard drake say \"act your age, not your girlfriends age\" 😭", :followers=>384, :user_id=>548441469, :retweet=>1}
+{:name=>"@Mister_Luxury", :text=>"RT @ILLCapitano94: Tyga actin sour cus Drake put the lime in his coconut http://t.co/4OBnFcdWcp", :followers=>180, :user_id=>2686872422, :retweet=>1}
+{:name=>"@MiMiJ3", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>144, :user_id=>218602340, :retweet=>704}
+{:name=>"@AirRaider_11", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>1240, :user_id=>280249144, :retweet=>4487}
+{:name=>"@gigilenas", :text=>"RT @IamTrevin: - When @Drake said this about Tyga http://t.co/mSy8D1sdoX", :followers=>8533, :user_id=>325464468, :retweet=>2236}
+{:name=>"@iamMelissaMinaj", :text=>"RT @LilSportyD: @Tyga already responded 2 @Drake 6PM NewYork #diss TYGA that nigga certified bitch made. how Could u fuk over somebody on s…", :followers=>986, :user_id=>625942738, :retweet=>3}
+{:name=>"@Awesomenezz", :text=>"Kylie Jenner Post Selfie with Cairo….. Tyga &amp; Chyna’s Baby! http://t.co/xj7EZ51iMH", :followers=>45864, :user_id=>24080811, :retweet=>0}
+{:name=>"@T00muchNike", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>827, :user_id=>447596206, :retweet=>4487}
+{:name=>"@ProfoundSlug", :text=>"RT @J4CKMULL: When Drake said \"Start acting your age and not your girls age\" dissin Tyga http://t.co/Rdpb6bMm8z", :followers=>90, :user_id=>1685587297, :retweet=>361}
+{:name=>"@gabby_gabssz", :text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :followers=>184, :user_id=>1106739600, :retweet=>4487}
+{:name=>"@jbmclkwbwk", :text=>"RT @instatyga: The BB&amp;T Center is ready!! #BTSTour @tyga @chrisbrown @TreySongz http://t.co/U2bNE80krT", :followers=>333, :user_id=>2632080952, :retweet=>11}
+{:name=>"@XeniaNails", :text=>"Drake -- Puts Tyga on Blast For Relationship with Underage Kylie Jenner http://t.co/oB7727KOTa #nail #fashion #news", :followers=>3556, :user_id=>478572242, :retweet=>0}
+{:name=>"@JosephFox99", :text=>"RT @Gmoonie_: Drake roasting tyga ass 😅😅😅 http://t.co/hwLFpXWBXR", :followers=>4957, :user_id=>961505480, :retweet=>15}
+{:name=>"@iammiles32", :text=>"RT @maseera_: I think @Drake ended tyga's career with no caption http://t.co/7I5xsj1BIp", :followers=>830, :user_id=>203482659, :retweet=>8}
+{:name=>"@GeeSpiff", :text=>"Tyga is one sick ass sad camper.", :followers=>1408, :user_id=>106851346, :retweet=>0}
