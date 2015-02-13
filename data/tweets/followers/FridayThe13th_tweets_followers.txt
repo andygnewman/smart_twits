@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {:name=>"@Daily_Star", :text=>"How many people are afraid of flying on #FridayThe13th ?http://t.co/KKjuVHD4Dd", :followers=>108332, :user_id=>20442930, :retweet=>0}
 {:name=>"@ItsMajicBaby", :text=>"Here's to Friday! Friday the 13th #Majic #MajicCityNetowrk #MCN #Music #LWA #Miami #TGIF #FridayThe13th #YesWeekend http://t.co/lf7xFUN3Sd", :followers=>64411, :user_id=>108101397, :retweet=>0}
 {:name=>"@XFilesFanaticus", :text=>"RT @MrLender: With #FridayThe13th upon us, it may be unlucky for some ... but not for our #BigFridayGiveaway winners! Stay tuned... http://…", :followers=>15083, :user_id=>92235951, :retweet=>43}
+=======
+{:name=>"@bloodyvengeance", :text=>"RT @mosh13505: #FridayThe13th @Vincenza15 @bloodyvengeance @DieBoogeyManDie @ZombitchNY @M4GN0L1A @mooredog82 @sarah_samedi http://t.co/idG…", :followers=>13476, :user_id=>54899121, :retweet=>5}
+{:name=>"@SonyPicturesCan", :text=>"Break out the fangs - it's #FridayThe13th! @HotelT #HotelT2 #HotelTransylvania2 #comingsoon #September2015 #movie http://t.co/R4oF9twdJg", :followers=>9194, :user_id=>73460068, :retweet=>0}
+{:name=>"@Jackson4s", :text=>"Where are you Jason Voorhees? #FridayThe13th", :followers=>5867, :user_id=>218979633, :retweet=>0}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73

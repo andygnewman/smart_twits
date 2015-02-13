@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {:text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :retweet=>90055}
 {:text=>"RT @camerondallas: Drake mixtape just dropped 🔥", :retweet=>6635}
 {:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4618}
+=======
+{:text=>"RT @Drake: http://t.co/KcZooNLcPE http://t.co/s6krTAeuke", :retweet=>90217}
+{:text=>"RT @DailyRapFacts: In Just 2 hours @Drake has made $700,000 from his new mixtape, \"If You’re Reading This It’s Too Late\" http://t.co/xAhsc4…", :retweet=>8301}
+{:text=>"RT @iKeepItTooReal: Drake: \"calling my name out on the world stage, you need to act your own age and not your girl's age\"\n\nRIP Tyga\n\ntime o…", :retweet=>4689}
+>>>>>>> 3a87ee1f005c896fccb23360d9c844ae96301b73
