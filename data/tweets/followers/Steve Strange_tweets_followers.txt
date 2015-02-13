@@ -1,3 +1,0 @@
-{:name=>"@tagesspiegel", :text=>"#Visage-Sänger Steve Strange ist tot. Unser Nachruf:  http://t.co/vckGrsfsfw http://t.co/apAgGEWTGo", :followers=>155711, :user_id=>22926365, :retweet=>1}
-{:name=>"@Siete24Noticias", :text=>"Fallece Steve Strange vocalista de la banda “Visage” http://t.co/CbGNxoZSpJ http://t.co/VCw2y8TIf7", :followers=>35934, :user_id=>459516221, :retweet=>0}
-{:name=>"@poeetweet", :text=>"RT @AlbiYes: #RIP Steven John Harrington aka Steve Strange (1959-2015), Welsh frontman van Visage. 'Fade To Grey', https://t.co/US43vcbhya …", :followers=>10423, :user_id=>286237152, :retweet=>2}

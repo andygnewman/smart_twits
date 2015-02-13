@@ -1,3 +1,0 @@
-{:text=>"RT @BritishLogic: The rear entrance #BritishSexPositions http://t.co/GicM18PUf5", :retweet=>456}
-{:text=>"RT @iHeart_OneD: Niall Horan getting Harry Styles pregnant 😂\n#BRITONEDIRECTION\n#BritishSexPositions http://t.co/PX20hylqfY", :retweet=>391}
-{:text=>"RT @BillBailey: Quantitative Easing #BritishSexPositions", :retweet=>268}

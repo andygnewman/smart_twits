@@ -1,3 +1,0 @@
-{:name=>"@LA_SLASHER", :text=>"It's #FridayThe13th people. You know what the means. Do something nice for a complete stranger today #LA... I'll be watching.", :followers=>116491, :user_id=>860176891, :retweet=>0}
-{:name=>"@LALPUSHP", :text=>"RT @LVNancy: @abitx2u TY 🍀HAGD all🍀#FridayThe13th🍀 @lupash7 @scdorn @NWhist @PatsyO1963 @Yvonne33333 @lissa3213love @Doodisgirl @mayday2744…", :followers=>20703, :user_id=>83346193, :retweet=>2}
-{:name=>"@Fresno_State", :text=>"Happy #FridayThe13th! Don't worry - this Bulldog's got your back. #TimeOut #FresnoState http://t.co/LTkqy6HCpg", :followers=>19700, :user_id=>67497155, :retweet=>0}

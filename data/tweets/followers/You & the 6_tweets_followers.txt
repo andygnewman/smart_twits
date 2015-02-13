@@ -1,3 +1,0 @@
-{:name=>"@OfficialCPrince", :text=>"You &amp; The 6 is so right with it....i feel like i known Drake's family 4 time G", :followers=>175661, :user_id=>372922600, :retweet=>2}
-{:name=>"@illmindPRODUCER", :text=>"Scoop that.\nhttps://t.co/82Aa9DPGtt\nDrake \"You &amp; The 6\" (Prod. by Boi1da x !llmind x 40) http://t.co/B5N2mxjcAr", :followers=>51823, :user_id=>18408253, :retweet=>3}
-{:name=>"@JaredEvan", :text=>"RT @illmindPRODUCER: Drake \"You &amp; The 6\" (Produced by Boi-1da, !llmind, 40)\n\n🙌 http://t.co/GwumsHBSU1", :followers=>36700, :user_id=>21094661, :retweet=>24}

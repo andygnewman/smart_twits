@@ -1,3 +1,0 @@
-{:name=>"@RealNateA", :text=>"Drake called tyga out 😂😭😭", :followers=>95155, :user_id=>855070626, :retweet=>3}
-{:name=>"@MalfoysAriana", :text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :followers=>11245, :user_id=>2751991701, :retweet=>897}
-{:name=>"@kingmaserati", :text=>"RT @ILuvKaraoke: 💯💯💯 RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/aTRr6eabLa", :followers=>7066, :user_id=>54549410, :retweet=>15}

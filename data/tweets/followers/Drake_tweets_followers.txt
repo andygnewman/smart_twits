@@ -1,3 +1,0 @@
-{:name=>"@biebersmaniabr", :text=>"\"Drake (champagnepapi) é apenas um remix\" - Justin via IG, confirmando nova parceria com Drake http://t.co/60TZnOMJr4 http://t.co/VolgzNLnrc", :followers=>288684, :user_id=>177404638, :retweet=>15}
-{:name=>"@JoeyFatts", :text=>"Drake tryna bring the light skin niggas back. They went out of style when lil fizz and B2k fell off 😂😭", :followers=>35602, :user_id=>163712100, :retweet=>0}
-{:name=>"@hasonnosah", :text=>"RT @_40CALIber: All of these drake posts are really blowing me", :followers=>9379, :user_id=>303348228, :retweet=>2}

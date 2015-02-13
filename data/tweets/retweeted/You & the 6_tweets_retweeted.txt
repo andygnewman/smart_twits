@@ -1,3 +1,0 @@
-{:text=>"RT @ComplexMusic: Drake dedicates \"You &amp; the 6\" to his mother. #OVOSZN http://t.co/88WB6pjg6E http://t.co/xx5qJr8Pj7", :retweet=>800}
-{:text=>"RT @9thWonderMusic: Now....this \"You &amp; The 6\" &amp;  \"6PM In New York\" is TOUGH..........@Drake", :retweet=>36}
-{:text=>"RT @RetiredFilth: You &amp; The 6 &gt; Dear Mama", :retweet=>30}

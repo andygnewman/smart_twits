@@ -1,3 +1,0 @@
-{:name=>"@flyersdramatic", :text=>"RT @georgeujworld: Time to save Termina! @NintendoUK Thanks, the New 3DS' are awesome, got some crazy smash fights going on #Nintendo3DSDay…", :followers=>10297, :user_id=>1349454146, :retweet=>374}
-{:name=>"@downsouthlpool", :text=>"RT @lpoolstudio: An exciting day for @NintendoUK with the New 3DS, Majora's Mask AND Monster Hunter 4 all releasing today! #Nintendo3DSDay", :followers=>5419, :user_id=>242801031, :retweet=>1}
-{:name=>"@becky0020", :text=>"@NintendoUK Fire Emblem Awakening #Nintendo3DSDay :-)", :followers=>4205, :user_id=>231884916, :retweet=>0}

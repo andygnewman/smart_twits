@@ -1,3 +1,0 @@
-{:text=>"RT @pewdiepie: TimeforagoodolQnA #askpewds", :retweet=>1699}
-{:text=>"RT @gamingmukexx: Do you ship lashton or Muke #askpewds http://t.co/VH1XJAXnPc", :retweet=>25}
-{:text=>"RT @MrJulesElite: #askpewds Can you say for your french fans \" J'aime beaucoup la France, et allez l'OM \" ? :)\nTkanks Bro !\n#BroFirst", :retweet=>4}
