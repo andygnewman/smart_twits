@@ -1,3 +1,4 @@
+require 'spec_helper'
 require 'tweets'
 
 describe 'Tweets' do
