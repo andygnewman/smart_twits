@@ -5,3 +5,11 @@
 
 }
 
+#word-cloud {
+  text-align: center;
+  width: 100%;
+}
+
+#word-cloud svg {
+  width: 100%;
+}
