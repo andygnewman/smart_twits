@@ -1,91 +1,23 @@
 @import url('normalize.css');
 @import url('grid.css');
 
-body {
-    width: 90%;
-    height:43em;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: Lato, Verdana;
-}
-
-.grid {
-  background-color: WhiteSmoke;
-}
-
-h1 {
-  font-size: 4em;
-  margin-top: auto;
-  margin-bottom: auto;
-  padding-top: 2%;
-  padding-left: 3%;
-}
-
-#header_right {
-  text-align: right;
-  padding-right: 5%;
-}
-
 #logo {
-  width: 30%;
-  margin-top: 4%;
-  margin-left: 35%;
+
 }
 
-#block_right {
-  font-size: 0.9em;
-  padding-left: 1%;
+.navbar-brand {
+  font-size: 3em;
 }
 
-#block_left {
-  font-size: 1.5em;
-  padding-left: 1%;
+#word-cloud {
+  text-align: center;
+  width: 100%;
 }
 
-#block_left li {
-  padding-top: 5%;
+#word-cloud svg {
+  width: 100%;
 }
 
-p {
-  margin-top: 3px;
-  margin-bottom: 3px;
-}
-
-h2 {
-  margin-top: 2%;
-  margin-bottom: 2%;
-}
-
-h3 {
-  margin-top: 3px;
-  margin-bottom: 3px;
-  color: green;
-}
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding-left: 0;
-}
-
-li {
-  padding-bottom: 2px;
-  padding-right: 2px;
-}
-
-a:link, a:visited, a:hover, a:active {
-  text-decoration: none;
-  color: Navy;
-}
-
-span {
-  color: green;
-}
-
-#mentions li {
-  padding-top: 2%;
-}
-
-g {
-  background-color: red;
+.nav > li {
+  margin-left: -7.5%;
 }

@@ -1,4 +1,4 @@
-<ul>
+<ul class='list-unstyled'>
 	<% @mentions.each do |mention| %>
     <li><a href="http://twitter.com/<%= mention[0] %>"><%= mention[0] %></a> Mentioned <%= mention[1] %> times</li>
   <% end %>
