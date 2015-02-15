@@ -5,6 +5,10 @@
 
 }
 
+.navbar-brand {
+  font-size: 3em;
+}
+
 #word-cloud {
   text-align: center;
   width: 100%;
@@ -12,4 +16,8 @@
 
 #word-cloud svg {
   width: 100%;
+}
+
+.nav > li {
+  margin-left: -7.5%;
 }
