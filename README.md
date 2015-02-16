@@ -15,9 +15,9 @@ This project was a three day exercise ("Makerthon") as part of the Makers Academ
 - As a time pressed, new hungry individual
 - I want to understand the meaning behind Twitter's top trends
 
-<section align="center">
-  <img weight="80%" src="Smart_Twits_Screen_Shot.png">
-</section>
+<div align="center">
+  <img width="80%" src="Smart_Twits_Screen_Shot.png">
+</div>
 
 ##Solution
 SmartTwits aims to provide users with information about currently trending tweets with a view to shedding a little light on the context of the trend. It displays the top ten trending tweets on the left hand side, and upon users clicking these, provides details of:
@@ -47,12 +47,12 @@ Access_Token_Secret:xxxxxxxxxx
 
 ####As a one off exercise
 $ enter IRB
-> require './lib/api_twit'
-> update = APITwitter.new
-> update.refresh_all_twitter_data
+- require './lib/api_twit'
+- update = APITwitter.new
+- update.refresh_all_twitter_data
 
 ###Running the front end
 $ rackup
-open http://localhost:9292/
+- open http://localhost:9292/
 
 Then click on any of the top trends on the left hand side and the information will update.
