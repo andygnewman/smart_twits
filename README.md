@@ -38,12 +38,13 @@ The solution has two key elements;
 ###Creating data
 Before running any queries against the Twitter API, you will need to have set up credentials with Twitter.
 These then need to be stored in a credentials.md file in the root of the repository, with the following structure;
-Consumer_Key(API_Key):xxxxxxxxx
-Consumer_Secret(API_Secret):xxxxxxxx
-Access_Token:xxxxxxxxx
-Access_Token_Secret:xxxxxxxxxx
+<p>Consumer_Key(API_Key):xxxxxxxxx</p>
+<p>Consumer_Secret(API_Secret):xxxxxxxx</p>
+<p>Access_Token:xxxxxxxxx</p>
+<p>Access_Token_Secret:xxxxxxxxxx</p>
 
 ####On a scheduled
+(section to be completed)
 
 ####As a one off exercise
 $ enter IRB
