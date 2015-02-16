@@ -4,8 +4,8 @@ require './app/lib/tweets'
 
 class SmartTwit < Sinatra::Base
 
-  set :views, Proc.new { File.join(root, "..", "views") }
-  set :public_folder, Proc.new { File.join(root, "..", "public") }
+  set :views, Proc.new { File.join(root, "views") }
+  set :public_folder, Proc.new { File.join(root, "public") }
 
   tweets = Tweets.new
 

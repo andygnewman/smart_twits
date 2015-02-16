@@ -11,6 +11,3 @@ SmartTwits aims to provide users with information about currently trending tweet
 * the most frequently occuring mentions within the trending tweets
 * the trending tweets from users with the most followers
 * trending tweets that originated from media organisations
-
-
-
