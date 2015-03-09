@@ -1,0 +1,3 @@
+{:text=>"RT @miguuelfloress1: When @Drake said this about @Tyga #IfYoureReadingThisItsTooLate http://t.co/01WJ1O4BwW", :retweet=>1069}
+{:text=>"RT @eli3rd116: Lmao this is great #ifyourereadingthisitstoolate #drake http://t.co/7j0PyFtsKD", :retweet=>560}
+{:text=>"RT @Jerry_Purpdrank: Listening to @Drake new album and this happened 😒 #IfYoureReadingThisItsTooLate http://t.co/PPEolRALIP", :retweet=>286}

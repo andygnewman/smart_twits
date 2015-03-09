@@ -1,0 +1,3 @@
+{:name=>"@EPL_es", :text=>"#WestHam El equipo confirmó que Andy Carroll estará fuera lo que resta de la temporada por una lesión en la rodilla. http://t.co/ps7ZkqZHeV", :followers=>117213, :user_id=>262289000, :retweet=>0}
+{:name=>"@EurosportCom_TR", :text=>"Sakatlıklar Andy Carroll'ın peşini bırakmıyor http://t.co/J3Hu18xMM4", :followers=>116892, :user_id=>186010542, :retweet=>0}
+{:name=>"@BCoolBPositip", :text=>"West Ham striker Carroll expected to miss rest of season http://t.co/DeIIPYBbE2", :followers=>16799, :user_id=>247855145, :retweet=>0}

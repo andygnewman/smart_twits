@@ -1,0 +1,3 @@
+{:name=>"@karrineandco", :text=>"I love when the apprentice surpasses the master. But this is why I have no apprentices. #ifyourereadingthisitstoolate", :followers=>26614, :user_id=>350350867, :retweet=>0}
+{:name=>"@Tinu", :text=>"RT @okayplayer: while u were sleeping @Drake pulled a @Beyonce. Surprise new LP here: http://t.co/5qVBB3dQWs #ifyourereadingthisitstoolate", :followers=>21782, :user_id=>6323932, :retweet=>11}
+{:name=>"@AngraFilm", :text=>"#brothers #india #pasta #mani #ifyourereadingthisitstoolate http://t.co/gOHcZTfc66", :followers=>19110, :user_id=>196421312, :retweet=>0}

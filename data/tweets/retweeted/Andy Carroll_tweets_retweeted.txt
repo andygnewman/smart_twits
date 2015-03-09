@@ -1,0 +1,3 @@
+{:text=>"RT @BBCSport: West Ham striker Andy Carroll will miss the rest of the season with injury http://t.co/oq6tmOOfL1 #whufc http://t.co/BIT9Jk1H…", :retweet=>137}
+{:text=>"RT @FootballFanCast: Andy Carroll ruled out through injury for the rest of the season.\n\nIn more surprising news, there are seven days in a …", :retweet=>76}
+{:text=>"RT @MercadoIngles_: NOTICIA. Andy Carroll fuera por mínimo 6 MESES por lesión de cirugía en su pierna. Se pierde el resto de la temporada h…", :retweet=>21}
