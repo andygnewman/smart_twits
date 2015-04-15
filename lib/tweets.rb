@@ -4,10 +4,6 @@ class Tweets
 
   include Helper
 
-  def find_trends(file_path)
-    find_args(file_path, [:name, :filename])
-  end
-
   def find_words(number, file_path)
     words_array = read_file(file_path)
     words = words_array.map{|el| el[:text]}
