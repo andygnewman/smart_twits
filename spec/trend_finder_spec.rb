@@ -11,7 +11,7 @@ describe 'TrendFinder' do
       expect(trends.read_file('spec/test_data/test_trends.txt')).to be_an_instance_of(Array)
     end
 
-    xit 'can create an array of trendnames and filenames' do
+    it 'can create an array of trendnames and filenames' do
       expect(trends.find_trends('spec/test_data/test_trends.txt')).to include(["#WhatIsLoveIn4Words", "WhatIsLoveIn4Words"])
     end
 
